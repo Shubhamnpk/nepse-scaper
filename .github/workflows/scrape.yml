@@ -30,6 +30,7 @@ jobs:
 
     - name: Run Market Scraper
       run: |
+        mkdir -p data
         python scripts/nepse-scraper/scraper.py
     
     - name: Commit and push changes
@@ -37,5 +38,6 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add data/nepse_data.json
+        git pull --rebase
         git commit -m "Update Market Data: $(date)" || echo "No changes to commit"
         git push

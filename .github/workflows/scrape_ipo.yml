@@ -28,6 +28,7 @@ jobs:
 
     - name: Run IPO Scraper
       run: |
+        mkdir -p data
         python scripts/nepse-scraper/upcoming_ipo_scraper.py
 
     - name: Commit and push changes
@@ -35,5 +36,6 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add data/upcoming_ipo.json
+        git pull --rebase
         git commit -m "Update IPO Data: $(date)" || echo "No changes to commit"
         git push

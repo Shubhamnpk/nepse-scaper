@@ -121,29 +121,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
         ipos.forEach(ipo => {
             const card = document.createElement('div');
-            card.className = 'stock-card'; // Reuse stock card styling
-            card.style.borderLeft = '4px solid var(--accent-primary)';
+            card.className = 'ipo-card';
 
             card.innerHTML = `
-                <div class="card-header" style="margin-bottom: 1rem;">
-                    <div class="symbol-info" style="width: 100%;">
-                        <div class="symbol-name" style="font-size: 1.1rem; white-space: normal; line-height: 1.4;">${ipo.company}</div>
-                        <div class="detail-label" style="margin-top: 0.25rem;"><i class="fa-regular fa-calendar"></i> Announced: ${ipo.announcement_date}</div>
-                    </div>
-                </div>
-                <div class="card-details" style="grid-template-columns: 1fr 1fr;">
-                    <div class="detail-item">
+                <div class="ipo-company">${ipo.company}</div>
+                <div class="ipo-stats">
+                    <div class="ipo-stat-item">
                         <span class="detail-label">Units</span>
                         <span class="detail-val" style="color: var(--success)">${ipo.units}</span>
                     </div>
-                    <div class="detail-item">
-                        <span class="detail-label">Date Range</span>
+                    <div class="ipo-stat-item">
+                        <span class="detail-label">Opening Status</span>
                         <span class="detail-val" style="font-size: 0.9rem;">${ipo.date_range}</span>
                     </div>
                 </div>
-                <div style="margin-top: 1rem; text-align: right;">
-                    <a href="${ipo.url}" target="_blank" style="color: var(--accent-primary); text-decoration: none; font-size: 0.9rem;">View Details &rarr;</a>
+                <div class="detail-label" style="margin-top: auto;">
+                    <i class="fa-regular fa-calendar"></i> Announced: ${ipo.announcement_date}
                 </div>
+                <a href="${ipo.url}" target="_blank" class="ipo-view-details">
+                    View Details <i class="fa-solid fa-arrow-right-long"></i>
+                </a>
             `;
             ipoGrid.appendChild(card);
         });
