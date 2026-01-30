@@ -14,15 +14,18 @@ This folder contains a standalone scraper that you can move to a new GitHub repo
    - It will update `nepse_data.json` in your repository.
    - You can access this JSON file at: `https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/nepse_data.json`
 
+## Viewing the Dashboard:
+
+This repository includes a modern, responsive web dashboard to visualize the NEPSE data.
+
+1.  **Enable GitHub Pages**:
+    - Go to your repo settings on GitHub.
+    - Click on **Pages** in the left sidebar.
+    - Under **Build and deployment > Source**, select "Deploy from a branch".
+    - Select `main` branch and `/ (root)` folder.
+    - Click **Save**.
+2.  **Access your Dashboard**:
+    - Wait a minute for the deployment to finish.
+
+
 ## Connecting to MyWallet:
-
-Once your GitHub scraper is up and running, simply add your raw GitHub URL to the `APIS` array in:
-`mywallet-app/app/api/nepse/today/route.ts`
-
-```typescript
-const APIS = [
-    "YOUR_RAW_GITHUB_URL_HERE",
-    "https://nepseapi.onrender.com/api/todays_price",
-    // ...
-]
-```

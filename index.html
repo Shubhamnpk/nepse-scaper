@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEPSE Hub | Real-time Nepal Stock Exchange Insights</title>
+    <meta name="description" content="A modern and elegant dashboard for real-time NEPSE stock data, tracking live market trends and performance.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="hero-title">NEPSE Hub</h1>
+            <p class="hero-subtitle">Real-time insights into the Nepal Stock Exchange. Track performance, trends, and market movements with precision.</p>
+            
+            <div class="market-status">
+                <div class="status-item">
+                    <span class="status-dot"></span>
+                    <span id="update-time">Loading market data...</span>
+                </div>
+                <div class="status-item">
+                    <i class="fa-solid fa-chart-line"></i>
+                    <span id="total-scanned">0 Companies Tracked</span>
+                </div>
+            </div>
+        </header>
+
+        <section class="controls">
+            <div class="search-box">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" id="search-input" placeholder="Search by symbol or name...">
+            </div>
+            <div class="status-item">
+                <i class="fa-solid fa-filter"></i>
+                <span id="market-summary">Analyzing trends...</span>
+            </div>
+        </section>
+
+        <main class="stock-grid" id="stock-grid">
+            <!-- Stock cards will be injected here -->
+            <div class="loading-state">
+                <div class="spinner"></div>
+                <p>Fetching latest market prices...</p>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 NEPSE Hub. Powered by automated scraper and GitHub Actions.</p>
+            <p style="margin-top: 0.5rem; font-size: 0.8rem;">Data update interval: 30 minutes during market hours.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
