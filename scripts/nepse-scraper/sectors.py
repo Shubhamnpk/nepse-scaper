@@ -32,30 +32,44 @@ def get_sector_wise_codes():
             content_div = soup.find(id=target_id)
             
             if content_div:
-                # Find all company links inside
-                company_links = content_div.find_all('a', href=re.compile(r'CompanyDetail\.aspx\?symbol='))
+                # Find the table in the content div
+                table = content_div.find('table')
+                companies = []
                 
-                symbols = []
-                for link in company_links:
-                    # Extract symbol from href or text
-                    href = link['href']
-                    # href might be "CompanyDetail.aspx?symbol=ADBL"
-                    # extraction
-                    match = re.search(r'symbol=([a-zA-Z0-9]+)', href, re.IGNORECASE)
-                    if match:
-                        symbol = match.group(1)
-                        symbols.append(symbol)
-                    else:
-                        # Fallback to text
-                        symbols.append(link.get_text(strip=True))
-                
-                # Check if sector already exists (sometimes multiple toggles might point to same or duplicate names?)
-                # Usually distinct.
-                if sector_name in sectors:
-                    print(f"Warning: Duplicate sector name {sector_name}")
-                
-                sectors[sector_name] = symbols
-                print(f"Sector: {sector_name}, Count: {len(symbols)}")
+                if table:
+                    rows = table.find_all('tr')
+                    for row in rows:
+                        cols = row.find_all('td')
+                        if len(cols) >= 2:
+                            symbol_link = cols[0].find('a')
+                            symbol = symbol_link.get_text(strip=True) if symbol_link else cols[0].get_text(strip=True)
+                            
+                            # Company Name is usually in the second column
+                            name = cols[1].get_text(strip=True)
+                            # Clean up name (remove extra whitespace/newlines)
+                            name = " ".join(name.split())
+                            
+                            if symbol and name:
+                                companies.append({
+                                    "symbol": symbol,
+                                    "name": name
+                                })
+                else:
+                    # Fallback to the old method if table is missing for some reason
+                    company_links = content_div.find_all('a', href=re.compile(r'CompanyDetail\.aspx\?symbol='))
+                    for link in company_links:
+                        href = link['href']
+                        match = re.search(r'symbol=([a-zA-Z0-9.]+)', href, re.IGNORECASE)
+                        if match:
+                            symbol = match.group(1)
+                            companies.append({
+                                "symbol": symbol,
+                                "name": symbol # Fallback name to symbol
+                            })
+
+                if companies:
+                    sectors[sector_name] = companies
+                    print(f"Sector: {sector_name}, Count: {len(companies)}")
                 
         return sectors
 

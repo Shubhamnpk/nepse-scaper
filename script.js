@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const updateTimeEl = document.getElementById('update-time');
     const totalScannedEl = document.getElementById('total-scanned');
     const marketSummaryEl = document.getElementById('market-summary');
+    const stockModal = document.getElementById('stock-modal');
+    const closeModalBtn = document.getElementById('close-modal');
 
     // Custom Dropdown Logic
     const dropdownTrigger = document.getElementById('dropdown-trigger');
@@ -45,6 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let allStocks = [];
     let sectorMap = {};
+    let companyNameMap = {};
     let uniqueSectors = new Set();
 
     async function fetchStocks() {
@@ -78,10 +81,11 @@ document.addEventListener('DOMContentLoaded', () => {
             // Handle Sectors
             if (sectorsRes.ok) {
                 const sectors = await sectorsRes.json();
-                Object.entries(sectors).forEach(([sector, symbols]) => {
+                Object.entries(sectors).forEach(([sector, items]) => {
                     uniqueSectors.add(sector);
-                    symbols.forEach(symbol => {
-                        sectorMap[symbol] = sector;
+                    items.forEach(item => {
+                        sectorMap[item.symbol] = sector;
+                        companyNameMap[item.symbol] = item.name;
                     });
                 });
                 populateSectorDropdown();
@@ -246,6 +250,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             sectorStocks.forEach(stock => {
                 const isUp = stock.change >= 0;
+                const companyName = companyNameMap[stock.symbol] || '';
                 const card = document.createElement('div');
                 card.className = 'stock-card';
 
@@ -253,6 +258,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="card-header">
                         <div class="symbol-info">
                             <div class="symbol-name">${stock.symbol}</div>
+                            <div class="company-name-small">${companyName}</div>
                             <div class="detail-label">LTP</div>
                             <div class="ltp-value ${isUp ? 'up' : 'down'}">Rs. ${stock.ltp.toLocaleString()}</div>
                         </div>
@@ -284,6 +290,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
                     </div>
                 `;
+                card.addEventListener('click', () => showStockDetails(stock));
                 sectorGrid.appendChild(card);
             });
 
@@ -298,12 +305,70 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function applyFilters() {
         const term = searchInput.value.toUpperCase();
-        const filtered = allStocks.filter(stock =>
-            stock.symbol.toUpperCase().includes(term) ||
-            (stock.name && stock.name.toUpperCase().includes(term))
-        );
+        const filtered = allStocks.filter(stock => {
+            const name = companyNameMap[stock.symbol] || "";
+            return stock.symbol.toUpperCase().includes(term) ||
+                name.toUpperCase().includes(term) ||
+                (stock.name && stock.name.toUpperCase().includes(term));
+        });
         renderStocks(filtered);
     }
+
+    function showStockDetails(stock) {
+        const isUp = stock.change >= 0;
+        const companyName = companyNameMap[stock.symbol] || stock.name || 'Company Name Not Available';
+        const sector = sectorMap[stock.symbol] || 'Others';
+
+        document.getElementById('modal-symbol').textContent = stock.symbol;
+        document.getElementById('modal-company-name').textContent = companyName;
+        document.getElementById('modal-sector-badge').textContent = sector;
+
+        const ltpEl = document.getElementById('modal-ltp');
+        ltpEl.textContent = `Rs. ${stock.ltp.toLocaleString()}`;
+        ltpEl.className = `modal-ltp ${isUp ? 'up-text' : 'down-text'}`;
+
+        const changeEl = document.getElementById('modal-change');
+        changeEl.textContent = `${isUp ? '▲' : '▼'} ${Math.abs(stock.change).toFixed(2)} (${stock.percent_change.toFixed(2)}%)`;
+        changeEl.className = `modal-change ${isUp ? 'up-text' : 'down-text'}`;
+
+        document.getElementById('modal-prev-close').textContent = stock.previous_close.toLocaleString();
+        document.getElementById('modal-high').textContent = stock.high.toLocaleString();
+        document.getElementById('modal-low').textContent = stock.low.toLocaleString();
+        document.getElementById('modal-volume').textContent = Math.floor(stock.volume).toLocaleString();
+
+        const lastUpdated = new Date(stock.last_updated);
+        document.getElementById('modal-last-updated').textContent = lastUpdated.toLocaleString([], {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+        });
+
+        stockModal.classList.add('show');
+        document.body.style.overflow = 'hidden'; // Prevent scrolling
+    }
+
+    function closeModal() {
+        stockModal.classList.remove('show');
+        document.body.style.overflow = ''; // Restore scrolling
+    }
+
+    closeModalBtn.addEventListener('click', closeModal);
+
+    // Close on click outside
+    window.addEventListener('click', (e) => {
+        if (e.target === stockModal) {
+            closeModal();
+        }
+    });
+
+    // Close on Escape key
+    window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && stockModal.classList.contains('show')) {
+            closeModal();
+        }
+    });
 
     fetchStocks();
 });

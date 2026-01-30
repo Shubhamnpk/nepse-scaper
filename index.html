@@ -124,6 +124,48 @@
         </footer>
     </div>
 
+    <!-- Stock Detail Modal -->
+    <div id="stock-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button id="close-modal" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            <div class="modal-header">
+                <div class="modal-title-area">
+                    <h2 id="modal-symbol">SYMBOL</h2>
+                    <p id="modal-company-name">Company Full Name</p>
+                    <span id="modal-sector-badge" class="sector-badge">Sector</span>
+                </div>
+                <div class="modal-price-area">
+                    <div id="modal-ltp" class="modal-ltp">Rs. 0,000.00</div>
+                    <div id="modal-change" class="modal-change">▲ 0.00 (0.00%)</div>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="detail-grid">
+                    <div class="modal-detail-item">
+                        <span class="label">Previous Close</span>
+                        <span id="modal-prev-close" class="value">0.00</span>
+                    </div>
+                    <div class="modal-detail-item">
+                        <span class="label">Day High</span>
+                        <span id="modal-high" class="value">0.00</span>
+                    </div>
+                    <div class="modal-detail-item">
+                        <span class="label">Day Low</span>
+                        <span id="modal-low" class="value">0.00</span>
+                    </div>
+                    <div class="modal-detail-item">
+                        <span class="label">Volume</span>
+                        <span id="modal-volume" class="value">0.00</span>
+                    </div>
+                </div>
+
+                <div class="modal-footer-info">
+                    <p><i class="fa-solid fa-clock"></i> Last updated: <span id="modal-last-updated">-</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 
