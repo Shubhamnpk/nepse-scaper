@@ -54,12 +54,13 @@ To force a data update locally:
 cd scripts/nepse-scraper
 pip install -r requirements.txt
 python scraper.py
+python upcoming_ipo_scraper.py
 ```
 
 ## 🤝 Credits
 
 - **Developers**: [My Wallet Team] & [Yoguru Team] & @Shubhamnpk
-- **Data Source**: Data is scraped from [Merolagani](https://merolagani.com) for educational purposes.
+- **Data Source**: Data is scraped from [Merolagani](https://merolagani.com) & [sharesanser](https://sharesansar.com) for educational purposes.
 
 ## 📄 License
 

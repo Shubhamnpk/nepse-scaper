@@ -49,18 +49,35 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function fetchStocks() {
         try {
-            const [stocksRes, sectorsRes] = await Promise.all([
-                fetch('./nepse_data.json'),
-                fetch('./nepse_sector_wise_codes.json')
+            // Fetch statically from data/ folder or root as fallback
+            const [stocksRes, sectorsRes, ipoRes] = await Promise.all([
+                fetch('data/nepse_data.json'),
+                fetch('data/nepse_sector_wise_codes.json'),
+                fetch('data/upcoming_ipo.json')
             ]);
 
-            if (!stocksRes.ok) throw new Error('Failed to fetch stock data');
+            // Handle Stocks
+            if (stocksRes.ok) {
+                allStocks = await stocksRes.json();
+                renderStocks(allStocks);
+                updateMetadata(allStocks);
+            } else {
+                console.warn('Failed to fetch stock data, checking backup location...');
+                // Fallback attempt for root (in case structure differs in dev) without data/ prefix
+                // This is just a safety measure
+                const backupStocks = await fetch('nepse_data.json');
+                if (backupStocks.ok) {
+                    allStocks = await backupStocks.json();
+                    renderStocks(allStocks);
+                    updateMetadata(allStocks);
+                } else {
+                    throw new Error('Failed to fetch stock data');
+                }
+            }
 
-            allStocks = await stocksRes.json();
-
+            // Handle Sectors
             if (sectorsRes.ok) {
                 const sectors = await sectorsRes.json();
-                // Invert the map for easier lookup: symbol -> sector
                 Object.entries(sectors).forEach(([sector, symbols]) => {
                     uniqueSectors.add(sector);
                     symbols.forEach(symbol => {
@@ -70,17 +87,66 @@ document.addEventListener('DOMContentLoaded', () => {
                 populateSectorDropdown();
             }
 
-            renderStocks(allStocks);
-            updateMetadata(allStocks);
+            // Handle IPOs
+            if (ipoRes.ok) {
+                const ipos = await ipoRes.json();
+                renderIPOs(ipos);
+            } else {
+                // Fallback
+                const backupIpo = await fetch('upcoming_ipo.json');
+                if (backupIpo.ok) {
+                    renderIPOs(await backupIpo.json());
+                }
+            }
+
         } catch (error) {
             console.error('Error:', error);
             stockGrid.innerHTML = `
                 <div class="status-item" style="color: var(--danger); grid-column: 1/-1;">
                     <i class="fa-solid fa-circle-exclamation"></i>
-                    Failed to load market data. Please try again later.
+                    Failed to load market data.
                 </div>
             `;
         }
+    }
+
+    function renderIPOs(ipos) {
+        const ipoSection = document.getElementById('ipo-section');
+        const ipoGrid = document.getElementById('ipo-grid');
+
+        if (!ipos || ipos.length === 0) return;
+
+        ipoSection.style.display = 'block';
+        ipoGrid.innerHTML = '';
+
+        ipos.forEach(ipo => {
+            const card = document.createElement('div');
+            card.className = 'stock-card'; // Reuse stock card styling
+            card.style.borderLeft = '4px solid var(--accent-primary)';
+
+            card.innerHTML = `
+                <div class="card-header" style="margin-bottom: 1rem;">
+                    <div class="symbol-info" style="width: 100%;">
+                        <div class="symbol-name" style="font-size: 1.1rem; white-space: normal; line-height: 1.4;">${ipo.company}</div>
+                        <div class="detail-label" style="margin-top: 0.25rem;"><i class="fa-regular fa-calendar"></i> Announced: ${ipo.announcement_date}</div>
+                    </div>
+                </div>
+                <div class="card-details" style="grid-template-columns: 1fr 1fr;">
+                    <div class="detail-item">
+                        <span class="detail-label">Units</span>
+                        <span class="detail-val" style="color: var(--success)">${ipo.units}</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Date Range</span>
+                        <span class="detail-val" style="font-size: 0.9rem;">${ipo.date_range}</span>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem; text-align: right;">
+                    <a href="${ipo.url}" target="_blank" style="color: var(--accent-primary); text-decoration: none; font-size: 0.9rem;">View Details &rarr;</a>
+                </div>
+            `;
+            ipoGrid.appendChild(card);
+        });
     }
 
     function populateSectorDropdown() {

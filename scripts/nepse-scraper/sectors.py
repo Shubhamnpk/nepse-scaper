@@ -66,7 +66,8 @@ def get_sector_wise_codes():
 if __name__ == "__main__":
     data = get_sector_wise_codes()
     if data:
-        output_file = "../../nepse_sector_wise_codes.json"
+        # Assuming script runs from root or adjusts path
+        output_file = "data/nepse_sector_wise_codes.json"
         with open(output_file, "w") as f:
             json.dump(data, f, indent=4)
         print(f"Successfully saved sector-wise codes to {output_file}")

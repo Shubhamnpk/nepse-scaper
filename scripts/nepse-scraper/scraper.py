@@ -66,9 +66,9 @@ def scrape_nepse():
 
 def save_data(data):
     if data:
-        with open('nepse_data.json', 'w') as f:
+        with open('data/nepse_data.json', 'w') as f:
             json.dump(data, f, indent=4)
-        print(f"Successfully saved {len(data)} items to nepse_data.json")
+        print(f"Successfully saved {len(data)} items to data/nepse_data.json")
     else:
         print("No data to save")
 
