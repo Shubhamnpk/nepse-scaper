@@ -1,31 +1,66 @@
-# NEPSE Free Scraper (GitHub Actions)
+# YONEPSE - Real-time Stock Dashboard
 
-This folder contains a standalone scraper that you can move to a new GitHub repository to host your own NEPSE price API for free.
+![YONEPSE](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-## How to use:
+A modern, elegant, and responsive dashboard for tracking live stock prices from the Nepal Stock Exchange (NEPSE). This project uses GitHub Actions to automatically scrape data and updates a beautiful static site.
 
-1. **Create a Private Repository**: Create a new repository on GitHub (e.g., `my-nepse-api`).
-2. **Upload these files**:
-   - Move `scraper.py` and `requirements.txt` to a folder named `scripts/nepse-scraper/` in your new repo.
-   - Move the `.github` folder to the root of your new repo.
-3. **Enable Actions**: Go to your repo settings on GitHub, under **Actions > General**, ensure "Allow all actions and reusable workflows" is selected and "Read and write permissions" are enabled under "Workflow permissions".
-4. **Result**: 
-   - Every 30 minutes during Nepal market hours (Sun-Thu, 11 AM - 3 PM), GitHub will automatically run the script.
-   - It will update `nepse_data.json` in your repository.
-   - You can access this JSON file at: `https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/nepse_data.json`
+---
 
-## Viewing the Dashboard:
+## 🚀 Features
 
-This repository includes a modern, responsive web dashboard to visualize the NEPSE data.
+- **Live Market Data**: Automatically updated every 30 minutes during market hours.
+- **Modern UI**: Glassmorphism design, dark mode, and responsive layout.
+- **Sector Filtering**: Filter stocks by sectors (Hydro, Banking, etc.) using a custom dropdown.
+- **Instant Search**: Real-time search by stock symbol or company name.
+- **Automated Scraping**: Zero-maintenance data updates via GitHub Actions.
 
-1.  **Enable GitHub Pages**:
-    - Go to your repo settings on GitHub.
-    - Click on **Pages** in the left sidebar.
-    - Under **Build and deployment > Source**, select "Deploy from a branch".
-    - Select `main` branch and `/ (root)` folder.
-    - Click **Save**.
-2.  **Access your Dashboard**:
-    - Wait a minute for the deployment to finish.
+## 🛠️ Tech Stack
 
+- **Frontend**: HTML5, Vanilla CSS (Glassmorphism), Vanilla JavaScript.
+- **Backend/Scraper**: Python (BeautifulSoup, Requests).
+- **Automation**: GitHub Actions (Scheduled Cron Jobs).
+- **Data Source**: [Merolagani](https://merolagani.com).
 
-## Connecting to MyWallet:
+## 📦 Installation & Usage
+
+### 1. Fork & Setup
+1. Fork this repository.
+2. Enable **GitHub Actions** in the 'Actions' tab.
+3. Enable **GitHub Pages** from Settings > Pages (Deploy from `main` branch).
+
+### 2. Run Locally
+To view the dashboard on your local machine:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/nepse-scraper.git
+   cd nepse-scraper
+   ```
+
+2. Start the local server (Windows):
+   Double-click the **`start_server.bat`** file.
+   
+   *Or run manually via terminal:*
+   ```bash
+   python -m http.server 8000
+   ```
+   
+3. Open `http://localhost:8000` in your browser.
+
+### 3. Updating Data Manually
+To force a data update locally:
+```bash
+cd scripts/nepse-scraper
+pip install -r requirements.txt
+python scraper.py
+```
+
+## 🤝 Credits
+
+- **Developers**: [My Wallet Team] & [Yoguru Team] & @Shubhamnpk
+- **Data Source**: Data is scraped from [Merolagani](https://merolagani.com) for educational purposes.
+
+## 📄 License
+
+This project is open-source and available under the MIT License.

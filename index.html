@@ -1,24 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NEPSE Hub | Real-time Nepal Stock Exchange Insights</title>
-    <meta name="description" content="A modern and elegant dashboard for real-time NEPSE stock data, tracking live market trends and performance.">
+    <title>YONEPSE | Real-time Nepal Stock Exchange Insights</title>
+    <meta name="description"
+        content="A modern and elegant dashboard for real-time NEPSE stock data, tracking live market trends and performance.">
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.png" type="image/png">
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div class="container">
         <header>
-            <h1 class="hero-title">NEPSE Hub</h1>
-            <p class="hero-subtitle">Real-time insights into the Nepal Stock Exchange. Track performance, trends, and market movements with precision.</p>
-            
+            <h1 class="hero-title">YONEPSE</h1>
+            <p class="hero-subtitle">Real-time insights into the Nepal Stock Exchange. Track performance, trends, and
+                market movements with precision.</p>
+
             <div class="market-status">
                 <div class="status-item">
                     <span class="status-dot"></span>
@@ -32,6 +42,17 @@
         </header>
 
         <section class="controls">
+            <div class="filter-box custom-dropdown">
+                <div class="dropdown-trigger" id="dropdown-trigger">
+                    <i class="fa-solid fa-layer-group"></i>
+                    <span id="selected-sector">All Sectors</span>
+                    <i class="fa-solid fa-chevron-down arrow"></i>
+                </div>
+                <div class="dropdown-options" id="dropdown-options">
+                    <div class="option-item" data-value="all">All Sectors</div>
+                    <!-- Options populated by JS -->
+                </div>
+            </div>
             <div class="search-box">
                 <i class="fa-solid fa-magnifying-glass"></i>
                 <input type="text" id="search-input" placeholder="Search by symbol or name...">
@@ -42,7 +63,7 @@
             </div>
         </section>
 
-        <main class="stock-grid" id="stock-grid">
+        <main class="stock-container" id="stock-grid">
             <!-- Stock cards will be injected here -->
             <div class="loading-state">
                 <div class="spinner"></div>
@@ -50,12 +71,49 @@
             </div>
         </main>
 
-        <footer>
-            <p>&copy; 2026 NEPSE Hub. Powered by automated scraper and GitHub Actions.</p>
-            <p style="margin-top: 0.5rem; font-size: 0.8rem;">Data update interval: 30 minutes during market hours.</p>
+        <footer class="site-footer">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <h3>YONEPSE</h3>
+                    <p>Empowering investors with real-time, comprehensive market data.</p>
+                </div>
+
+                <div class="footer-links">
+                    <a href="https://github.com/Shubhamnpk/nepse-scaper" target="_blank">
+                        <i class="fa-brands fa-github"></i> Open Source
+                    </a>
+                    <a href="https://merolagani.com/CompanyList.aspx" target="_blank">
+                        <i class="fa-solid fa-database"></i> Merolagani
+                    </a>
+                    <a href="https://www.sharesansar.com/" target="_blank">
+                        <i class="fa-solid fa-chart-pie"></i> ShareSansar
+                    </a>
+                </div>
+
+                <div class="footer-credits">
+                    <div class="credit-row">
+                        Developed with <span style="color: #ef4444;">❤</span> by
+                        <span class="credit-highlight">My Wallet Team</span> &
+                        <span class="credit-highlight">Yoguru Team</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2026 YONEPSE. All rights reserved.</p>
+                <div class="source-credit">
+                    Data sourced from <a href="https://merolagani.com" target="_blank">Merolagani</a> & <a
+                        href="https://www.sharesansar.com/" target="_blank">ShareSansar</a>.
+                    Not affiliated with NEPSE, Merolagani or ShareSansar.
+                </div>
+                <p style="margin-top: 0.5rem; opacity: 0.6;">
+                    Automated updates: Every 30 minutes (Sun-Thu, 11 AM - 3 PM).
+                </p>
+            </div>
         </footer>
     </div>
 
     <script src="script.js"></script>
 </body>
+
 </html>
