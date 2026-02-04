@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+dist/
+nepse_scraper.egg-info/
+sample.py
+*.ipynb
+.vscode

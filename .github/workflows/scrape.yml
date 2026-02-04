@@ -5,10 +5,10 @@ on:
     branches:
       - main
   schedule:
-    # Run every 30 minutes from 11:00 AM to 4:00 PM NPT (UTC+5:45)
-    # 11:00 AM NPT is 05:15 UTC
+    # Run every 30 minutes from 10:00 AM to 4:00 PM NPT (UTC+5:45)
+    # 10:00 AM NPT is 04:15 UTC
     # 04:00 PM NPT is 10:15 UTC
-    - cron: '*/30 5-10 * * 1-5'
+    - cron: '*/30 4-10 * * 0-5'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -31,13 +31,13 @@ jobs:
     - name: Run Market Scraper
       run: |
         mkdir -p data
-        python scripts/nepse-scraper/scraper.py
+        python scripts/nepse-scraper/official_scraper.py
     
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git pull --rebase --autostash
-        git add data/nepse_data.json
-        git commit -m "Update Market Data: $(date)" || echo "No changes to commit"
+        git add data/*.json
+        git commit -m "Update Official Market Data: $(date)" || echo "No changes to commit"
         git push

@@ -99,12 +99,59 @@ def scrape_upcoming_ipo():
         return None
 
 if __name__ == "__main__":
-    data = scrape_upcoming_ipo()
-    if data:
-        # Save to data folder
-        output_file = "data/upcoming_ipo.json" 
+    from datetime import timedelta
+    import os
+
+    new_data = scrape_upcoming_ipo()
+    output_file = "data/upcoming_ipo.json" 
+    os.makedirs("data", exist_ok=True)
+
+    # 1. Load existing data
+    existing_items = {}
+    try:
+        if os.path.exists(output_file):
+            with open(output_file, "r", encoding='utf-8') as f:
+                old_data = json.load(f)
+                # Map by URL for easy lookup
+                existing_items = {item.get('url'): item for item in old_data if item.get('url')}
+    except Exception as e:
+        print(f"Error loading existing data: {e}")
+
+    # 2. Add/Update with new data
+    if new_data:
+        for item in new_data:
+            url = item.get('url')
+            if url:
+                # Update existing or add new
+                existing_items[url] = item
+
+    # 3. Filter items: Keep only those seen/scraped within the last 10 days
+    now = datetime.now()
+    cutoff_date = now - timedelta(days=10)
+    
+    final_data = []
+    for item in existing_items.values():
+        try:
+            scraped_at = item.get('scraped_at')
+            if scraped_at:
+                item_date = datetime.fromisoformat(scraped_at)
+                if item_date > cutoff_date:
+                    final_data.append(item)
+            else:
+                # If no timestamp, keep it for now but add one
+                item['scraped_at'] = now.isoformat()
+                final_data.append(item)
+        except (ValueError, TypeError):
+            # If date parsing fails, keep it
+            final_data.append(item)
+
+    # 4. Save results
+    if final_data:
+        # Sort by scraped_at descending so newest are first
+        final_data.sort(key=lambda x: x.get('scraped_at', ''), reverse=True)
+        
         with open(output_file, "w", encoding='utf-8') as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"Successfully saved {len(data)} items to {output_file}")
+            json.dump(final_data, f, indent=4, ensure_ascii=False)
+        print(f"Successfully processed {len(final_data)} items (New: {len(new_data) if new_data else 0}). Saved to {output_file}")
     else:
-        print("No data found or error occurred.")
+        print("No data to save.")

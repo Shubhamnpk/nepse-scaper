@@ -1,0 +1,21 @@
+[project]
+name = "nepse-scraper"
+version = "1.0.0"
+description = ""
+authors = [
+    {name = "polymorphisma",email = "shrawansunar.6@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+requests = ">=2.25.1"
+wasmtime = ">=18.0.0"
+certifi = ">=2021.5.30"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

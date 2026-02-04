@@ -1,0 +1,20 @@
+{
+    "supplyList": [
+        {
+            "totalQuantity": 50,
+            "totalOrder": 1,
+            "securityId": 9220,
+            "symbol": "KBLD90",
+            "securityName": "10% KBL Debenture 2090"
+        }
+    ],
+    "demandList": [
+        {
+            "totalQuantity": 16,
+            "totalOrder": 1,
+            "securityId": 355,
+            "symbol": "GFCLPO",
+            "securityName": "Goodwill Finance Limited Promoter"
+        }
+    ]
+}

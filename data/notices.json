@@ -1,0 +1,267 @@
+{
+    "general": [
+        {
+            "id": 1214,
+            "noticeHeading": "\u0915\u093e\u0930\u094b\u092c\u093e\u0930 \u0938\u0926\u0938\u094d\u092f\u0939\u0930\u0941\u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u00a0\u0926\u0932\u093e\u0932 \u0915\u092e\u094d\u092a\u0928\u0940(Broker Company) \u0930 \u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u0935\u094d\u092f\u093e\u092a\u093e\u0930\u0940(Stock Dealor) \u0915\u094b \u0906.\u0935. \u0968\u0966\u096e\u0968/\u096e\u0969 \u0915\u093e \u0932\u093e\u0917\u093f \u0938\u0926\u0938\u094d\u092f\u0924\u093e \u0928\u0935\u0940\u0915\u0930\u0923 \u0917\u0930\u093f\u090f\u0915\u094b \u092c\u093e\u0930\u0947 \u0964 ",
+            "noticeBody": "\u0915\u093e\u0930\u094b\u092c\u093e\u0930 \u0938\u0926\u0938\u094d\u092f\u0939\u0930\u0941\u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u00a0\u0926\u0932\u093e\u0932 \u0915\u092e\u094d\u092a\u0928\u0940(Broker Company) \u0930 \u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u0935\u094d\u092f\u093e\u092a\u093e\u0930\u0940(Stock Dealor) \u0915\u094b \u0906.\u0935. \u0968\u0966\u096e\u0968/\u096e\u0969 \u0915\u093e \u0932\u093e\u0917\u093f \u0938\u0926\u0938\u094d\u092f\u0924\u093e \u0928\u0935\u0940\u0915\u0930\u0923 \u0917\u0930\u093f\u090f\u0915\u094b \u092c\u093e\u0930\u0947 \u0964 ",
+            "noticeFilePath": "30dca884802c4ad56333fb455619c8a7.pdf",
+            "noticeExpiryDate": "2026-11-28",
+            "feature": true,
+            "noticeTypeId": {
+                "id": 1,
+                "activeStatus": "A",
+                "noticeType": "Company Notice"
+            },
+            "publishToWebsite": true,
+            "source": null,
+            "modifiedDate": null,
+            "modifiedBy": "prabhakar_k"
+        }
+    ],
+    "company": [
+        {
+            "id": 44459,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29562,
+                    "activeStatus": "A",
+                    "modifiedBy": "ushl_user",
+                    "modifiedDate": "2026-02-02T16:48:19.937",
+                    "application": 44459,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-02",
+                    "filePath": "ushl_user/2026-02-02/Director Resigned Letter To Nepse_1770030195510.pdf",
+                    "encryptedId": "4b920ce8ae2c239095b71491b25e1256c84b3a9add6c6be732275f8619bc7cb0103ef9744e00101473fb22ee74028c58d3642be57a12e0c8f58d111fd3d7e66e"
+                }
+            ],
+            "newsHeadline": "Director Resignation [USHL] ",
+            "newsBody": "",
+            "addedDate": "2026-02-02T16:48:19.937",
+            "newsSource": "Board Meeting Decision",
+            "modifiedDate": "2026-02-02T16:49:08.753",
+            "approvedDate": null
+        },
+        {
+            "id": 44450,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29552,
+                    "activeStatus": "A",
+                    "modifiedBy": "glh_user",
+                    "modifiedDate": "2026-02-02T15:12:02.93",
+                    "application": 44450,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-02",
+                    "filePath": "glh_user/2026-02-02/Appointment of Auditor_1770024416905.pdf",
+                    "encryptedId": "a5f3862a60e4ceb5ddd8c1ed861b6dafcfba9c8a71827085bde309dd2d2005c35460514bd488b8e0e614883ff84f378e9fa5770e0343f00c046fdaecabbe2fa3"
+                }
+            ],
+            "newsHeadline": "Appointment of Auditor [GLH] ",
+            "newsBody": "<p><span style=\"color: rgb(34, 34, 34); font-family: &quot;times new roman&quot;, serif; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Appointment of the Statutory Auditor for FY 2082-2083. </span></p>",
+            "addedDate": "2026-02-02T15:12:02.927",
+            "newsSource": "Website",
+            "modifiedDate": "2026-02-02T15:12:38.39",
+            "approvedDate": null
+        },
+        {
+            "id": 44449,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29551,
+                    "activeStatus": "A",
+                    "modifiedBy": "glh_user",
+                    "modifiedDate": "2026-02-02T15:10:56.847",
+                    "application": 44449,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-02",
+                    "filePath": "glh_user/2026-02-02/AGM Completion Letter_1770024287306.pdf",
+                    "encryptedId": "9899686e0002c4dfa91209e00252735df6d94ca4d945499b63ac46f4a4e44153a6313db8f17728ef104063072266625da45b6fd20a53c6a75c175ab25692499c"
+                }
+            ],
+            "newsHeadline": "Completion of 16th AGM [GLH] ",
+            "newsBody": "<p>Successful completion of 16th AGM</p>",
+            "addedDate": "2026-02-02T15:10:56.843",
+            "newsSource": "Website",
+            "modifiedDate": "2026-02-02T15:12:20.92",
+            "approvedDate": null
+        },
+        {
+            "id": 44446,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29547,
+                    "activeStatus": "A",
+                    "modifiedBy": "ntc_user",
+                    "modifiedDate": "2026-02-02T14:45:16.643",
+                    "application": 44446,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-02",
+                    "filePath": "ntc_user/2026-02-02/BOD Chairperson Appointment_Laxmi Kumari Basnet_2082-10-19_1770022787878.pdf",
+                    "encryptedId": "538075a0a4b51a28209fc116395d0d4295a7523a7d19b53f2acf831041c0631f5a9b511ddc835cc5bdee894688afd3fcec4f57f443c86b8f9dc1f648641fb46b"
+                }
+            ],
+            "newsHeadline": "Appointment of Chairperson of BOD [NTC] ",
+            "newsBody": "",
+            "addedDate": "2026-02-02T14:45:16.637",
+            "newsSource": "Council of Ministers and NT BOD",
+            "modifiedDate": "2026-02-02T14:52:41.533",
+            "approvedDate": null
+        },
+        {
+            "id": 44445,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29546,
+                    "activeStatus": "A",
+                    "modifiedBy": "corbl_user",
+                    "modifiedDate": "2026-02-02T11:50:40.047",
+                    "application": 44445,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-02",
+                    "filePath": "corbl_user/2026-02-02/ANNUAL GENERAL METTING - Copy_1770012335797.pdf",
+                    "encryptedId": "0a89e8cdd5c5401043c151ddedaa5c17c684e5196b5211c5a103692916137401f7a66100fa5eddf2d6d773e79cc24a80575c52c40a329bb0fa13528953edce81"
+                },
+                {
+                    "id": 29545,
+                    "activeStatus": "A",
+                    "modifiedBy": "corbl_user",
+                    "modifiedDate": "2026-02-02T11:50:40.047",
+                    "application": 44445,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-02",
+                    "filePath": "corbl_user/2026-02-02/AGM Notice_1770012202857.jpeg",
+                    "encryptedId": "92cc27e4ea379893b373f17300baf2bf231e0a173ccdc54e55e8e42a225a9f610bf306ee8326d1481c31f2dbf609fe7bd39031788cf615a07f9b5fc4828567f4"
+                }
+            ],
+            "newsHeadline": "18th AGM [CORBL] ",
+            "newsBody": "Annual General Meeting of CORBL\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 2/22/2026\nAGM No: 18\nBook Close Date: 2/11/2026",
+            "addedDate": "2026-02-02T11:50:40.037",
+            "newsSource": "Notice Published in Karobar Daily ",
+            "modifiedDate": "2026-02-02T11:55:30.407",
+            "approvedDate": null
+        },
+        {
+            "id": 44439,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29539,
+                    "activeStatus": "A",
+                    "modifiedBy": "unlb_user",
+                    "modifiedDate": "2026-02-02T09:48:41.657",
+                    "application": 44439,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-02",
+                    "filePath": "Unique_Nepal_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-02/Book closed Information Letter_1770005007395.pdf",
+                    "encryptedId": "3ae38f8e6ad4910558a204889d36d62be9b54c964611fe889ad84759c696ebfd5121ade5391034a04a1a38f3e04a6aa49e375874689af4a1b79fbd7d7b18a92f"
+                }
+            ],
+            "newsHeadline": "Book Closed Information [UNLB] ",
+            "newsBody": "Book Close of UNLB\nBook Close Date : 2/18/2026",
+            "addedDate": "2026-02-02T09:48:41.633",
+            "newsSource": "UNLBSL",
+            "modifiedDate": "2026-02-02T10:02:31.467",
+            "approvedDate": null
+        },
+        {
+            "id": 44314,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29391,
+                    "activeStatus": "A",
+                    "modifiedBy": "swastik_user",
+                    "modifiedDate": "2026-01-23T11:18:54.483",
+                    "application": 44314,
+                    "documentType": 54,
+                    "submittedDate": "2026-01-23",
+                    "filePath": "Swastik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-01-23/Lock in letter_1769146417762.pdf",
+                    "encryptedId": "88f868465341f4e8f17eacdefe291caf4408c632699b3632a296d14cf23cb0e91aa40eb45d8e5f20dc25352ec131f1c0c890d68ab09ea9c26afb7e724a248497"
+                }
+            ],
+            "newsHeadline": "Lock In Period Release Notice [SWASTIK] ",
+            "newsBody": "<p>In accordance with the directives received from your esteemed office regarding the above subject, this Swastik Laghubitta Bittiya Sanstha Limited issued and opened for sale shares to the general public through a public offering from <strong>30 Shrawan 2082 to 03 Bhadra 2082</strong>, and the allotment was completed on <strong>12 Bhadra 2082</strong>.</p><p>Out of the total <strong>231,000 ordinary shares</strong> allotted through the public issue, <strong>5 percent, i.e., 11,550 ordinary shares</strong>, were issued and allotted to <strong>Collective Investment Schemes</strong>. As the <strong>lock-in period of the said shares</strong>, which expires on <strong>11 Falgun 2082 (23 February 2026)</strong>, is coming to an end, information regarding this matter has been published for the awareness of <strong>all regulatory bodies, shareholders, and concerned stakeholders</strong> through a notice published in the <strong>Nagarik National Daily newspaper dated 09 Magh 2082</strong>.</p><p>This is respectfully submitted for your kind information.</p>",
+            "addedDate": "2026-01-23T11:18:54.48",
+            "newsSource": "Internal ",
+            "modifiedDate": "2026-01-23T11:34:39.243",
+            "approvedDate": null
+        },
+        {
+            "id": 44270,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29336,
+                    "activeStatus": "A",
+                    "modifiedBy": "mabel_user",
+                    "modifiedDate": "2026-01-20T16:33:50.64",
+                    "application": 44270,
+                    "documentType": 54,
+                    "submittedDate": "2026-01-20",
+                    "filePath": "Mabilung_Energy_Limited/Company News/2026-01-20/MABEL (Mutual Fund Lockin Release Letter)_1768906014989.pdf",
+                    "encryptedId": "4dc7b7fba52ff88adc27d0ad9b5e5733cda5dc6c0f90a72337345f9975654f8786b3c4345fce4c5f8b9c9c8987397739c378784f7f84eaebfcefc805992f01bb"
+                }
+            ],
+            "newsHeadline": "Mutual Fund Lock In Release Date [MABEL] ",
+            "newsBody": "<link rel=\"File-List\" href=\"file:///C:\\Users\\RAJESH~1.THA\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_filelist.xml\"><link rel=\"themeData\" href=\"file:///C:\\Users\\RAJESH~1.THA\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_themedata.thmx\"><link rel=\"colorSchemeMapping\" href=\"file:///C:\\Users\\RAJESH~1.THA\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_colorschememapping.xml\"><style>\n<!--\n /* Font Definitions */\n @font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;\n\tmso-font-charset:0;\n\tmso-generic-font-family:roman;\n\tmso-font-pitch:variable;\n\tmso-font-signature:-536869121 1107305727 33554432 0 415 0;}\n@font-face\n\t{font-family:Calibri;\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;\n\tmso-font-charset:0;\n\tmso-generic-font-family:swiss;\n\tmso-font-pitch:variable;\n\tmso-font-signature:-469750017 -1040178053 9 0 511 0;}\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{mso-style-unhide:no;\n\tmso-style-qformat:yes;\n\tmso-style-parent:\"\";\n\tmargin-top:0in;\n\tmargin-right:0in;\n\tmargin-bottom:8.0pt;\n\tmargin-left:0in;\n\tline-height:107%;\n\tmso-pagination:widow-orphan;\n\tfont-size:12.0pt;\n\tmso-bidi-font-size:11.0pt;\n\tfont-family:\"Times New Roman\",serif;\n\tmso-fareast-font-family:Calibri;\n\tmso-fareast-theme-font:minor-latin;}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tmso-default-props:yes;\n\tfont-size:12.0pt;\n\tmso-ansi-font-size:12.0pt;\n\tmso-fareast-font-family:Calibri;\n\tmso-fareast-theme-font:minor-latin;}\n.MsoPapDefault\n\t{mso-style-type:export-only;\n\tmargin-bottom:8.0pt;\n\tline-height:107%;}\n@page WordSection1\n\t{size:8.5in 11.0in;\n\tmargin:1.0in 1.0in 1.0in 1.0in;\n\tmso-header-margin:.5in;\n\tmso-footer-margin:.5in;\n\tmso-paper-source:0;}\ndiv.WordSection1\n\t{page:WordSection1;}\n-->\n</style><p class=\"MsoNormal\">MABEL (Mutual Fund Lock In Release Letter)</p>",
+            "addedDate": "2026-01-20T16:33:50.637",
+            "newsSource": "Mabilung Energy Ltd. (MABEL)",
+            "modifiedDate": "2026-01-21T10:10:22.93",
+            "approvedDate": null
+        },
+        {
+            "id": 44087,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29121,
+                    "activeStatus": "A",
+                    "modifiedBy": "dhel_user",
+                    "modifiedDate": "2026-01-12T17:21:47.447",
+                    "application": 44087,
+                    "documentType": 54,
+                    "submittedDate": "2026-01-12",
+                    "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Notice_1768217752596.pdf",
+                    "encryptedId": "c0ecbeeb3407a31646b32ca4e277df2060e2cb0c8f70b51c2c40b6a5a8c9f79ce3211c14dda02afefb36b8de81a00f391a174d2eeb36cc3a854f782326cb88af"
+                },
+                {
+                    "id": 29120,
+                    "activeStatus": "A",
+                    "modifiedBy": "dhel_user",
+                    "modifiedDate": "2026-01-12T17:21:47.447",
+                    "application": 44087,
+                    "documentType": 54,
+                    "submittedDate": "2026-01-12",
+                    "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Lock In  Period end Notice_1768217742460.pdf",
+                    "encryptedId": "2bbc7636ad4055cdd6f47857d202dd16c38236a75a9cb83765c4909d1a99bfdd7694171990cc77931ac16ee4f936d8abff05df2bf7c32a551b9351fb00bb31de"
+                }
+            ],
+            "newsHeadline": "Lock in Period end for Mutual Fund Share [DHEL] ",
+            "newsBody": "",
+            "addedDate": "2026-01-12T17:21:47.443",
+            "newsSource": "As per Rules",
+            "modifiedDate": "2026-01-13T10:19:56.47",
+            "approvedDate": null
+        },
+        {
+            "id": 44048,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29076,
+                    "activeStatus": "A",
+                    "modifiedBy": "spl_user",
+                    "modifiedDate": "2026-01-08T15:13:59.583",
+                    "application": 44048,
+                    "documentType": 54,
+                    "submittedDate": "2026-01-08",
+                    "filePath": "Shuvam_Power_Limited/Company News/2026-01-08/Request letter about lock in period of SPL_1767864529021.pdf",
+                    "encryptedId": "2dbae74b260ee17b5a0ea722e91ee86d159f45d2d1b5d16fff2f6325dae7f6a42c8012ef9c53af5f4f56a88bb2a5e08ad5e7bc5027908e478388d376eb8de20b"
+                }
+            ],
+            "newsHeadline": "\u0932\u0915\u2013\u0907\u0947\u0928(Lock-in preiod) \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924 \u0939\u0941\u0928\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e [SPL] ",
+            "newsBody": "<p>\u0932\u0915\u2013\u0907\u0947\u0928(Lock-in preiod) \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924 \u0939\u0941\u0928\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e</p>",
+            "addedDate": "2026-01-08T15:13:59.58",
+            "newsSource": "\u0932\u0915\u2013\u0907\u0928 \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924 \u0939\u0941\u0928\u0947 \u092c\u093e\u0930\u0947",
+            "modifiedDate": "2026-01-08T15:24:19.867",
+            "approvedDate": null
+        }
+    ],
+    "exchange": [],
+    "last_updated": "2026-02-03T01:14:31.362530"
+}
