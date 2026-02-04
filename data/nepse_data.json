@@ -7,85 +7,85 @@
         "percent_change": 0.74,
         "high": 961.8,
         "low": 944.1,
-        "volume": 173.0,
-        "last_updated": "2026-02-04T07:04:29.585031"
+        "volume": 237.0,
+        "last_updated": "2026-02-04T08:03:06.008955"
     },
     {
         "symbol": "ADBL",
-        "ltp": 297.9,
+        "ltp": 296.1,
         "previous_close": 298.0,
-        "change": -0.1,
-        "percent_change": -0.03,
+        "change": -1.9,
+        "percent_change": -0.64,
         "high": 299.0,
         "low": 293.0,
-        "volume": 4597.0,
-        "last_updated": "2026-02-04T07:04:29.585092"
+        "volume": 6683.0,
+        "last_updated": "2026-02-04T08:03:06.009015"
     },
     {
         "symbol": "AHL",
-        "ltp": 552.0,
+        "ltp": 562.0,
         "previous_close": 552.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": 10.0,
+        "percent_change": 1.81,
         "high": 585.6,
         "low": 550.0,
-        "volume": 2336.0,
-        "last_updated": "2026-02-04T07:04:29.585147"
+        "volume": 4019.0,
+        "last_updated": "2026-02-04T08:03:06.009058"
     },
     {
         "symbol": "AHPC",
-        "ltp": 265.0,
+        "ltp": 264.0,
         "previous_close": 264.0,
-        "change": 1.0,
-        "percent_change": 0.38,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 267.9,
         "low": 264.0,
-        "volume": 23040.0,
-        "last_updated": "2026-02-04T07:04:29.585192"
+        "volume": 29859.0,
+        "last_updated": "2026-02-04T08:03:06.009112"
     },
     {
         "symbol": "AKJCL",
-        "ltp": 338.8,
+        "ltp": 344.0,
         "previous_close": 322.0,
-        "change": 16.8,
-        "percent_change": 5.22,
-        "high": 343.0,
+        "change": 22.0,
+        "percent_change": 6.83,
+        "high": 344.0,
         "low": 317.0,
-        "volume": 1061859.0,
-        "last_updated": "2026-02-04T07:04:29.585234"
+        "volume": 1489800.0,
+        "last_updated": "2026-02-04T08:03:06.009152"
     },
     {
         "symbol": "AKPL",
-        "ltp": 263.5,
+        "ltp": 263.0,
         "previous_close": 265.0,
-        "change": -1.5,
-        "percent_change": -0.57,
+        "change": -2.0,
+        "percent_change": -0.75,
         "high": 270.0,
-        "low": 263.5,
-        "volume": 49675.0,
-        "last_updated": "2026-02-04T07:04:29.585276"
+        "low": 262.6,
+        "volume": 79015.0,
+        "last_updated": "2026-02-04T08:03:06.009195"
     },
     {
         "symbol": "ALBSL",
-        "ltp": 1166.0,
+        "ltp": 1163.0,
         "previous_close": 1135.0,
-        "change": 31.0,
-        "percent_change": 2.73,
+        "change": 28.0,
+        "percent_change": 2.47,
         "high": 1176.0,
         "low": 1112.3,
-        "volume": 13125.0,
-        "last_updated": "2026-02-04T07:04:29.585318"
+        "volume": 15491.0,
+        "last_updated": "2026-02-04T08:03:06.009236"
     },
     {
         "symbol": "ALICL",
-        "ltp": 476.1,
+        "ltp": 476.0,
         "previous_close": 477.0,
-        "change": -0.9,
-        "percent_change": -0.19,
+        "change": -1.0,
+        "percent_change": -0.21,
         "high": 480.5,
         "low": 467.5,
-        "volume": 8691.0,
-        "last_updated": "2026-02-04T07:04:29.585362"
+        "volume": 13932.0,
+        "last_updated": "2026-02-04T08:03:06.009275"
     },
     {
         "symbol": "ANLB",
@@ -95,151 +95,151 @@
         "percent_change": 0.38,
         "high": 6100.0,
         "low": 5900.0,
-        "volume": 4495.0,
-        "last_updated": "2026-02-04T07:04:29.585408"
+        "volume": 4497.0,
+        "last_updated": "2026-02-04T08:03:06.009315"
     },
     {
         "symbol": "API",
-        "ltp": 294.1,
+        "ltp": 295.0,
         "previous_close": 296.5,
-        "change": -2.4,
-        "percent_change": -0.81,
+        "change": -1.5,
+        "percent_change": -0.51,
         "high": 299.0,
         "low": 293.0,
-        "volume": 29997.0,
-        "last_updated": "2026-02-04T07:04:29.585453"
+        "volume": 44973.0,
+        "last_updated": "2026-02-04T08:03:06.009357"
     },
     {
         "symbol": "AVYAN",
-        "ltp": 940.0,
+        "ltp": 936.6,
         "previous_close": 941.0,
-        "change": -1.0,
-        "percent_change": -0.11,
+        "change": -4.4,
+        "percent_change": -0.47,
         "high": 955.0,
-        "low": 939.0,
-        "volume": 2590.0,
-        "last_updated": "2026-02-04T07:04:29.585492"
+        "low": 935.0,
+        "volume": 3162.0,
+        "last_updated": "2026-02-04T08:03:06.009398"
     },
     {
         "symbol": "BANDIPUR",
-        "ltp": 1145.0,
+        "ltp": 1131.0,
         "previous_close": 1140.0,
-        "change": 5.0,
-        "percent_change": 0.44,
+        "change": -9.0,
+        "percent_change": -0.79,
         "high": 1162.0,
         "low": 1127.0,
-        "volume": 96327.0,
-        "last_updated": "2026-02-04T07:04:29.585532"
+        "volume": 131380.0,
+        "last_updated": "2026-02-04T08:03:06.009438"
     },
     {
         "symbol": "BARUN",
-        "ltp": 384.9,
+        "ltp": 382.9,
         "previous_close": 378.0,
-        "change": 6.9,
-        "percent_change": 1.83,
+        "change": 4.9,
+        "percent_change": 1.3,
         "high": 388.0,
         "low": 380.0,
-        "volume": 171976.0,
-        "last_updated": "2026-02-04T07:04:29.585571"
+        "volume": 204460.0,
+        "last_updated": "2026-02-04T08:03:06.009477"
     },
     {
         "symbol": "BBC",
-        "ltp": 4815.0,
+        "ltp": 4847.9,
         "previous_close": 4859.0,
-        "change": -44.0,
-        "percent_change": -0.91,
+        "change": -11.1,
+        "percent_change": -0.23,
         "high": 4925.0,
         "low": 4762.0,
-        "volume": 170.0,
-        "last_updated": "2026-02-04T07:04:29.585610"
+        "volume": 220.0,
+        "last_updated": "2026-02-04T08:03:06.009515"
     },
     {
         "symbol": "BEDC",
-        "ltp": 530.0,
+        "ltp": 534.0,
         "previous_close": 535.0,
-        "change": -5.0,
-        "percent_change": -0.93,
+        "change": -1.0,
+        "percent_change": -0.19,
         "high": 542.0,
         "low": 530.0,
-        "volume": 7624.0,
-        "last_updated": "2026-02-04T07:04:29.585649"
+        "volume": 10494.0,
+        "last_updated": "2026-02-04T08:03:06.009557"
     },
     {
         "symbol": "BFC",
-        "ltp": 476.4,
+        "ltp": 478.1,
         "previous_close": 479.0,
-        "change": -2.6,
-        "percent_change": -0.54,
+        "change": -0.9,
+        "percent_change": -0.19,
         "high": 493.0,
         "low": 476.4,
-        "volume": 5759.0,
-        "last_updated": "2026-02-04T07:04:29.585688"
+        "volume": 8411.0,
+        "last_updated": "2026-02-04T08:03:06.009596"
     },
     {
         "symbol": "BGWT",
-        "ltp": 770.0,
+        "ltp": 776.0,
         "previous_close": 766.2,
-        "change": 3.8,
-        "percent_change": 0.5,
+        "change": 9.8,
+        "percent_change": 1.28,
         "high": 780.0,
         "low": 766.0,
-        "volume": 1970.0,
-        "last_updated": "2026-02-04T07:04:29.585727"
+        "volume": 2166.0,
+        "last_updated": "2026-02-04T08:03:06.009637"
     },
     {
         "symbol": "BHCL",
-        "ltp": 628.0,
+        "ltp": 623.0,
         "previous_close": 623.0,
-        "change": 5.0,
-        "percent_change": 0.8,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 637.8,
         "low": 622.0,
-        "volume": 28245.0,
-        "last_updated": "2026-02-04T07:04:29.585766"
+        "volume": 35940.0,
+        "last_updated": "2026-02-04T08:03:06.009676"
     },
     {
         "symbol": "BHDC",
-        "ltp": 508.0,
+        "ltp": 503.0,
         "previous_close": 478.0,
-        "change": 30.0,
-        "percent_change": 6.28,
+        "change": 25.0,
+        "percent_change": 5.23,
         "high": 515.0,
         "low": 477.0,
-        "volume": 138953.0,
-        "last_updated": "2026-02-04T07:04:29.585806"
+        "volume": 177079.0,
+        "last_updated": "2026-02-04T08:03:06.009715"
     },
     {
         "symbol": "BHL",
-        "ltp": 198.0,
+        "ltp": 197.0,
         "previous_close": 196.5,
-        "change": 1.5,
-        "percent_change": 0.76,
+        "change": 0.5,
+        "percent_change": 0.25,
         "high": 201.1,
-        "low": 196.5,
-        "volume": 79678.0,
-        "last_updated": "2026-02-04T07:04:29.585843"
+        "low": 196.3,
+        "volume": 119566.0,
+        "last_updated": "2026-02-04T08:03:06.009754"
     },
     {
         "symbol": "BHPL",
-        "ltp": 573.0,
+        "ltp": 568.2,
         "previous_close": 568.9,
-        "change": 4.1,
-        "percent_change": 0.72,
+        "change": -0.7,
+        "percent_change": -0.12,
         "high": 580.2,
         "low": 565.0,
-        "volume": 11097.0,
-        "last_updated": "2026-02-04T07:04:29.585882"
+        "volume": 16082.0,
+        "last_updated": "2026-02-04T08:03:06.009795"
     },
     {
         "symbol": "BNHC",
-        "ltp": 563.1,
+        "ltp": 573.9,
         "previous_close": 563.0,
-        "change": 0.1,
-        "percent_change": 0.02,
+        "change": 10.9,
+        "percent_change": 1.94,
         "high": 575.0,
-        "low": 563.1,
-        "volume": 25365.0,
-        "last_updated": "2026-02-04T07:04:29.585921"
+        "low": 562.4,
+        "volume": 31930.0,
+        "last_updated": "2026-02-04T08:03:06.009836"
     },
     {
         "symbol": "BNT",
@@ -250,29 +250,29 @@
         "high": 11998.9,
         "low": 11998.9,
         "volume": 11.0,
-        "last_updated": "2026-02-04T07:04:29.585964"
+        "last_updated": "2026-02-04T08:03:06.009878"
     },
     {
         "symbol": "BPCL",
-        "ltp": 748.5,
+        "ltp": 749.0,
         "previous_close": 739.0,
-        "change": 9.5,
-        "percent_change": 1.29,
+        "change": 10.0,
+        "percent_change": 1.35,
         "high": 771.0,
         "low": 724.3,
-        "volume": 31350.0,
-        "last_updated": "2026-02-04T07:04:29.586003"
+        "volume": 42073.0,
+        "last_updated": "2026-02-04T08:03:06.009916"
     },
     {
         "symbol": "BUNGAL",
-        "ltp": 712.5,
+        "ltp": 710.0,
         "previous_close": 720.0,
-        "change": -7.5,
-        "percent_change": -1.04,
+        "change": -10.0,
+        "percent_change": -1.39,
         "high": 734.0,
-        "low": 712.0,
-        "volume": 7912.0,
-        "last_updated": "2026-02-04T07:04:29.586044"
+        "low": 710.0,
+        "volume": 14053.0,
+        "last_updated": "2026-02-04T08:03:06.009955"
     },
     {
         "symbol": "C30MF",
@@ -283,95 +283,95 @@
         "high": 9.78,
         "low": 9.77,
         "volume": 1070.0,
-        "last_updated": "2026-02-04T07:04:29.586085"
+        "last_updated": "2026-02-04T08:03:06.009992"
     },
     {
         "symbol": "CBBL",
-        "ltp": 933.0,
+        "ltp": 931.0,
         "previous_close": 933.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -2.0,
+        "percent_change": -0.21,
         "high": 946.0,
-        "low": 930.0,
-        "volume": 5130.0,
-        "last_updated": "2026-02-04T07:04:29.586143"
+        "low": 928.1,
+        "volume": 6567.0,
+        "last_updated": "2026-02-04T08:03:06.010029"
     },
     {
         "symbol": "CFCL",
-        "ltp": 563.0,
+        "ltp": 557.0,
         "previous_close": 555.0,
-        "change": 8.0,
-        "percent_change": 1.44,
+        "change": 2.0,
+        "percent_change": 0.36,
         "high": 574.0,
         "low": 551.0,
-        "volume": 7030.0,
-        "last_updated": "2026-02-04T07:04:29.586186"
+        "volume": 10435.0,
+        "last_updated": "2026-02-04T08:03:06.010098"
     },
     {
         "symbol": "CGH",
-        "ltp": 884.0,
+        "ltp": 893.0,
         "previous_close": 891.0,
-        "change": -7.0,
-        "percent_change": -0.79,
+        "change": 2.0,
+        "percent_change": 0.22,
         "high": 908.8,
         "low": 880.0,
-        "volume": 20721.0,
-        "last_updated": "2026-02-04T07:04:29.586230"
+        "volume": 22251.0,
+        "last_updated": "2026-02-04T08:03:06.010148"
     },
     {
         "symbol": "CHCL",
-        "ltp": 470.0,
+        "ltp": 467.3,
         "previous_close": 469.0,
-        "change": 1.0,
-        "percent_change": 0.21,
+        "change": -1.7,
+        "percent_change": -0.36,
         "high": 475.0,
         "low": 460.0,
-        "volume": 5094.0,
-        "last_updated": "2026-02-04T07:04:29.586268"
+        "volume": 8837.0,
+        "last_updated": "2026-02-04T08:03:06.010188"
     },
     {
         "symbol": "CHDC",
-        "ltp": 2373.0,
+        "ltp": 2370.0,
         "previous_close": 2347.0,
-        "change": 26.0,
-        "percent_change": 1.11,
-        "high": 2390.0,
+        "change": 23.0,
+        "percent_change": 0.98,
+        "high": 2407.0,
         "low": 2340.1,
-        "volume": 10235.0,
-        "last_updated": "2026-02-04T07:04:29.586308"
+        "volume": 18237.0,
+        "last_updated": "2026-02-04T08:03:06.010227"
     },
     {
         "symbol": "CHL",
-        "ltp": 279.0,
+        "ltp": 280.0,
         "previous_close": 277.0,
-        "change": 2.0,
-        "percent_change": 0.72,
+        "change": 3.0,
+        "percent_change": 1.08,
         "high": 282.0,
         "low": 277.1,
-        "volume": 12746.0,
-        "last_updated": "2026-02-04T07:04:29.586350"
+        "volume": 20543.0,
+        "last_updated": "2026-02-04T08:03:06.010265"
     },
     {
         "symbol": "CIT",
-        "ltp": 1764.0,
+        "ltp": 1750.0,
         "previous_close": 1758.0,
-        "change": 6.0,
-        "percent_change": 0.34,
+        "change": -8.0,
+        "percent_change": -0.46,
         "high": 1768.0,
         "low": 1740.0,
-        "volume": 3732.0,
-        "last_updated": "2026-02-04T07:04:29.586390"
+        "volume": 6735.0,
+        "last_updated": "2026-02-04T08:03:06.010309"
     },
     {
         "symbol": "CITY",
-        "ltp": 505.0,
+        "ltp": 502.6,
         "previous_close": 500.0,
-        "change": 5.0,
-        "percent_change": 1.0,
+        "change": 2.6,
+        "percent_change": 0.52,
         "high": 510.0,
         "low": 500.0,
-        "volume": 20360.0,
-        "last_updated": "2026-02-04T07:04:29.586430"
+        "volume": 22434.0,
+        "last_updated": "2026-02-04T08:03:06.010347"
     },
     {
         "symbol": "CKHL",
@@ -381,52 +381,52 @@
         "percent_change": -0.01,
         "high": 785.0,
         "low": 702.0,
-        "volume": 4460.0,
-        "last_updated": "2026-02-04T07:04:29.586469"
+        "volume": 4940.0,
+        "last_updated": "2026-02-04T08:03:06.010384"
     },
     {
         "symbol": "CLI",
-        "ltp": 470.0,
+        "ltp": 468.5,
         "previous_close": 465.2,
-        "change": 4.8,
-        "percent_change": 1.03,
+        "change": 3.3,
+        "percent_change": 0.71,
         "high": 470.0,
         "low": 462.0,
-        "volume": 6417.0,
-        "last_updated": "2026-02-04T07:04:29.586511"
+        "volume": 7648.0,
+        "last_updated": "2026-02-04T08:03:06.010424"
     },
     {
         "symbol": "CORBL",
-        "ltp": 1760.3,
+        "ltp": 1800.0,
         "previous_close": 1799.0,
-        "change": -38.7,
-        "percent_change": -2.15,
-        "high": 1805.0,
+        "change": 1.0,
+        "percent_change": 0.06,
+        "high": 1926.0,
         "low": 1752.0,
-        "volume": 2586.0,
-        "last_updated": "2026-02-04T07:04:29.586550"
+        "volume": 15176.0,
+        "last_updated": "2026-02-04T08:03:06.010462"
     },
     {
         "symbol": "CREST",
-        "ltp": 1450.0,
+        "ltp": 1455.0,
         "previous_close": 1474.0,
-        "change": -24.0,
-        "percent_change": -1.63,
+        "change": -19.0,
+        "percent_change": -1.29,
         "high": 1484.0,
         "low": 1440.1,
-        "volume": 5700.0,
-        "last_updated": "2026-02-04T07:04:29.586590"
+        "volume": 9442.0,
+        "last_updated": "2026-02-04T08:03:06.010503"
     },
     {
         "symbol": "CYCL",
-        "ltp": 1600.0,
+        "ltp": 1586.0,
         "previous_close": 1580.0,
-        "change": 20.0,
-        "percent_change": 1.27,
+        "change": 6.0,
+        "percent_change": 0.38,
         "high": 1605.0,
         "low": 1548.4,
-        "volume": 964.0,
-        "last_updated": "2026-02-04T07:04:29.586629"
+        "volume": 1049.0,
+        "last_updated": "2026-02-04T08:03:06.010541"
     },
     {
         "symbol": "CZBIL",
@@ -436,8 +436,8 @@
         "percent_change": -0.56,
         "high": 199.0,
         "low": 191.3,
-        "volume": 7096.0,
-        "last_updated": "2026-02-04T07:04:29.586668"
+        "volume": 7985.0,
+        "last_updated": "2026-02-04T08:03:06.010579"
     },
     {
         "symbol": "DDBL",
@@ -447,52 +447,52 @@
         "percent_change": 0.0,
         "high": 828.8,
         "low": 826.2,
-        "volume": 1503.0,
-        "last_updated": "2026-02-04T07:04:29.586709"
+        "volume": 3631.0,
+        "last_updated": "2026-02-04T08:03:06.010617"
     },
     {
         "symbol": "DHEL",
-        "ltp": 764.9,
+        "ltp": 766.2,
         "previous_close": 789.0,
-        "change": -24.1,
-        "percent_change": -3.05,
+        "change": -22.8,
+        "percent_change": -2.89,
         "high": 790.0,
         "low": 759.0,
-        "volume": 36817.0,
-        "last_updated": "2026-02-04T07:04:29.586750"
+        "volume": 44519.0,
+        "last_updated": "2026-02-04T08:03:06.010654"
     },
     {
         "symbol": "DHPL",
-        "ltp": 300.0,
+        "ltp": 302.0,
         "previous_close": 301.0,
-        "change": -1.0,
-        "percent_change": -0.33,
+        "change": 1.0,
+        "percent_change": 0.33,
         "high": 306.7,
         "low": 300.0,
-        "volume": 881.0,
-        "last_updated": "2026-02-04T07:04:29.586790"
+        "volume": 1271.0,
+        "last_updated": "2026-02-04T08:03:06.010691"
     },
     {
         "symbol": "DLBS",
-        "ltp": 1338.2,
+        "ltp": 1340.0,
         "previous_close": 1364.9,
-        "change": -26.7,
-        "percent_change": -1.96,
-        "high": 1339.0,
+        "change": -24.9,
+        "percent_change": -1.82,
+        "high": 1340.0,
         "low": 1338.0,
         "volume": 30.0,
-        "last_updated": "2026-02-04T07:04:29.586835"
+        "last_updated": "2026-02-04T08:03:06.010728"
     },
     {
         "symbol": "DOLTI",
-        "ltp": 522.2,
+        "ltp": 523.3,
         "previous_close": 519.5,
-        "change": 2.7,
-        "percent_change": 0.52,
+        "change": 3.8,
+        "percent_change": 0.73,
         "high": 540.5,
         "low": 520.0,
-        "volume": 1431.0,
-        "last_updated": "2026-02-04T07:04:29.586875"
+        "volume": 1865.0,
+        "last_updated": "2026-02-04T08:03:06.010765"
     },
     {
         "symbol": "DORDI",
@@ -502,19 +502,19 @@
         "percent_change": 0.0,
         "high": 284.3,
         "low": 278.5,
-        "volume": 35154.0,
-        "last_updated": "2026-02-04T07:04:29.586916"
+        "volume": 46984.0,
+        "last_updated": "2026-02-04T08:03:06.010802"
     },
     {
         "symbol": "EBL",
-        "ltp": 675.0,
+        "ltp": 673.0,
         "previous_close": 665.2,
-        "change": 9.8,
-        "percent_change": 1.47,
+        "change": 7.8,
+        "percent_change": 1.17,
         "high": 675.0,
         "low": 652.0,
-        "volume": 34846.0,
-        "last_updated": "2026-02-04T07:04:29.586954"
+        "volume": 41692.0,
+        "last_updated": "2026-02-04T08:03:06.010840"
     },
     {
         "symbol": "EBLD91",
@@ -525,51 +525,51 @@
         "high": 1096.0,
         "low": 1085.0,
         "volume": 85.0,
-        "last_updated": "2026-02-04T07:04:29.586992"
+        "last_updated": "2026-02-04T08:03:06.010877"
     },
     {
         "symbol": "EDBL",
-        "ltp": 601.1,
+        "ltp": 602.2,
         "previous_close": 601.0,
-        "change": 0.1,
-        "percent_change": 0.02,
+        "change": 1.2,
+        "percent_change": 0.2,
         "high": 612.0,
         "low": 600.4,
-        "volume": 2445.0,
-        "last_updated": "2026-02-04T07:04:29.587033"
+        "volume": 6205.0,
+        "last_updated": "2026-02-04T08:03:06.010917"
     },
     {
         "symbol": "EHPL",
-        "ltp": 429.0,
+        "ltp": 430.0,
         "previous_close": 429.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": 1.0,
+        "percent_change": 0.23,
         "high": 440.0,
         "low": 429.0,
-        "volume": 14423.0,
-        "last_updated": "2026-02-04T07:04:29.587071"
+        "volume": 24023.0,
+        "last_updated": "2026-02-04T08:03:06.010954"
     },
     {
         "symbol": "ENL",
-        "ltp": 940.0,
+        "ltp": 928.0,
         "previous_close": 924.0,
-        "change": 16.0,
-        "percent_change": 1.73,
+        "change": 4.0,
+        "percent_change": 0.43,
         "high": 941.5,
         "low": 925.9,
-        "volume": 231.0,
-        "last_updated": "2026-02-04T07:04:29.587108"
+        "volume": 291.0,
+        "last_updated": "2026-02-04T08:03:06.010995"
     },
     {
         "symbol": "FMDBL",
-        "ltp": 800.0,
+        "ltp": 796.2,
         "previous_close": 800.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -3.8,
+        "percent_change": -0.47,
         "high": 814.9,
         "low": 784.0,
-        "volume": 2285.0,
-        "last_updated": "2026-02-04T07:04:29.587160"
+        "volume": 5114.0,
+        "last_updated": "2026-02-04T08:03:06.011034"
     },
     {
         "symbol": "FOWAD",
@@ -579,8 +579,8 @@
         "percent_change": -0.09,
         "high": 1085.0,
         "low": 1054.1,
-        "volume": 444.0,
-        "last_updated": "2026-02-04T07:04:29.587201"
+        "volume": 446.0,
+        "last_updated": "2026-02-04T08:03:06.011084"
     },
     {
         "symbol": "GBBL",
@@ -589,9 +589,9 @@
         "change": 2.2,
         "percent_change": 0.55,
         "high": 404.0,
-        "low": 400.0,
-        "volume": 4763.0,
-        "last_updated": "2026-02-04T07:04:29.587242"
+        "low": 397.9,
+        "volume": 11102.0,
+        "last_updated": "2026-02-04T08:03:06.011124"
     },
     {
         "symbol": "GBILD86/87",
@@ -602,95 +602,95 @@
         "high": 1082.3,
         "low": 1082.3,
         "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.587289"
+        "last_updated": "2026-02-04T08:03:06.011166"
     },
     {
         "symbol": "GBIME",
-        "ltp": 227.0,
+        "ltp": 226.0,
         "previous_close": 226.1,
-        "change": 0.9,
-        "percent_change": 0.4,
+        "change": -0.1,
+        "percent_change": -0.04,
         "high": 228.9,
         "low": 221.6,
-        "volume": 50411.0,
-        "last_updated": "2026-02-04T07:04:29.587328"
+        "volume": 60659.0,
+        "last_updated": "2026-02-04T08:03:06.011205"
     },
     {
         "symbol": "GBIMESY2",
-        "ltp": 9.19,
+        "ltp": 9.23,
         "previous_close": 9.04,
-        "change": 0.15,
-        "percent_change": 1.66,
-        "high": 9.19,
+        "change": 0.19,
+        "percent_change": 2.1,
+        "high": 9.23,
         "low": 9.05,
-        "volume": 200.0,
-        "last_updated": "2026-02-04T07:04:29.587367"
+        "volume": 615.0,
+        "last_updated": "2026-02-04T08:03:06.011243"
     },
     {
         "symbol": "GBLBS",
-        "ltp": 770.0,
+        "ltp": 774.9,
         "previous_close": 774.8,
-        "change": -4.8,
-        "percent_change": -0.62,
+        "change": 0.1,
+        "percent_change": 0.01,
         "high": 788.0,
-        "low": 768.4,
-        "volume": 1160.0,
-        "last_updated": "2026-02-04T07:04:29.587407"
+        "low": 768.0,
+        "volume": 1289.0,
+        "last_updated": "2026-02-04T08:03:06.011280"
     },
     {
         "symbol": "GCIL",
-        "ltp": 418.7,
+        "ltp": 420.9,
         "previous_close": 418.5,
-        "change": 0.2,
-        "percent_change": 0.05,
+        "change": 2.4,
+        "percent_change": 0.57,
         "high": 425.0,
         "low": 410.2,
-        "volume": 5818.0,
-        "last_updated": "2026-02-04T07:04:29.587446"
+        "volume": 6825.0,
+        "last_updated": "2026-02-04T08:03:06.011317"
     },
     {
         "symbol": "GFCL",
-        "ltp": 663.0,
+        "ltp": 661.5,
         "previous_close": 661.8,
-        "change": 1.2,
-        "percent_change": 0.18,
+        "change": -0.3,
+        "percent_change": -0.05,
         "high": 667.5,
         "low": 651.0,
-        "volume": 9626.0,
-        "last_updated": "2026-02-04T07:04:29.587483"
+        "volume": 16823.0,
+        "last_updated": "2026-02-04T08:03:06.011357"
     },
     {
         "symbol": "GHL",
-        "ltp": 229.0,
+        "ltp": 229.9,
         "previous_close": 227.1,
-        "change": 1.9,
-        "percent_change": 0.84,
+        "change": 2.8,
+        "percent_change": 1.23,
         "high": 231.6,
         "low": 226.3,
-        "volume": 45613.0,
-        "last_updated": "2026-02-04T07:04:29.587520"
+        "volume": 69958.0,
+        "last_updated": "2026-02-04T08:03:06.011394"
     },
     {
         "symbol": "GIBF1",
-        "ltp": 10.72,
+        "ltp": 10.75,
         "previous_close": 10.72,
-        "change": 0.0,
-        "percent_change": 0.0,
-        "high": 10.72,
+        "change": 0.03,
+        "percent_change": 0.28,
+        "high": 10.75,
         "low": 10.65,
-        "volume": 1810.0,
-        "last_updated": "2026-02-04T07:04:29.587563"
+        "volume": 14410.0,
+        "last_updated": "2026-02-04T08:03:06.011434"
     },
     {
         "symbol": "GILB",
-        "ltp": 1187.0,
+        "ltp": 1164.1,
         "previous_close": 1165.0,
-        "change": 22.0,
-        "percent_change": 1.89,
+        "change": -0.9,
+        "percent_change": -0.08,
         "high": 1187.0,
-        "low": 1186.0,
-        "volume": 110.0,
-        "last_updated": "2026-02-04T07:04:29.587602"
+        "low": 1164.1,
+        "volume": 337.0,
+        "last_updated": "2026-02-04T08:03:06.011471"
     },
     {
         "symbol": "GLBSL",
@@ -700,19 +700,19 @@
         "percent_change": -1.96,
         "high": 1990.0,
         "low": 1980.0,
-        "volume": 547.0,
-        "last_updated": "2026-02-04T07:04:29.587640"
+        "volume": 548.0,
+        "last_updated": "2026-02-04T08:03:06.011508"
     },
     {
         "symbol": "GLH",
-        "ltp": 259.0,
+        "ltp": 256.0,
         "previous_close": 259.2,
-        "change": -0.2,
-        "percent_change": -0.08,
+        "change": -3.2,
+        "percent_change": -1.23,
         "high": 261.9,
-        "low": 259.0,
-        "volume": 12371.0,
-        "last_updated": "2026-02-04T07:04:29.587677"
+        "low": 256.0,
+        "volume": 27974.0,
+        "last_updated": "2026-02-04T08:03:06.011544"
     },
     {
         "symbol": "GMFBS",
@@ -722,118 +722,129 @@
         "percent_change": -0.4,
         "high": 1504.0,
         "low": 1474.0,
-        "volume": 261.0,
-        "last_updated": "2026-02-04T07:04:29.587715"
+        "volume": 263.0,
+        "last_updated": "2026-02-04T08:03:06.011581"
     },
     {
         "symbol": "GMFIL",
-        "ltp": 467.8,
+        "ltp": 473.0,
         "previous_close": 470.0,
-        "change": -2.2,
-        "percent_change": -0.47,
+        "change": 3.0,
+        "percent_change": 0.64,
         "high": 478.0,
         "low": 467.8,
-        "volume": 7510.0,
-        "last_updated": "2026-02-04T07:04:29.587753"
+        "volume": 8620.0,
+        "last_updated": "2026-02-04T08:03:06.011616"
     },
     {
         "symbol": "GMLI",
-        "ltp": 1786.0,
+        "ltp": 1785.2,
         "previous_close": 1780.0,
-        "change": 6.0,
-        "percent_change": 0.34,
-        "high": 1789.0,
+        "change": 5.2,
+        "percent_change": 0.29,
+        "high": 1790.0,
         "low": 1782.1,
-        "volume": 400.0,
-        "last_updated": "2026-02-04T07:04:29.587791"
+        "volume": 1293.0,
+        "last_updated": "2026-02-04T08:03:06.011653"
     },
     {
         "symbol": "GRDBL",
-        "ltp": 1154.0,
+        "ltp": 1150.0,
         "previous_close": 1163.9,
-        "change": -9.9,
-        "percent_change": -0.85,
+        "change": -13.9,
+        "percent_change": -1.19,
         "high": 1174.0,
         "low": 1145.0,
-        "volume": 4433.0,
-        "last_updated": "2026-02-04T07:04:29.587828"
+        "volume": 11680.0,
+        "last_updated": "2026-02-04T08:03:06.011693"
     },
     {
         "symbol": "GSY",
-        "ltp": 9.45,
+        "ltp": 9.5,
         "previous_close": 9.59,
-        "change": -0.14,
-        "percent_change": -1.46,
+        "change": -0.09,
+        "percent_change": -0.94,
         "high": 9.68,
         "low": 9.4,
-        "volume": 9500.0,
-        "last_updated": "2026-02-04T07:04:29.587866"
+        "volume": 11900.0,
+        "last_updated": "2026-02-04T08:03:06.011734"
     },
     {
         "symbol": "GUFL",
-        "ltp": 575.0,
+        "ltp": 573.0,
         "previous_close": 567.5,
-        "change": 7.5,
-        "percent_change": 1.32,
+        "change": 5.5,
+        "percent_change": 0.97,
         "high": 580.0,
         "low": 570.0,
-        "volume": 6035.0,
-        "last_updated": "2026-02-04T07:04:29.587904"
+        "volume": 10501.0,
+        "last_updated": "2026-02-04T08:03:06.011772"
     },
     {
         "symbol": "GVL",
-        "ltp": 495.0,
+        "ltp": 496.0,
         "previous_close": 496.0,
-        "change": -1.0,
-        "percent_change": -0.2,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 503.0,
         "low": 490.0,
-        "volume": 43279.0,
-        "last_updated": "2026-02-04T07:04:29.587941"
+        "volume": 49266.0,
+        "last_updated": "2026-02-04T08:03:06.011808"
     },
     {
         "symbol": "H8020",
-        "ltp": 11.63,
+        "ltp": 11.5,
         "previous_close": 11.57,
-        "change": 0.06,
-        "percent_change": 0.52,
+        "change": -0.07,
+        "percent_change": -0.61,
         "high": 11.63,
         "low": 11.4,
-        "volume": 600.0,
-        "last_updated": "2026-02-04T07:04:29.587978"
+        "volume": 2200.0,
+        "last_updated": "2026-02-04T08:03:06.011844"
     },
     {
         "symbol": "HATHY",
-        "ltp": 922.0,
+        "ltp": 917.0,
         "previous_close": 914.0,
-        "change": 8.0,
-        "percent_change": 0.88,
+        "change": 3.0,
+        "percent_change": 0.33,
         "high": 928.8,
         "low": 904.1,
-        "volume": 3196.0,
-        "last_updated": "2026-02-04T07:04:29.588017"
+        "volume": 3973.0,
+        "last_updated": "2026-02-04T08:03:06.011880"
     },
     {
         "symbol": "HBL",
-        "ltp": 188.7,
+        "ltp": 191.0,
         "previous_close": 189.0,
-        "change": -0.3,
-        "percent_change": -0.16,
+        "change": 2.0,
+        "percent_change": 1.06,
         "high": 191.0,
         "low": 186.0,
-        "volume": 21758.0,
-        "last_updated": "2026-02-04T07:04:29.588061"
+        "volume": 39898.0,
+        "last_updated": "2026-02-04T08:03:06.011920"
+    },
+    {
+        "symbol": "HBLD83",
+        "ltp": 1033.0,
+        "previous_close": 1054.0,
+        "change": -21.0,
+        "percent_change": -1.99,
+        "high": 1033.0,
+        "low": 1033.0,
+        "volume": 50.0,
+        "last_updated": "2026-02-04T08:03:06.011957"
     },
     {
         "symbol": "HDHPC",
-        "ltp": 199.9,
+        "ltp": 197.0,
         "previous_close": 197.0,
-        "change": 2.9,
-        "percent_change": 1.47,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 204.0,
         "low": 193.1,
-        "volume": 169255.0,
-        "last_updated": "2026-02-04T07:04:29.588101"
+        "volume": 245069.0,
+        "last_updated": "2026-02-04T08:03:06.011993"
     },
     {
         "symbol": "HDL",
@@ -843,19 +854,19 @@
         "percent_change": 0.35,
         "high": 1150.0,
         "low": 1136.1,
-        "volume": 22222.0,
-        "last_updated": "2026-02-04T07:04:29.588152"
+        "volume": 28421.0,
+        "last_updated": "2026-02-04T08:03:06.012030"
     },
     {
         "symbol": "HEI",
-        "ltp": 504.3,
+        "ltp": 506.1,
         "previous_close": 511.0,
-        "change": -6.7,
-        "percent_change": -1.31,
+        "change": -4.9,
+        "percent_change": -0.96,
         "high": 518.9,
         "low": 503.5,
-        "volume": 714.0,
-        "last_updated": "2026-02-04T07:04:29.588194"
+        "volume": 1008.0,
+        "last_updated": "2026-02-04T08:03:06.012078"
     },
     {
         "symbol": "HEIP",
@@ -866,51 +877,51 @@
         "high": 310.5,
         "low": 305.2,
         "volume": 113.0,
-        "last_updated": "2026-02-04T07:04:29.588235"
+        "last_updated": "2026-02-04T08:03:06.012117"
     },
     {
         "symbol": "HHL",
-        "ltp": 336.0,
+        "ltp": 340.5,
         "previous_close": 338.0,
-        "change": -2.0,
-        "percent_change": -0.59,
+        "change": 2.5,
+        "percent_change": 0.74,
         "high": 344.7,
         "low": 334.3,
-        "volume": 11529.0,
-        "last_updated": "2026-02-04T07:04:29.588277"
+        "volume": 20335.0,
+        "last_updated": "2026-02-04T08:03:06.012153"
     },
     {
         "symbol": "HIDCL",
-        "ltp": 260.0,
+        "ltp": 259.5,
         "previous_close": 261.9,
-        "change": -1.9,
-        "percent_change": -0.73,
+        "change": -2.4,
+        "percent_change": -0.92,
         "high": 264.9,
-        "low": 259.9,
-        "volume": 33030.0,
-        "last_updated": "2026-02-04T07:04:29.588319"
+        "low": 259.0,
+        "volume": 56272.0,
+        "last_updated": "2026-02-04T08:03:06.012188"
     },
     {
         "symbol": "HIDCLP",
-        "ltp": 189.5,
+        "ltp": 190.0,
         "previous_close": 189.0,
-        "change": 0.5,
-        "percent_change": 0.26,
+        "change": 1.0,
+        "percent_change": 0.53,
         "high": 192.0,
         "low": 189.4,
-        "volume": 60890.0,
-        "last_updated": "2026-02-04T07:04:29.588358"
+        "volume": 78189.0,
+        "last_updated": "2026-02-04T08:03:06.012224"
     },
     {
         "symbol": "HIMSTAR",
-        "ltp": 1030.2,
+        "ltp": 1038.0,
         "previous_close": 1068.0,
-        "change": -37.8,
-        "percent_change": -3.54,
+        "change": -30.0,
+        "percent_change": -2.81,
         "high": 1100.0,
-        "low": 1029.0,
-        "volume": 6689.0,
-        "last_updated": "2026-02-04T07:04:29.588397"
+        "low": 1019.2,
+        "volume": 12129.0,
+        "last_updated": "2026-02-04T08:03:06.012260"
     },
     {
         "symbol": "HLBSL",
@@ -920,19 +931,19 @@
         "percent_change": 0.01,
         "high": 925.0,
         "low": 906.5,
-        "volume": 295.0,
-        "last_updated": "2026-02-04T07:04:29.588434"
+        "volume": 296.0,
+        "last_updated": "2026-02-04T08:03:06.012296"
     },
     {
         "symbol": "HLI",
-        "ltp": 366.1,
+        "ltp": 365.0,
         "previous_close": 365.1,
-        "change": 1.0,
-        "percent_change": 0.27,
+        "change": -0.1,
+        "percent_change": -0.03,
         "high": 372.4,
         "low": 357.8,
-        "volume": 11624.0,
-        "last_updated": "2026-02-04T07:04:29.588472"
+        "volume": 24267.0,
+        "last_updated": "2026-02-04T08:03:06.012331"
     },
     {
         "symbol": "HLICF",
@@ -942,52 +953,52 @@
         "percent_change": -3.7,
         "high": 10.17,
         "low": 9.61,
-        "volume": 21650.0,
-        "last_updated": "2026-02-04T07:04:29.588509"
+        "volume": 25050.0,
+        "last_updated": "2026-02-04T08:03:06.012371"
     },
     {
         "symbol": "HPPL",
-        "ltp": 472.0,
+        "ltp": 473.0,
         "previous_close": 472.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": 1.0,
+        "percent_change": 0.21,
         "high": 478.4,
         "low": 471.0,
-        "volume": 40560.0,
-        "last_updated": "2026-02-04T07:04:29.588547"
+        "volume": 61026.0,
+        "last_updated": "2026-02-04T08:03:06.012411"
     },
     {
         "symbol": "HRL",
-        "ltp": 852.0,
+        "ltp": 848.0,
         "previous_close": 846.0,
-        "change": 6.0,
-        "percent_change": 0.71,
+        "change": 2.0,
+        "percent_change": 0.24,
         "high": 860.0,
         "low": 846.0,
-        "volume": 52994.0,
-        "last_updated": "2026-02-04T07:04:29.588588"
+        "volume": 64218.0,
+        "last_updated": "2026-02-04T08:03:06.012447"
     },
     {
         "symbol": "HURJA",
-        "ltp": 241.6,
+        "ltp": 240.0,
         "previous_close": 244.7,
-        "change": -3.1,
-        "percent_change": -1.27,
+        "change": -4.7,
+        "percent_change": -1.92,
         "high": 249.5,
-        "low": 241.6,
-        "volume": 49717.0,
-        "last_updated": "2026-02-04T07:04:29.588626"
+        "low": 240.0,
+        "volume": 102967.0,
+        "last_updated": "2026-02-04T08:03:06.012483"
     },
     {
         "symbol": "ICFC",
-        "ltp": 656.0,
+        "ltp": 658.1,
         "previous_close": 655.0,
-        "change": 1.0,
-        "percent_change": 0.15,
+        "change": 3.1,
+        "percent_change": 0.47,
         "high": 668.0,
         "low": 651.2,
-        "volume": 8164.0,
-        "last_updated": "2026-02-04T07:04:29.588664"
+        "volume": 11282.0,
+        "last_updated": "2026-02-04T08:03:06.012519"
     },
     {
         "symbol": "ICFCD88",
@@ -998,51 +1009,51 @@
         "high": 1115.0,
         "low": 1115.0,
         "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.588702"
+        "last_updated": "2026-02-04T08:03:06.012555"
     },
     {
         "symbol": "IGI",
-        "ltp": 425.0,
+        "ltp": 428.0,
         "previous_close": 429.0,
-        "change": -4.0,
-        "percent_change": -0.93,
+        "change": -1.0,
+        "percent_change": -0.23,
         "high": 437.5,
         "low": 423.1,
-        "volume": 5140.0,
-        "last_updated": "2026-02-04T07:04:29.588741"
+        "volume": 6300.0,
+        "last_updated": "2026-02-04T08:03:06.012591"
     },
     {
         "symbol": "IHL",
-        "ltp": 557.4,
+        "ltp": 557.1,
         "previous_close": 558.8,
-        "change": -1.4,
-        "percent_change": -0.25,
+        "change": -1.7,
+        "percent_change": -0.3,
         "high": 569.0,
         "low": 547.8,
-        "volume": 4258.0,
-        "last_updated": "2026-02-04T07:04:29.588781"
+        "volume": 10393.0,
+        "last_updated": "2026-02-04T08:03:06.012627"
     },
     {
         "symbol": "ILBS",
-        "ltp": 983.0,
+        "ltp": 993.8,
         "previous_close": 992.8,
-        "change": -9.8,
-        "percent_change": -0.99,
+        "change": 1.0,
+        "percent_change": 0.1,
         "high": 1000.0,
         "low": 980.0,
-        "volume": 558.0,
-        "last_updated": "2026-02-04T07:04:29.588818"
+        "volume": 674.0,
+        "last_updated": "2026-02-04T08:03:06.012663"
     },
     {
         "symbol": "ILI",
-        "ltp": 436.1,
+        "ltp": 437.0,
         "previous_close": 441.0,
-        "change": -4.9,
-        "percent_change": -1.11,
+        "change": -4.0,
+        "percent_change": -0.91,
         "high": 444.0,
         "low": 435.0,
-        "volume": 22668.0,
-        "last_updated": "2026-02-04T07:04:29.588855"
+        "volume": 33940.0,
+        "last_updated": "2026-02-04T08:03:06.012699"
     },
     {
         "symbol": "JBBD87",
@@ -1053,84 +1064,84 @@
         "high": 1110.0,
         "low": 1110.0,
         "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.588893"
+        "last_updated": "2026-02-04T08:03:06.012735"
     },
     {
         "symbol": "JBBL",
-        "ltp": 338.0,
+        "ltp": 337.5,
         "previous_close": 333.6,
-        "change": 4.4,
-        "percent_change": 1.32,
-        "high": 338.9,
+        "change": 3.9,
+        "percent_change": 1.17,
+        "high": 340.0,
         "low": 333.0,
-        "volume": 22523.0,
-        "last_updated": "2026-02-04T07:04:29.588931"
+        "volume": 31366.0,
+        "last_updated": "2026-02-04T08:03:06.012771"
     },
     {
         "symbol": "JBLB",
-        "ltp": 1316.0,
+        "ltp": 1315.0,
         "previous_close": 1310.0,
-        "change": 6.0,
-        "percent_change": 0.46,
+        "change": 5.0,
+        "percent_change": 0.38,
         "high": 1325.0,
         "low": 1310.0,
-        "volume": 654.0,
-        "last_updated": "2026-02-04T07:04:29.588972"
+        "volume": 1743.0,
+        "last_updated": "2026-02-04T08:03:06.012807"
     },
     {
         "symbol": "JFL",
-        "ltp": 436.9,
+        "ltp": 436.0,
         "previous_close": 436.4,
-        "change": 0.5,
-        "percent_change": 0.11,
+        "change": -0.4,
+        "percent_change": -0.09,
         "high": 445.0,
         "low": 430.0,
-        "volume": 2927.0,
-        "last_updated": "2026-02-04T07:04:29.589010"
+        "volume": 4519.0,
+        "last_updated": "2026-02-04T08:03:06.012842"
     },
     {
         "symbol": "JHAPA",
-        "ltp": 1451.0,
+        "ltp": 1431.0,
         "previous_close": 1465.0,
-        "change": -14.0,
-        "percent_change": -0.96,
+        "change": -34.0,
+        "percent_change": -2.32,
         "high": 1490.0,
-        "low": 1445.0,
-        "volume": 2995.0,
-        "last_updated": "2026-02-04T07:04:29.589047"
+        "low": 1431.0,
+        "volume": 5651.0,
+        "last_updated": "2026-02-04T08:03:06.012885"
     },
     {
         "symbol": "JOSHI",
-        "ltp": 298.5,
+        "ltp": 299.8,
         "previous_close": 299.9,
-        "change": -1.4,
-        "percent_change": -0.47,
+        "change": -0.1,
+        "percent_change": -0.03,
         "high": 303.0,
         "low": 297.1,
-        "volume": 10220.0,
-        "last_updated": "2026-02-04T07:04:29.589088"
+        "volume": 15102.0,
+        "last_updated": "2026-02-04T08:03:06.012923"
     },
     {
         "symbol": "JSLBB",
-        "ltp": 1190.0,
+        "ltp": 1160.1,
         "previous_close": 1184.0,
-        "change": 6.0,
-        "percent_change": 0.51,
+        "change": -23.9,
+        "percent_change": -2.02,
         "high": 1207.6,
-        "low": 1160.4,
-        "volume": 513.0,
-        "last_updated": "2026-02-04T07:04:29.589144"
+        "low": 1160.1,
+        "volume": 863.0,
+        "last_updated": "2026-02-04T08:03:06.012960"
     },
     {
         "symbol": "KBL",
-        "ltp": 185.0,
+        "ltp": 184.2,
         "previous_close": 185.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -0.8,
+        "percent_change": -0.43,
         "high": 187.6,
         "low": 182.0,
-        "volume": 49941.0,
-        "last_updated": "2026-02-04T07:04:29.589186"
+        "volume": 72101.0,
+        "last_updated": "2026-02-04T08:03:06.012997"
     },
     {
         "symbol": "KBSH",
@@ -1141,7 +1152,7 @@
         "high": 1670.1,
         "low": 1666.1,
         "volume": 210.0,
-        "last_updated": "2026-02-04T07:04:29.589226"
+        "last_updated": "2026-02-04T08:03:06.013038"
     },
     {
         "symbol": "KDBY",
@@ -1151,8 +1162,8 @@
         "percent_change": -0.39,
         "high": 10.2,
         "low": 10.1,
-        "volume": 6310.0,
-        "last_updated": "2026-02-04T07:04:29.589266"
+        "volume": 8510.0,
+        "last_updated": "2026-02-04T08:03:06.013087"
     },
     {
         "symbol": "KDL",
@@ -1162,41 +1173,41 @@
         "percent_change": 10.0,
         "high": 980.1,
         "low": 908.8,
-        "volume": 16409.0,
-        "last_updated": "2026-02-04T07:04:29.589306"
+        "volume": 16883.0,
+        "last_updated": "2026-02-04T08:03:06.013125"
     },
     {
         "symbol": "KKHC",
-        "ltp": 228.4,
+        "ltp": 227.5,
         "previous_close": 230.0,
-        "change": -1.6,
-        "percent_change": -0.7,
+        "change": -2.5,
+        "percent_change": -1.09,
         "high": 234.0,
         "low": 226.6,
-        "volume": 43322.0,
-        "last_updated": "2026-02-04T07:04:29.589347"
+        "volume": 58336.0,
+        "last_updated": "2026-02-04T08:03:06.013161"
     },
     {
         "symbol": "KMCDB",
-        "ltp": 938.5,
+        "ltp": 945.0,
         "previous_close": 945.0,
-        "change": -6.5,
-        "percent_change": -0.69,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 957.0,
-        "low": 938.0,
-        "volume": 1030.0,
-        "last_updated": "2026-02-04T07:04:29.589385"
+        "low": 935.2,
+        "volume": 1789.0,
+        "last_updated": "2026-02-04T08:03:06.013197"
     },
     {
         "symbol": "KPCL",
-        "ltp": 540.0,
+        "ltp": 541.0,
         "previous_close": 540.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": 1.0,
+        "percent_change": 0.19,
         "high": 548.0,
         "low": 540.0,
-        "volume": 10133.0,
-        "last_updated": "2026-02-04T07:04:29.589427"
+        "volume": 15788.0,
+        "last_updated": "2026-02-04T08:03:06.013237"
     },
     {
         "symbol": "KSBBL",
@@ -1206,8 +1217,8 @@
         "percent_change": 0.11,
         "high": 464.0,
         "low": 454.9,
-        "volume": 4287.0,
-        "last_updated": "2026-02-04T07:04:29.589465"
+        "volume": 7232.0,
+        "last_updated": "2026-02-04T08:03:06.013274"
     },
     {
         "symbol": "KSY",
@@ -1217,140 +1228,151 @@
         "percent_change": -0.42,
         "high": 9.58,
         "low": 9.31,
-        "volume": 12000.0,
-        "last_updated": "2026-02-04T07:04:29.589503"
+        "volume": 12300.0,
+        "last_updated": "2026-02-04T08:03:06.013310"
     },
     {
         "symbol": "LBBL",
-        "ltp": 476.0,
+        "ltp": 475.0,
         "previous_close": 474.0,
-        "change": 2.0,
-        "percent_change": 0.42,
+        "change": 1.0,
+        "percent_change": 0.21,
         "high": 483.4,
         "low": 473.4,
-        "volume": 41535.0,
-        "last_updated": "2026-02-04T07:04:29.589541"
+        "volume": 63230.0,
+        "last_updated": "2026-02-04T08:03:06.013345"
     },
     {
         "symbol": "LEC",
-        "ltp": 211.0,
+        "ltp": 210.0,
         "previous_close": 208.6,
-        "change": 2.4,
-        "percent_change": 1.15,
+        "change": 1.4,
+        "percent_change": 0.67,
         "high": 214.0,
-        "low": 209.0,
-        "volume": 59929.0,
-        "last_updated": "2026-02-04T07:04:29.589577"
+        "low": 208.0,
+        "volume": 91814.0,
+        "last_updated": "2026-02-04T08:03:06.013385"
     },
     {
         "symbol": "LICN",
-        "ltp": 848.7,
+        "ltp": 850.0,
         "previous_close": 846.1,
-        "change": 2.6,
-        "percent_change": 0.31,
+        "change": 3.9,
+        "percent_change": 0.46,
         "high": 861.0,
         "low": 830.0,
-        "volume": 7631.0,
-        "last_updated": "2026-02-04T07:04:29.589618"
+        "volume": 8901.0,
+        "last_updated": "2026-02-04T08:03:06.013421"
     },
     {
         "symbol": "LLBS",
-        "ltp": 990.0,
+        "ltp": 988.1,
         "previous_close": 1008.0,
-        "change": -18.0,
-        "percent_change": -1.79,
+        "change": -19.9,
+        "percent_change": -1.97,
         "high": 990.0,
         "low": 988.0,
-        "volume": 130.0,
-        "last_updated": "2026-02-04T07:04:29.589656"
+        "volume": 156.0,
+        "last_updated": "2026-02-04T08:03:06.013458"
     },
     {
         "symbol": "LSL",
-        "ltp": 209.0,
+        "ltp": 209.8,
         "previous_close": 209.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": 0.8,
+        "percent_change": 0.38,
         "high": 210.5,
         "low": 208.0,
-        "volume": 13705.0,
-        "last_updated": "2026-02-04T07:04:29.589696"
+        "volume": 19503.0,
+        "last_updated": "2026-02-04T08:03:06.013494"
+    },
+    {
+        "symbol": "LUK",
+        "ltp": 9.9,
+        "previous_close": 9.68,
+        "change": 0.22,
+        "percent_change": 2.27,
+        "high": 9.9,
+        "low": 9.71,
+        "volume": 2000.0,
+        "last_updated": "2026-02-04T08:03:06.013531"
     },
     {
         "symbol": "LVF2",
-        "ltp": 9.53,
+        "ltp": 9.43,
         "previous_close": 9.5,
-        "change": 0.03,
-        "percent_change": 0.32,
+        "change": -0.07,
+        "percent_change": -0.74,
         "high": 9.53,
         "low": 9.35,
-        "volume": 1000.0,
-        "last_updated": "2026-02-04T07:04:29.589735"
+        "volume": 1600.0,
+        "last_updated": "2026-02-04T08:03:06.013567"
     },
     {
         "symbol": "MABEL",
-        "ltp": 819.0,
+        "ltp": 818.0,
         "previous_close": 819.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -1.0,
+        "percent_change": -0.12,
         "high": 845.0,
         "low": 816.1,
-        "volume": 9165.0,
-        "last_updated": "2026-02-04T07:04:29.589773"
+        "volume": 13355.0,
+        "last_updated": "2026-02-04T08:03:06.013603"
     },
     {
         "symbol": "MAKAR",
-        "ltp": 553.0,
+        "ltp": 555.0,
         "previous_close": 555.0,
-        "change": -2.0,
-        "percent_change": -0.36,
-        "high": 554.0,
+        "change": 0.0,
+        "percent_change": 0.0,
+        "high": 555.0,
         "low": 534.3,
-        "volume": 1097.0,
-        "last_updated": "2026-02-04T07:04:29.589811"
+        "volume": 6867.0,
+        "last_updated": "2026-02-04T08:03:06.013639"
     },
     {
         "symbol": "MANDU",
-        "ltp": 816.0,
+        "ltp": 816.1,
         "previous_close": 817.9,
-        "change": -1.9,
-        "percent_change": -0.23,
-        "high": 818.0,
+        "change": -1.8,
+        "percent_change": -0.22,
+        "high": 826.2,
         "low": 806.0,
-        "volume": 500.0,
-        "last_updated": "2026-02-04T07:04:29.589848"
+        "volume": 740.0,
+        "last_updated": "2026-02-04T08:03:06.013675"
     },
     {
         "symbol": "MATRI",
-        "ltp": 984.5,
+        "ltp": 984.9,
         "previous_close": 977.9,
-        "change": 6.6,
-        "percent_change": 0.67,
-        "high": 984.5,
+        "change": 7.0,
+        "percent_change": 0.72,
+        "high": 984.9,
         "low": 970.1,
-        "volume": 867.0,
-        "last_updated": "2026-02-04T07:04:29.589884"
+        "volume": 1060.0,
+        "last_updated": "2026-02-04T08:03:06.013714"
     },
     {
         "symbol": "MBJC",
-        "ltp": 282.8,
+        "ltp": 285.0,
         "previous_close": 284.7,
-        "change": -1.9,
-        "percent_change": -0.67,
+        "change": 0.3,
+        "percent_change": 0.11,
         "high": 287.0,
         "low": 281.4,
-        "volume": 8915.0,
-        "last_updated": "2026-02-04T07:04:29.589921"
+        "volume": 15104.0,
+        "last_updated": "2026-02-04T08:03:06.013750"
     },
     {
         "symbol": "MBL",
-        "ltp": 224.0,
+        "ltp": 224.2,
         "previous_close": 226.9,
-        "change": -2.9,
-        "percent_change": -1.28,
+        "change": -2.7,
+        "percent_change": -1.19,
         "high": 228.5,
         "low": 222.4,
-        "volume": 25857.0,
-        "last_updated": "2026-02-04T07:04:29.589957"
+        "volume": 38696.0,
+        "last_updated": "2026-02-04T08:03:06.013786"
     },
     {
         "symbol": "MBLEF",
@@ -1360,96 +1382,96 @@
         "percent_change": 0.3,
         "high": 10.2,
         "low": 10.0,
-        "volume": 3050.0,
-        "last_updated": "2026-02-04T07:04:29.589994"
+        "volume": 7950.0,
+        "last_updated": "2026-02-04T08:03:06.013822"
     },
     {
         "symbol": "MCHL",
-        "ltp": 433.0,
+        "ltp": 441.0,
         "previous_close": 432.0,
-        "change": 1.0,
-        "percent_change": 0.23,
-        "high": 439.9,
+        "change": 9.0,
+        "percent_change": 2.08,
+        "high": 441.0,
         "low": 428.1,
-        "volume": 1352.0,
-        "last_updated": "2026-02-04T07:04:29.590033"
+        "volume": 3767.0,
+        "last_updated": "2026-02-04T08:03:06.013860"
     },
     {
         "symbol": "MDB",
-        "ltp": 649.9,
+        "ltp": 635.2,
         "previous_close": 640.0,
-        "change": 9.9,
-        "percent_change": 1.55,
-        "high": 649.9,
+        "change": -4.8,
+        "percent_change": -0.75,
+        "high": 650.0,
         "low": 629.0,
-        "volume": 6194.0,
-        "last_updated": "2026-02-04T07:04:29.590071"
+        "volume": 14166.0,
+        "last_updated": "2026-02-04T08:03:06.013896"
     },
     {
         "symbol": "MEHL",
-        "ltp": 445.5,
+        "ltp": 451.3,
         "previous_close": 444.8,
-        "change": 0.7,
-        "percent_change": 0.16,
-        "high": 450.0,
+        "change": 6.5,
+        "percent_change": 1.46,
+        "high": 451.4,
         "low": 438.2,
-        "volume": 4763.0,
-        "last_updated": "2026-02-04T07:04:29.590112"
+        "volume": 6481.0,
+        "last_updated": "2026-02-04T08:03:06.013932"
     },
     {
         "symbol": "MEL",
-        "ltp": 273.1,
+        "ltp": 273.5,
         "previous_close": 278.9,
-        "change": -5.8,
-        "percent_change": -2.08,
+        "change": -5.4,
+        "percent_change": -1.94,
         "high": 281.9,
         "low": 271.6,
-        "volume": 11496.0,
-        "last_updated": "2026-02-04T07:04:29.590169"
+        "volume": 12746.0,
+        "last_updated": "2026-02-04T08:03:06.013968"
     },
     {
         "symbol": "MEN",
-        "ltp": 590.0,
+        "ltp": 587.9,
         "previous_close": 582.0,
-        "change": 8.0,
-        "percent_change": 1.37,
+        "change": 5.9,
+        "percent_change": 1.01,
         "high": 593.6,
         "low": 581.9,
-        "volume": 11726.0,
-        "last_updated": "2026-02-04T07:04:29.590211"
+        "volume": 19755.0,
+        "last_updated": "2026-02-04T08:03:06.014003"
     },
     {
         "symbol": "MERO",
-        "ltp": 740.4,
+        "ltp": 750.0,
         "previous_close": 741.0,
-        "change": -0.6,
-        "percent_change": -0.08,
+        "change": 9.0,
+        "percent_change": 1.21,
         "high": 768.9,
         "low": 726.2,
-        "volume": 1969.0,
-        "last_updated": "2026-02-04T07:04:29.590251"
+        "volume": 2758.0,
+        "last_updated": "2026-02-04T08:03:06.014046"
     },
     {
         "symbol": "MFIL",
-        "ltp": 788.0,
+        "ltp": 789.0,
         "previous_close": 782.1,
-        "change": 5.9,
-        "percent_change": 0.75,
+        "change": 6.9,
+        "percent_change": 0.88,
         "high": 806.8,
         "low": 778.2,
-        "volume": 40113.0,
-        "last_updated": "2026-02-04T07:04:29.590301"
+        "volume": 53065.0,
+        "last_updated": "2026-02-04T08:03:06.014117"
     },
     {
         "symbol": "MHCL",
-        "ltp": 395.0,
+        "ltp": 394.0,
         "previous_close": 389.0,
-        "change": 6.0,
-        "percent_change": 1.54,
+        "change": 5.0,
+        "percent_change": 1.29,
         "high": 397.0,
         "low": 387.0,
-        "volume": 3395.0,
-        "last_updated": "2026-02-04T07:04:29.590339"
+        "volume": 3602.0,
+        "last_updated": "2026-02-04T08:03:06.014161"
     },
     {
         "symbol": "MHL",
@@ -1459,162 +1481,162 @@
         "percent_change": 0.2,
         "high": 518.0,
         "low": 503.2,
-        "volume": 7730.0,
-        "last_updated": "2026-02-04T07:04:29.590378"
+        "volume": 12394.0,
+        "last_updated": "2026-02-04T08:03:06.014199"
     },
     {
         "symbol": "MHNL",
-        "ltp": 269.1,
+        "ltp": 267.0,
         "previous_close": 268.0,
-        "change": 1.1,
-        "percent_change": 0.41,
+        "change": -1.0,
+        "percent_change": -0.37,
         "high": 278.0,
         "low": 265.1,
-        "volume": 17617.0,
-        "last_updated": "2026-02-04T07:04:29.590421"
+        "volume": 23431.0,
+        "last_updated": "2026-02-04T08:03:06.014235"
     },
     {
         "symbol": "MKCL",
-        "ltp": 1397.1,
+        "ltp": 1390.2,
         "previous_close": 1397.0,
-        "change": 0.1,
-        "percent_change": 0.01,
+        "change": -6.8,
+        "percent_change": -0.49,
         "high": 1419.0,
-        "low": 1395.1,
-        "volume": 2044.0,
-        "last_updated": "2026-02-04T07:04:29.590462"
+        "low": 1390.2,
+        "volume": 2909.0,
+        "last_updated": "2026-02-04T08:03:06.014272"
     },
     {
         "symbol": "MKHC",
-        "ltp": 340.6,
+        "ltp": 349.0,
         "previous_close": 344.0,
-        "change": -3.4,
-        "percent_change": -0.99,
+        "change": 5.0,
+        "percent_change": 1.45,
         "high": 349.9,
         "low": 339.0,
-        "volume": 10867.0,
-        "last_updated": "2026-02-04T07:04:29.590500"
+        "volume": 15872.0,
+        "last_updated": "2026-02-04T08:03:06.014308"
     },
     {
         "symbol": "MKHL",
-        "ltp": 835.2,
+        "ltp": 835.4,
         "previous_close": 842.5,
-        "change": -7.3,
-        "percent_change": -0.87,
+        "change": -7.1,
+        "percent_change": -0.84,
         "high": 893.0,
         "low": 810.5,
-        "volume": 6782.0,
-        "last_updated": "2026-02-04T07:04:29.590539"
+        "volume": 7044.0,
+        "last_updated": "2026-02-04T08:03:06.014343"
     },
     {
         "symbol": "MKJC",
-        "ltp": 553.0,
+        "ltp": 550.0,
         "previous_close": 554.0,
-        "change": -1.0,
-        "percent_change": -0.18,
+        "change": -4.0,
+        "percent_change": -0.72,
         "high": 564.1,
         "low": 547.0,
-        "volume": 21398.0,
-        "last_updated": "2026-02-04T07:04:29.590579"
+        "volume": 24286.0,
+        "last_updated": "2026-02-04T08:03:06.014383"
     },
     {
         "symbol": "MLBBL",
-        "ltp": 1380.0,
+        "ltp": 1368.0,
         "previous_close": 1366.0,
-        "change": 14.0,
-        "percent_change": 1.02,
+        "change": 2.0,
+        "percent_change": 0.15,
         "high": 1393.3,
         "low": 1367.1,
-        "volume": 320.0,
-        "last_updated": "2026-02-04T07:04:29.590618"
+        "volume": 1006.0,
+        "last_updated": "2026-02-04T08:03:06.014423"
     },
     {
         "symbol": "MLBL",
-        "ltp": 370.0,
+        "ltp": 368.4,
         "previous_close": 369.0,
-        "change": 1.0,
-        "percent_change": 0.27,
+        "change": -0.6,
+        "percent_change": -0.16,
         "high": 372.0,
-        "low": 370.0,
-        "volume": 9318.0,
-        "last_updated": "2026-02-04T07:04:29.590658"
+        "low": 368.4,
+        "volume": 11728.0,
+        "last_updated": "2026-02-04T08:03:06.014459"
     },
     {
         "symbol": "MLBS",
-        "ltp": 1454.2,
+        "ltp": 1455.0,
         "previous_close": 1469.0,
-        "change": -14.8,
-        "percent_change": -1.01,
-        "high": 1454.3,
+        "change": -14.0,
+        "percent_change": -0.95,
+        "high": 1455.0,
         "low": 1454.2,
-        "volume": 40.0,
-        "last_updated": "2026-02-04T07:04:29.590696"
+        "volume": 50.0,
+        "last_updated": "2026-02-04T08:03:06.014496"
     },
     {
         "symbol": "MLBSL",
-        "ltp": 1922.0,
+        "ltp": 1939.0,
         "previous_close": 1922.9,
-        "change": -0.9,
-        "percent_change": -0.05,
-        "high": 1922.0,
+        "change": 16.1,
+        "percent_change": 0.84,
+        "high": 1939.0,
         "low": 1922.0,
-        "volume": 20.0,
-        "last_updated": "2026-02-04T07:04:29.590733"
+        "volume": 30.0,
+        "last_updated": "2026-02-04T08:03:06.014532"
     },
     {
         "symbol": "MMF1",
-        "ltp": 9.5,
+        "ltp": 9.55,
         "previous_close": 9.68,
-        "change": -0.18,
-        "percent_change": -1.86,
-        "high": 9.51,
+        "change": -0.13,
+        "percent_change": -1.34,
+        "high": 9.69,
         "low": 9.5,
-        "volume": 50800.0,
-        "last_updated": "2026-02-04T07:04:29.590770"
+        "volume": 252334.0,
+        "last_updated": "2026-02-04T08:03:06.014568"
     },
     {
         "symbol": "MMKJL",
-        "ltp": 595.0,
+        "ltp": 594.0,
         "previous_close": 598.0,
-        "change": -3.0,
-        "percent_change": -0.5,
+        "change": -4.0,
+        "percent_change": -0.67,
         "high": 604.5,
-        "low": 595.0,
-        "volume": 3546.0,
-        "last_updated": "2026-02-04T07:04:29.590806"
+        "low": 594.0,
+        "volume": 5424.0,
+        "last_updated": "2026-02-04T08:03:06.014604"
     },
     {
         "symbol": "MNBBL",
-        "ltp": 362.5,
+        "ltp": 364.0,
         "previous_close": 362.3,
-        "change": 0.2,
-        "percent_change": 0.06,
+        "change": 1.7,
+        "percent_change": 0.47,
         "high": 366.8,
         "low": 360.1,
-        "volume": 10296.0,
-        "last_updated": "2026-02-04T07:04:29.590842"
+        "volume": 22619.0,
+        "last_updated": "2026-02-04T08:03:06.014639"
     },
     {
         "symbol": "MNMF1",
-        "ltp": 9.34,
+        "ltp": 9.51,
         "previous_close": 9.45,
-        "change": -0.11,
-        "percent_change": -1.16,
+        "change": 0.06,
+        "percent_change": 0.63,
         "high": 9.58,
         "low": 9.28,
-        "volume": 5800.0,
-        "last_updated": "2026-02-04T07:04:29.590879"
+        "volume": 8000.0,
+        "last_updated": "2026-02-04T08:03:06.014674"
     },
     {
         "symbol": "MPFL",
-        "ltp": 642.0,
+        "ltp": 643.0,
         "previous_close": 640.0,
-        "change": 2.0,
-        "percent_change": 0.31,
+        "change": 3.0,
+        "percent_change": 0.47,
         "high": 650.0,
         "low": 630.0,
-        "volume": 10850.0,
-        "last_updated": "2026-02-04T07:04:29.590916"
+        "volume": 14933.0,
+        "last_updated": "2026-02-04T08:03:06.014710"
     },
     {
         "symbol": "MSHL",
@@ -1624,30 +1646,30 @@
         "percent_change": 0.11,
         "high": 825.9,
         "low": 810.0,
-        "volume": 1507.0,
-        "last_updated": "2026-02-04T07:04:29.590952"
+        "volume": 1537.0,
+        "last_updated": "2026-02-04T08:03:06.014746"
     },
     {
         "symbol": "MSLB",
-        "ltp": 1370.0,
+        "ltp": 1311.1,
         "previous_close": 1324.0,
-        "change": 46.0,
-        "percent_change": 3.47,
+        "change": -12.9,
+        "percent_change": -0.97,
         "high": 1370.0,
         "low": 1304.0,
-        "volume": 1074.0,
-        "last_updated": "2026-02-04T07:04:29.590990"
+        "volume": 1135.0,
+        "last_updated": "2026-02-04T08:03:06.014782"
     },
     {
         "symbol": "NABBC",
-        "ltp": 1680.0,
+        "ltp": 1667.0,
         "previous_close": 1769.0,
-        "change": -89.0,
-        "percent_change": -5.03,
+        "change": -102.0,
+        "percent_change": -5.77,
         "high": 1804.3,
         "low": 1632.7,
-        "volume": 15021.0,
-        "last_updated": "2026-02-04T07:04:29.591027"
+        "volume": 38799.0,
+        "last_updated": "2026-02-04T08:03:06.014818"
     },
     {
         "symbol": "NABIL",
@@ -1657,30 +1679,30 @@
         "percent_change": 0.0,
         "high": 502.0,
         "low": 489.0,
-        "volume": 19065.0,
-        "last_updated": "2026-02-04T07:04:29.591065"
+        "volume": 27227.0,
+        "last_updated": "2026-02-04T08:03:06.014857"
     },
     {
         "symbol": "NABILD2089",
-        "ltp": 1056.0,
+        "ltp": 1056.1,
         "previous_close": 1052.8,
-        "change": 3.2,
-        "percent_change": 0.3,
-        "high": 1056.0,
+        "change": 3.3,
+        "percent_change": 0.31,
+        "high": 1056.1,
         "low": 1055.8,
-        "volume": 10.0,
-        "last_updated": "2026-02-04T07:04:29.591105"
+        "volume": 100.0,
+        "last_updated": "2026-02-04T08:03:06.014894"
     },
     {
         "symbol": "NADEP",
-        "ltp": 809.0,
+        "ltp": 813.1,
         "previous_close": 809.0,
-        "change": 0.0,
-        "percent_change": 0.0,
-        "high": 809.0,
+        "change": 4.1,
+        "percent_change": 0.51,
+        "high": 813.1,
         "low": 793.0,
-        "volume": 597.0,
-        "last_updated": "2026-02-04T07:04:29.591161"
+        "volume": 627.0,
+        "last_updated": "2026-02-04T08:03:06.014930"
     },
     {
         "symbol": "NBF2",
@@ -1690,19 +1712,19 @@
         "percent_change": -0.31,
         "high": 9.59,
         "low": 9.5,
-        "volume": 1400.0,
-        "last_updated": "2026-02-04T07:04:29.591202"
+        "volume": 1700.0,
+        "last_updated": "2026-02-04T08:03:06.014965"
     },
     {
         "symbol": "NBF3",
-        "ltp": 9.43,
+        "ltp": 9.55,
         "previous_close": 9.55,
-        "change": -0.12,
-        "percent_change": -1.26,
-        "high": 9.5,
+        "change": 0.0,
+        "percent_change": 0.0,
+        "high": 9.55,
         "low": 9.36,
-        "volume": 5050.0,
-        "last_updated": "2026-02-04T07:04:29.591241"
+        "volume": 7550.0,
+        "last_updated": "2026-02-04T08:03:06.015001"
     },
     {
         "symbol": "NBL",
@@ -1712,107 +1734,118 @@
         "percent_change": -0.33,
         "high": 246.8,
         "low": 239.0,
-        "volume": 5518.0,
-        "last_updated": "2026-02-04T07:04:29.591279"
+        "volume": 9233.0,
+        "last_updated": "2026-02-04T08:03:06.015037"
+    },
+    {
+        "symbol": "NBLD87",
+        "ltp": 1094.0,
+        "previous_close": 1091.0,
+        "change": 3.0,
+        "percent_change": 0.27,
+        "high": 1094.0,
+        "low": 1094.0,
+        "volume": 25.0,
+        "last_updated": "2026-02-04T08:03:06.015092"
     },
     {
         "symbol": "NESDO",
-        "ltp": 1490.0,
+        "ltp": 1500.0,
         "previous_close": 1516.0,
-        "change": -26.0,
-        "percent_change": -1.72,
+        "change": -16.0,
+        "percent_change": -1.06,
         "high": 1533.0,
         "low": 1490.0,
-        "volume": 314.0,
-        "last_updated": "2026-02-04T07:04:29.591318"
+        "volume": 855.0,
+        "last_updated": "2026-02-04T08:03:06.015135"
     },
     {
         "symbol": "NFS",
-        "ltp": 641.0,
+        "ltp": 653.0,
         "previous_close": 644.9,
-        "change": -3.9,
-        "percent_change": -0.6,
-        "high": 654.0,
+        "change": 8.1,
+        "percent_change": 1.26,
+        "high": 654.8,
         "low": 633.1,
-        "volume": 10362.0,
-        "last_updated": "2026-02-04T07:04:29.591356"
+        "volume": 21046.0,
+        "last_updated": "2026-02-04T08:03:06.015174"
     },
     {
         "symbol": "NGPL",
-        "ltp": 418.5,
+        "ltp": 414.5,
         "previous_close": 417.0,
-        "change": 1.5,
-        "percent_change": 0.36,
+        "change": -2.5,
+        "percent_change": -0.6,
         "high": 425.0,
         "low": 408.7,
-        "volume": 85803.0,
-        "last_updated": "2026-02-04T07:04:29.591394"
+        "volume": 196625.0,
+        "last_updated": "2026-02-04T08:03:06.015211"
     },
     {
         "symbol": "NHDL",
-        "ltp": 659.9,
+        "ltp": 659.0,
         "previous_close": 660.1,
-        "change": -0.2,
-        "percent_change": -0.03,
+        "change": -1.1,
+        "percent_change": -0.17,
         "high": 673.0,
         "low": 650.1,
-        "volume": 6579.0,
-        "last_updated": "2026-02-04T07:04:29.591431"
+        "volume": 6817.0,
+        "last_updated": "2026-02-04T08:03:06.015247"
     },
     {
         "symbol": "NHPC",
-        "ltp": 208.0,
+        "ltp": 206.5,
         "previous_close": 205.7,
-        "change": 2.3,
-        "percent_change": 1.12,
+        "change": 0.8,
+        "percent_change": 0.39,
         "high": 213.9,
         "low": 206.0,
-        "volume": 21612.0,
-        "last_updated": "2026-02-04T07:04:29.591468"
+        "volume": 34842.0,
+        "last_updated": "2026-02-04T08:03:06.015286"
     },
     {
         "symbol": "NIBLGF",
-        "ltp": 9.15,
+        "ltp": 9.2,
         "previous_close": 9.12,
-        "change": 0.03,
-        "percent_change": 0.33,
+        "change": 0.08,
+        "percent_change": 0.88,
         "high": 9.66,
         "low": 9.02,
-        "volume": 11900.0,
-        "last_updated": "2026-02-04T07:04:29.591505"
+        "volume": 12500.0,
+        "last_updated": "2026-02-04T08:03:06.015323"
     },
     {
         "symbol": "NIBLSTF",
-        "ltp": 9.22,
+        "ltp": 9.2,
         "previous_close": 9.23,
-        "change": -0.01,
-        "percent_change": -0.11,
+        "change": -0.03,
+        "percent_change": -0.33,
         "high": 9.41,
         "low": 9.2,
-        "volume": 383240.0,
-        "last_updated": "2026-02-04T07:04:29.591542"
+        "volume": 461110.0,
+        "last_updated": "2026-02-04T08:03:06.015362"
     },
     {
         "symbol": "NIBSF2",
-        "ltp": 9.18,
+        "ltp": 9.2,
         "previous_close": 9.54,
-        "change": -0.36,
-        "percent_change": -3.77,
+        "change": -0.34,
+        "percent_change": -3.56,
         "high": 9.73,
-        "low": 9.18,
-        "volume": 8100.0,
-        "last_updated": "2026-02-04T07:04:29.591579"
+        "low": 9.05,
+        "volume": 8800.0,
+        "last_updated": "2026-02-04T08:03:06.015398"
     },
     {
         "symbol": "NICA",
-        "ltp": 327.8,
+        "ltp": 325.0,
         "previous_close": 328.0,
-        "change": -0.2,
-        "percent_change": -0.06,
+        "change": -3.0,
+        "percent_change": -0.91,
         "high": 332.9,
         "low": 322.0,
-        "volume": 39347.0,
-        "last_updated": "2026-02-04T07:04:29.591617"
+        "volume": 51143.0,
+        "last_updated": "2026-02-04T08:03:06.015434"
     },
     {
         "symbol": "NICAD2091",
@@ -1823,7 +1856,7 @@
         "high": 1048.1,
         "low": 1048.1,
         "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.591658"
+        "last_updated": "2026-02-04T08:03:06.015470"
     },
     {
         "symbol": "NICBF",
@@ -1834,7 +1867,7 @@
         "high": 9.45,
         "low": 9.43,
         "volume": 600.0,
-        "last_updated": "2026-02-04T07:04:29.591695"
+        "last_updated": "2026-02-04T08:03:06.015506"
     },
     {
         "symbol": "NICD88",
@@ -1845,7 +1878,7 @@
         "high": 1081.0,
         "low": 1081.0,
         "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.591733"
+        "last_updated": "2026-02-04T08:03:06.015542"
     },
     {
         "symbol": "NICFC",
@@ -1853,43 +1886,43 @@
         "previous_close": 9.1,
         "change": 0.08,
         "percent_change": 0.88,
-        "high": 9.18,
+        "high": 9.2,
         "low": 9.0,
-        "volume": 1500.0,
-        "last_updated": "2026-02-04T07:04:29.591773"
+        "volume": 7800.0,
+        "last_updated": "2026-02-04T08:03:06.015578"
     },
     {
         "symbol": "NICGF2",
-        "ltp": 9.35,
+        "ltp": 9.48,
         "previous_close": 9.3,
-        "change": 0.05,
-        "percent_change": 0.54,
-        "high": 9.35,
+        "change": 0.18,
+        "percent_change": 1.94,
+        "high": 9.48,
         "low": 9.13,
-        "volume": 2650.0,
-        "last_updated": "2026-02-04T07:04:29.591813"
+        "volume": 30350.0,
+        "last_updated": "2026-02-04T08:03:06.015613"
     },
     {
         "symbol": "NICL",
-        "ltp": 505.0,
+        "ltp": 504.0,
         "previous_close": 505.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -1.0,
+        "percent_change": -0.2,
         "high": 512.5,
         "low": 503.0,
-        "volume": 6460.0,
-        "last_updated": "2026-02-04T07:04:29.591853"
+        "volume": 9319.0,
+        "last_updated": "2026-02-04T08:03:06.015649"
     },
     {
         "symbol": "NICLBSL",
-        "ltp": 576.9,
+        "ltp": 574.2,
         "previous_close": 569.0,
-        "change": 7.9,
-        "percent_change": 1.39,
-        "high": 577.0,
+        "change": 5.2,
+        "percent_change": 0.91,
+        "high": 580.0,
         "low": 569.0,
-        "volume": 3811.0,
-        "last_updated": "2026-02-04T07:04:29.591890"
+        "volume": 7782.0,
+        "last_updated": "2026-02-04T08:03:06.015684"
     },
     {
         "symbol": "NICSF",
@@ -1897,54 +1930,54 @@
         "previous_close": 9.0,
         "change": -0.08,
         "percent_change": -0.89,
-        "high": 8.92,
+        "high": 9.09,
         "low": 8.85,
-        "volume": 1300.0,
-        "last_updated": "2026-02-04T07:04:29.591928"
+        "volume": 2000.0,
+        "last_updated": "2026-02-04T08:03:06.015720"
     },
     {
         "symbol": "NIFRA",
-        "ltp": 261.1,
+        "ltp": 261.0,
         "previous_close": 261.8,
-        "change": -0.7,
-        "percent_change": -0.27,
+        "change": -0.8,
+        "percent_change": -0.31,
         "high": 264.9,
         "low": 261.0,
-        "volume": 42708.0,
-        "last_updated": "2026-02-04T07:04:29.591965"
+        "volume": 67578.0,
+        "last_updated": "2026-02-04T08:03:06.015759"
     },
     {
         "symbol": "NIFRAGED",
-        "ltp": 1024.1,
+        "ltp": 1023.2,
         "previous_close": 1016.4,
-        "change": 7.7,
-        "percent_change": 0.76,
+        "change": 6.8,
+        "percent_change": 0.67,
         "high": 1024.1,
-        "low": 1024.1,
-        "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.592002"
+        "low": 1023.2,
+        "volume": 75.0,
+        "last_updated": "2026-02-04T08:03:06.015797"
     },
     {
         "symbol": "NIL",
-        "ltp": 649.3,
+        "ltp": 649.1,
         "previous_close": 649.1,
-        "change": 0.2,
-        "percent_change": 0.03,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 651.1,
-        "low": 649.2,
-        "volume": 983.0,
-        "last_updated": "2026-02-04T07:04:29.592039"
+        "low": 649.1,
+        "volume": 5997.0,
+        "last_updated": "2026-02-04T08:03:06.015836"
     },
     {
         "symbol": "NIMB",
-        "ltp": 191.3,
+        "ltp": 192.0,
         "previous_close": 193.0,
-        "change": -1.7,
-        "percent_change": -0.88,
+        "change": -1.0,
+        "percent_change": -0.52,
         "high": 200.0,
         "low": 190.0,
-        "volume": 90225.0,
-        "last_updated": "2026-02-04T07:04:29.592076"
+        "volume": 103629.0,
+        "last_updated": "2026-02-04T08:03:06.015873"
     },
     {
         "symbol": "NIMBPO",
@@ -1955,51 +1988,51 @@
         "high": 156.0,
         "low": 153.9,
         "volume": 3144.0,
-        "last_updated": "2026-02-04T07:04:29.592113"
+        "last_updated": "2026-02-04T08:03:06.015910"
     },
     {
         "symbol": "NLG",
-        "ltp": 672.5,
+        "ltp": 675.0,
         "previous_close": 673.8,
-        "change": -1.3,
-        "percent_change": -0.19,
-        "high": 676.0,
+        "change": 1.2,
+        "percent_change": 0.18,
+        "high": 677.5,
         "low": 666.3,
-        "volume": 9127.0,
-        "last_updated": "2026-02-04T07:04:29.592167"
+        "volume": 15480.0,
+        "last_updated": "2026-02-04T08:03:06.015946"
     },
     {
         "symbol": "NLIC",
-        "ltp": 770.0,
+        "ltp": 765.1,
         "previous_close": 763.0,
-        "change": 7.0,
-        "percent_change": 0.92,
+        "change": 2.1,
+        "percent_change": 0.28,
         "high": 777.0,
         "low": 748.0,
-        "volume": 12369.0,
-        "last_updated": "2026-02-04T07:04:29.592207"
+        "volume": 17606.0,
+        "last_updated": "2026-02-04T08:03:06.015982"
     },
     {
         "symbol": "NLICL",
-        "ltp": 581.0,
+        "ltp": 584.0,
         "previous_close": 584.4,
-        "change": -3.4,
-        "percent_change": -0.58,
+        "change": -0.4,
+        "percent_change": -0.07,
         "high": 596.0,
         "low": 579.3,
-        "volume": 920.0,
-        "last_updated": "2026-02-04T07:04:29.592248"
+        "volume": 2081.0,
+        "last_updated": "2026-02-04T08:03:06.016017"
     },
     {
         "symbol": "NMB",
-        "ltp": 237.4,
+        "ltp": 236.0,
         "previous_close": 235.9,
-        "change": 1.5,
-        "percent_change": 0.64,
+        "change": 0.1,
+        "percent_change": 0.04,
         "high": 239.0,
         "low": 231.2,
-        "volume": 14488.0,
-        "last_updated": "2026-02-04T07:04:29.592287"
+        "volume": 25159.0,
+        "last_updated": "2026-02-04T08:03:06.016053"
     },
     {
         "symbol": "NMB50",
@@ -2009,30 +2042,30 @@
         "percent_change": -0.96,
         "high": 10.3,
         "low": 10.3,
-        "volume": 473.0,
-        "last_updated": "2026-02-04T07:04:29.592324"
+        "volume": 973.0,
+        "last_updated": "2026-02-04T08:03:06.016103"
     },
     {
         "symbol": "NMBHF2",
-        "ltp": 9.44,
+        "ltp": 9.5,
         "previous_close": 9.41,
-        "change": 0.03,
-        "percent_change": 0.32,
+        "change": 0.09,
+        "percent_change": 0.96,
         "high": 9.59,
         "low": 9.4,
-        "volume": 4200.0,
-        "last_updated": "2026-02-04T07:04:29.592360"
+        "volume": 5100.0,
+        "last_updated": "2026-02-04T08:03:06.016140"
     },
     {
         "symbol": "NMBMF",
-        "ltp": 680.0,
+        "ltp": 676.5,
         "previous_close": 675.2,
-        "change": 4.8,
-        "percent_change": 0.71,
+        "change": 1.3,
+        "percent_change": 0.19,
         "high": 685.0,
-        "low": 679.2,
+        "low": 676.5,
         "volume": 802.0,
-        "last_updated": "2026-02-04T07:04:29.592397"
+        "last_updated": "2026-02-04T08:03:06.016177"
     },
     {
         "symbol": "NMFBS",
@@ -2043,139 +2076,139 @@
         "high": 1106.5,
         "low": 1106.0,
         "volume": 412.0,
-        "last_updated": "2026-02-04T07:04:29.592435"
+        "last_updated": "2026-02-04T08:03:06.016214"
     },
     {
         "symbol": "NMIC",
-        "ltp": 1355.0,
+        "ltp": 1363.0,
         "previous_close": 1335.0,
-        "change": 20.0,
-        "percent_change": 1.5,
+        "change": 28.0,
+        "percent_change": 2.1,
         "high": 1375.0,
         "low": 1336.0,
-        "volume": 11298.0,
-        "last_updated": "2026-02-04T07:04:29.592473"
+        "volume": 15168.0,
+        "last_updated": "2026-02-04T08:03:06.016250"
     },
     {
         "symbol": "NMLBBL",
-        "ltp": 635.0,
+        "ltp": 636.0,
         "previous_close": 634.5,
-        "change": 0.5,
-        "percent_change": 0.08,
+        "change": 1.5,
+        "percent_change": 0.24,
         "high": 640.0,
         "low": 630.0,
-        "volume": 583.0,
-        "last_updated": "2026-02-04T07:04:29.592512"
+        "volume": 1143.0,
+        "last_updated": "2026-02-04T08:03:06.016287"
     },
     {
         "symbol": "NRIC",
-        "ltp": 1237.5,
+        "ltp": 1235.0,
         "previous_close": 1250.0,
-        "change": -12.5,
-        "percent_change": -1.0,
+        "change": -15.0,
+        "percent_change": -1.2,
         "high": 1260.0,
         "low": 1200.6,
-        "volume": 43964.0,
-        "last_updated": "2026-02-04T07:04:29.592551"
+        "volume": 63355.0,
+        "last_updated": "2026-02-04T08:03:06.016327"
     },
     {
         "symbol": "NRM",
-        "ltp": 434.0,
+        "ltp": 430.0,
         "previous_close": 431.0,
-        "change": 3.0,
-        "percent_change": 0.7,
+        "change": -1.0,
+        "percent_change": -0.23,
         "high": 438.0,
-        "low": 430.0,
-        "volume": 8720.0,
-        "last_updated": "2026-02-04T07:04:29.592589"
+        "low": 429.0,
+        "volume": 15471.0,
+        "last_updated": "2026-02-04T08:03:06.016364"
     },
     {
         "symbol": "NRN",
-        "ltp": 1558.9,
+        "ltp": 1544.9,
         "previous_close": 1540.0,
-        "change": 18.9,
-        "percent_change": 1.23,
+        "change": 4.9,
+        "percent_change": 0.32,
         "high": 1564.0,
         "low": 1509.2,
-        "volume": 36991.0,
-        "last_updated": "2026-02-04T07:04:29.592628"
+        "volume": 49404.0,
+        "last_updated": "2026-02-04T08:03:06.016400"
     },
     {
         "symbol": "NSIF2",
-        "ltp": 10.6,
+        "ltp": 10.62,
         "previous_close": 10.6,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": 0.02,
+        "percent_change": 0.19,
         "high": 10.62,
         "low": 10.4,
-        "volume": 10700.0,
-        "last_updated": "2026-02-04T07:04:29.592668"
+        "volume": 10800.0,
+        "last_updated": "2026-02-04T08:03:06.016443"
     },
     {
         "symbol": "NTC",
-        "ltp": 851.0,
+        "ltp": 850.6,
         "previous_close": 850.9,
-        "change": 0.1,
-        "percent_change": 0.01,
+        "change": -0.3,
+        "percent_change": -0.04,
         "high": 865.0,
         "low": 834.0,
-        "volume": 3113.0,
-        "last_updated": "2026-02-04T07:04:29.592706"
+        "volume": 4224.0,
+        "last_updated": "2026-02-04T08:03:06.016480"
     },
     {
         "symbol": "NUBL",
-        "ltp": 715.0,
+        "ltp": 711.0,
         "previous_close": 712.1,
-        "change": 2.9,
-        "percent_change": 0.41,
+        "change": -1.1,
+        "percent_change": -0.15,
         "high": 715.0,
         "low": 709.5,
-        "volume": 1413.0,
-        "last_updated": "2026-02-04T07:04:29.592743"
+        "volume": 1423.0,
+        "last_updated": "2026-02-04T08:03:06.016517"
     },
     {
         "symbol": "NWCL",
-        "ltp": 930.0,
+        "ltp": 920.0,
         "previous_close": 925.0,
-        "change": 5.0,
-        "percent_change": 0.54,
+        "change": -5.0,
+        "percent_change": -0.54,
         "high": 949.9,
-        "low": 930.0,
-        "volume": 1339.0,
-        "last_updated": "2026-02-04T07:04:29.592781"
+        "low": 920.0,
+        "volume": 4632.0,
+        "last_updated": "2026-02-04T08:03:06.016553"
     },
     {
         "symbol": "NYADI",
-        "ltp": 399.0,
+        "ltp": 395.4,
         "previous_close": 400.0,
-        "change": -1.0,
-        "percent_change": -0.25,
+        "change": -4.6,
+        "percent_change": -1.15,
         "high": 406.9,
-        "low": 399.0,
-        "volume": 3120.0,
-        "last_updated": "2026-02-04T07:04:29.592818"
+        "low": 395.1,
+        "volume": 4781.0,
+        "last_updated": "2026-02-04T08:03:06.016589"
     },
     {
         "symbol": "OHL",
-        "ltp": 725.0,
+        "ltp": 720.0,
         "previous_close": 730.0,
-        "change": -5.0,
-        "percent_change": -0.68,
+        "change": -10.0,
+        "percent_change": -1.37,
         "high": 744.0,
-        "low": 725.0,
-        "volume": 4023.0,
-        "last_updated": "2026-02-04T07:04:29.592856"
+        "low": 720.0,
+        "volume": 4244.0,
+        "last_updated": "2026-02-04T08:03:06.016625"
     },
     {
         "symbol": "OMPL",
-        "ltp": 1409.0,
+        "ltp": 1415.0,
         "previous_close": 1409.9,
-        "change": -0.9,
-        "percent_change": -0.06,
+        "change": 5.1,
+        "percent_change": 0.36,
         "high": 1438.0,
         "low": 1405.0,
-        "volume": 5723.0,
-        "last_updated": "2026-02-04T07:04:29.592894"
+        "volume": 9705.0,
+        "last_updated": "2026-02-04T08:03:06.016661"
     },
     {
         "symbol": "PBD88",
@@ -2186,84 +2219,84 @@
         "high": 1188.0,
         "low": 1188.0,
         "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.592931"
+        "last_updated": "2026-02-04T08:03:06.016697"
     },
     {
         "symbol": "PCBL",
-        "ltp": 235.8,
+        "ltp": 237.0,
         "previous_close": 235.8,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": 1.2,
+        "percent_change": 0.51,
         "high": 239.7,
         "low": 232.0,
-        "volume": 8905.0,
-        "last_updated": "2026-02-04T07:04:29.592969"
+        "volume": 20268.0,
+        "last_updated": "2026-02-04T08:03:06.016733"
     },
     {
         "symbol": "PFL",
-        "ltp": 379.0,
+        "ltp": 382.0,
         "previous_close": 382.0,
-        "change": -3.0,
-        "percent_change": -0.79,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 389.0,
         "low": 378.0,
-        "volume": 6898.0,
-        "last_updated": "2026-02-04T07:04:29.593009"
+        "volume": 9953.0,
+        "last_updated": "2026-02-04T08:03:06.016769"
     },
     {
         "symbol": "PHCL",
-        "ltp": 285.0,
+        "ltp": 286.0,
         "previous_close": 286.0,
-        "change": -1.0,
-        "percent_change": -0.35,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 291.0,
         "low": 285.0,
-        "volume": 38193.0,
-        "last_updated": "2026-02-04T07:04:29.593048"
+        "volume": 50848.0,
+        "last_updated": "2026-02-04T08:03:06.016815"
     },
     {
         "symbol": "PMHPL",
-        "ltp": 354.0,
+        "ltp": 348.1,
         "previous_close": 352.9,
-        "change": 1.1,
-        "percent_change": 0.31,
+        "change": -4.8,
+        "percent_change": -1.36,
         "high": 358.0,
-        "low": 350.0,
-        "volume": 23488.0,
-        "last_updated": "2026-02-04T07:04:29.593095"
+        "low": 348.1,
+        "volume": 30337.0,
+        "last_updated": "2026-02-04T08:03:06.016851"
     },
     {
         "symbol": "PMLI",
-        "ltp": 508.0,
+        "ltp": 504.0,
         "previous_close": 508.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -4.0,
+        "percent_change": -0.79,
         "high": 513.0,
         "low": 499.1,
-        "volume": 13123.0,
-        "last_updated": "2026-02-04T07:04:29.593151"
+        "volume": 13397.0,
+        "last_updated": "2026-02-04T08:03:06.016887"
     },
     {
         "symbol": "PPCL",
-        "ltp": 377.0,
+        "ltp": 375.1,
         "previous_close": 374.6,
-        "change": 2.4,
-        "percent_change": 0.64,
+        "change": 0.5,
+        "percent_change": 0.13,
         "high": 380.0,
         "low": 374.0,
-        "volume": 13659.0,
-        "last_updated": "2026-02-04T07:04:29.593195"
+        "volume": 17414.0,
+        "last_updated": "2026-02-04T08:03:06.016923"
     },
     {
         "symbol": "PPL",
-        "ltp": 413.0,
+        "ltp": 408.6,
         "previous_close": 402.0,
-        "change": 11.0,
-        "percent_change": 2.74,
+        "change": 6.6,
+        "percent_change": 1.64,
         "high": 418.0,
         "low": 407.0,
-        "volume": 237525.0,
-        "last_updated": "2026-02-04T07:04:29.593236"
+        "volume": 285315.0,
+        "last_updated": "2026-02-04T08:03:06.016959"
     },
     {
         "symbol": "PRIN",
@@ -2273,85 +2306,85 @@
         "percent_change": -0.14,
         "high": 730.9,
         "low": 696.8,
-        "volume": 4166.0,
-        "last_updated": "2026-02-04T07:04:29.593274"
+        "volume": 5263.0,
+        "last_updated": "2026-02-04T08:03:06.016997"
     },
     {
         "symbol": "PROFL",
-        "ltp": 469.1,
+        "ltp": 472.1,
         "previous_close": 462.8,
-        "change": 6.3,
-        "percent_change": 1.36,
+        "change": 9.3,
+        "percent_change": 2.01,
         "high": 478.0,
         "low": 460.0,
-        "volume": 5907.0,
-        "last_updated": "2026-02-04T07:04:29.593312"
+        "volume": 11033.0,
+        "last_updated": "2026-02-04T08:03:06.017034"
     },
     {
         "symbol": "PRSF",
-        "ltp": 11.24,
+        "ltp": 11.25,
         "previous_close": 11.2,
-        "change": 0.04,
-        "percent_change": 0.36,
-        "high": 11.24,
+        "change": 0.05,
+        "percent_change": 0.45,
+        "high": 11.25,
         "low": 11.2,
-        "volume": 675.0,
-        "last_updated": "2026-02-04T07:04:29.593349"
+        "volume": 10975.0,
+        "last_updated": "2026-02-04T08:03:06.017082"
     },
     {
         "symbol": "PRVU",
-        "ltp": 183.6,
+        "ltp": 183.8,
         "previous_close": 183.7,
-        "change": -0.1,
-        "percent_change": -0.05,
+        "change": 0.1,
+        "percent_change": 0.05,
         "high": 187.2,
         "low": 180.1,
-        "volume": 37570.0,
-        "last_updated": "2026-02-04T07:04:29.593387"
+        "volume": 49818.0,
+        "last_updated": "2026-02-04T08:03:06.017124"
     },
     {
         "symbol": "PSF",
-        "ltp": 11.07,
+        "ltp": 11.06,
         "previous_close": 10.92,
-        "change": 0.15,
-        "percent_change": 1.37,
+        "change": 0.14,
+        "percent_change": 1.28,
         "high": 11.1,
         "low": 10.92,
-        "volume": 9850.0,
-        "last_updated": "2026-02-04T07:04:29.593424"
+        "volume": 12294.0,
+        "last_updated": "2026-02-04T08:03:06.017161"
     },
     {
         "symbol": "PURE",
-        "ltp": 1083.0,
+        "ltp": 1078.0,
         "previous_close": 1081.0,
-        "change": 2.0,
-        "percent_change": 0.19,
+        "change": -3.0,
+        "percent_change": -0.28,
         "high": 1118.0,
-        "low": 1069.0,
-        "volume": 11177.0,
-        "last_updated": "2026-02-04T07:04:29.593461"
+        "low": 1068.0,
+        "volume": 13818.0,
+        "last_updated": "2026-02-04T08:03:06.017198"
     },
     {
         "symbol": "RADHI",
-        "ltp": 849.9,
+        "ltp": 847.6,
         "previous_close": 836.0,
-        "change": 13.9,
-        "percent_change": 1.66,
+        "change": 11.6,
+        "percent_change": 1.39,
         "high": 864.9,
         "low": 840.0,
-        "volume": 163797.0,
-        "last_updated": "2026-02-04T07:04:29.593498"
+        "volume": 203584.0,
+        "last_updated": "2026-02-04T08:03:06.017234"
     },
     {
         "symbol": "RAWA",
-        "ltp": 750.0,
+        "ltp": 740.1,
         "previous_close": 799.0,
-        "change": -49.0,
-        "percent_change": -6.13,
+        "change": -58.9,
+        "percent_change": -7.37,
         "high": 783.1,
         "low": 737.2,
-        "volume": 7076.0,
-        "last_updated": "2026-02-04T07:04:29.593535"
+        "volume": 11148.0,
+        "last_updated": "2026-02-04T08:03:06.017270"
     },
     {
         "symbol": "RBBD2088",
@@ -2362,7 +2395,7 @@
         "high": 1050.0,
         "low": 1050.0,
         "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.593572"
+        "last_updated": "2026-02-04T08:03:06.017310"
     },
     {
         "symbol": "RBBD83",
@@ -2373,40 +2406,40 @@
         "high": 1042.0,
         "low": 1042.0,
         "volume": 50.0,
-        "last_updated": "2026-02-04T07:04:29.593609"
+        "last_updated": "2026-02-04T08:03:06.017347"
     },
     {
         "symbol": "RBBF40",
-        "ltp": 9.4,
+        "ltp": 9.41,
         "previous_close": 9.38,
-        "change": 0.02,
-        "percent_change": 0.21,
+        "change": 0.03,
+        "percent_change": 0.32,
         "high": 9.69,
         "low": 9.4,
-        "volume": 4710.0,
-        "last_updated": "2026-02-04T07:04:29.593646"
+        "volume": 5910.0,
+        "last_updated": "2026-02-04T08:03:06.017382"
     },
     {
         "symbol": "RBCL",
-        "ltp": 14816.0,
+        "ltp": 15000.0,
         "previous_close": 14861.0,
-        "change": -45.0,
-        "percent_change": -0.3,
-        "high": 14816.0,
+        "change": 139.0,
+        "percent_change": 0.94,
+        "high": 15000.0,
         "low": 14816.0,
-        "volume": 50.0,
-        "last_updated": "2026-02-04T07:04:29.593686"
+        "volume": 70.0,
+        "last_updated": "2026-02-04T08:03:06.017418"
     },
     {
         "symbol": "RFPL",
-        "ltp": 422.7,
+        "ltp": 421.0,
         "previous_close": 424.0,
-        "change": -1.3,
-        "percent_change": -0.31,
+        "change": -3.0,
+        "percent_change": -0.71,
         "high": 431.0,
         "low": 415.6,
-        "volume": 77752.0,
-        "last_updated": "2026-02-04T07:04:29.593722"
+        "volume": 106881.0,
+        "last_updated": "2026-02-04T08:03:06.017454"
     },
     {
         "symbol": "RHGCL",
@@ -2416,129 +2449,129 @@
         "percent_change": -1.38,
         "high": 285.5,
         "low": 276.0,
-        "volume": 23906.0,
-        "last_updated": "2026-02-04T07:04:29.593759"
+        "volume": 32528.0,
+        "last_updated": "2026-02-04T08:03:06.017490"
     },
     {
         "symbol": "RHPL",
-        "ltp": 277.7,
+        "ltp": 278.1,
         "previous_close": 277.1,
-        "change": 0.6,
-        "percent_change": 0.22,
+        "change": 1.0,
+        "percent_change": 0.36,
         "high": 282.5,
         "low": 277.0,
-        "volume": 7172.0,
-        "last_updated": "2026-02-04T07:04:29.593795"
+        "volume": 16637.0,
+        "last_updated": "2026-02-04T08:03:06.017526"
     },
     {
         "symbol": "RIDI",
-        "ltp": 236.1,
+        "ltp": 238.0,
         "previous_close": 239.0,
-        "change": -2.9,
-        "percent_change": -1.21,
+        "change": -1.0,
+        "percent_change": -0.42,
         "high": 245.0,
         "low": 236.0,
-        "volume": 24063.0,
-        "last_updated": "2026-02-04T07:04:29.593832"
+        "volume": 38035.0,
+        "last_updated": "2026-02-04T08:03:06.017562"
     },
     {
         "symbol": "RLFL",
-        "ltp": 460.0,
+        "ltp": 450.2,
         "previous_close": 452.2,
-        "change": 7.8,
-        "percent_change": 1.72,
+        "change": -2.0,
+        "percent_change": -0.44,
         "high": 465.0,
-        "low": 455.0,
-        "volume": 13487.0,
-        "last_updated": "2026-02-04T07:04:29.593872"
+        "low": 450.2,
+        "volume": 22060.0,
+        "last_updated": "2026-02-04T08:03:06.017598"
     },
     {
         "symbol": "RMF1",
-        "ltp": 9.24,
+        "ltp": 9.17,
         "previous_close": 9.6,
-        "change": -0.36,
-        "percent_change": -3.75,
+        "change": -0.43,
+        "percent_change": -4.48,
         "high": 9.78,
-        "low": 9.23,
-        "volume": 42800.0,
-        "last_updated": "2026-02-04T07:04:29.593912"
+        "low": 9.13,
+        "volume": 170150.0,
+        "last_updated": "2026-02-04T08:03:06.017637"
     },
     {
         "symbol": "RMF2",
-        "ltp": 9.8,
+        "ltp": 9.76,
         "previous_close": 9.73,
-        "change": 0.07,
-        "percent_change": 0.72,
+        "change": 0.03,
+        "percent_change": 0.31,
         "high": 9.8,
         "low": 9.65,
-        "volume": 300.0,
-        "last_updated": "2026-02-04T07:04:29.593949"
+        "volume": 700.0,
+        "last_updated": "2026-02-04T08:03:06.017674"
     },
     {
         "symbol": "RNLI",
-        "ltp": 460.0,
+        "ltp": 459.2,
         "previous_close": 460.4,
-        "change": -0.4,
-        "percent_change": -0.09,
+        "change": -1.2,
+        "percent_change": -0.26,
         "high": 464.5,
         "low": 457.3,
-        "volume": 14236.0,
-        "last_updated": "2026-02-04T07:04:29.593985"
+        "volume": 15115.0,
+        "last_updated": "2026-02-04T08:03:06.017709"
     },
     {
         "symbol": "RSDC",
-        "ltp": 660.0,
+        "ltp": 660.2,
         "previous_close": 653.1,
-        "change": 6.9,
-        "percent_change": 1.06,
+        "change": 7.1,
+        "percent_change": 1.09,
         "high": 666.0,
         "low": 656.5,
-        "volume": 1366.0,
-        "last_updated": "2026-02-04T07:04:29.594021"
+        "volume": 5635.0,
+        "last_updated": "2026-02-04T08:03:06.017745"
     },
     {
         "symbol": "RSY",
-        "ltp": 9.81,
+        "ltp": 9.8,
         "previous_close": 9.75,
-        "change": 0.06,
-        "percent_change": 0.62,
+        "change": 0.05,
+        "percent_change": 0.51,
         "high": 9.93,
         "low": 9.75,
-        "volume": 3645.0,
-        "last_updated": "2026-02-04T07:04:29.594058"
+        "volume": 3845.0,
+        "last_updated": "2026-02-04T08:03:06.017786"
     },
     {
         "symbol": "RURU",
-        "ltp": 665.3,
+        "ltp": 672.0,
         "previous_close": 664.2,
-        "change": 1.1,
-        "percent_change": 0.17,
+        "change": 7.8,
+        "percent_change": 1.17,
         "high": 675.0,
         "low": 663.0,
-        "volume": 3492.0,
-        "last_updated": "2026-02-04T07:04:29.594094"
+        "volume": 3910.0,
+        "last_updated": "2026-02-04T08:03:06.017822"
     },
     {
         "symbol": "SADBL",
-        "ltp": 410.0,
+        "ltp": 408.0,
         "previous_close": 409.5,
-        "change": 0.5,
-        "percent_change": 0.12,
+        "change": -1.5,
+        "percent_change": -0.37,
         "high": 415.0,
         "low": 408.0,
-        "volume": 2699.0,
-        "last_updated": "2026-02-04T07:04:29.594143"
+        "volume": 8104.0,
+        "last_updated": "2026-02-04T08:03:06.017858"
     },
     {
         "symbol": "SAGAR",
-        "ltp": 2100.2,
+        "ltp": 2091.5,
         "previous_close": 2150.0,
-        "change": -49.8,
-        "percent_change": -2.32,
+        "change": -58.5,
+        "percent_change": -2.72,
         "high": 2187.9,
         "low": 2090.1,
-        "volume": 10095.0,
-        "last_updated": "2026-02-04T07:04:29.594188"
+        "volume": 15189.0,
+        "last_updated": "2026-02-04T08:03:06.017895"
     },
     {
         "symbol": "SAGF",
@@ -2548,107 +2581,107 @@
         "percent_change": 0.2,
         "high": 9.84,
         "low": 9.65,
-        "volume": 37577.0,
-        "last_updated": "2026-02-04T07:04:29.594230"
+        "volume": 38702.0,
+        "last_updated": "2026-02-04T08:03:06.017931"
     },
     {
         "symbol": "SAHAS",
-        "ltp": 558.0,
+        "ltp": 558.9,
         "previous_close": 558.9,
-        "change": -0.9,
-        "percent_change": -0.16,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 564.0,
         "low": 552.0,
-        "volume": 13329.0,
-        "last_updated": "2026-02-04T07:04:29.594268"
+        "volume": 29997.0,
+        "last_updated": "2026-02-04T08:03:06.017966"
     },
     {
         "symbol": "SAIL",
-        "ltp": 1512.1,
+        "ltp": 1481.0,
         "previous_close": 1522.0,
-        "change": -9.9,
-        "percent_change": -0.65,
+        "change": -41.0,
+        "percent_change": -2.69,
         "high": 1575.0,
-        "low": 1496.1,
-        "volume": 81892.0,
-        "last_updated": "2026-02-04T07:04:29.594307"
+        "low": 1475.0,
+        "volume": 115819.0,
+        "last_updated": "2026-02-04T08:03:06.018002"
     },
     {
         "symbol": "SALICO",
-        "ltp": 598.1,
+        "ltp": 600.0,
         "previous_close": 604.0,
-        "change": -5.9,
-        "percent_change": -0.98,
+        "change": -4.0,
+        "percent_change": -0.66,
         "high": 605.0,
         "low": 592.0,
-        "volume": 2639.0,
-        "last_updated": "2026-02-04T07:04:29.594344"
+        "volume": 2818.0,
+        "last_updated": "2026-02-04T08:03:06.018038"
     },
     {
         "symbol": "SANIMA",
-        "ltp": 331.0,
+        "ltp": 329.8,
         "previous_close": 330.0,
-        "change": 1.0,
-        "percent_change": 0.3,
+        "change": -0.2,
+        "percent_change": -0.06,
         "high": 334.4,
         "low": 323.4,
-        "volume": 8456.0,
-        "last_updated": "2026-02-04T07:04:29.594381"
+        "volume": 15937.0,
+        "last_updated": "2026-02-04T08:03:06.018084"
     },
     {
         "symbol": "SANVI",
-        "ltp": 900.0,
+        "ltp": 881.0,
         "previous_close": 907.0,
-        "change": -7.0,
-        "percent_change": -0.77,
+        "change": -26.0,
+        "percent_change": -2.87,
         "high": 930.0,
-        "low": 889.0,
-        "volume": 25450.0,
-        "last_updated": "2026-02-04T07:04:29.594418"
+        "low": 881.0,
+        "volume": 34850.0,
+        "last_updated": "2026-02-04T08:03:06.018122"
     },
     {
         "symbol": "SAPDBL",
-        "ltp": 880.0,
+        "ltp": 878.0,
         "previous_close": 888.0,
-        "change": -8.0,
-        "percent_change": -0.9,
+        "change": -10.0,
+        "percent_change": -1.13,
         "high": 903.9,
-        "low": 876.0,
-        "volume": 20379.0,
-        "last_updated": "2026-02-04T07:04:29.594455"
+        "low": 875.0,
+        "volume": 34616.0,
+        "last_updated": "2026-02-04T08:03:06.018157"
     },
     {
         "symbol": "SARBTM",
-        "ltp": 862.0,
+        "ltp": 870.0,
         "previous_close": 866.9,
-        "change": -4.9,
-        "percent_change": -0.57,
+        "change": 3.1,
+        "percent_change": 0.36,
         "high": 877.9,
         "low": 862.0,
-        "volume": 1163.0,
-        "last_updated": "2026-02-04T07:04:29.594491"
+        "volume": 5951.0,
+        "last_updated": "2026-02-04T08:03:06.018193"
     },
     {
         "symbol": "SBCF",
-        "ltp": 9.58,
+        "ltp": 9.5,
         "previous_close": 9.56,
-        "change": 0.02,
-        "percent_change": 0.21,
+        "change": -0.06,
+        "percent_change": -0.63,
         "high": 9.58,
         "low": 9.4,
-        "volume": 26660.0,
-        "last_updated": "2026-02-04T07:04:29.594527"
+        "volume": 29760.0,
+        "last_updated": "2026-02-04T08:03:06.018228"
     },
     {
         "symbol": "SBI",
-        "ltp": 399.0,
+        "ltp": 398.5,
         "previous_close": 400.0,
-        "change": -1.0,
-        "percent_change": -0.25,
+        "change": -1.5,
+        "percent_change": -0.38,
         "high": 413.5,
         "low": 392.0,
-        "volume": 10774.0,
-        "last_updated": "2026-02-04T07:04:29.594562"
+        "volume": 19694.0,
+        "last_updated": "2026-02-04T08:03:06.018268"
     },
     {
         "symbol": "SBID2090",
@@ -2659,29 +2692,29 @@
         "high": 1067.9,
         "low": 1067.9,
         "volume": 5.0,
-        "last_updated": "2026-02-04T07:04:29.594601"
+        "last_updated": "2026-02-04T08:03:06.018304"
     },
     {
         "symbol": "SBL",
-        "ltp": 381.9,
+        "ltp": 381.0,
         "previous_close": 384.0,
-        "change": -2.1,
-        "percent_change": -0.55,
+        "change": -3.0,
+        "percent_change": -0.78,
         "high": 386.0,
         "low": 377.0,
-        "volume": 31657.0,
-        "last_updated": "2026-02-04T07:04:29.594639"
+        "volume": 49391.0,
+        "last_updated": "2026-02-04T08:03:06.018339"
     },
     {
         "symbol": "SCB",
-        "ltp": 630.0,
+        "ltp": 630.4,
         "previous_close": 633.0,
-        "change": -3.0,
-        "percent_change": -0.47,
+        "change": -2.6,
+        "percent_change": -0.41,
         "high": 633.4,
         "low": 621.0,
-        "volume": 1485.0,
-        "last_updated": "2026-02-04T07:04:29.594677"
+        "volume": 2545.0,
+        "last_updated": "2026-02-04T08:03:06.018375"
     },
     {
         "symbol": "SDBD87",
@@ -2692,7 +2725,7 @@
         "high": 1112.0,
         "low": 1112.0,
         "volume": 25.0,
-        "last_updated": "2026-02-04T07:04:29.594714"
+        "last_updated": "2026-02-04T08:03:06.018410"
     },
     {
         "symbol": "SEF",
@@ -2703,29 +2736,29 @@
         "high": 9.67,
         "low": 9.66,
         "volume": 500.0,
-        "last_updated": "2026-02-04T07:04:29.594750"
+        "last_updated": "2026-02-04T08:03:06.018450"
     },
     {
         "symbol": "SFCL",
-        "ltp": 394.0,
+        "ltp": 392.0,
         "previous_close": 390.1,
-        "change": 3.9,
-        "percent_change": 1.0,
+        "change": 1.9,
+        "percent_change": 0.49,
         "high": 397.9,
         "low": 392.0,
-        "volume": 2949.0,
-        "last_updated": "2026-02-04T07:04:29.594786"
+        "volume": 6526.0,
+        "last_updated": "2026-02-04T08:03:06.018486"
     },
     {
         "symbol": "SFEF",
-        "ltp": 9.8,
+        "ltp": 9.99,
         "previous_close": 9.75,
-        "change": 0.05,
-        "percent_change": 0.51,
-        "high": 9.9,
+        "change": 0.24,
+        "percent_change": 2.46,
+        "high": 9.99,
         "low": 9.71,
-        "volume": 8600.0,
-        "last_updated": "2026-02-04T07:04:29.594822"
+        "volume": 55605.0,
+        "last_updated": "2026-02-04T08:03:06.018522"
     },
     {
         "symbol": "SFMF",
@@ -2736,40 +2769,40 @@
         "high": 10.19,
         "low": 10.19,
         "volume": 9253.0,
-        "last_updated": "2026-02-04T07:04:29.594859"
+        "last_updated": "2026-02-04T08:03:06.018558"
     },
     {
         "symbol": "SGHC",
-        "ltp": 411.0,
+        "ltp": 413.1,
         "previous_close": 418.1,
-        "change": -7.1,
-        "percent_change": -1.7,
+        "change": -5.0,
+        "percent_change": -1.2,
         "high": 434.0,
         "low": 409.8,
-        "volume": 20325.0,
-        "last_updated": "2026-02-04T07:04:29.594894"
+        "volume": 26221.0,
+        "last_updated": "2026-02-04T08:03:06.018594"
     },
     {
         "symbol": "SGIC",
-        "ltp": 473.3,
+        "ltp": 474.0,
         "previous_close": 476.0,
-        "change": -2.7,
-        "percent_change": -0.57,
+        "change": -2.0,
+        "percent_change": -0.42,
         "high": 480.0,
         "low": 471.0,
-        "volume": 14214.0,
-        "last_updated": "2026-02-04T07:04:29.594930"
+        "volume": 14405.0,
+        "last_updated": "2026-02-04T08:03:06.018629"
     },
     {
         "symbol": "SHEL",
-        "ltp": 288.0,
+        "ltp": 287.3,
         "previous_close": 287.1,
-        "change": 0.9,
-        "percent_change": 0.31,
+        "change": 0.2,
+        "percent_change": 0.07,
         "high": 292.9,
         "low": 287.0,
-        "volume": 51506.0,
-        "last_updated": "2026-02-04T07:04:29.594996"
+        "volume": 68848.0,
+        "last_updated": "2026-02-04T08:03:06.018665"
     },
     {
         "symbol": "SHINE",
@@ -2778,9 +2811,9 @@
         "change": -1.0,
         "percent_change": -0.25,
         "high": 409.9,
-        "low": 401.1,
-        "volume": 6851.0,
-        "last_updated": "2026-02-04T07:04:29.595034"
+        "low": 400.1,
+        "volume": 9420.0,
+        "last_updated": "2026-02-04T08:03:06.018701"
     },
     {
         "symbol": "SHINED",
@@ -2791,29 +2824,29 @@
         "high": 1117.0,
         "low": 1117.0,
         "volume": 50.0,
-        "last_updated": "2026-02-04T07:04:29.595073"
+        "last_updated": "2026-02-04T08:03:06.018740"
     },
     {
         "symbol": "SHIVM",
-        "ltp": 612.0,
+        "ltp": 609.0,
         "previous_close": 609.0,
-        "change": 3.0,
-        "percent_change": 0.49,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 620.0,
         "low": 597.0,
-        "volume": 33071.0,
-        "last_updated": "2026-02-04T07:04:29.595110"
+        "volume": 53858.0,
+        "last_updated": "2026-02-04T08:03:06.018779"
     },
     {
         "symbol": "SHL",
-        "ltp": 496.0,
+        "ltp": 496.2,
         "previous_close": 497.0,
-        "change": -1.0,
-        "percent_change": -0.2,
+        "change": -0.8,
+        "percent_change": -0.16,
         "high": 505.0,
         "low": 495.3,
-        "volume": 3901.0,
-        "last_updated": "2026-02-04T07:04:29.595159"
+        "volume": 10812.0,
+        "last_updated": "2026-02-04T08:03:06.018816"
     },
     {
         "symbol": "SHLB",
@@ -2823,184 +2856,184 @@
         "percent_change": -1.78,
         "high": 1610.0,
         "low": 1600.0,
-        "volume": 513.0,
-        "last_updated": "2026-02-04T07:04:29.595201"
+        "volume": 523.0,
+        "last_updated": "2026-02-04T08:03:06.018855"
     },
     {
         "symbol": "SHPC",
-        "ltp": 537.5,
+        "ltp": 538.9,
         "previous_close": 535.2,
-        "change": 2.3,
-        "percent_change": 0.43,
+        "change": 3.7,
+        "percent_change": 0.69,
         "high": 545.0,
         "low": 524.5,
-        "volume": 26990.0,
-        "last_updated": "2026-02-04T07:04:29.595239"
+        "volume": 35714.0,
+        "last_updated": "2026-02-04T08:03:06.018892"
     },
     {
         "symbol": "SICL",
-        "ltp": 626.2,
+        "ltp": 625.0,
         "previous_close": 624.0,
-        "change": 2.2,
-        "percent_change": 0.35,
+        "change": 1.0,
+        "percent_change": 0.16,
         "high": 630.0,
         "low": 611.6,
-        "volume": 1361.0,
-        "last_updated": "2026-02-04T07:04:29.595277"
+        "volume": 3553.0,
+        "last_updated": "2026-02-04T08:03:06.018928"
     },
     {
         "symbol": "SIFC",
-        "ltp": 631.9,
+        "ltp": 628.0,
         "previous_close": 620.0,
-        "change": 11.9,
-        "percent_change": 1.92,
+        "change": 8.0,
+        "percent_change": 1.29,
         "high": 644.0,
         "low": 620.1,
-        "volume": 11017.0,
-        "last_updated": "2026-02-04T07:04:29.595316"
+        "volume": 56378.0,
+        "last_updated": "2026-02-04T08:03:06.018964"
     },
     {
         "symbol": "SIGS2",
-        "ltp": 9.55,
+        "ltp": 9.58,
         "previous_close": 9.66,
-        "change": -0.11,
-        "percent_change": -1.14,
-        "high": 9.55,
+        "change": -0.08,
+        "percent_change": -0.83,
+        "high": 9.58,
         "low": 9.55,
-        "volume": 500.0,
-        "last_updated": "2026-02-04T07:04:29.595354"
+        "volume": 750.0,
+        "last_updated": "2026-02-04T08:03:06.019000"
     },
     {
         "symbol": "SIGS3",
-        "ltp": 10.2,
+        "ltp": 10.45,
         "previous_close": 10.25,
-        "change": -0.05,
-        "percent_change": -0.49,
-        "high": 10.2,
+        "change": 0.2,
+        "percent_change": 1.95,
+        "high": 10.45,
         "low": 10.2,
-        "volume": 3600.0,
-        "last_updated": "2026-02-04T07:04:29.595391"
+        "volume": 7199.0,
+        "last_updated": "2026-02-04T08:03:06.019035"
     },
     {
         "symbol": "SIKLES",
-        "ltp": 607.7,
+        "ltp": 610.1,
         "previous_close": 612.0,
-        "change": -4.3,
-        "percent_change": -0.7,
+        "change": -1.9,
+        "percent_change": -0.31,
         "high": 624.0,
         "low": 599.8,
-        "volume": 6384.0,
-        "last_updated": "2026-02-04T07:04:29.595428"
+        "volume": 9433.0,
+        "last_updated": "2026-02-04T08:03:06.019081"
     },
     {
         "symbol": "SINDU",
-        "ltp": 840.0,
+        "ltp": 843.6,
         "previous_close": 867.0,
-        "change": -27.0,
-        "percent_change": -3.11,
+        "change": -23.4,
+        "percent_change": -2.7,
         "high": 866.0,
         "low": 840.0,
-        "volume": 9137.0,
-        "last_updated": "2026-02-04T07:04:29.595468"
+        "volume": 13249.0,
+        "last_updated": "2026-02-04T08:03:06.019122"
     },
     {
         "symbol": "SJCL",
-        "ltp": 297.0,
+        "ltp": 296.0,
         "previous_close": 297.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -1.0,
+        "percent_change": -0.34,
         "high": 299.9,
         "low": 293.7,
-        "volume": 37331.0,
-        "last_updated": "2026-02-04T07:04:29.595505"
+        "volume": 40341.0,
+        "last_updated": "2026-02-04T08:03:06.019157"
     },
     {
         "symbol": "SJLIC",
-        "ltp": 439.1,
+        "ltp": 439.6,
         "previous_close": 443.0,
-        "change": -3.9,
-        "percent_change": -0.88,
+        "change": -3.4,
+        "percent_change": -0.77,
         "high": 445.0,
         "low": 438.6,
-        "volume": 8979.0,
-        "last_updated": "2026-02-04T07:04:29.595541"
+        "volume": 9957.0,
+        "last_updated": "2026-02-04T08:03:06.019192"
     },
     {
         "symbol": "SKBBL",
-        "ltp": 765.0,
+        "ltp": 763.2,
         "previous_close": 764.4,
-        "change": 0.6,
-        "percent_change": 0.08,
+        "change": -1.2,
+        "percent_change": -0.16,
         "high": 776.0,
-        "low": 765.0,
-        "volume": 5210.0,
-        "last_updated": "2026-02-04T07:04:29.595578"
+        "low": 763.2,
+        "volume": 8751.0,
+        "last_updated": "2026-02-04T08:03:06.019231"
     },
     {
         "symbol": "SLBBL",
-        "ltp": 822.0,
+        "ltp": 825.0,
         "previous_close": 822.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": 3.0,
+        "percent_change": 0.36,
         "high": 833.0,
         "low": 821.0,
-        "volume": 1086.0,
-        "last_updated": "2026-02-04T07:04:29.595614"
+        "volume": 1682.0,
+        "last_updated": "2026-02-04T08:03:06.019266"
     },
     {
         "symbol": "SLBSL",
-        "ltp": 1349.8,
+        "ltp": 1344.0,
         "previous_close": 1359.9,
-        "change": -10.1,
-        "percent_change": -0.74,
+        "change": -15.9,
+        "percent_change": -1.17,
         "high": 1349.8,
         "low": 1332.8,
-        "volume": 228.0,
-        "last_updated": "2026-02-04T07:04:29.595651"
+        "volume": 322.0,
+        "last_updated": "2026-02-04T08:03:06.019302"
     },
     {
         "symbol": "SLCF",
-        "ltp": 9.63,
+        "ltp": 9.7,
         "previous_close": 9.75,
-        "change": -0.12,
-        "percent_change": -1.23,
-        "high": 9.63,
+        "change": -0.05,
+        "percent_change": -0.51,
+        "high": 9.7,
         "low": 9.62,
-        "volume": 600.0,
-        "last_updated": "2026-02-04T07:04:29.595691"
+        "volume": 1100.0,
+        "last_updated": "2026-02-04T08:03:06.019337"
     },
     {
         "symbol": "SMATA",
-        "ltp": 790.0,
+        "ltp": 788.2,
         "previous_close": 788.1,
-        "change": 1.9,
-        "percent_change": 0.24,
+        "change": 0.1,
+        "percent_change": 0.01,
         "high": 802.0,
-        "low": 790.0,
-        "volume": 267.0,
-        "last_updated": "2026-02-04T07:04:29.595729"
+        "low": 788.2,
+        "volume": 1322.0,
+        "last_updated": "2026-02-04T08:03:06.019372"
     },
     {
         "symbol": "SMB",
-        "ltp": 1911.0,
+        "ltp": 1912.0,
         "previous_close": 1917.0,
-        "change": -6.0,
-        "percent_change": -0.31,
+        "change": -5.0,
+        "percent_change": -0.26,
         "high": 1946.0,
         "low": 1911.0,
-        "volume": 342.0,
-        "last_updated": "2026-02-04T07:04:29.595766"
+        "volume": 367.0,
+        "last_updated": "2026-02-04T08:03:06.019408"
     },
     {
         "symbol": "SMFBS",
-        "ltp": 1690.0,
+        "ltp": 1660.0,
         "previous_close": 1690.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -30.0,
+        "percent_change": -1.78,
         "high": 1690.0,
-        "low": 1690.0,
-        "volume": 22.0,
-        "last_updated": "2026-02-04T07:04:29.595803"
+        "low": 1660.0,
+        "volume": 62.0,
+        "last_updated": "2026-02-04T08:03:06.019443"
     },
     {
         "symbol": "SMH",
@@ -3010,272 +3043,283 @@
         "percent_change": 10.0,
         "high": 770.0,
         "low": 714.0,
-        "volume": 4218.0,
-        "last_updated": "2026-02-04T07:04:29.595840"
+        "volume": 4258.0,
+        "last_updated": "2026-02-04T08:03:06.019479"
     },
     {
         "symbol": "SMHL",
-        "ltp": 548.0,
+        "ltp": 548.9,
         "previous_close": 499.0,
-        "change": 49.0,
-        "percent_change": 9.82,
-        "high": 548.5,
+        "change": 49.9,
+        "percent_change": 10.0,
+        "high": 548.9,
         "low": 508.0,
-        "volume": 62444.0,
-        "last_updated": "2026-02-04T07:04:29.595877"
+        "volume": 70891.0,
+        "last_updated": "2026-02-04T08:03:06.019515"
     },
     {
         "symbol": "SMJC",
-        "ltp": 501.2,
+        "ltp": 515.0,
         "previous_close": 497.0,
-        "change": 4.2,
-        "percent_change": 0.85,
-        "high": 505.0,
+        "change": 18.0,
+        "percent_change": 3.62,
+        "high": 530.0,
         "low": 498.0,
-        "volume": 10607.0,
-        "last_updated": "2026-02-04T07:04:29.595914"
+        "volume": 47105.0,
+        "last_updated": "2026-02-04T08:03:06.019550"
     },
     {
         "symbol": "SMPDA",
-        "ltp": 885.0,
+        "ltp": 881.5,
         "previous_close": 885.0,
-        "change": 0.0,
-        "percent_change": 0.0,
-        "high": 885.0,
+        "change": -3.5,
+        "percent_change": -0.4,
+        "high": 888.0,
         "low": 877.1,
-        "volume": 137.0,
-        "last_updated": "2026-02-04T07:04:29.595950"
+        "volume": 334.0,
+        "last_updated": "2026-02-04T08:03:06.019585"
     },
     {
         "symbol": "SNLI",
-        "ltp": 463.4,
+        "ltp": 463.0,
         "previous_close": 466.0,
-        "change": -2.6,
-        "percent_change": -0.56,
+        "change": -3.0,
+        "percent_change": -0.64,
         "high": 468.0,
-        "low": 463.2,
-        "volume": 7995.0,
-        "last_updated": "2026-02-04T07:04:29.595990"
+        "low": 463.0,
+        "volume": 11939.0,
+        "last_updated": "2026-02-04T08:03:06.019621"
     },
     {
         "symbol": "SONA",
-        "ltp": 431.0,
+        "ltp": 433.0,
         "previous_close": 433.7,
-        "change": -2.7,
-        "percent_change": -0.62,
+        "change": -0.7,
+        "percent_change": -0.16,
         "high": 439.0,
         "low": 430.0,
-        "volume": 7491.0,
-        "last_updated": "2026-02-04T07:04:29.596028"
+        "volume": 14796.0,
+        "last_updated": "2026-02-04T08:03:06.019657"
     },
     {
         "symbol": "SPC",
-        "ltp": 522.0,
+        "ltp": 518.0,
         "previous_close": 517.0,
-        "change": 5.0,
-        "percent_change": 0.97,
+        "change": 1.0,
+        "percent_change": 0.19,
         "high": 525.8,
         "low": 516.3,
-        "volume": 5706.0,
-        "last_updated": "2026-02-04T07:04:29.596065"
+        "volume": 7260.0,
+        "last_updated": "2026-02-04T08:03:06.019721"
     },
     {
         "symbol": "SPDL",
-        "ltp": 406.2,
+        "ltp": 404.0,
         "previous_close": 403.0,
-        "change": 3.2,
-        "percent_change": 0.79,
+        "change": 1.0,
+        "percent_change": 0.25,
         "high": 410.0,
         "low": 395.0,
-        "volume": 111606.0,
-        "last_updated": "2026-02-04T07:04:29.596105"
+        "volume": 126353.0,
+        "last_updated": "2026-02-04T08:03:06.019791"
     },
     {
         "symbol": "SPHL",
-        "ltp": 588.0,
+        "ltp": 583.0,
         "previous_close": 579.9,
-        "change": 8.1,
-        "percent_change": 1.4,
+        "change": 3.1,
+        "percent_change": 0.53,
         "high": 595.0,
         "low": 579.0,
-        "volume": 6770.0,
-        "last_updated": "2026-02-04T07:04:29.596154"
+        "volume": 8166.0,
+        "last_updated": "2026-02-04T08:03:06.019851"
     },
     {
         "symbol": "SPIL",
-        "ltp": 710.2,
+        "ltp": 712.0,
         "previous_close": 709.0,
-        "change": 1.2,
-        "percent_change": 0.17,
+        "change": 3.0,
+        "percent_change": 0.42,
         "high": 723.0,
         "low": 710.2,
-        "volume": 132.0,
-        "last_updated": "2026-02-04T07:04:29.596196"
+        "volume": 955.0,
+        "last_updated": "2026-02-04T08:03:06.019903"
     },
     {
         "symbol": "SPL",
-        "ltp": 849.8,
+        "ltp": 850.0,
         "previous_close": 849.8,
-        "change": 0.0,
-        "percent_change": 0.0,
-        "high": 849.8,
+        "change": 0.2,
+        "percent_change": 0.02,
+        "high": 850.0,
         "low": 833.0,
-        "volume": 40.0,
-        "last_updated": "2026-02-04T07:04:29.596234"
+        "volume": 70.0,
+        "last_updated": "2026-02-04T08:03:06.019941"
+    },
+    {
+        "symbol": "SRBLD83",
+        "ltp": 1055.0,
+        "previous_close": 1060.0,
+        "change": -5.0,
+        "percent_change": -0.47,
+        "high": 1055.0,
+        "low": 1055.0,
+        "volume": 25.0,
+        "last_updated": "2026-02-04T08:03:06.019977"
     },
     {
         "symbol": "SRLI",
-        "ltp": 392.9,
+        "ltp": 391.4,
         "previous_close": 392.8,
-        "change": 0.1,
-        "percent_change": 0.03,
+        "change": -1.4,
+        "percent_change": -0.36,
         "high": 397.4,
         "low": 390.0,
-        "volume": 4955.0,
-        "last_updated": "2026-02-04T07:04:29.596271"
+        "volume": 8634.0,
+        "last_updated": "2026-02-04T08:03:06.020013"
     },
     {
         "symbol": "SSHL",
-        "ltp": 189.6,
+        "ltp": 190.0,
         "previous_close": 189.5,
-        "change": 0.1,
-        "percent_change": 0.05,
+        "change": 0.5,
+        "percent_change": 0.26,
         "high": 195.0,
         "low": 188.1,
-        "volume": 234672.0,
-        "last_updated": "2026-02-04T07:04:29.596308"
+        "volume": 346244.0,
+        "last_updated": "2026-02-04T08:03:06.020052"
     },
     {
         "symbol": "STC",
-        "ltp": 5605.0,
+        "ltp": 5597.0,
         "previous_close": 5595.0,
-        "change": 10.0,
-        "percent_change": 0.18,
+        "change": 2.0,
+        "percent_change": 0.04,
         "high": 5670.0,
         "low": 5595.0,
-        "volume": 135.0,
-        "last_updated": "2026-02-04T07:04:29.596344"
+        "volume": 405.0,
+        "last_updated": "2026-02-04T08:03:06.020105"
     },
     {
         "symbol": "SWASTIK",
-        "ltp": 3000.0,
+        "ltp": 2985.0,
         "previous_close": 2990.0,
-        "change": 10.0,
-        "percent_change": 0.33,
+        "change": -5.0,
+        "percent_change": -0.17,
         "high": 3002.0,
-        "low": 2988.0,
-        "volume": 935.0,
-        "last_updated": "2026-02-04T07:04:29.596380"
+        "low": 2980.1,
+        "volume": 1387.0,
+        "last_updated": "2026-02-04T08:03:06.020143"
     },
     {
         "symbol": "SWBBL",
-        "ltp": 749.0,
+        "ltp": 735.0,
         "previous_close": 746.9,
-        "change": 2.1,
-        "percent_change": 0.28,
+        "change": -11.9,
+        "percent_change": -1.59,
         "high": 755.0,
-        "low": 740.0,
-        "volume": 1347.0,
-        "last_updated": "2026-02-04T07:04:29.596416"
+        "low": 735.0,
+        "volume": 2285.0,
+        "last_updated": "2026-02-04T08:03:06.020180"
     },
     {
         "symbol": "SWMF",
-        "ltp": 680.0,
+        "ltp": 670.2,
         "previous_close": 680.0,
-        "change": 0.0,
-        "percent_change": 0.0,
+        "change": -9.8,
+        "percent_change": -1.44,
         "high": 680.0,
         "low": 669.0,
-        "volume": 260.0,
-        "last_updated": "2026-02-04T07:04:29.596453"
+        "volume": 1015.0,
+        "last_updated": "2026-02-04T08:03:06.020215"
     },
     {
         "symbol": "SYPNL",
-        "ltp": 2118.0,
+        "ltp": 2079.0,
         "previous_close": 2128.9,
-        "change": -10.9,
-        "percent_change": -0.51,
+        "change": -49.9,
+        "percent_change": -2.34,
         "high": 2171.4,
-        "low": 2081.0,
-        "volume": 139594.0,
-        "last_updated": "2026-02-04T07:04:29.596489"
+        "low": 2079.0,
+        "volume": 190772.0,
+        "last_updated": "2026-02-04T08:03:06.020251"
     },
     {
         "symbol": "TAMOR",
-        "ltp": 444.4,
+        "ltp": 446.5,
         "previous_close": 448.0,
-        "change": -3.6,
-        "percent_change": -0.8,
+        "change": -1.5,
+        "percent_change": -0.33,
         "high": 456.9,
         "low": 443.5,
-        "volume": 580.0,
-        "last_updated": "2026-02-04T07:04:29.596525"
+        "volume": 1760.0,
+        "last_updated": "2026-02-04T08:03:06.020290"
     },
     {
         "symbol": "TPC",
-        "ltp": 395.0,
+        "ltp": 389.0,
         "previous_close": 393.1,
-        "change": 1.9,
-        "percent_change": 0.48,
+        "change": -4.1,
+        "percent_change": -1.04,
         "high": 401.9,
-        "low": 394.1,
-        "volume": 64535.0,
-        "last_updated": "2026-02-04T07:04:29.596561"
+        "low": 389.0,
+        "volume": 90662.0,
+        "last_updated": "2026-02-04T08:03:06.020326"
     },
     {
         "symbol": "TRH",
-        "ltp": 762.0,
+        "ltp": 761.2,
         "previous_close": 764.0,
-        "change": -2.0,
-        "percent_change": -0.26,
+        "change": -2.8,
+        "percent_change": -0.37,
         "high": 775.0,
         "low": 756.1,
-        "volume": 2626.0,
-        "last_updated": "2026-02-04T07:04:29.596597"
+        "volume": 2851.0,
+        "last_updated": "2026-02-04T08:03:06.020361"
     },
     {
         "symbol": "TSHL",
-        "ltp": 776.2,
+        "ltp": 775.0,
         "previous_close": 785.0,
-        "change": -8.8,
-        "percent_change": -1.12,
+        "change": -10.0,
+        "percent_change": -1.27,
         "high": 796.5,
         "low": 770.0,
-        "volume": 895.0,
-        "last_updated": "2026-02-04T07:04:29.596637"
+        "volume": 1848.0,
+        "last_updated": "2026-02-04T08:03:06.020396"
     },
     {
         "symbol": "TTL",
-        "ltp": 982.2,
+        "ltp": 980.0,
         "previous_close": 990.0,
-        "change": -7.8,
-        "percent_change": -0.79,
+        "change": -10.0,
+        "percent_change": -1.01,
         "high": 1005.0,
         "low": 976.1,
-        "volume": 29487.0,
-        "last_updated": "2026-02-04T07:04:29.596682"
+        "volume": 38276.0,
+        "last_updated": "2026-02-04T08:03:06.020430"
     },
     {
         "symbol": "TVCL",
-        "ltp": 535.0,
+        "ltp": 540.0,
         "previous_close": 544.0,
-        "change": -9.0,
-        "percent_change": -1.65,
+        "change": -4.0,
+        "percent_change": -0.74,
         "high": 561.0,
         "low": 522.6,
-        "volume": 23605.0,
-        "last_updated": "2026-02-04T07:04:29.596719"
+        "volume": 28846.0,
+        "last_updated": "2026-02-04T08:03:06.020464"
     },
     {
         "symbol": "UAIL",
-        "ltp": 455.1,
+        "ltp": 455.0,
         "previous_close": 459.0,
-        "change": -3.9,
-        "percent_change": -0.85,
+        "change": -4.0,
+        "percent_change": -0.87,
         "high": 463.0,
-        "low": 455.1,
-        "volume": 3604.0,
-        "last_updated": "2026-02-04T07:04:29.596756"
+        "low": 455.0,
+        "volume": 6142.0,
+        "last_updated": "2026-02-04T08:03:06.020499"
     },
     {
         "symbol": "UHEWA",
@@ -3285,63 +3329,63 @@
         "percent_change": -0.2,
         "high": 568.0,
         "low": 555.0,
-        "volume": 2920.0,
-        "last_updated": "2026-02-04T07:04:29.596792"
+        "volume": 4716.0,
+        "last_updated": "2026-02-04T08:03:06.020541"
     },
     {
         "symbol": "ULBSL",
-        "ltp": 3270.0,
+        "ltp": 3287.0,
         "previous_close": 3272.0,
-        "change": -2.0,
-        "percent_change": -0.06,
-        "high": 3270.0,
+        "change": 15.0,
+        "percent_change": 0.46,
+        "high": 3292.0,
         "low": 3218.0,
-        "volume": 267.0,
-        "last_updated": "2026-02-04T07:04:29.596829"
+        "volume": 444.0,
+        "last_updated": "2026-02-04T08:03:06.020577"
     },
     {
         "symbol": "ULHC",
-        "ltp": 503.1,
+        "ltp": 505.0,
         "previous_close": 494.0,
-        "change": 9.1,
-        "percent_change": 1.84,
+        "change": 11.0,
+        "percent_change": 2.23,
         "high": 515.9,
         "low": 491.2,
-        "volume": 10507.0,
-        "last_updated": "2026-02-04T07:04:29.596865"
+        "volume": 19339.0,
+        "last_updated": "2026-02-04T08:03:06.020612"
     },
     {
         "symbol": "UMHL",
-        "ltp": 640.0,
+        "ltp": 633.0,
         "previous_close": 628.0,
-        "change": 12.0,
-        "percent_change": 1.91,
-        "high": 642.0,
+        "change": 5.0,
+        "percent_change": 0.8,
+        "high": 645.0,
         "low": 625.4,
-        "volume": 49493.0,
-        "last_updated": "2026-02-04T07:04:29.596901"
+        "volume": 84656.0,
+        "last_updated": "2026-02-04T08:03:06.020648"
     },
     {
         "symbol": "UMRH",
-        "ltp": 554.0,
+        "ltp": 556.0,
         "previous_close": 553.0,
-        "change": 1.0,
-        "percent_change": 0.18,
+        "change": 3.0,
+        "percent_change": 0.54,
         "high": 574.0,
         "low": 547.0,
-        "volume": 4668.0,
-        "last_updated": "2026-02-04T07:04:29.596937"
+        "volume": 6108.0,
+        "last_updated": "2026-02-04T08:03:06.020683"
     },
     {
         "symbol": "UNHPL",
-        "ltp": 501.1,
+        "ltp": 497.0,
         "previous_close": 498.0,
-        "change": 3.1,
-        "percent_change": 0.62,
+        "change": -1.0,
+        "percent_change": -0.2,
         "high": 513.0,
         "low": 488.1,
-        "volume": 104310.0,
-        "last_updated": "2026-02-04T07:04:29.596972"
+        "volume": 135650.0,
+        "last_updated": "2026-02-04T08:03:06.020718"
     },
     {
         "symbol": "UNL",
@@ -3352,51 +3396,51 @@
         "high": 47980.0,
         "low": 47980.0,
         "volume": 10.0,
-        "last_updated": "2026-02-04T07:04:29.597009"
+        "last_updated": "2026-02-04T08:03:06.020757"
     },
     {
         "symbol": "UNLB",
-        "ltp": 1879.0,
+        "ltp": 1870.0,
         "previous_close": 1860.0,
-        "change": 19.0,
-        "percent_change": 1.02,
+        "change": 10.0,
+        "percent_change": 0.54,
         "high": 1879.0,
         "low": 1850.0,
-        "volume": 440.0,
-        "last_updated": "2026-02-04T07:04:29.597045"
+        "volume": 475.0,
+        "last_updated": "2026-02-04T08:03:06.020797"
     },
     {
         "symbol": "UPCL",
-        "ltp": 372.4,
+        "ltp": 372.0,
         "previous_close": 373.0,
-        "change": -0.6,
-        "percent_change": -0.16,
+        "change": -1.0,
+        "percent_change": -0.27,
         "high": 378.0,
         "low": 370.1,
-        "volume": 46158.0,
-        "last_updated": "2026-02-04T07:04:29.597081"
+        "volume": 56065.0,
+        "last_updated": "2026-02-04T08:03:06.020833"
     },
     {
         "symbol": "UPPER",
-        "ltp": 184.1,
+        "ltp": 184.5,
         "previous_close": 183.4,
-        "change": 0.7,
-        "percent_change": 0.38,
+        "change": 1.1,
+        "percent_change": 0.6,
         "high": 188.0,
         "low": 179.8,
-        "volume": 47294.0,
-        "last_updated": "2026-02-04T07:04:29.597117"
+        "volume": 59753.0,
+        "last_updated": "2026-02-04T08:03:06.020870"
     },
     {
         "symbol": "USHEC",
-        "ltp": 497.0,
+        "ltp": 490.0,
         "previous_close": 491.0,
-        "change": 6.0,
-        "percent_change": 1.22,
+        "change": -1.0,
+        "percent_change": -0.2,
         "high": 503.0,
         "low": 487.3,
-        "volume": 19862.0,
-        "last_updated": "2026-02-04T07:04:29.597241"
+        "volume": 32005.0,
+        "last_updated": "2026-02-04T08:03:06.020905"
     },
     {
         "symbol": "USHL",
@@ -3405,20 +3449,20 @@
         "change": -11.4,
         "percent_change": -1.48,
         "high": 779.0,
-        "low": 758.6,
-        "volume": 534.0,
-        "last_updated": "2026-02-04T07:04:29.597292"
+        "low": 758.3,
+        "volume": 1457.0,
+        "last_updated": "2026-02-04T08:03:06.020941"
     },
     {
         "symbol": "USLB",
-        "ltp": 1463.5,
+        "ltp": 1465.1,
         "previous_close": 1460.0,
-        "change": 3.5,
-        "percent_change": 0.24,
+        "change": 5.1,
+        "percent_change": 0.35,
         "high": 1489.0,
         "low": 1435.0,
-        "volume": 1253.0,
-        "last_updated": "2026-02-04T07:04:29.597338"
+        "volume": 1523.0,
+        "last_updated": "2026-02-04T08:03:06.020977"
     },
     {
         "symbol": "VLBS",
@@ -3428,29 +3472,29 @@
         "percent_change": 0.52,
         "high": 781.3,
         "low": 770.0,
-        "volume": 435.0,
-        "last_updated": "2026-02-04T07:04:29.597379"
+        "volume": 657.0,
+        "last_updated": "2026-02-04T08:03:06.021012"
     },
     {
         "symbol": "VLUCL",
-        "ltp": 573.7,
+        "ltp": 584.0,
         "previous_close": 575.1,
-        "change": -1.4,
-        "percent_change": -0.24,
-        "high": 584.0,
+        "change": 8.9,
+        "percent_change": 1.55,
+        "high": 585.0,
         "low": 572.0,
-        "volume": 1920.0,
-        "last_updated": "2026-02-04T07:04:29.597417"
+        "volume": 5739.0,
+        "last_updated": "2026-02-04T08:03:06.021048"
     },
     {
         "symbol": "WNLB",
-        "ltp": 1539.9,
+        "ltp": 1517.0,
         "previous_close": 1517.0,
-        "change": 22.9,
-        "percent_change": 1.51,
+        "change": 0.0,
+        "percent_change": 0.0,
         "high": 1577.9,
-        "low": 1520.0,
-        "volume": 489.0,
-        "last_updated": "2026-02-04T07:04:29.597465"
+        "low": 1517.0,
+        "volume": 744.0,
+        "last_updated": "2026-02-04T08:03:06.021095"
     }
 ]
