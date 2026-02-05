@@ -35,6 +35,17 @@
             "modifiedBy": "prabhakar_k"
         },
         {
+            "id": 208591,
+            "noticeHeading": "Price Adjusted - Neco Insurance Limited (NIL)",
+            "noticeBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Adjusted price of&nbsp;</span>Neco Insurance Limited (NIL)<span style=\"color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">&nbsp;</span><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">is Rs.635.83 for 3% bonus shares on previous closing price of Rs.654.90</span></p>",
+            "noticeExpiryDate": null,
+            "noticeFilePath": null,
+            "feature": true,
+            "publishToWebsite": true,
+            "source": "NOTS",
+            "modifiedDate": "2026-02-05"
+        },
+        {
             "id": 208589,
             "noticeHeading": "Listing 6% Bonus Shares of Garima Bikas Bank Limited (GBBL)",
             "noticeBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">34,08,310.40 Units Bonus Shares of&nbsp;</span>Garima Bikas Bank Limited (GBBL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br class=\"Apple-interchange-newline\"></p>",
@@ -58,6 +69,28 @@
         }
     ],
     "company": [
+        {
+            "id": 44519,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29627,
+                    "activeStatus": "A",
+                    "modifiedBy": "city_user",
+                    "modifiedDate": "2026-02-05T16:11:27.75",
+                    "application": 44519,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-05",
+                    "filePath": "City_Hotel_Limited/Company News/2026-02-05/Letter and 10AGM minutes CHL _1770287112368.pdf",
+                    "encryptedId": "3dcdcf3e50e13ff8e5ea82858789f37fa21dcce39465ed9f8f0f82b0afc54b0f4211bf02c507bc8d4e2c09cfa88f905515dfb317dd759eb1b25d3fd828acfc71"
+                }
+            ],
+            "newsHeadline": "10th AGM minute  [CITY] ",
+            "newsBody": "",
+            "addedDate": "2026-02-05T16:11:27.747",
+            "newsSource": "AGM ",
+            "modifiedDate": "2026-02-05T16:13:01.533",
+            "approvedDate": null
+        },
         {
             "id": 44512,
             "applicationDocumentDetailsList": [
@@ -545,6 +578,30 @@
     ],
     "exchange": [
         {
+            "id": 208591,
+            "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Adjusted price of&nbsp;</span>Neco Insurance Limited (NIL)<span style=\"color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">&nbsp;</span><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">is Rs.635.83 for 3% bonus shares on previous closing price of Rs.654.90</span></p>",
+            "messageTitle": "Price Adjusted - Neco Insurance Limited (NIL)",
+            "encryptedId": null,
+            "expiryDate": "2026-02-05",
+            "filePath": null,
+            "remarks": "5",
+            "addedDate": "2026-02-05T16:04:07.583",
+            "modifiedDate": "2026-02-05T16:04:07.583",
+            "approvedDate": null
+        },
+        {
+            "id": 208590,
+            "messageBody": "Price Adjusted - NIL|Adjusted Price for Neco Insurance Limited is Rs. 635.83 for 3 % of Bonus Share.",
+            "messageTitle": "Price Adjusted - NIL",
+            "encryptedId": null,
+            "expiryDate": "2026-02-05",
+            "filePath": null,
+            "remarks": "8",
+            "addedDate": null,
+            "modifiedDate": "2026-02-05T16:00:11.3",
+            "approvedDate": null
+        },
+        {
             "id": 208589,
             "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">34,08,310.40 Units Bonus Shares of&nbsp;</span>Garima Bikas Bank Limited (GBBL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br class=\"Apple-interchange-newline\"></p>",
             "messageTitle": "Listing 6% Bonus Shares of Garima Bikas Bank Limited (GBBL)",
@@ -569,5 +626,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-05T09:40:29.378042"
+    "last_updated": "2026-02-05T10:37:10.965283"
 }

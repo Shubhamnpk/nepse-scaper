@@ -1,5 +1,27 @@
 [
     {
+        "id": 44519,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29627,
+                "activeStatus": "A",
+                "modifiedBy": "city_user",
+                "modifiedDate": "2026-02-05T16:11:27.75",
+                "application": 44519,
+                "documentType": 54,
+                "submittedDate": "2026-02-05",
+                "filePath": "City_Hotel_Limited/Company News/2026-02-05/Letter and 10AGM minutes CHL _1770287112368.pdf",
+                "encryptedId": "3dcdcf3e50e13ff8e5ea82858789f37fa21dcce39465ed9f8f0f82b0afc54b0f4211bf02c507bc8d4e2c09cfa88f905515dfb317dd759eb1b25d3fd828acfc71"
+            }
+        ],
+        "newsHeadline": "10th AGM minute  [CITY] ",
+        "newsBody": "",
+        "addedDate": "2026-02-05T16:11:27.747",
+        "newsSource": "AGM ",
+        "modifiedDate": "2026-02-05T16:13:01.533",
+        "approvedDate": null
+    },
+    {
         "id": 44512,
         "applicationDocumentDetailsList": [
             {
