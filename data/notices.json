@@ -414,17 +414,6 @@
             "id": 44478,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29590,
-                    "activeStatus": "A",
-                    "modifiedBy": "pfl_user",
-                    "modifiedDate": "2026-02-03T17:18:19.537",
-                    "application": 44478,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-03",
-                    "filePath": "pfl_user/2026-02-03/Letter to NEPSE_1770118362267.pdf",
-                    "encryptedId": "b7fce568ac10feda3197b61a48d6aa412d7171e70e3ed3af07cbe238dbd1b787dbcc58428d618929d2bc2718955ffbb18725bb14a0bc767fda44904350cbd001"
-                },
-                {
                     "id": 29589,
                     "activeStatus": "A",
                     "modifiedBy": "pfl_user",
@@ -434,6 +423,17 @@
                     "submittedDate": "2026-02-03",
                     "filePath": "pfl_user/2026-02-03/28th and 29th AGM Minute_1770118369835.pdf",
                     "encryptedId": "9c797029f98a661a413157e875b6f5bc8b8e24ef7c145dc78007f96760b18df51adba697cf0b0e7c1f56effc30aab9ced7f15c7e9443187dd890a1b491d12e47"
+                },
+                {
+                    "id": 29590,
+                    "activeStatus": "A",
+                    "modifiedBy": "pfl_user",
+                    "modifiedDate": "2026-02-03T17:18:19.537",
+                    "application": 44478,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-03",
+                    "filePath": "pfl_user/2026-02-03/Letter to NEPSE_1770118362267.pdf",
+                    "encryptedId": "b7fce568ac10feda3197b61a48d6aa412d7171e70e3ed3af07cbe238dbd1b787dbcc58428d618929d2bc2718955ffbb18725bb14a0bc767fda44904350cbd001"
                 }
             ],
             "newsHeadline": "28th and 29th AGM Minute [PFL]",
@@ -569,5 +569,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-05T07:48:22.530309"
+    "last_updated": "2026-02-05T08:38:41.257671"
 }
