@@ -59,6 +59,50 @@
     ],
     "company": [
         {
+            "id": 44512,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29620,
+                    "activeStatus": "A",
+                    "modifiedBy": "nbl_user",
+                    "modifiedDate": "2026-02-05T11:31:18.92",
+                    "application": 44512,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-05",
+                    "filePath": "nbl_user/2026-02-05/To NEPSE- NBL 66 AGM Minute_1770270353641.pdf",
+                    "encryptedId": "44eeb1b569f3dcc741d4e0f070e196224b59788180e5019327755f931e6487872f375b2d05f80198ac9368705331cd7c2dfb4810b8dd183ca3d0b88b5837a1e9"
+                }
+            ],
+            "newsHeadline": "NBL 66 AGM Minute [NBL] ",
+            "newsBody": "<p>NBL 66 AGM Minute</p>",
+            "addedDate": "2026-02-05T11:31:18.917",
+            "newsSource": "NBL",
+            "modifiedDate": "2026-02-05T11:33:13.827",
+            "approvedDate": null
+        },
+        {
+            "id": 44511,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29619,
+                    "activeStatus": "A",
+                    "modifiedBy": "sindu_user",
+                    "modifiedDate": "2026-02-05T11:14:42.62",
+                    "application": 44511,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-05",
+                    "filePath": "sindu_user/2026-02-05/16th AGM_1770269164147.pdf",
+                    "encryptedId": "bce7ec89b461fb11735fe7483962ca01ec26582eba9bb8d0e85d3116b7bd1cd354a1a66c18246abf1b12c5a4cb5828db7643ca8a701dcf6e531007058f83e0a9"
+                }
+            ],
+            "newsHeadline": "Information Regarding 16th AGM [SINDU] ",
+            "newsBody": "Annual General Meeting of SINDU\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 2/27/2026\nAGM No: 16\nBook Close Date: 2/12/2026",
+            "addedDate": "2026-02-05T11:14:42.617",
+            "newsSource": "0",
+            "modifiedDate": "2026-02-05T11:15:14.45",
+            "approvedDate": null
+        },
+        {
             "id": 44507,
             "applicationDocumentDetailsList": [
                 {
@@ -447,17 +491,6 @@
             "id": 44087,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29120,
-                    "activeStatus": "A",
-                    "modifiedBy": "dhel_user",
-                    "modifiedDate": "2026-01-12T17:21:47.447",
-                    "application": 44087,
-                    "documentType": 54,
-                    "submittedDate": "2026-01-12",
-                    "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Lock In  Period end Notice_1768217742460.pdf",
-                    "encryptedId": "2bbc7636ad4055cdd6f47857d202dd16c38236a75a9cb83765c4909d1a99bfdd7694171990cc77931ac16ee4f936d8abff05df2bf7c32a551b9351fb00bb31de"
-                },
-                {
                     "id": 29121,
                     "activeStatus": "A",
                     "modifiedBy": "dhel_user",
@@ -467,6 +500,17 @@
                     "submittedDate": "2026-01-12",
                     "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Notice_1768217752596.pdf",
                     "encryptedId": "c0ecbeeb3407a31646b32ca4e277df2060e2cb0c8f70b51c2c40b6a5a8c9f79ce3211c14dda02afefb36b8de81a00f391a174d2eeb36cc3a854f782326cb88af"
+                },
+                {
+                    "id": 29120,
+                    "activeStatus": "A",
+                    "modifiedBy": "dhel_user",
+                    "modifiedDate": "2026-01-12T17:21:47.447",
+                    "application": 44087,
+                    "documentType": 54,
+                    "submittedDate": "2026-01-12",
+                    "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Lock In  Period end Notice_1768217742460.pdf",
+                    "encryptedId": "2bbc7636ad4055cdd6f47857d202dd16c38236a75a9cb83765c4909d1a99bfdd7694171990cc77931ac16ee4f936d8abff05df2bf7c32a551b9351fb00bb31de"
                 }
             ],
             "newsHeadline": "Lock in Period end for Mutual Fund Share [DHEL] ",
@@ -525,5 +569,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-05T05:15:23.506911"
+    "last_updated": "2026-02-05T06:31:55.661606"
 }
