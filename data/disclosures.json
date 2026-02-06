@@ -1,5 +1,27 @@
 [
     {
+        "id": 44532,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29640,
+                "activeStatus": "A",
+                "modifiedBy": "bfc_user",
+                "modifiedDate": "2026-02-06T10:37:05.003",
+                "application": 44532,
+                "documentType": 54,
+                "submittedDate": "2026-02-06",
+                "filePath": "bfc_user/2026-02-06/auditer -stock_1770353510278.pdf",
+                "encryptedId": "8e107a81853f8d50ad79640495ac44a5016f82a96e50c13d5ad3a414bd693df1653e26743553d2d9e14e3510cbe2912ef1b8fc3354137e28561152ffcd34eb7c"
+            }
+        ],
+        "newsHeadline": "auditor appointment [BFC] ",
+        "newsBody": "",
+        "addedDate": "2026-02-06T10:37:04.997",
+        "newsSource": "Agm decision ",
+        "modifiedDate": "2026-02-06T10:58:45.407",
+        "approvedDate": null
+    },
+    {
         "id": 44527,
         "applicationDocumentDetailsList": [
             {
