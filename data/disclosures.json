@@ -1,5 +1,27 @@
 [
     {
+        "id": 44551,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29662,
+                "activeStatus": "A",
+                "modifiedBy": "nric_user",
+                "modifiedDate": "2026-02-08T11:42:11.69",
+                "application": 44551,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "Nepal_Reinsurance_Company_Limited/Company News/2026-02-08/NEPSE letter of chairman_1770530152386.pdf",
+                "encryptedId": "2f8b326b70ea225bc370e2bbcbbee1bd377f5d289b7753e5f482802f99e47ac66e05a025d2fa498ab4f1e348b05e9db9d385ce38e99c9c65628d7bc010378408"
+            }
+        ],
+        "newsHeadline": "Information Regarding Chairman [NRIC] ",
+        "newsBody": "<p>Information Regarding Chairman's Suspension</p>",
+        "addedDate": "2026-02-08T11:42:11.683",
+        "newsSource": "Ministry of Finance ",
+        "modifiedDate": "2026-02-08T11:43:08.887",
+        "approvedDate": null
+    },
+    {
         "id": 44543,
         "applicationDocumentDetailsList": [
             {
@@ -311,17 +333,6 @@
         "id": 44087,
         "applicationDocumentDetailsList": [
             {
-                "id": 29120,
-                "activeStatus": "A",
-                "modifiedBy": "dhel_user",
-                "modifiedDate": "2026-01-12T17:21:47.447",
-                "application": 44087,
-                "documentType": 54,
-                "submittedDate": "2026-01-12",
-                "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Lock In  Period end Notice_1768217742460.pdf",
-                "encryptedId": "2bbc7636ad4055cdd6f47857d202dd16c38236a75a9cb83765c4909d1a99bfdd7694171990cc77931ac16ee4f936d8abff05df2bf7c32a551b9351fb00bb31de"
-            },
-            {
                 "id": 29121,
                 "activeStatus": "A",
                 "modifiedBy": "dhel_user",
@@ -331,6 +342,17 @@
                 "submittedDate": "2026-01-12",
                 "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Notice_1768217752596.pdf",
                 "encryptedId": "c0ecbeeb3407a31646b32ca4e277df2060e2cb0c8f70b51c2c40b6a5a8c9f79ce3211c14dda02afefb36b8de81a00f391a174d2eeb36cc3a854f782326cb88af"
+            },
+            {
+                "id": 29120,
+                "activeStatus": "A",
+                "modifiedBy": "dhel_user",
+                "modifiedDate": "2026-01-12T17:21:47.447",
+                "application": 44087,
+                "documentType": 54,
+                "submittedDate": "2026-01-12",
+                "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Lock In  Period end Notice_1768217742460.pdf",
+                "encryptedId": "2bbc7636ad4055cdd6f47857d202dd16c38236a75a9cb83765c4909d1a99bfdd7694171990cc77931ac16ee4f936d8abff05df2bf7c32a551b9351fb00bb31de"
             }
         ],
         "newsHeadline": "Lock in Period end for Mutual Fund Share [DHEL] ",
