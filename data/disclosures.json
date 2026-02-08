@@ -1,5 +1,71 @@
 [
     {
+        "id": 44543,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29652,
+                "activeStatus": "A",
+                "modifiedBy": "bandipur_user",
+                "modifiedDate": "2026-02-08T09:47:55.85",
+                "application": 44543,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "Bandipur_Cablecar_and_Tourism_Limited/Company News/2026-02-08/Completion of lock-in period for mutual fund_1770523356216.pdf",
+                "encryptedId": "b98bda500e37ee6a232e5b354031388f62feed52ccc8dcd4b4411165d8cd2908ba2acf0c33d55800f76b2f034ea2659eb77d13394d54740ebada5af6186a1301"
+            }
+        ],
+        "newsHeadline": "Completion of lock-in period for mutual fund [BANDIPUR] ",
+        "newsBody": "<p>Completion of lock-in period for mutual fund</p>",
+        "addedDate": "2026-02-08T09:47:55.84",
+        "newsSource": "Completion of lock-in period for mutual fund",
+        "modifiedDate": "2026-02-08T09:53:04.16",
+        "approvedDate": null
+    },
+    {
+        "id": 44542,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29651,
+                "activeStatus": "A",
+                "modifiedBy": "dlbs_user",
+                "modifiedDate": "2026-02-07T11:35:09.497",
+                "application": 44542,
+                "documentType": 54,
+                "submittedDate": "2026-02-07",
+                "filePath": "Dhaulagiri_laghubitta_Sanstha_Limited/Company News/2026-02-07/Nepse hari and ram _1770443387302.pdf",
+                "encryptedId": "8a3dc24fd6339ab41b91118d6cd30fa2b941582b47d29422850767e71f5cf2e10e3c11d0038886a4010993a46a39b05073f8ce6acb6c5e8701a7c4107e4d03d0"
+            }
+        ],
+        "newsHeadline": "\u0938\u0902\u091a\u093e\u0932\u0915 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f \u0938\u092e\u094d\u0935\u0928\u094d\u0927\u092e\u093e  [DLBS] ",
+        "newsBody": "<p>\u0938\u0902\u091a\u093e\u0932\u0915 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f \u0938\u092e\u094d\u0935\u0928\u094d\u0927\u092e\u093e</p>",
+        "addedDate": "2026-02-07T11:35:09.49",
+        "newsSource": "\u0938\u0902\u091a\u093e\u0932\u0915 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f \u0938\u092e\u094d\u0935\u0928\u094d\u0927\u092e\u093e ",
+        "modifiedDate": "2026-02-08T09:20:30.243",
+        "approvedDate": null
+    },
+    {
+        "id": 44540,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29648,
+                "activeStatus": "A",
+                "modifiedBy": "vlbs_user",
+                "modifiedDate": "2026-02-06T17:11:26.23",
+                "application": 44540,
+                "documentType": 54,
+                "submittedDate": "2026-02-06",
+                "filePath": "vlbs_user/2026-02-06/Appointment of independent Director_1770377145711.jpg",
+                "encryptedId": "d4a326aa572aa3d8294f271cc22b25e91c6805191008a1501e130cef4775dfef25a29a41082865a4d99efa6c40779311992a54ff1503c75951dad73e24275a14"
+            }
+        ],
+        "newsHeadline": "Appointment of independent director [VLBS] ",
+        "newsBody": "<p>Appointment of independent director</p>",
+        "addedDate": "2026-02-06T17:11:26.227",
+        "newsSource": "Company",
+        "modifiedDate": "2026-02-08T09:20:10.093",
+        "approvedDate": null
+    },
+    {
         "id": 44536,
         "applicationDocumentDetailsList": [
             {
@@ -110,28 +176,6 @@
         "approvedDate": null
     },
     {
-        "id": 44522,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29630,
-                "activeStatus": "A",
-                "modifiedBy": "phcl_user",
-                "modifiedDate": "2026-02-05T16:39:18.48",
-                "application": 44522,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "Peoples_Hydropower_Company_Limited/Company News/2026-02-05/Minutes of AGM_1770288737504.pdf",
-                "encryptedId": "e1fd07df1c24380cc89b6c1d27e41fb3bc728ee41c05542eeb6cbc88555a9c32137289d1ef4ace0d2856dad5b317afba80d84cb08bcad02854708d8a0e023263"
-            }
-        ],
-        "newsHeadline": "Minutes of AGM-2081/82 [PHCL] ",
-        "newsBody": "<p>AGM Minutes 2081/82.</p>",
-        "addedDate": "2026-02-05T16:39:18.48",
-        "newsSource": "Minutes of AGM-2081/82",
-        "modifiedDate": "2026-02-05T16:41:57.103",
-        "approvedDate": null
-    },
-    {
         "id": 44521,
         "applicationDocumentDetailsList": [
             {
@@ -151,50 +195,6 @@
         "addedDate": "2026-02-05T16:38:25.387",
         "newsSource": "Company",
         "modifiedDate": "2026-02-05T16:41:07.317",
-        "approvedDate": null
-    },
-    {
-        "id": 44519,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29627,
-                "activeStatus": "A",
-                "modifiedBy": "city_user",
-                "modifiedDate": "2026-02-05T16:11:27.75",
-                "application": 44519,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "City_Hotel_Limited/Company News/2026-02-05/Letter and 10AGM minutes CHL _1770287112368.pdf",
-                "encryptedId": "3dcdcf3e50e13ff8e5ea82858789f37fa21dcce39465ed9f8f0f82b0afc54b0f4211bf02c507bc8d4e2c09cfa88f905515dfb317dd759eb1b25d3fd828acfc71"
-            }
-        ],
-        "newsHeadline": "10th AGM minute  [CITY] ",
-        "newsBody": "",
-        "addedDate": "2026-02-05T16:11:27.747",
-        "newsSource": "AGM ",
-        "modifiedDate": "2026-02-05T16:13:01.533",
-        "approvedDate": null
-    },
-    {
-        "id": 44512,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29620,
-                "activeStatus": "A",
-                "modifiedBy": "nbl_user",
-                "modifiedDate": "2026-02-05T11:31:18.92",
-                "application": 44512,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "nbl_user/2026-02-05/To NEPSE- NBL 66 AGM Minute_1770270353641.pdf",
-                "encryptedId": "44eeb1b569f3dcc741d4e0f070e196224b59788180e5019327755f931e6487872f375b2d05f80198ac9368705331cd7c2dfb4810b8dd183ca3d0b88b5837a1e9"
-            }
-        ],
-        "newsHeadline": "NBL 66 AGM Minute [NBL] ",
-        "newsBody": "<p>NBL 66 AGM Minute</p>",
-        "addedDate": "2026-02-05T11:31:18.917",
-        "newsSource": "NBL",
-        "modifiedDate": "2026-02-05T11:33:13.827",
         "approvedDate": null
     },
     {
@@ -261,94 +261,6 @@
         "addedDate": "2026-02-05T10:23:24.013",
         "newsSource": "BNHC",
         "modifiedDate": "2026-02-05T10:24:51.23",
-        "approvedDate": null
-    },
-    {
-        "id": 44505,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29613,
-                "activeStatus": "A",
-                "modifiedBy": "mel_user",
-                "modifiedDate": "2026-02-05T10:15:59.373",
-                "application": 44505,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "Modi_Energy_Limited/Company News/2026-02-05/Modi Right Letter Nepse_1770265829010.PDF",
-                "encryptedId": "38c0e271d6f4ed45eb8bf112db18691d572a4fba6a7df3d4d0a562015d19d7e9275a2bb7a6446ab7267fd3d63a059c71750de8b41b57a9f2bcb56d9b03f09a4b"
-            }
-        ],
-        "newsHeadline": "Information Regarding Pre-Approval of Right Share from ERC [MEL] ",
-        "newsBody": "",
-        "addedDate": "2026-02-05T10:15:59.367",
-        "newsSource": "Electricity Regulatory Commission",
-        "modifiedDate": "2026-02-05T10:17:36.223",
-        "approvedDate": null
-    },
-    {
-        "id": 44502,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29610,
-                "activeStatus": "A",
-                "modifiedBy": "sarbtm_user",
-                "modifiedDate": "2026-02-04T18:22:07.827",
-                "application": 44502,
-                "documentType": 54,
-                "submittedDate": "2026-02-04",
-                "filePath": "sarbtm_user/2026-02-04/SCL later (2)_1770208589245.pdf",
-                "encryptedId": "9670b908c1616df0aef4b5e8093c28ec491faf3215479f0bf305244a6eab870e29bd20cb885c7d37debea29ce456b796e9564e4230fbb0a5a5e4c3191f59f035"
-            }
-        ],
-        "newsHeadline": "\u0938\u091e\u094d\u091a\u093e\u0932\u0915\u0915\u094b \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e [SARBTM] ",
-        "newsBody": "<p>\u0938\u091e\u094d\u091a\u093e\u0932\u0915\u0915\u094b \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e</p>",
-        "addedDate": "2026-02-04T18:22:07.823",
-        "newsSource": "BOD",
-        "modifiedDate": "2026-02-05T10:11:46.67",
-        "approvedDate": null
-    },
-    {
-        "id": 44500,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29608,
-                "activeStatus": "A",
-                "modifiedBy": "samling_user",
-                "modifiedDate": "2026-02-04T17:08:42.747",
-                "application": 44500,
-                "documentType": 54,
-                "submittedDate": "2026-02-04",
-                "filePath": "Samling_power_company_limited/Company News/2026-02-04/Right Share Issue Manager Appoint_1770204170235.pdf",
-                "encryptedId": "96f84910b4767f932d13f3c34f977c18e9d7403dd38aaf56e8979b05304171626aeca5d7e0a1cea2520fb346e196c55fe9ae17b86c3c3394058ddd1e2b430c41"
-            }
-        ],
-        "newsHeadline": "Right Share Issue Manager Appoint [SPC] ",
-        "newsBody": "",
-        "addedDate": "2026-02-04T17:08:42.747",
-        "newsSource": "SPC",
-        "modifiedDate": "2026-02-05T10:11:12.853",
-        "approvedDate": null
-    },
-    {
-        "id": 44499,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29607,
-                "activeStatus": "A",
-                "modifiedBy": "buddha_user",
-                "modifiedDate": "2026-02-04T17:02:57.45",
-                "application": 44499,
-                "documentType": 54,
-                "submittedDate": "2026-02-04",
-                "filePath": "Buddha_bhumi_nepal_hydro_power_company_limited/Company News/2026-02-04/Right Share Approval Letter_1770203819828.pdf",
-                "encryptedId": "3d8368dfc1c2d997a8d1b1661137612c1fc08dcd7a7e5f18cbfcefc25faddc2a1e1bb8618bf42622e18257690a7bead6f8f0808120b7ad607e78101c315c8090"
-            }
-        ],
-        "newsHeadline": "\u0936\u0924 \u092a\u094d\u0930\u0924\u093f\u0936\u0924 \u0939\u0915\u092a\u094d\u0930\u0926 \u0936\u0947\u092f\u0930 \u0938\u094d\u0935\u0940\u0915\u0943\u0924 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e [BNHC] ",
-        "newsBody": "<p>\u0936\u0924 \u092a\u094d\u0930\u0924\u093f\u0936\u0924 \u0939\u0915\u092a\u094d\u0930\u0926 \u0936\u0947\u092f\u0930 \u0938\u094d\u0935\u0940\u0915\u0943\u0924 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e</p>",
-        "addedDate": "2026-02-04T17:02:57.447",
-        "newsSource": "BNHC",
-        "modifiedDate": "2026-02-05T10:10:48.84",
         "approvedDate": null
     },
     {
