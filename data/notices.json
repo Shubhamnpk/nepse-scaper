@@ -59,6 +59,61 @@
     ],
     "company": [
         {
+            "id": 44555,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29667,
+                    "activeStatus": "A",
+                    "modifiedBy": "tvcl_user",
+                    "modifiedDate": "2026-02-08T13:17:59.087",
+                    "application": 44555,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-08",
+                    "filePath": "Trishuli_Jal_Vidhyut_Company_Limited/Company News/2026-02-08/Appointment of company secretary_1770535973085.pdf",
+                    "encryptedId": "1d536d763a37eeeae9b490f777f3ca36c9f6f5a43a087bdf4c11337b0c701d4f9741eec6299ef643bc9b5b2f9a176055f71c42f0888f6d29555ac30bce3ce621"
+                }
+            ],
+            "newsHeadline": "Appointment of company secretary [TVCL] ",
+            "newsBody": "",
+            "addedDate": "2026-02-08T13:17:59.083",
+            "newsSource": "Board decision",
+            "modifiedDate": "2026-02-08T13:31:08.873",
+            "approvedDate": null
+        },
+        {
+            "id": 44554,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 29666,
+                    "activeStatus": "A",
+                    "modifiedBy": "bfc_user",
+                    "modifiedDate": "2026-02-08T13:05:32.737",
+                    "application": 44554,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-08",
+                    "filePath": "bfc_user/2026-02-08/agm minutes_1770535211602.pdf",
+                    "encryptedId": "0152442fa1f832ed013d6ac52de698d091ce0018cf34b647175ca1185c2c9019d9d487e332f62e4cf97141bbdea140d6516e76989560bb76064a280f9ebe28dd"
+                },
+                {
+                    "id": 29665,
+                    "activeStatus": "A",
+                    "modifiedBy": "bfc_user",
+                    "modifiedDate": "2026-02-08T13:05:32.737",
+                    "application": 44554,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-08",
+                    "filePath": "bfc_user/2026-02-08/agm minute -nepse_1770535203034.pdf",
+                    "encryptedId": "ac728dfd5fc000b62486985b8947a17f34ce43240d372f9ac6fe030b113fd35223df572900d9adbb9a3cf8f9b24ab98f2c7d22e2b033853771f2ee7d08d0221e"
+                }
+            ],
+            "newsHeadline": "AGM minute [BFC] ",
+            "newsBody": "",
+            "addedDate": "2026-02-08T13:05:32.733",
+            "newsSource": "AGM",
+            "modifiedDate": "2026-02-08T13:14:05.203",
+            "approvedDate": null
+        },
+        {
             "id": 44553,
             "applicationDocumentDetailsList": [
                 {
@@ -526,5 +581,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-08T07:11:57.734196"
+    "last_updated": "2026-02-08T07:54:48.340238"
 }
