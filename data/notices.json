@@ -84,17 +84,6 @@
             "id": 44554,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29665,
-                    "activeStatus": "A",
-                    "modifiedBy": "bfc_user",
-                    "modifiedDate": "2026-02-08T13:05:32.737",
-                    "application": 44554,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-08",
-                    "filePath": "bfc_user/2026-02-08/agm minute -nepse_1770535203034.pdf",
-                    "encryptedId": "ac728dfd5fc000b62486985b8947a17f34ce43240d372f9ac6fe030b113fd35223df572900d9adbb9a3cf8f9b24ab98f2c7d22e2b033853771f2ee7d08d0221e"
-                },
-                {
                     "id": 29666,
                     "activeStatus": "A",
                     "modifiedBy": "bfc_user",
@@ -104,6 +93,17 @@
                     "submittedDate": "2026-02-08",
                     "filePath": "bfc_user/2026-02-08/agm minutes_1770535211602.pdf",
                     "encryptedId": "0152442fa1f832ed013d6ac52de698d091ce0018cf34b647175ca1185c2c9019d9d487e332f62e4cf97141bbdea140d6516e76989560bb76064a280f9ebe28dd"
+                },
+                {
+                    "id": 29665,
+                    "activeStatus": "A",
+                    "modifiedBy": "bfc_user",
+                    "modifiedDate": "2026-02-08T13:05:32.737",
+                    "application": 44554,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-08",
+                    "filePath": "bfc_user/2026-02-08/agm minute -nepse_1770535203034.pdf",
+                    "encryptedId": "ac728dfd5fc000b62486985b8947a17f34ce43240d372f9ac6fe030b113fd35223df572900d9adbb9a3cf8f9b24ab98f2c7d22e2b033853771f2ee7d08d0221e"
                 }
             ],
             "newsHeadline": "AGM minute [BFC] ",
@@ -581,5 +581,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-08T08:28:57.177354"
+    "last_updated": "2026-02-08T08:59:08.080427"
 }
