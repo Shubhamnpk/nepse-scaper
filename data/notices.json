@@ -35,6 +35,17 @@
             "modifiedBy": "prabhakar_k"
         },
         {
+            "id": 208594,
+            "noticeHeading": "Listing - Citizens Santulit Yojana (CSY)",
+            "noticeBody": "<p><span style=\"box-sizing: border-box;\">NEPSE listed 12,50,00,000 Units&nbsp;</span>Citizens Santulit Yojana (CSY)&nbsp;<span style=\"box-sizing: border-box;\">and signed agreement on 2026/02/09 A.D. (2082/10/26 BS). Trading of the listed mutual fund will commence on 2026-02-10 A.D. (2082-10-27 BS)</span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 14px; line-height: 1.7; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"box-sizing: border-box;\">For more Details find the attached Notice</span></p>",
+            "noticeExpiryDate": null,
+            "noticeFilePath": "e29c3c5bddc4244b60e44778c3d84ebdd59dd05f716c0c06c6df19089fc892acf8fceef655ddb7e4abbf94c8a6eb7a949613932af2a16b907eef6fc700b25fb2",
+            "feature": true,
+            "publishToWebsite": true,
+            "source": "NOTS",
+            "modifiedDate": "2026-02-09"
+        },
+        {
             "id": 208593,
             "noticeHeading": "Listing 21% Bonus Shares of Sahas Urja Limited (SAHAS)",
             "noticeBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">79,38,000 Units Bonus Shares of&nbsp;</span>Sahas Urja Limited (SAHAS)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" class=\"Apple-interchange-newline\"></p>",
@@ -106,17 +117,6 @@
             "id": 44562,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29683,
-                    "activeStatus": "A",
-                    "modifiedBy": "gvl_user",
-                    "modifiedDate": "2026-02-08T17:02:20.487",
-                    "application": 44562,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-08",
-                    "filePath": "Green_Ventures_Limited/Company News/2026-02-08/Annual Report 7th - 81-82_compressed_1770549301172.pdf",
-                    "encryptedId": "35de6b87cfe6289f308f12cf03d086eb955a18a916747d66ef80698fb646fae42327a37705166f49c3e70d834694492a5665ae93ae1c146c542923bf10de6f07"
-                },
-                {
                     "id": 29684,
                     "activeStatus": "A",
                     "modifiedBy": "gvl_user",
@@ -126,6 +126,17 @@
                     "submittedDate": "2026-02-08",
                     "filePath": "Green_Ventures_Limited/Company News/2026-02-08/AGM Minutes 81-82_1770549056181.pdf",
                     "encryptedId": "054aaec8e335d703881de3bed79a8c2429e556f81b50131c00c7736634c8d0b38f12c49879ef44711a650b93dc8d5208b88e172d41e46a7fab6006e995bf5059"
+                },
+                {
+                    "id": 29683,
+                    "activeStatus": "A",
+                    "modifiedBy": "gvl_user",
+                    "modifiedDate": "2026-02-08T17:02:20.487",
+                    "application": 44562,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-08",
+                    "filePath": "Green_Ventures_Limited/Company News/2026-02-08/Annual Report 7th - 81-82_compressed_1770549301172.pdf",
+                    "encryptedId": "35de6b87cfe6289f308f12cf03d086eb955a18a916747d66ef80698fb646fae42327a37705166f49c3e70d834694492a5665ae93ae1c146c542923bf10de6f07"
                 }
             ],
             "newsHeadline": "AGM Documents [GVL] ",
@@ -271,17 +282,6 @@
             "id": 44554,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29666,
-                    "activeStatus": "A",
-                    "modifiedBy": "bfc_user",
-                    "modifiedDate": "2026-02-08T13:05:32.737",
-                    "application": 44554,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-08",
-                    "filePath": "bfc_user/2026-02-08/agm minutes_1770535211602.pdf",
-                    "encryptedId": "0152442fa1f832ed013d6ac52de698d091ce0018cf34b647175ca1185c2c9019d9d487e332f62e4cf97141bbdea140d6516e76989560bb76064a280f9ebe28dd"
-                },
-                {
                     "id": 29665,
                     "activeStatus": "A",
                     "modifiedBy": "bfc_user",
@@ -291,6 +291,17 @@
                     "submittedDate": "2026-02-08",
                     "filePath": "bfc_user/2026-02-08/agm minute -nepse_1770535203034.pdf",
                     "encryptedId": "ac728dfd5fc000b62486985b8947a17f34ce43240d372f9ac6fe030b113fd35223df572900d9adbb9a3cf8f9b24ab98f2c7d22e2b033853771f2ee7d08d0221e"
+                },
+                {
+                    "id": 29666,
+                    "activeStatus": "A",
+                    "modifiedBy": "bfc_user",
+                    "modifiedDate": "2026-02-08T13:05:32.737",
+                    "application": 44554,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-08",
+                    "filePath": "bfc_user/2026-02-08/agm minutes_1770535211602.pdf",
+                    "encryptedId": "0152442fa1f832ed013d6ac52de698d091ce0018cf34b647175ca1185c2c9019d9d487e332f62e4cf97141bbdea140d6516e76989560bb76064a280f9ebe28dd"
                 }
             ],
             "newsHeadline": "AGM minute [BFC] ",
@@ -480,17 +491,6 @@
             "id": 44087,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29121,
-                    "activeStatus": "A",
-                    "modifiedBy": "dhel_user",
-                    "modifiedDate": "2026-01-12T17:21:47.447",
-                    "application": 44087,
-                    "documentType": 54,
-                    "submittedDate": "2026-01-12",
-                    "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Notice_1768217752596.pdf",
-                    "encryptedId": "c0ecbeeb3407a31646b32ca4e277df2060e2cb0c8f70b51c2c40b6a5a8c9f79ce3211c14dda02afefb36b8de81a00f391a174d2eeb36cc3a854f782326cb88af"
-                },
-                {
                     "id": 29120,
                     "activeStatus": "A",
                     "modifiedBy": "dhel_user",
@@ -500,6 +500,17 @@
                     "submittedDate": "2026-01-12",
                     "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Lock In  Period end Notice_1768217742460.pdf",
                     "encryptedId": "2bbc7636ad4055cdd6f47857d202dd16c38236a75a9cb83765c4909d1a99bfdd7694171990cc77931ac16ee4f936d8abff05df2bf7c32a551b9351fb00bb31de"
+                },
+                {
+                    "id": 29121,
+                    "activeStatus": "A",
+                    "modifiedBy": "dhel_user",
+                    "modifiedDate": "2026-01-12T17:21:47.447",
+                    "application": 44087,
+                    "documentType": 54,
+                    "submittedDate": "2026-01-12",
+                    "filePath": "Daramkhola_Hydro_Energy_Limited/Company News/2026-01-12/Notice_1768217752596.pdf",
+                    "encryptedId": "c0ecbeeb3407a31646b32ca4e277df2060e2cb0c8f70b51c2c40b6a5a8c9f79ce3211c14dda02afefb36b8de81a00f391a174d2eeb36cc3a854f782326cb88af"
                 }
             ],
             "newsHeadline": "Lock in Period end for Mutual Fund Share [DHEL] ",
@@ -533,6 +544,18 @@
         }
     ],
     "exchange": [
+        {
+            "id": 208594,
+            "messageBody": "<p><span style=\"box-sizing: border-box;\">NEPSE listed 12,50,00,000 Units&nbsp;</span>Citizens Santulit Yojana (CSY)&nbsp;<span style=\"box-sizing: border-box;\">and signed agreement on 2026/02/09 A.D. (2082/10/26 BS). Trading of the listed mutual fund will commence on 2026-02-10 A.D. (2082-10-27 BS)</span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 14px; line-height: 1.7; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"box-sizing: border-box;\">For more Details find the attached Notice</span></p>",
+            "messageTitle": "Listing - Citizens Santulit Yojana (CSY)",
+            "encryptedId": "e29c3c5bddc4244b60e44778c3d84ebdd59dd05f716c0c06c6df19089fc892acf8fceef655ddb7e4abbf94c8a6eb7a949613932af2a16b907eef6fc700b25fb2",
+            "expiryDate": "2026-02-09",
+            "filePath": "nabaraj_listing/2026-02-09/CSY pfd_1770631582801.pdf",
+            "remarks": "5",
+            "addedDate": "2026-02-09T15:52:58.53",
+            "modifiedDate": "2026-02-09T15:52:58.53",
+            "approvedDate": null
+        },
         {
             "id": 208593,
             "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">79,38,000 Units Bonus Shares of&nbsp;</span>Sahas Urja Limited (SAHAS)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" class=\"Apple-interchange-newline\"></p>",
@@ -570,5 +593,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-09T09:59:30.369827"
+    "last_updated": "2026-02-09T11:02:09.457592"
 }
