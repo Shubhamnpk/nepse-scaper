@@ -1,5 +1,170 @@
 [
     {
+        "id": 44578,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29703,
+                "activeStatus": "A",
+                "modifiedBy": "hli_user",
+                "modifiedDate": "2026-02-09T10:28:28.223",
+                "application": 44578,
+                "documentType": 54,
+                "submittedDate": "2026-02-09",
+                "filePath": "hli_user/2026-02-09/Information of Director Appointment_1770612170192.pdf",
+                "encryptedId": "05663df0764e811434b3786dd71a98b31411eff1c6362bd598a36122f55e2dc06b5649ba540104422373bbec325cb71437c10224ab4fccb28c0bcf1d5c499318"
+            }
+        ],
+        "newsHeadline": "Information of Appointment of Director [HLI] ",
+        "newsBody": "<p>Information of Appointment of Director</p>",
+        "addedDate": "2026-02-09T10:28:28.22",
+        "newsSource": "Board of Director",
+        "modifiedDate": "2026-02-09T10:39:19.867",
+        "approvedDate": null
+    },
+    {
+        "id": 44562,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29684,
+                "activeStatus": "A",
+                "modifiedBy": "gvl_user",
+                "modifiedDate": "2026-02-08T17:02:20.487",
+                "application": 44562,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "Green_Ventures_Limited/Company News/2026-02-08/AGM Minutes 81-82_1770549056181.pdf",
+                "encryptedId": "054aaec8e335d703881de3bed79a8c2429e556f81b50131c00c7736634c8d0b38f12c49879ef44711a650b93dc8d5208b88e172d41e46a7fab6006e995bf5059"
+            },
+            {
+                "id": 29683,
+                "activeStatus": "A",
+                "modifiedBy": "gvl_user",
+                "modifiedDate": "2026-02-08T17:02:20.487",
+                "application": 44562,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "Green_Ventures_Limited/Company News/2026-02-08/Annual Report 7th - 81-82_compressed_1770549301172.pdf",
+                "encryptedId": "35de6b87cfe6289f308f12cf03d086eb955a18a916747d66ef80698fb646fae42327a37705166f49c3e70d834694492a5665ae93ae1c146c542923bf10de6f07"
+            }
+        ],
+        "newsHeadline": "AGM Documents [GVL] ",
+        "newsBody": "",
+        "addedDate": "2026-02-08T17:02:20.483",
+        "newsSource": "AGM Documents",
+        "modifiedDate": "2026-02-09T09:56:00.42",
+        "approvedDate": null
+    },
+    {
+        "id": 44564,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29686,
+                "activeStatus": "A",
+                "modifiedBy": "upcl_user",
+                "modifiedDate": "2026-02-08T17:28:47.06",
+                "application": 44564,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "Universal_Power_Company_Ltd/Company News/2026-02-08/Letter_1770551003224.pdf",
+                "encryptedId": "d52f9a5baf04614b65dcd64db0cd80c741c7487801aba1bfabc4f23ff0f03aa8091f77666cac9ad7213fcf96567213d846edb4766fe756b12e53f67e3663eace"
+            }
+        ],
+        "newsHeadline": "Information [UPCL] ",
+        "newsBody": "<p>Information</p>",
+        "addedDate": "2026-02-08T17:28:47.06",
+        "newsSource": "Information",
+        "modifiedDate": "2026-02-09T09:02:23.027",
+        "approvedDate": null
+    },
+    {
+        "id": 44565,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29687,
+                "activeStatus": "A",
+                "modifiedBy": "nrn_user",
+                "modifiedDate": "2026-02-08T18:12:42.663",
+                "application": 44565,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "NRN_Infrastructure_and_Development_Limited/Company News/2026-02-08/233-Letter to NEPSE-Director Resignation_1770553647441.pdf",
+                "encryptedId": "ea8ddfdd8f94df6c4de760cd7a7f894235db0d9f1c64e9ff11e59ac13962ffc6d2324b4e209ae681fbe4fb038d2486b8ea58b00fc0531bd77d3383f3b0323d5e"
+            }
+        ],
+        "newsHeadline": "Acceptance of Director Resignation [NRN] ",
+        "newsBody": "",
+        "addedDate": "2026-02-08T18:12:42.663",
+        "newsSource": "NRN",
+        "modifiedDate": "2026-02-09T09:02:02.66",
+        "approvedDate": null
+    },
+    {
+        "id": 44566,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29688,
+                "activeStatus": "A",
+                "modifiedBy": "rlfl_user",
+                "modifiedDate": "2026-02-08T18:25:58.42",
+                "application": 44566,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "rlfl_user/2026-02-08/Rajinama samaj sir_1770554375432.pdf",
+                "encryptedId": "d3b80f3715a2835498b21a516705a38ae77b0e22357d42458d2b3584b45df7ea91b93103c12ac065be273f16d5fcdf55e5608045ebadc6a776b97c4b87ab2727"
+            }
+        ],
+        "newsHeadline": "\u092a\u094d\u0930\u092e\u0941\u0916 \u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940 \u0905\u0927\u093f\u0915\u0943\u0924\u0915\u094b \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e [RLFL] ",
+        "newsBody": "<p style=\"text-align: justify;\">\u0909\u092a\u0930\u094b\u0915\u094d\u0924 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e \u092f\u0938 \u0935\u093f\u0924\u094d\u0924\u0940\u092f \u0938\u0902\u0938\u094d\u0925\u093e\u0915\u093e \u092a\u094d\u0930\u092e\u0941\u0916 \u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940 \u0905\u0927\u093f\u0915\u0943\u0924 \u0936\u094d\u0930\u0940 \u0938\u092e\u093e\u091c \u092a\u094d\u0930\u0915\u093e\u0936 \u0936\u094d\u0930\u0947\u0937\u094d\u0920\u0932\u0947 \u092e\u093f\u0924\u093f \u0968\u0966\u096e\u0968/\u0967\u0967/\u0966\u0967 \u092c\u093e\u091f \u0932\u093e\u0917\u0941 \u0939\u0941\u0928\u0947 \u0917\u0930\u093f \u092a\u094d\u0930\u092e\u0941\u0916 \u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940 \u0905\u0927\u093f\u0915\u0943\u0924 \u092a\u0926\u092c\u093e\u091f \u0926\u093f\u0928\u0941 \u092d\u090f\u0915\u094b \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u092f\u0938 \u0938\u0902\u0938\u094d\u0925\u093e\u0915\u094b \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u092e\u093f\u0924\u093f \u0968\u0966\u096e\u0968/\u0967\u0966/\u0968\u096b \u0917\u0924\u0947 \u0905\u092a\u0930\u093e\u0928\u094d\u0939 \u0969 \u092c\u091c\u0947 \u092c\u0938\u0947\u0915\u094b \u092c\u0948\u0920\u0915\u0932\u0947 \u0938\u094d\u0935\u0940\u0915\u0943\u0924 \u0917\u0930\u0947\u0915\u094b \u0935\u094d\u092f\u0939\u094b\u0930\u093e \u091c\u093e\u0928\u0915\u093e\u0930\u0940\u0915\u094b \u0932\u093e\u0917\u0940 \u0905\u0928\u0941\u0930\u094b\u0927 \u091b \u0964</p>",
+        "addedDate": "2026-02-08T18:25:58.417",
+        "newsSource": "RLFL",
+        "modifiedDate": "2026-02-09T09:01:26.2",
+        "approvedDate": null
+    },
+    {
+        "id": 44567,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29689,
+                "activeStatus": "A",
+                "modifiedBy": "rlfl_user",
+                "modifiedDate": "2026-02-08T18:28:04.167",
+                "application": 44567,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "rlfl_user/2026-02-08/Buddi kumar Malla_1770554561162.pdf",
+                "encryptedId": "6b71fa38a13a85bf2b38d141c64651ed18c962e661d6253b883e621b1bd4a475e5f9c38c67e2b22a124d07b74d0b359c3aed7fb0e01c15e86418b3d49ee3bf76"
+            }
+        ],
+        "newsHeadline": "\u092a\u094d\u0930\u092e\u0941\u0916 \u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940 \u0905\u0927\u093f\u0915\u0943\u0924 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e  [RLFL] ",
+        "newsBody": "<p>\u092f\u0938 \u0938\u0902\u0938\u094d\u0925\u093e\u0915\u094b \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u092e\u093f\u0924\u093f \u0968\u0966\u096e\u0968/\u0967\u0966/\u0968\u096b \u0917\u0924\u0947 \u0905\u092a\u0930\u093e\u0928\u094d\u0939 \u0969 \u092c\u091c\u0947 \u092c\u0938\u0947\u0915\u094b \u092c\u0948\u0920\u0915\u0932\u0947 \u092e\u093f\u0924\u093f \u0968\u0966\u096e\u0968/\u0967\u0967/\u0966\u0967 \u092c\u093e\u091f \u0932\u093e\u0917\u0941 \u0939\u0941\u0928\u0947 \u0917\u0930\u093f \u0921\u093e. \u092c\u0941\u0926\u094d\u0927\u093f \u0915\u0941\u092e\u093e\u0930 \u092e\u0932\u094d\u0932\u0932\u093e\u0908 \u0938\u0902\u0938\u094d\u0925\u093e\u0915\u094b \u092a\u094d\u0930\u092e\u0941\u0916 \u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940 \u0905\u0927\u093f\u0915\u0943\u0924\u092e\u093e \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u0940 \u0917\u0930\u0947\u0915\u094b \u092c\u094d\u092f\u0939\u094b\u0930\u093e \u091c\u093e\u0928\u0915\u093e\u0930\u0940\u0915\u094b \u0932\u093e\u0917\u093f \u0905\u0928\u0941\u0930\u094b\u0927 \u091b \u0964</p>",
+        "addedDate": "2026-02-08T18:28:04.163",
+        "newsSource": "RLFL",
+        "modifiedDate": "2026-02-09T09:01:05.57",
+        "approvedDate": null
+    },
+    {
+        "id": 44563,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29685,
+                "activeStatus": "A",
+                "modifiedBy": "nabbc_user",
+                "modifiedDate": "2026-02-08T17:16:51.38",
+                "application": 44563,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "Narayani_Development_Bank_Limited/Company News/2026-02-08/Letter_1770550300291.pdf",
+                "encryptedId": "c68946fedd4f244fc092167d748fcec7da7d7d371a6f4a0df058963bf68a7ccdbf088c988f299f37e5a70005296ffe45d174ba2fbe34ddeb9f2d41832baca049"
+            }
+        ],
+        "newsHeadline": "APPOINTMENT OF DIRECTOR AND INDEPENDENT DIRECTOR [NABBC] ",
+        "newsBody": "",
+        "addedDate": "2026-02-08T17:16:51.377",
+        "newsSource": "GMAIL",
+        "modifiedDate": "2026-02-09T09:00:38.45",
+        "approvedDate": null
+    },
+    {
         "id": 44555,
         "applicationDocumentDetailsList": [
             {
@@ -25,17 +190,6 @@
         "id": 44554,
         "applicationDocumentDetailsList": [
             {
-                "id": 29666,
-                "activeStatus": "A",
-                "modifiedBy": "bfc_user",
-                "modifiedDate": "2026-02-08T13:05:32.737",
-                "application": 44554,
-                "documentType": 54,
-                "submittedDate": "2026-02-08",
-                "filePath": "bfc_user/2026-02-08/agm minutes_1770535211602.pdf",
-                "encryptedId": "0152442fa1f832ed013d6ac52de698d091ce0018cf34b647175ca1185c2c9019d9d487e332f62e4cf97141bbdea140d6516e76989560bb76064a280f9ebe28dd"
-            },
-            {
                 "id": 29665,
                 "activeStatus": "A",
                 "modifiedBy": "bfc_user",
@@ -45,6 +199,17 @@
                 "submittedDate": "2026-02-08",
                 "filePath": "bfc_user/2026-02-08/agm minute -nepse_1770535203034.pdf",
                 "encryptedId": "ac728dfd5fc000b62486985b8947a17f34ce43240d372f9ac6fe030b113fd35223df572900d9adbb9a3cf8f9b24ab98f2c7d22e2b033853771f2ee7d08d0221e"
+            },
+            {
+                "id": 29666,
+                "activeStatus": "A",
+                "modifiedBy": "bfc_user",
+                "modifiedDate": "2026-02-08T13:05:32.737",
+                "application": 44554,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "bfc_user/2026-02-08/agm minutes_1770535211602.pdf",
+                "encryptedId": "0152442fa1f832ed013d6ac52de698d091ce0018cf34b647175ca1185c2c9019d9d487e332f62e4cf97141bbdea140d6516e76989560bb76064a280f9ebe28dd"
             }
         ],
         "newsHeadline": "AGM minute [BFC] ",
@@ -184,204 +349,6 @@
         "addedDate": "2026-02-06T17:11:26.227",
         "newsSource": "Company",
         "modifiedDate": "2026-02-08T09:20:10.093",
-        "approvedDate": null
-    },
-    {
-        "id": 44536,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29644,
-                "activeStatus": "A",
-                "modifiedBy": "sifc_user",
-                "modifiedDate": "2026-02-06T12:47:14.813",
-                "application": 44536,
-                "documentType": 54,
-                "submittedDate": "2026-02-06",
-                "filePath": "sifc_user/2026-02-06/Minute-31th agm_1770361315622.pdf",
-                "encryptedId": "88ba21ae48f2026d023f86637e51905498eafb38e3bd2b7be336e5c2d53fbffb2cc021805008156ef4902e5d82b7076ef176ecde60a9c4bfeeb7ed6e611d9ce2"
-            }
-        ],
-        "newsHeadline": "AGM Minute-31st AGM [SIFC] ",
-        "newsBody": "<p>31st AGM Minute</p>",
-        "addedDate": "2026-02-06T12:47:14.81",
-        "newsSource": "Company Secretary",
-        "modifiedDate": "2026-02-06T13:24:55.33",
-        "approvedDate": null
-    },
-    {
-        "id": 44532,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29640,
-                "activeStatus": "A",
-                "modifiedBy": "bfc_user",
-                "modifiedDate": "2026-02-06T10:37:05.003",
-                "application": 44532,
-                "documentType": 54,
-                "submittedDate": "2026-02-06",
-                "filePath": "bfc_user/2026-02-06/auditer -stock_1770353510278.pdf",
-                "encryptedId": "8e107a81853f8d50ad79640495ac44a5016f82a96e50c13d5ad3a414bd693df1653e26743553d2d9e14e3510cbe2912ef1b8fc3354137e28561152ffcd34eb7c"
-            }
-        ],
-        "newsHeadline": "auditor appointment [BFC] ",
-        "newsBody": "",
-        "addedDate": "2026-02-06T10:37:04.997",
-        "newsSource": "Agm decision ",
-        "modifiedDate": "2026-02-06T10:58:45.407",
-        "approvedDate": null
-    },
-    {
-        "id": 44527,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29635,
-                "activeStatus": "A",
-                "modifiedBy": "sail_user",
-                "modifiedDate": "2026-02-05T18:02:47.58",
-                "application": 44527,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "Shreenagar_Agritect_Industries_Limited/Company News/2026-02-05/AGM Minutes_compressed_1770293791160.pdf",
-                "encryptedId": "198d74c775e5ddefe886a983691cc3228809bfb715897887eb5b3e9d6d107b8cbf897b304ae1c59208987b7dbffc3b13ae802f3608f9b5079bf129ce1f638ee3"
-            }
-        ],
-        "newsHeadline": "AGM notice [SAIL] ",
-        "newsBody": "Annual General Meeting of SAIL\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 9/24/2082\nAGM No: 3\nBook Close Date: 9/7/2082",
-        "addedDate": "2026-02-05T18:02:47.573",
-        "newsSource": "Aviyan",
-        "modifiedDate": "2026-02-06T09:00:28.247",
-        "approvedDate": null
-    },
-    {
-        "id": 44526,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29634,
-                "activeStatus": "A",
-                "modifiedBy": "uic_user",
-                "modifiedDate": "2026-02-05T17:41:15.8",
-                "application": 44526,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "uic_user/2026-02-05/NEPSE_1770292542284.pdf",
-                "encryptedId": "f3f71844e4a4a8a5f39abe9364f9626e02be498302c9b528110fd0b770a58c3eb0287731b8ef2479cf3995a600a7cbc43b21bfb35b003f9ce2023944bd0c3152"
-            }
-        ],
-        "newsHeadline": "Appointment of BOD [UAIL] ",
-        "newsBody": "<p>Appointment of BOD.</p>",
-        "addedDate": "2026-02-05T17:41:15.797",
-        "newsSource": "BOD",
-        "modifiedDate": "2026-02-06T09:00:05.887",
-        "approvedDate": null
-    },
-    {
-        "id": 44525,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29633,
-                "activeStatus": "A",
-                "modifiedBy": "tamor_user",
-                "modifiedDate": "2026-02-05T16:59:15.53",
-                "application": 44525,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "Sanima_Middle_Tamor_Hydropower_Limited/Company News/2026-02-05/Information of change of company secretary_1770290051426.pdf",
-                "encryptedId": "afc35d619cd7a8a5989c2ef008212150cd5b29bb51cf4547fd401f5e73e47111c15e7f84952aeadcd3197a409855c1a0d14f133a7011990256266ba0f538db9e"
-            }
-        ],
-        "newsHeadline": "Changes in Company Secretary [TAMOR] ",
-        "newsBody": "<p>Changes in Company Secretary</p>",
-        "addedDate": "2026-02-05T16:59:15.527",
-        "newsSource": "Board Meeting",
-        "modifiedDate": "2026-02-05T17:10:28.937",
-        "approvedDate": null
-    },
-    {
-        "id": 44521,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29629,
-                "activeStatus": "A",
-                "modifiedBy": "himalayan_user",
-                "modifiedDate": "2026-02-05T16:38:25.393",
-                "application": 44521,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "Himalayan_Hydropower_Limited/Company News/2026-02-05/HHL Pre_1770288800468.pdf",
-                "encryptedId": "bc2b49adb8cbff8fafabe77f3a9fa0bfc66f66ec48ee614ce3cf6fa79e23b37b947a927fbbdd0d0c7bdde394fea58e1a37caefbc0d22b5c7e9556b837c7ddbc3"
-            }
-        ],
-        "newsHeadline": "Pre Approval for issuance of Right from ERC [HHL] ",
-        "newsBody": "",
-        "addedDate": "2026-02-05T16:38:25.387",
-        "newsSource": "Company",
-        "modifiedDate": "2026-02-05T16:41:07.317",
-        "approvedDate": null
-    },
-    {
-        "id": 44511,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29619,
-                "activeStatus": "A",
-                "modifiedBy": "sindu_user",
-                "modifiedDate": "2026-02-05T11:14:42.62",
-                "application": 44511,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "sindu_user/2026-02-05/16th AGM_1770269164147.pdf",
-                "encryptedId": "bce7ec89b461fb11735fe7483962ca01ec26582eba9bb8d0e85d3116b7bd1cd354a1a66c18246abf1b12c5a4cb5828db7643ca8a701dcf6e531007058f83e0a9"
-            }
-        ],
-        "newsHeadline": "Information Regarding 16th AGM [SINDU] ",
-        "newsBody": "Annual General Meeting of SINDU\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 2/27/2026\nAGM No: 16\nBook Close Date: 2/12/2026",
-        "addedDate": "2026-02-05T11:14:42.617",
-        "newsSource": "0",
-        "modifiedDate": "2026-02-05T11:15:14.45",
-        "approvedDate": null
-    },
-    {
-        "id": 44507,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29615,
-                "activeStatus": "A",
-                "modifiedBy": "sindu_user",
-                "modifiedDate": "2026-02-05T10:40:56.137",
-                "application": 44507,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "sindu_user/2026-02-05/16th AGM_1770267338580.pdf",
-                "encryptedId": "84fb0aa400d637cba9ce6a8a0c1c0fb9c8c8a2cc3d4b67834e57dddc07318e62ba78dafe520439f7ab07200908c21b28a30ddca2ee7e205a3f9310cdefe07059"
-            }
-        ],
-        "newsHeadline": "Information regarding 16th AGM [SINDU] ",
-        "newsBody": "Annual General Meeting of SINDU\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 2/27/2083\nAGM No: 16\nBook Close Date: 2/12/2026",
-        "addedDate": "2026-02-05T10:40:56.133",
-        "newsSource": "Economic National Daily",
-        "modifiedDate": "2026-02-05T10:42:31.22",
-        "approvedDate": null
-    },
-    {
-        "id": 44506,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 29614,
-                "activeStatus": "A",
-                "modifiedBy": "buddha_user",
-                "modifiedDate": "2026-02-05T10:23:24.02",
-                "application": 44506,
-                "documentType": 54,
-                "submittedDate": "2026-02-05",
-                "filePath": "Buddha_bhumi_nepal_hydro_power_company_limited/Company News/2026-02-05/Book Close Letter NEPSE_1770266266948.pdf",
-                "encryptedId": "5e2345989337ae766e714009735e70a3891ac522573dfd437e2542d8a3f6a658baf80a9f780a8923fd1c3c59d804ce845f1ca3312adc69bf4106a117dda0226a"
-            }
-        ],
-        "newsHeadline": "Book close of BNHC [BNHC] ",
-        "newsBody": "Book Close of BNHC\nBook Close Date : 2/13/2026\nRight Shares : 100%",
-        "addedDate": "2026-02-05T10:23:24.013",
-        "newsSource": "BNHC",
-        "modifiedDate": "2026-02-05T10:24:51.23",
         "approvedDate": null
     },
     {
