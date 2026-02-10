@@ -1,5 +1,27 @@
 [
     {
+        "id": 44618,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29746,
+                "activeStatus": "A",
+                "modifiedBy": "sfcl_user",
+                "modifiedDate": "2026-02-10T13:36:55.55",
+                "application": 44618,
+                "documentType": 54,
+                "submittedDate": "2026-02-10",
+                "filePath": "sfcl_user/2026-02-10/24th AGM Minute_1770709816567.pdf",
+                "encryptedId": "e5d91343fae10ef1c12c7b8222653b03459676a25c6debafab7e5de02764dd781a704925d8eb2beaea12d863cb99b365a2c9d48adee4470dfceb48a3d3b23f83"
+            }
+        ],
+        "newsHeadline": "24th AGM Minute  [SFCL] ",
+        "newsBody": "<p>24th AGM Minute</p>",
+        "addedDate": "2026-02-10T13:36:55.54",
+        "newsSource": "24th AGM Minute ",
+        "modifiedDate": "2026-02-10T14:22:47.533",
+        "approvedDate": null
+    },
+    {
         "id": 44595,
         "applicationDocumentDetailsList": [
             {
@@ -113,17 +135,6 @@
         "id": 44562,
         "applicationDocumentDetailsList": [
             {
-                "id": 29683,
-                "activeStatus": "A",
-                "modifiedBy": "gvl_user",
-                "modifiedDate": "2026-02-08T17:02:20.487",
-                "application": 44562,
-                "documentType": 54,
-                "submittedDate": "2026-02-08",
-                "filePath": "Green_Ventures_Limited/Company News/2026-02-08/Annual Report 7th - 81-82_compressed_1770549301172.pdf",
-                "encryptedId": "35de6b87cfe6289f308f12cf03d086eb955a18a916747d66ef80698fb646fae42327a37705166f49c3e70d834694492a5665ae93ae1c146c542923bf10de6f07"
-            },
-            {
                 "id": 29684,
                 "activeStatus": "A",
                 "modifiedBy": "gvl_user",
@@ -133,6 +144,17 @@
                 "submittedDate": "2026-02-08",
                 "filePath": "Green_Ventures_Limited/Company News/2026-02-08/AGM Minutes 81-82_1770549056181.pdf",
                 "encryptedId": "054aaec8e335d703881de3bed79a8c2429e556f81b50131c00c7736634c8d0b38f12c49879ef44711a650b93dc8d5208b88e172d41e46a7fab6006e995bf5059"
+            },
+            {
+                "id": 29683,
+                "activeStatus": "A",
+                "modifiedBy": "gvl_user",
+                "modifiedDate": "2026-02-08T17:02:20.487",
+                "application": 44562,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "Green_Ventures_Limited/Company News/2026-02-08/Annual Report 7th - 81-82_compressed_1770549301172.pdf",
+                "encryptedId": "35de6b87cfe6289f308f12cf03d086eb955a18a916747d66ef80698fb646fae42327a37705166f49c3e70d834694492a5665ae93ae1c146c542923bf10de6f07"
             }
         ],
         "newsHeadline": "AGM Documents [GVL] ",
