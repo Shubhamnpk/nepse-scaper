@@ -1,5 +1,71 @@
 [
     {
+        "id": 44626,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29757,
+                "activeStatus": "A",
+                "modifiedBy": "prvu_user",
+                "modifiedDate": "2026-02-10T15:58:46.287",
+                "application": 44626,
+                "documentType": 54,
+                "submittedDate": "2026-02-10",
+                "filePath": "prvu_user/2026-02-10/AGM Minute_1770718411303.pdf",
+                "encryptedId": "d5daa1f5381e9200aeccc4d84f0d36e93a1ad2e4f96c35dfc26f998ab0356178fa44630090c700b7d22d1f7abfe34412b48a7d84a5ada9f2eac1d0426bc90bba"
+            }
+        ],
+        "newsHeadline": "Minute 24th AGM  [PRVU] ",
+        "newsBody": "<p><span style=\"color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Minute of 24th Annual General Meeting of Prabhu Bank Ltd</span></p>",
+        "addedDate": "2026-02-10T15:58:46.283",
+        "newsSource": "AGM",
+        "modifiedDate": "2026-02-10T16:41:12.62",
+        "approvedDate": null
+    },
+    {
+        "id": 44624,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29754,
+                "activeStatus": "A",
+                "modifiedBy": "sjlic_user",
+                "modifiedDate": "2026-02-10T15:41:44.333",
+                "application": 44624,
+                "documentType": 54,
+                "submittedDate": "2026-02-10",
+                "filePath": "sjlic_user/2026-02-10/Minute 18th AGM_1770717352625.pdf",
+                "encryptedId": "04fad43eb241f06536bc97facc4e94d69104373b9d33b9a73ef4974280fb204b6993ef8914b5872244a1f414e5ea96616fd1db00477ad489a69d6c86e69d8f6f"
+            }
+        ],
+        "newsHeadline": "18th Annual General Meeting (AGM) Minute [SJLIC] ",
+        "newsBody": "<p>18th Annual General Meeting (AGM) Minute of SJLIC</p>",
+        "addedDate": "2026-02-10T15:41:44.33",
+        "newsSource": "SuryaJyoti Life Insurance Company Limited",
+        "modifiedDate": "2026-02-10T15:50:40.227",
+        "approvedDate": null
+    },
+    {
+        "id": 44623,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29753,
+                "activeStatus": "A",
+                "modifiedBy": "sjlic_user",
+                "modifiedDate": "2026-02-10T15:36:42.107",
+                "application": 44623,
+                "documentType": 54,
+                "submittedDate": "2026-02-10",
+                "filePath": "sjlic_user/2026-02-10/Letter NEPSE_Auditor Appointment_1770716846675.pdf",
+                "encryptedId": "6afde11e6b02f2dfffa93e1f5ee97af5819c58e93062c977c7cbf4ce1c7bb2ddcd1200adf3cd1cdc613e4cbb2a9b3d113cb9b8fbfe7adf431f41bd013f5075c7"
+            }
+        ],
+        "newsHeadline": "Auditor appointment for FY 2082/83 [SJLIC] ",
+        "newsBody": "<p>Auditor appointment for Fiscal Year 2082/83</p>",
+        "addedDate": "2026-02-10T15:36:42.103",
+        "newsSource": "SuryaJyoti Life Insurance Company Limited",
+        "modifiedDate": "2026-02-10T15:50:24.003",
+        "approvedDate": null
+    },
+    {
         "id": 44618,
         "applicationDocumentDetailsList": [
             {
@@ -135,17 +201,6 @@
         "id": 44562,
         "applicationDocumentDetailsList": [
             {
-                "id": 29684,
-                "activeStatus": "A",
-                "modifiedBy": "gvl_user",
-                "modifiedDate": "2026-02-08T17:02:20.487",
-                "application": 44562,
-                "documentType": 54,
-                "submittedDate": "2026-02-08",
-                "filePath": "Green_Ventures_Limited/Company News/2026-02-08/AGM Minutes 81-82_1770549056181.pdf",
-                "encryptedId": "054aaec8e335d703881de3bed79a8c2429e556f81b50131c00c7736634c8d0b38f12c49879ef44711a650b93dc8d5208b88e172d41e46a7fab6006e995bf5059"
-            },
-            {
                 "id": 29683,
                 "activeStatus": "A",
                 "modifiedBy": "gvl_user",
@@ -155,6 +210,17 @@
                 "submittedDate": "2026-02-08",
                 "filePath": "Green_Ventures_Limited/Company News/2026-02-08/Annual Report 7th - 81-82_compressed_1770549301172.pdf",
                 "encryptedId": "35de6b87cfe6289f308f12cf03d086eb955a18a916747d66ef80698fb646fae42327a37705166f49c3e70d834694492a5665ae93ae1c146c542923bf10de6f07"
+            },
+            {
+                "id": 29684,
+                "activeStatus": "A",
+                "modifiedBy": "gvl_user",
+                "modifiedDate": "2026-02-08T17:02:20.487",
+                "application": 44562,
+                "documentType": 54,
+                "submittedDate": "2026-02-08",
+                "filePath": "Green_Ventures_Limited/Company News/2026-02-08/AGM Minutes 81-82_1770549056181.pdf",
+                "encryptedId": "054aaec8e335d703881de3bed79a8c2429e556f81b50131c00c7736634c8d0b38f12c49879ef44711a650b93dc8d5208b88e172d41e46a7fab6006e995bf5059"
             }
         ],
         "newsHeadline": "AGM Documents [GVL] ",
