@@ -73,17 +73,6 @@
             "id": 44643,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29780,
-                    "activeStatus": "A",
-                    "modifiedBy": "jslbb_user",
-                    "modifiedDate": "2026-02-11T09:15:17.167",
-                    "application": 44643,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-11",
-                    "filePath": "jslbb_user/2026-02-11/AGM Declaration Letter_1770780588367.pdf",
-                    "encryptedId": "6f7ed0a91e585624f4c8526ccd1ed3b34bbb968369c63a5aee14d7189d04e009fd673ab666d620af32fd5310b66c302e3b345e40b64eca60b2b92c13badd6611"
-                },
-                {
                     "id": 29781,
                     "activeStatus": "A",
                     "modifiedBy": "jslbb_user",
@@ -93,6 +82,17 @@
                     "submittedDate": "2026-02-11",
                     "filePath": "jslbb_user/2026-02-11/15th AGM Notice_1770780603794.pdf",
                     "encryptedId": "5c4216981c8668d3393edc228ea364ed49b50d5ea0288de651ae6bfda803536e7d879fe9b9833c682d5b903424c733459f9a1c2e8d007059a2897061dfe24479"
+                },
+                {
+                    "id": 29780,
+                    "activeStatus": "A",
+                    "modifiedBy": "jslbb_user",
+                    "modifiedDate": "2026-02-11T09:15:17.167",
+                    "application": 44643,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-11",
+                    "filePath": "jslbb_user/2026-02-11/AGM Declaration Letter_1770780588367.pdf",
+                    "encryptedId": "6f7ed0a91e585624f4c8526ccd1ed3b34bbb968369c63a5aee14d7189d04e009fd673ab666d620af32fd5310b66c302e3b345e40b64eca60b2b92c13badd6611"
                 }
             ],
             "newsHeadline": "Information About AGM decalaration and book close [JSLBB] ",
@@ -128,28 +128,6 @@
             "id": 44630,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29764,
-                    "activeStatus": "A",
-                    "modifiedBy": "NESDO_user",
-                    "modifiedDate": "2026-02-10T16:50:34.48",
-                    "application": 44630,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-10",
-                    "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-02-10/Corporate Goverance_1770721403656.pdf",
-                    "encryptedId": "af5ddab4e0737fb60da6f17b5991181765693108eb7f54762d9f81a28fe2e72a710195b3f6d83552449d63da476fbbf88257b344d632765df5d5be6ce4292c2c"
-                },
-                {
-                    "id": 29761,
-                    "activeStatus": "A",
-                    "modifiedBy": "NESDO_user",
-                    "modifiedDate": "2026-02-10T16:50:34.477",
-                    "application": 44630,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-10",
-                    "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-02-10/Letter of Minute of 7th AGM_1770721256081.pdf",
-                    "encryptedId": "469485afba22cbbb33a3044d79b81c53e2654fa4cd3639b569116b1f6fadfcf7cac0fedcd99bd28b91a258939b2ad2725419fe6292eb7f043ca07c266c9e8532"
-                },
-                {
                     "id": 29762,
                     "activeStatus": "A",
                     "modifiedBy": "NESDO_user",
@@ -170,6 +148,28 @@
                     "submittedDate": "2026-02-10",
                     "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-02-10/daff 78_1770721415670.pdf",
                     "encryptedId": "5c75bc9bfd1ddef59dd91da265a541dc37f1f968899553e65f46acc3dda2696f61d79538b9b2586eb22d8a52db1e3e48f76d81d7203a2d2a80d7f229d9e84452"
+                },
+                {
+                    "id": 29764,
+                    "activeStatus": "A",
+                    "modifiedBy": "NESDO_user",
+                    "modifiedDate": "2026-02-10T16:50:34.48",
+                    "application": 44630,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-10",
+                    "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-02-10/Corporate Goverance_1770721403656.pdf",
+                    "encryptedId": "af5ddab4e0737fb60da6f17b5991181765693108eb7f54762d9f81a28fe2e72a710195b3f6d83552449d63da476fbbf88257b344d632765df5d5be6ce4292c2c"
+                },
+                {
+                    "id": 29761,
+                    "activeStatus": "A",
+                    "modifiedBy": "NESDO_user",
+                    "modifiedDate": "2026-02-10T16:50:34.477",
+                    "application": 44630,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-10",
+                    "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-02-10/Letter of Minute of 7th AGM_1770721256081.pdf",
+                    "encryptedId": "469485afba22cbbb33a3044d79b81c53e2654fa4cd3639b569116b1f6fadfcf7cac0fedcd99bd28b91a258939b2ad2725419fe6292eb7f043ca07c266c9e8532"
                 }
             ],
             "newsHeadline": "7th AGM Minute and Others reports [NESDO] ",
@@ -503,5 +503,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-11T07:53:37.412277"
+    "last_updated": "2026-02-11T08:43:38.854006"
 }
