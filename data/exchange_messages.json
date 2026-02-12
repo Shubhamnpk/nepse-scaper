@@ -1,5 +1,29 @@
 [
     {
+        "id": 208598,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Adjusted price of&nbsp;</span>Buddha Bhumi Nepal Hydropower Company Limited (BNHC)<span style=\"color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">&nbsp;</span><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">is Rs.313.10 for 100% Right shares on previous closing price of Rs.526.20</span><br class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Price Adjusted - Buddha Bhumi Nepal Hydropower Company Limited (BNHC)",
+        "encryptedId": null,
+        "expiryDate": "2026-02-12",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-02-12T16:18:49.077",
+        "modifiedDate": "2026-02-12T16:18:49.077",
+        "approvedDate": null
+    },
+    {
+        "id": 208597,
+        "messageBody": "Price Adjusted - BNHC|Adjusted Price for Buddha Bhumi Nepal Hydropower Company Limited is Rs. 313.1 for 100 % of Right Share.",
+        "messageTitle": "Price Adjusted - BNHC",
+        "encryptedId": null,
+        "expiryDate": "2026-02-12",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": null,
+        "modifiedDate": "2026-02-12T16:14:54.217",
+        "approvedDate": null
+    },
+    {
         "id": 208596,
         "messageBody": "Price Adjusted - ALICL|Adjusted Price for Asian Life Insurance Co. Limited is Rs. 439.05 for 5 % of Bonus Share.",
         "messageTitle": "Price Adjusted - ALICL",

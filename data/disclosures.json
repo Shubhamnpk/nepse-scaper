@@ -1,5 +1,38 @@
 [
     {
+        "id": 44734,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29887,
+                "activeStatus": "A",
+                "modifiedBy": "tamor_user",
+                "modifiedDate": "2026-02-12T15:52:43.04",
+                "application": 44734,
+                "documentType": 54,
+                "submittedDate": "2026-02-12",
+                "filePath": "Sanima_Middle_Tamor_Hydropower_Limited/Company News/2026-02-12/Letter_End of Lockin Period_1770890836944.pdf",
+                "encryptedId": "a0c6b2eb06f47a96ecbd7648e729a9591fd80bae7b1d0eaaafeb5f17bb7573048711286e6bbfb38e52497dab97c91c6efcb1db859dc85ce4cdce4b9d93a386df"
+            },
+            {
+                "id": 29886,
+                "activeStatus": "A",
+                "modifiedBy": "tamor_user",
+                "modifiedDate": "2026-02-12T15:52:43.04",
+                "application": 44734,
+                "documentType": 54,
+                "submittedDate": "2026-02-12",
+                "filePath": "Sanima_Middle_Tamor_Hydropower_Limited/Company News/2026-02-12/Notice of End of Lockin Period_TAMOR_1770890852691.pdf",
+                "encryptedId": "b713155e39cbe76d66652f3cd8607960c92f9fc6085c84551e2b9636eed4eb7c2825f6902e9dc28c55ced1495b4a59cada0493f3a8d309ff50d2cf73c374cb77"
+            }
+        ],
+        "newsHeadline": "End of Locking Period [TAMOR] ",
+        "newsBody": "<p>End of Locking Period</p>",
+        "addedDate": "2026-02-12T15:52:43.037",
+        "newsSource": "As per SEBON guideline",
+        "modifiedDate": "2026-02-12T16:01:48.377",
+        "approvedDate": null
+    },
+    {
         "id": 44724,
         "applicationDocumentDetailsList": [
             {
@@ -267,17 +300,6 @@
         "id": 44630,
         "applicationDocumentDetailsList": [
             {
-                "id": 29762,
-                "activeStatus": "A",
-                "modifiedBy": "NESDO_user",
-                "modifiedDate": "2026-02-10T16:50:34.48",
-                "application": 44630,
-                "documentType": 54,
-                "submittedDate": "2026-02-10",
-                "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-02-10/7th AGM Minute_1770721283004.pdf",
-                "encryptedId": "d17463f901eb7ea26eb39ebcf17c9e6b98b6dcc2371565e5fa744b8ea5407fe224818127ca392786ada3e0adbe9c23d8e9896db4ddfb55553bb3a37786debb09"
-            },
-            {
                 "id": 29763,
                 "activeStatus": "A",
                 "modifiedBy": "NESDO_user",
@@ -287,6 +309,17 @@
                 "submittedDate": "2026-02-10",
                 "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-02-10/daff 78_1770721415670.pdf",
                 "encryptedId": "5c75bc9bfd1ddef59dd91da265a541dc37f1f968899553e65f46acc3dda2696f61d79538b9b2586eb22d8a52db1e3e48f76d81d7203a2d2a80d7f229d9e84452"
+            },
+            {
+                "id": 29762,
+                "activeStatus": "A",
+                "modifiedBy": "NESDO_user",
+                "modifiedDate": "2026-02-10T16:50:34.48",
+                "application": 44630,
+                "documentType": 54,
+                "submittedDate": "2026-02-10",
+                "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-02-10/7th AGM Minute_1770721283004.pdf",
+                "encryptedId": "d17463f901eb7ea26eb39ebcf17c9e6b98b6dcc2371565e5fa744b8ea5407fe224818127ca392786ada3e0adbe9c23d8e9896db4ddfb55553bb3a37786debb09"
             },
             {
                 "id": 29761,
