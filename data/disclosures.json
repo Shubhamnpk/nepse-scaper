@@ -1,5 +1,49 @@
 [
     {
+        "id": 44777,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29940,
+                "activeStatus": "A",
+                "modifiedBy": "kpcl_user",
+                "modifiedDate": "2026-02-13T12:05:59.517",
+                "application": 44777,
+                "documentType": 54,
+                "submittedDate": "2026-02-13",
+                "filePath": "kpcl_user/2026-02-13/18th AGM Minute_1770963653895.pdf",
+                "encryptedId": "1cdb025cb4b761d009594b3b1581173f08b210092953bb15df1e7e62407f5d8eeb0a8b05f9512da50092b66b11718319a6c04e6529a9c9e48022a1eba9d24c91"
+            }
+        ],
+        "newsHeadline": "Website [KPCL] ",
+        "newsBody": "<p><span style=\"color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(0, 0, 0, 0.05); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">18th AGM Minutes [KPCL]&nbsp;</span></p>",
+        "addedDate": "2026-02-13T12:05:59.513",
+        "newsSource": "Website",
+        "modifiedDate": "2026-02-13T12:13:22.913",
+        "approvedDate": null
+    },
+    {
+        "id": 44768,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29927,
+                "activeStatus": "A",
+                "modifiedBy": "rhpc_user",
+                "modifiedDate": "2026-02-13T10:56:20.457",
+                "application": 44768,
+                "documentType": 54,
+                "submittedDate": "2026-02-13",
+                "filePath": "rhpc_user/2026-02-13/24 th agm minute_1770959443491.pdf",
+                "encryptedId": "1ba365ab0480b0b2d951cc8c5c6bd03594c7378bcc5c81b4b71822d2589ead772f23b09f89ab50c51b6afece88b4ec37c50ea2f7ba405db6ccf97a0f5746c1cb"
+            }
+        ],
+        "newsHeadline": "24 Tha Agm Minute [RIDI] ",
+        "newsBody": "<p>24 Th Agm Minute Ridi</p>",
+        "addedDate": "2026-02-13T10:56:20.457",
+        "newsSource": "Company",
+        "modifiedDate": "2026-02-13T12:12:28.123",
+        "approvedDate": null
+    },
+    {
         "id": 44762,
         "applicationDocumentDetailsList": [
             {
