@@ -95,17 +95,6 @@
                     "encryptedId": "7314ac7c86e2e416b67df5b036116a615693d567732a00e15b3b5938a0f963c51561f43ec4df6f3b219176740dddc2bbb5f06cde983f6dd1d7bdeaa4478b6200"
                 },
                 {
-                    "id": 29945,
-                    "activeStatus": "A",
-                    "modifiedBy": "mehl_user",
-                    "modifiedDate": "2026-02-13T12:28:48.177",
-                    "application": 44779,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-13",
-                    "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Ad Draft_1770964987478.pdf",
-                    "encryptedId": "d3e813ad31269794674eec6fe94be0da2297b1cdf0dadb4f90ff0b4e15e5481af903b16f95d7fa8ebf3d46f30660b3039be02c20044f1b4901b20e03f00fb2b7"
-                },
-                {
                     "id": 29944,
                     "activeStatus": "A",
                     "modifiedBy": "mehl_user",
@@ -115,6 +104,17 @@
                     "submittedDate": "2026-02-13",
                     "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Advertisement_1770964997981.pdf",
                     "encryptedId": "b9807a4d069f52755cf72f75411682a9c28305dab8871e0b69f583398d5d8cdb89e89402765bccb7f37be1049004c58301bf4839666b948d9adca49416c8f295"
+                },
+                {
+                    "id": 29945,
+                    "activeStatus": "A",
+                    "modifiedBy": "mehl_user",
+                    "modifiedDate": "2026-02-13T12:28:48.177",
+                    "application": 44779,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-13",
+                    "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Ad Draft_1770964987478.pdf",
+                    "encryptedId": "d3e813ad31269794674eec6fe94be0da2297b1cdf0dadb4f90ff0b4e15e5481af903b16f95d7fa8ebf3d46f30660b3039be02c20044f1b4901b20e03f00fb2b7"
                 }
             ],
             "newsHeadline": "Special AGM [MEHL] ",
@@ -381,17 +381,6 @@
             "id": 44734,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29887,
-                    "activeStatus": "A",
-                    "modifiedBy": "tamor_user",
-                    "modifiedDate": "2026-02-12T15:52:43.04",
-                    "application": 44734,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-12",
-                    "filePath": "Sanima_Middle_Tamor_Hydropower_Limited/Company News/2026-02-12/Letter_End of Lockin Period_1770890836944.pdf",
-                    "encryptedId": "a0c6b2eb06f47a96ecbd7648e729a9591fd80bae7b1d0eaaafeb5f17bb7573048711286e6bbfb38e52497dab97c91c6efcb1db859dc85ce4cdce4b9d93a386df"
-                },
-                {
                     "id": 29886,
                     "activeStatus": "A",
                     "modifiedBy": "tamor_user",
@@ -401,6 +390,17 @@
                     "submittedDate": "2026-02-12",
                     "filePath": "Sanima_Middle_Tamor_Hydropower_Limited/Company News/2026-02-12/Notice of End of Lockin Period_TAMOR_1770890852691.pdf",
                     "encryptedId": "b713155e39cbe76d66652f3cd8607960c92f9fc6085c84551e2b9636eed4eb7c2825f6902e9dc28c55ced1495b4a59cada0493f3a8d309ff50d2cf73c374cb77"
+                },
+                {
+                    "id": 29887,
+                    "activeStatus": "A",
+                    "modifiedBy": "tamor_user",
+                    "modifiedDate": "2026-02-12T15:52:43.04",
+                    "application": 44734,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-12",
+                    "filePath": "Sanima_Middle_Tamor_Hydropower_Limited/Company News/2026-02-12/Letter_End of Lockin Period_1770890836944.pdf",
+                    "encryptedId": "a0c6b2eb06f47a96ecbd7648e729a9591fd80bae7b1d0eaaafeb5f17bb7573048711286e6bbfb38e52497dab97c91c6efcb1db859dc85ce4cdce4b9d93a386df"
                 }
             ],
             "newsHeadline": "End of Locking Period [TAMOR] ",
@@ -685,5 +685,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-13T09:40:07.154103"
+    "last_updated": "2026-02-13T10:36:12.372555"
 }
