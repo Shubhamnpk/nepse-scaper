@@ -1,12 +1,30 @@
 [
     {
+        "company": "Kalinchowk Hydropower Limited",
+        "units": "5,50,000.00",
+        "date_range": "13th - 27th Falgun, 2082",
+        "announcement_date": "Feb 13, 2026",
+        "full_text": "Kalinchowk Hydropower Limited is going to issue its 5,50,000.00 units of IPO shares to the project affected local residents of Dolakha District, Bigu VDC Ward No. 08/Kalinchowk VDC, Ward No. 01 & 02 starting from 13th - 27th Falgun, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64435",
+        "scraped_at": "2026-02-13T05:17:43.960728"
+    },
+    {
+        "company": "Kalinchowk Hydropower Limited",
+        "units": "82,500.00",
+        "date_range": "13th - 17th Falgun, 2082",
+        "announcement_date": "Feb 13, 2026",
+        "full_text": "Kalinchowk Hydropower Limited is going to issue its 82,500.00 units of IPO shares to the Nepalese citizens working abroad starting from 13th - 17th Falgun, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64434",
+        "scraped_at": "2026-02-13T05:17:43.960624"
+    },
+    {
         "company": "Palpa Cement Industries Limited",
         "units": "45,00,000.00",
         "date_range": "12th - 15th Falgun, 2082",
         "announcement_date": "Feb 11, 2026",
         "full_text": "Palpa Cement Industries Limited is going to issue its 45,00,000.00 units of IPO shares to the general public starting from 12th - 15th Falgun, 2082",
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64264",
-        "scraped_at": "2026-02-12T05:21:03.272055"
+        "scraped_at": "2026-02-13T05:17:43.960505"
     },
     {
         "company": "Appolo Hydropower Limited",
@@ -15,7 +33,7 @@
         "announcement_date": "Feb 11, 2026",
         "full_text": "Appolo Hydropower Limited is going to issue its 4,70,000.00 units of IPO shares to the project affected local residents of Okhaldhunga District, Khijidemba VDC Ward No. 07 & 08, Solukhumbu District, Likhu Pike VDC, Ward No. 02 and Ramechhap District, Umakunda VDC, Ward No. 02 & 03 and Gokulganga VDC, Ward No. 01 Starting 11th - 25th Falgun, 2082",
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64263",
-        "scraped_at": "2026-02-12T05:21:03.271958"
+        "scraped_at": "2026-02-13T05:17:43.960405"
     },
     {
         "company": "Appolo Hydropower Limited",
@@ -24,7 +42,16 @@
         "announcement_date": "Feb 11, 2026",
         "full_text": "Appolo Hydropower Limited is going to issue its 94,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 11th - 14th Falgun, 2082",
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64262",
-        "scraped_at": "2026-02-12T05:21:03.271828"
+        "scraped_at": "2026-02-13T05:17:43.960268"
+    },
+    {
+        "company": "Unknown",
+        "units": "Unknown",
+        "date_range": "Unknown",
+        "announcement_date": "Feb 13, 2026",
+        "full_text": "Super Khudi Hydropower Limited has published a notice regarding the opening date of its upcoming 12,86,500.00 units of IPO shares starting from Falgun 05, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64429",
+        "scraped_at": "2026-02-13T05:17:43.959786"
     },
     {
         "company": "Super Khudi Hydropower Limited",
