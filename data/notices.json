@@ -84,17 +84,6 @@
             "id": 44779,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29944,
-                    "activeStatus": "A",
-                    "modifiedBy": "mehl_user",
-                    "modifiedDate": "2026-02-13T12:28:48.177",
-                    "application": 44779,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-13",
-                    "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Advertisement_1770964997981.pdf",
-                    "encryptedId": "b9807a4d069f52755cf72f75411682a9c28305dab8871e0b69f583398d5d8cdb89e89402765bccb7f37be1049004c58301bf4839666b948d9adca49416c8f295"
-                },
-                {
                     "id": 29943,
                     "activeStatus": "A",
                     "modifiedBy": "mehl_user",
@@ -115,6 +104,17 @@
                     "submittedDate": "2026-02-13",
                     "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Ad Draft_1770964987478.pdf",
                     "encryptedId": "d3e813ad31269794674eec6fe94be0da2297b1cdf0dadb4f90ff0b4e15e5481af903b16f95d7fa8ebf3d46f30660b3039be02c20044f1b4901b20e03f00fb2b7"
+                },
+                {
+                    "id": 29944,
+                    "activeStatus": "A",
+                    "modifiedBy": "mehl_user",
+                    "modifiedDate": "2026-02-13T12:28:48.177",
+                    "application": 44779,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-13",
+                    "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Advertisement_1770964997981.pdf",
+                    "encryptedId": "b9807a4d069f52755cf72f75411682a9c28305dab8871e0b69f583398d5d8cdb89e89402765bccb7f37be1049004c58301bf4839666b948d9adca49416c8f295"
                 }
             ],
             "newsHeadline": "Special AGM [MEHL] ",
@@ -531,5 +531,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-15T10:23:08.258561"
+    "last_updated": "2026-02-15T10:53:25.164135"
 }
