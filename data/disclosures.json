@@ -14,17 +14,6 @@
                 "encryptedId": "b9807a4d069f52755cf72f75411682a9c28305dab8871e0b69f583398d5d8cdb89e89402765bccb7f37be1049004c58301bf4839666b948d9adca49416c8f295"
             },
             {
-                "id": 29945,
-                "activeStatus": "A",
-                "modifiedBy": "mehl_user",
-                "modifiedDate": "2026-02-13T12:28:48.177",
-                "application": 44779,
-                "documentType": 54,
-                "submittedDate": "2026-02-13",
-                "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Ad Draft_1770964987478.pdf",
-                "encryptedId": "d3e813ad31269794674eec6fe94be0da2297b1cdf0dadb4f90ff0b4e15e5481af903b16f95d7fa8ebf3d46f30660b3039be02c20044f1b4901b20e03f00fb2b7"
-            },
-            {
                 "id": 29943,
                 "activeStatus": "A",
                 "modifiedBy": "mehl_user",
@@ -34,6 +23,17 @@
                 "submittedDate": "2026-02-13",
                 "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Letter_1770964978340.pdf",
                 "encryptedId": "7314ac7c86e2e416b67df5b036116a615693d567732a00e15b3b5938a0f963c51561f43ec4df6f3b219176740dddc2bbb5f06cde983f6dd1d7bdeaa4478b6200"
+            },
+            {
+                "id": 29945,
+                "activeStatus": "A",
+                "modifiedBy": "mehl_user",
+                "modifiedDate": "2026-02-13T12:28:48.177",
+                "application": 44779,
+                "documentType": 54,
+                "submittedDate": "2026-02-13",
+                "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Ad Draft_1770964987478.pdf",
+                "encryptedId": "d3e813ad31269794674eec6fe94be0da2297b1cdf0dadb4f90ff0b4e15e5481af903b16f95d7fa8ebf3d46f30660b3039be02c20044f1b4901b20e03f00fb2b7"
             }
         ],
         "newsHeadline": "Special AGM [MEHL] ",
@@ -135,17 +135,6 @@
         "id": 44760,
         "applicationDocumentDetailsList": [
             {
-                "id": 29915,
-                "activeStatus": "A",
-                "modifiedBy": "balephi_user",
-                "modifiedDate": "2026-02-13T10:25:29.423",
-                "application": 44760,
-                "documentType": 54,
-                "submittedDate": "2026-02-13",
-                "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/Balephi_2nd unaudited_1770957493517.pdf",
-                "encryptedId": "5055725719e52051e1f2e8c5d1429807be45fa6da6c1ab990412704a87dc9b494f76c36a61cbc01c44f440de122a097f89e1d96053db94334f9e6121c51116f5"
-            },
-            {
                 "id": 29916,
                 "activeStatus": "A",
                 "modifiedBy": "balephi_user",
@@ -155,6 +144,17 @@
                 "submittedDate": "2026-02-13",
                 "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/2nd quarter report letter_1770957469951.pdf",
                 "encryptedId": "b2fee42d61cbbe81ebf4e52512569a9923e42c8f6e9c7942c907f42ba770004f80b5ef5d6fdf74cba9a74cff7818c3b6f9b6679e8407c9e836dda1c03c1b7c5a"
+            },
+            {
+                "id": 29915,
+                "activeStatus": "A",
+                "modifiedBy": "balephi_user",
+                "modifiedDate": "2026-02-13T10:25:29.423",
+                "application": 44760,
+                "documentType": 54,
+                "submittedDate": "2026-02-13",
+                "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/Balephi_2nd unaudited_1770957493517.pdf",
+                "encryptedId": "5055725719e52051e1f2e8c5d1429807be45fa6da6c1ab990412704a87dc9b494f76c36a61cbc01c44f440de122a097f89e1d96053db94334f9e6121c51116f5"
             }
         ],
         "newsHeadline": "2nd quarter report of FY 2082/83 published  [BHL] ",
