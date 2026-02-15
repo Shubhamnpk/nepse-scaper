@@ -95,17 +95,6 @@
                     "encryptedId": "7314ac7c86e2e416b67df5b036116a615693d567732a00e15b3b5938a0f963c51561f43ec4df6f3b219176740dddc2bbb5f06cde983f6dd1d7bdeaa4478b6200"
                 },
                 {
-                    "id": 29944,
-                    "activeStatus": "A",
-                    "modifiedBy": "mehl_user",
-                    "modifiedDate": "2026-02-13T12:28:48.177",
-                    "application": 44779,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-13",
-                    "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Advertisement_1770964997981.pdf",
-                    "encryptedId": "b9807a4d069f52755cf72f75411682a9c28305dab8871e0b69f583398d5d8cdb89e89402765bccb7f37be1049004c58301bf4839666b948d9adca49416c8f295"
-                },
-                {
                     "id": 29945,
                     "activeStatus": "A",
                     "modifiedBy": "mehl_user",
@@ -115,6 +104,17 @@
                     "submittedDate": "2026-02-13",
                     "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Ad Draft_1770964987478.pdf",
                     "encryptedId": "d3e813ad31269794674eec6fe94be0da2297b1cdf0dadb4f90ff0b4e15e5481af903b16f95d7fa8ebf3d46f30660b3039be02c20044f1b4901b20e03f00fb2b7"
+                },
+                {
+                    "id": 29944,
+                    "activeStatus": "A",
+                    "modifiedBy": "mehl_user",
+                    "modifiedDate": "2026-02-13T12:28:48.177",
+                    "application": 44779,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-13",
+                    "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-02-13/Advertisement_1770964997981.pdf",
+                    "encryptedId": "b9807a4d069f52755cf72f75411682a9c28305dab8871e0b69f583398d5d8cdb89e89402765bccb7f37be1049004c58301bf4839666b948d9adca49416c8f295"
                 }
             ],
             "newsHeadline": "Special AGM [MEHL] ",
@@ -216,17 +216,6 @@
             "id": 44760,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29916,
-                    "activeStatus": "A",
-                    "modifiedBy": "balephi_user",
-                    "modifiedDate": "2026-02-13T10:25:29.423",
-                    "application": 44760,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-13",
-                    "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/2nd quarter report letter_1770957469951.pdf",
-                    "encryptedId": "b2fee42d61cbbe81ebf4e52512569a9923e42c8f6e9c7942c907f42ba770004f80b5ef5d6fdf74cba9a74cff7818c3b6f9b6679e8407c9e836dda1c03c1b7c5a"
-                },
-                {
                     "id": 29915,
                     "activeStatus": "A",
                     "modifiedBy": "balephi_user",
@@ -236,6 +225,17 @@
                     "submittedDate": "2026-02-13",
                     "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/Balephi_2nd unaudited_1770957493517.pdf",
                     "encryptedId": "5055725719e52051e1f2e8c5d1429807be45fa6da6c1ab990412704a87dc9b494f76c36a61cbc01c44f440de122a097f89e1d96053db94334f9e6121c51116f5"
+                },
+                {
+                    "id": 29916,
+                    "activeStatus": "A",
+                    "modifiedBy": "balephi_user",
+                    "modifiedDate": "2026-02-13T10:25:29.423",
+                    "application": 44760,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-13",
+                    "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/2nd quarter report letter_1770957469951.pdf",
+                    "encryptedId": "b2fee42d61cbbe81ebf4e52512569a9923e42c8f6e9c7942c907f42ba770004f80b5ef5d6fdf74cba9a74cff7818c3b6f9b6679e8407c9e836dda1c03c1b7c5a"
                 }
             ],
             "newsHeadline": "2nd quarter report of FY 2082/83 published  [BHL] ",
@@ -356,28 +356,6 @@
             "approvedDate": null
         },
         {
-            "id": 44744,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29897,
-                    "activeStatus": "A",
-                    "modifiedBy": "river_user",
-                    "modifiedDate": "2026-02-12T16:48:14.807",
-                    "application": 44744,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-12",
-                    "filePath": "River_Falls_power_Limited/Company News/2026-02-12/Director Change Letter_1770894181867.pdf",
-                    "encryptedId": "471c985dd7badea2a5e6f09735ce9e4000c6ff66c4b4e9dcfb57638b869d13366afeec54c948ce96c741bbd9851c4e515011332a99db3e33cb1863363d17c92e"
-                }
-            ],
-            "newsHeadline": "\u0938\u0902\u091a\u093e\u0932\u0915\u0915\u093e\u0947 \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0924\u0925\u093e \u0928\u092f\u093e\u0901 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e [RFPL] ",
-            "newsBody": "<p>\u0938\u0902\u091a\u093e\u0932\u0915\u0915\u093e\u0947 \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0924\u0925\u093e \u0928\u092f\u093e\u0901 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e</p>",
-            "addedDate": "2026-02-12T16:48:14.8",
-            "newsSource": "\u0938\u0902\u091a\u093e\u0932\u0915\u0915\u093e\u0947 \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e",
-            "modifiedDate": "2026-02-12T16:58:53.007",
-            "approvedDate": null
-        },
-        {
             "id": 44734,
             "applicationDocumentDetailsList": [
                 {
@@ -408,138 +386,6 @@
             "addedDate": "2026-02-12T15:52:43.037",
             "newsSource": "As per SEBON guideline",
             "modifiedDate": "2026-02-12T16:01:48.377",
-            "approvedDate": null
-        },
-        {
-            "id": 44724,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29876,
-                    "activeStatus": "A",
-                    "modifiedBy": "nlicl_user",
-                    "modifiedDate": "2026-02-12T12:10:15.477",
-                    "application": 44724,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-12",
-                    "filePath": "nlicl_user/2026-02-12/38 AGM Minute_1770877504585.pdf",
-                    "encryptedId": "fbc506fc9665806628bffc706506720e78e9518bfdf0fe63436f471de0105868888a9918b3b7bdf55a5ee5342ce4f4fbd53e7767b35becadc582957be7edff0d"
-                }
-            ],
-            "newsHeadline": "NLICL 38 AGM Minute [NLICL] ",
-            "newsBody": "<p>NLICL 38 AGM Minute</p>",
-            "addedDate": "2026-02-12T12:10:15.473",
-            "newsSource": "NLICL",
-            "modifiedDate": "2026-02-12T14:16:42.933",
-            "approvedDate": null
-        },
-        {
-            "id": 44708,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29858,
-                    "activeStatus": "A",
-                    "modifiedBy": "bungal_user",
-                    "modifiedDate": "2026-02-12T10:32:54.96",
-                    "application": 44708,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-12",
-                    "filePath": "Bungal_Hydro_Limited/Company News/2026-02-12/Locking notice- Mutual fund BUngal_1770871620488.pdf",
-                    "encryptedId": "73b645a5a55cae6bb71df0a5373363f36b3a0a1048c8877aa96d69b294d7f3940c961686996a8569a97aa9eae68b1a5dba596dbb9c6f295a7b18a6f4df08557d"
-                }
-            ],
-            "newsHeadline": "Lock-In Period of Mutual Fund allotted 1,03,750 Shares. [BUNGAL] ",
-            "newsBody": "",
-            "addedDate": "2026-02-12T10:32:54.957",
-            "newsSource": "Karobar Daily",
-            "modifiedDate": "2026-02-12T10:49:02.313",
-            "approvedDate": null
-        },
-        {
-            "id": 44704,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29854,
-                    "activeStatus": "A",
-                    "modifiedBy": "sli_user",
-                    "modifiedDate": "2026-02-12T10:22:35.5",
-                    "application": 44704,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-12",
-                    "filePath": "sli_user/2026-02-12/9th AGM Minute Signed_1770871026627.pdf",
-                    "encryptedId": "f5269a9b43af925b6d8d62a8132747f033a707360378cdea284b98bb8600ba5273d95d020aa8b6513443a68e730d613844cf4cbca22dc57fd66207b11ac043f9"
-                }
-            ],
-            "newsHeadline": "9th AGM Minute [SRLI] ",
-            "newsBody": "",
-            "addedDate": "2026-02-12T10:22:35.497",
-            "newsSource": "AGM",
-            "modifiedDate": "2026-02-12T10:23:05.093",
-            "approvedDate": null
-        },
-        {
-            "id": 44701,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29850,
-                    "activeStatus": "A",
-                    "modifiedBy": "stc_user",
-                    "modifiedDate": "2026-02-12T10:19:33.05",
-                    "application": 44701,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-12",
-                    "filePath": "stc_user/2026-02-12/Prastav of Bonus Share deceleration of STC_1770870868159.pdf",
-                    "encryptedId": "f4aa27ee53c2ff2e7d69df7154f192f693ffa0e38c68c10006f1ce86c3fde568b9d2533bb04b3681f7494e57ce7b611fa3b7a1d05ec3519af98e5372788d7ffb"
-                }
-            ],
-            "newsHeadline": "Prastav of Bonus Share deceleration of STC [STC] ",
-            "newsBody": "",
-            "addedDate": "2026-02-12T10:19:33.047",
-            "newsSource": "STC",
-            "modifiedDate": "2026-02-12T10:22:35.927",
-            "approvedDate": null
-        },
-        {
-            "id": 44699,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29848,
-                    "activeStatus": "A",
-                    "modifiedBy": "ahl_user",
-                    "modifiedDate": "2026-02-12T10:07:51.78",
-                    "application": 44699,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-12",
-                    "filePath": "Asian_Hydropower_Limited/Company News/2026-02-12/Director Representative Changed and New Directors Appointed_1770870074160.pdf",
-                    "encryptedId": "df883e94b402f3f114f65c4541f853061f2ab73ffdbeb9f9d52e18a369b7ba1a5272b2d6b517f34b2756fc488d2f1eb504e44898713ba451505a2165e8a3af48"
-                }
-            ],
-            "newsHeadline": "Director Representative Changed and New Directors Appointed [AHL] ",
-            "newsBody": "",
-            "addedDate": "2026-02-12T10:07:51.777",
-            "newsSource": "AHL",
-            "modifiedDate": "2026-02-12T10:10:00.487",
-            "approvedDate": null
-        },
-        {
-            "id": 44687,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29833,
-                    "activeStatus": "A",
-                    "modifiedBy": "mslb_user",
-                    "modifiedDate": "2026-02-12T09:41:22.13",
-                    "application": 44687,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-12",
-                    "filePath": "mslb_user/2026-02-12/Indipendent_Director Appoitmnet_1770868551376.pdf",
-                    "encryptedId": "47184621b478919882965db70a82581d9083a741dbb2ef61cbd2041388b03ca5443f92bd35908cc2f511b6387b15946c1883eb82ccc517a1cadace9236682eb0"
-                }
-            ],
-            "newsHeadline": "Appointment of independent director [MSLB] ",
-            "newsBody": "",
-            "addedDate": "2026-02-12T09:41:22.123",
-            "newsSource": "Appointment of independent director",
-            "modifiedDate": "2026-02-12T09:44:16.55",
             "approvedDate": null
         },
         {
@@ -685,5 +531,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-13T10:36:12.372555"
+    "last_updated": "2026-02-15T05:17:32.445382"
 }
