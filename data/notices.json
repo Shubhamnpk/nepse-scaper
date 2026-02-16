@@ -216,17 +216,6 @@
             "id": 44760,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29915,
-                    "activeStatus": "A",
-                    "modifiedBy": "balephi_user",
-                    "modifiedDate": "2026-02-13T10:25:29.423",
-                    "application": 44760,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-13",
-                    "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/Balephi_2nd unaudited_1770957493517.pdf",
-                    "encryptedId": "5055725719e52051e1f2e8c5d1429807be45fa6da6c1ab990412704a87dc9b494f76c36a61cbc01c44f440de122a097f89e1d96053db94334f9e6121c51116f5"
-                },
-                {
                     "id": 29916,
                     "activeStatus": "A",
                     "modifiedBy": "balephi_user",
@@ -236,6 +225,17 @@
                     "submittedDate": "2026-02-13",
                     "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/2nd quarter report letter_1770957469951.pdf",
                     "encryptedId": "b2fee42d61cbbe81ebf4e52512569a9923e42c8f6e9c7942c907f42ba770004f80b5ef5d6fdf74cba9a74cff7818c3b6f9b6679e8407c9e836dda1c03c1b7c5a"
+                },
+                {
+                    "id": 29915,
+                    "activeStatus": "A",
+                    "modifiedBy": "balephi_user",
+                    "modifiedDate": "2026-02-13T10:25:29.423",
+                    "application": 44760,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-13",
+                    "filePath": "Balephi_Hydropower_Limited/Company News/2026-02-13/Balephi_2nd unaudited_1770957493517.pdf",
+                    "encryptedId": "5055725719e52051e1f2e8c5d1429807be45fa6da6c1ab990412704a87dc9b494f76c36a61cbc01c44f440de122a097f89e1d96053db94334f9e6121c51116f5"
                 }
             ],
             "newsHeadline": "2nd quarter report of FY 2082/83 published  [BHL] ",
@@ -430,5 +430,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-16T09:50:27.232854"
+    "last_updated": "2026-02-16T10:45:02.499051"
 }

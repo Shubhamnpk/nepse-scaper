@@ -7289,18 +7289,18 @@
             "securityId": 9161
         },
         {
-            "symbol": "DLBS",
-            "shareTraded": 288,
-            "closingPrice": 1340.0,
-            "securityName": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
-            "securityId": 8123
-        },
-        {
             "symbol": "SHLB",
             "shareTraded": 288,
             "closingPrice": 1598.0,
             "securityName": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
             "securityId": 8132
+        },
+        {
+            "symbol": "DLBS",
+            "shareTraded": 288,
+            "closingPrice": 1340.0,
+            "securityName": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
+            "securityId": 8123
         },
         {
             "symbol": "ICFCD88",
@@ -7492,6 +7492,20 @@
             "securityId": 2883
         },
         {
+            "symbol": "PBD88",
+            "shareTraded": 25,
+            "closingPrice": 1186.0,
+            "securityName": "10% Prime Debenture 2088",
+            "securityId": 8097
+        },
+        {
+            "symbol": "EBLEB89",
+            "shareTraded": 25,
+            "closingPrice": 1054.1,
+            "securityName": "Everest Bank Limited Energy Bond, 2089",
+            "securityId": 9152
+        },
+        {
             "symbol": "GBBD85",
             "shareTraded": 25,
             "closingPrice": 1066.1,
@@ -7506,13 +7520,6 @@
             "securityId": 9255
         },
         {
-            "symbol": "PBD88",
-            "shareTraded": 25,
-            "closingPrice": 1186.0,
-            "securityName": "10% Prime Debenture 2088",
-            "securityId": 8097
-        },
-        {
             "symbol": "PBLD87",
             "shareTraded": 25,
             "closingPrice": 1102.0,
@@ -7525,13 +7532,6 @@
             "closingPrice": 1078.1,
             "securityName": "NMB Debenture 8.50% - 2087/88",
             "securityId": 4963
-        },
-        {
-            "symbol": "EBLEB89",
-            "shareTraded": 25,
-            "closingPrice": 1054.1,
-            "securityName": "Everest Bank Limited Energy Bond, 2089",
-            "securityId": 9152
         },
         {
             "symbol": "SRBLD83",

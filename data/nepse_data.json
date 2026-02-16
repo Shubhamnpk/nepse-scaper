@@ -3642,7 +3642,7 @@
         "turnover": 40150.0,
         "trades": 11,
         "last_updated": "2026-02-16T14:23:25.539532",
-        "market_cap": null
+        "market_cap": 6270.0
     },
     {
         "symbol": "RSY",
@@ -3687,7 +3687,7 @@
         "turnover": 58210.0,
         "trades": 18,
         "last_updated": "2026-02-16T13:20:18.087854",
-        "market_cap": null
+        "market_cap": 1723.88
     },
     {
         "symbol": "SADBL",
