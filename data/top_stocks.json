@@ -8348,18 +8348,18 @@
             "symbol": "HIDCL"
         },
         {
-            "securityId": 2898,
-            "totalTrades": 413,
-            "lastTradedPrice": 1534.0,
-            "securityName": "NRN Infrastructure and Development Limited",
-            "symbol": "NRN"
-        },
-        {
             "securityId": 255,
             "totalTrades": 413,
             "lastTradedPrice": 182.0,
             "securityName": "Prabhu  Bank Limited",
             "symbol": "PRVU"
+        },
+        {
+            "securityId": 2898,
+            "totalTrades": 413,
+            "lastTradedPrice": 1534.0,
+            "securityName": "NRN Infrastructure and Development Limited",
+            "symbol": "NRN"
         },
         {
             "securityId": 187,
@@ -8824,18 +8824,18 @@
             "symbol": "LSL"
         },
         {
-            "securityId": 8025,
-            "totalTrades": 182,
-            "lastTradedPrice": 499.0,
-            "securityName": "Samling Power Company Limited",
-            "symbol": "SPC"
-        },
-        {
             "securityId": 171,
             "totalTrades": 182,
             "lastTradedPrice": 332.5,
             "securityName": "Sanima Bank Limited",
             "symbol": "SANIMA"
+        },
+        {
+            "securityId": 8025,
+            "totalTrades": 182,
+            "lastTradedPrice": 499.0,
+            "securityName": "Samling Power Company Limited",
+            "symbol": "SPC"
         },
         {
             "securityId": 9208,
@@ -9020,18 +9020,18 @@
             "symbol": "KSBBL"
         },
         {
-            "securityId": 8121,
-            "totalTrades": 131,
-            "lastTradedPrice": 542.0,
-            "securityName": "Sayapatri Hydropower Limited",
-            "symbol": "SPHL"
-        },
-        {
             "securityId": 204,
             "totalTrades": 131,
             "lastTradedPrice": 548.0,
             "securityName": "Gurkhas Finance Ltd.",
             "symbol": "GUFL"
+        },
+        {
+            "securityId": 8121,
+            "totalTrades": 131,
+            "lastTradedPrice": 542.0,
+            "securityName": "Sayapatri Hydropower Limited",
+            "symbol": "SPHL"
         },
         {
             "securityId": 1741,
@@ -9055,18 +9055,18 @@
             "symbol": "MMKJL"
         },
         {
-            "securityId": 8104,
-            "totalTrades": 128,
-            "lastTradedPrice": 461.0,
-            "securityName": "Upper Solu Hydro Electric Company Limited",
-            "symbol": "USHEC"
-        },
-        {
             "securityId": 273,
             "totalTrades": 128,
             "lastTradedPrice": 640.2,
             "securityName": "ICFC Finance Limited",
             "symbol": "ICFC"
+        },
+        {
+            "securityId": 8104,
+            "totalTrades": 128,
+            "lastTradedPrice": 461.0,
+            "securityName": "Upper Solu Hydro Electric Company Limited",
+            "symbol": "USHEC"
         },
         {
             "securityId": 238,
@@ -9083,18 +9083,18 @@
             "symbol": "KDL"
         },
         {
-            "securityId": 9300,
-            "totalTrades": 124,
-            "lastTradedPrice": 1345.0,
-            "securityName": "Jhapa Energy Limited",
-            "symbol": "JHAPA"
-        },
-        {
             "securityId": 490,
             "totalTrades": 124,
             "lastTradedPrice": 779.0,
             "securityName": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
             "symbol": "FMDBL"
+        },
+        {
+            "securityId": 9300,
+            "totalTrades": 124,
+            "lastTradedPrice": 1345.0,
+            "securityName": "Jhapa Energy Limited",
+            "symbol": "JHAPA"
         },
         {
             "securityId": 9158,
@@ -9118,18 +9118,18 @@
             "symbol": "MLBL"
         },
         {
-            "securityId": 473,
-            "totalTrades": 118,
-            "lastTradedPrice": 403.5,
-            "securityName": "Shine Resunga Development Bank Ltd.",
-            "symbol": "SHINE"
-        },
-        {
             "securityId": 192,
             "totalTrades": 118,
             "lastTradedPrice": 618.0,
             "securityName": "Shikhar Insurance Co. Ltd.",
             "symbol": "SICL"
+        },
+        {
+            "securityId": 473,
+            "totalTrades": 118,
+            "lastTradedPrice": 403.5,
+            "securityName": "Shine Resunga Development Bank Ltd.",
+            "symbol": "SHINE"
         },
         {
             "securityId": 245,
@@ -9461,18 +9461,18 @@
             "symbol": "HLBSL"
         },
         {
-            "securityId": 9233,
-            "totalTrades": 66,
-            "lastTradedPrice": 875.0,
-            "securityName": "Nepal Warehousing Company Limited ",
-            "symbol": "NWCL"
-        },
-        {
             "securityId": 268,
             "totalTrades": 66,
             "lastTradedPrice": 730.0,
             "securityName": "Swabalamban Laghubitta Bittiya Sanstha Limited",
             "symbol": "SWBBL"
+        },
+        {
+            "securityId": 9233,
+            "totalTrades": 66,
+            "lastTradedPrice": 875.0,
+            "securityName": "Nepal Warehousing Company Limited ",
+            "symbol": "NWCL"
         },
         {
             "securityId": 9304,
@@ -9643,13 +9643,6 @@
             "symbol": "SLBSL"
         },
         {
-            "securityId": 149,
-            "totalTrades": 42,
-            "lastTradedPrice": 708.0,
-            "securityName": "Oriental Hotels Limited",
-            "symbol": "OHL"
-        },
-        {
             "securityId": 8063,
             "totalTrades": 42,
             "lastTradedPrice": 3189.0,
@@ -9662,6 +9655,13 @@
             "lastTradedPrice": 1875.0,
             "securityName": "Mahila Lagubitta Bittiya Sanstha Limited ",
             "symbol": "MLBSL"
+        },
+        {
+            "securityId": 149,
+            "totalTrades": 42,
+            "lastTradedPrice": 708.0,
+            "securityName": "Oriental Hotels Limited",
+            "symbol": "OHL"
         },
         {
             "securityId": 694,
@@ -9692,18 +9692,18 @@
             "symbol": "NMFBS"
         },
         {
-            "securityId": 618,
-            "totalTrades": 38,
-            "lastTradedPrice": 925.0,
-            "securityName": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
-            "symbol": "LLBS"
-        },
-        {
             "securityId": 148,
             "totalTrades": 38,
             "lastTradedPrice": 743.0,
             "securityName": "Taragaon Regency Hotel Limited",
             "symbol": "TRH"
+        },
+        {
+            "securityId": 618,
+            "totalTrades": 38,
+            "lastTradedPrice": 925.0,
+            "securityName": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+            "symbol": "LLBS"
         },
         {
             "securityId": 9245,
@@ -9727,18 +9727,18 @@
             "symbol": "ENL"
         },
         {
-            "securityId": 155,
-            "totalTrades": 35,
-            "lastTradedPrice": 5549.0,
-            "securityName": "Salt Trading Corporation",
-            "symbol": "STC"
-        },
-        {
             "securityId": 182,
             "totalTrades": 35,
             "lastTradedPrice": 686.9,
             "securityName": "Siddhartha Premier Insurance Limited",
             "symbol": "SPIL"
+        },
+        {
+            "securityId": 155,
+            "totalTrades": 35,
+            "lastTradedPrice": 5549.0,
+            "securityName": "Salt Trading Corporation",
+            "symbol": "STC"
         },
         {
             "securityId": 8023,
@@ -9839,13 +9839,6 @@
             "symbol": "JSLBB"
         },
         {
-            "securityId": 2933,
-            "totalTrades": 25,
-            "lastTradedPrice": 9.56,
-            "securityName": "Kumari Equity Fund",
-            "symbol": "KEF"
-        },
-        {
             "securityId": 9140,
             "totalTrades": 25,
             "lastTradedPrice": 1850.0,
@@ -9853,11 +9846,11 @@
             "symbol": "UNLB"
         },
         {
-            "securityId": 704,
-            "totalTrades": 24,
-            "lastTradedPrice": 660.0,
-            "securityName": "NMB  Microfinance Bittiya Sanstha Ltd.",
-            "symbol": "NMBMF"
+            "securityId": 2933,
+            "totalTrades": 25,
+            "lastTradedPrice": 9.56,
+            "securityName": "Kumari Equity Fund",
+            "symbol": "KEF"
         },
         {
             "securityId": 4947,
@@ -9865,6 +9858,13 @@
             "lastTradedPrice": 11.2,
             "securityName": "Prabhu Select Fund",
             "symbol": "PSF"
+        },
+        {
+            "securityId": 704,
+            "totalTrades": 24,
+            "lastTradedPrice": 660.0,
+            "securityName": "NMB  Microfinance Bittiya Sanstha Ltd.",
+            "symbol": "NMBMF"
         },
         {
             "securityId": 4949,
@@ -9881,18 +9881,18 @@
             "symbol": "NICFC"
         },
         {
-            "securityId": 9241,
-            "totalTrades": 21,
-            "lastTradedPrice": 9.68,
-            "securityName": "Kumari Sabal Yojana",
-            "symbol": "KSY"
-        },
-        {
             "securityId": 9290,
             "totalTrades": 21,
             "lastTradedPrice": 9.61,
             "securityName": "HLI Large Cap Fund",
             "symbol": "HLICF"
+        },
+        {
+            "securityId": 9241,
+            "totalTrades": 21,
+            "lastTradedPrice": 9.68,
+            "securityName": "Kumari Sabal Yojana",
+            "symbol": "KSY"
         },
         {
             "securityId": 4968,
@@ -9944,18 +9944,18 @@
             "symbol": "GIBF1"
         },
         {
-            "securityId": 8018,
-            "totalTrades": 15,
-            "lastTradedPrice": 1423.0,
-            "securityName": "Manushi Laghubitta Bittiya Sanstha Limited",
-            "symbol": "MLBS"
-        },
-        {
             "securityId": 9198,
             "totalTrades": 15,
             "lastTradedPrice": 9.54,
             "securityName": "Laxmi Value Fund 2",
             "symbol": "LVF2"
+        },
+        {
+            "securityId": 8018,
+            "totalTrades": 15,
+            "lastTradedPrice": 1423.0,
+            "securityName": "Manushi Laghubitta Bittiya Sanstha Limited",
+            "symbol": "MLBS"
         },
         {
             "securityId": 9174,
@@ -10042,11 +10042,11 @@
             "symbol": "NSIF2"
         },
         {
-            "securityId": 9289,
+            "securityId": 700,
             "totalTrades": 9,
-            "lastTradedPrice": 1060.1,
-            "securityName": "7% Nepal SBI Bank Debenture 2090",
-            "symbol": "SBID2090"
+            "lastTradedPrice": 316.0,
+            "securityName": "Himalayan Everest Insurance Limited Promoter",
+            "symbol": "HEIP"
         },
         {
             "securityId": 177,
@@ -10054,6 +10054,20 @@
             "lastTradedPrice": 15000.0,
             "securityName": "Rastriya Beema Company Limited",
             "symbol": "RBCL"
+        },
+        {
+            "securityId": 2923,
+            "totalTrades": 9,
+            "lastTradedPrice": 9.58,
+            "securityName": "Sanima Large Cap Fund",
+            "symbol": "SLCF"
+        },
+        {
+            "securityId": 9289,
+            "totalTrades": 9,
+            "lastTradedPrice": 1060.1,
+            "securityName": "7% Nepal SBI Bank Debenture 2090",
+            "symbol": "SBID2090"
         },
         {
             "securityId": 9249,
@@ -10068,20 +10082,6 @@
             "lastTradedPrice": 10.21,
             "securityName": "Siddhartha Investment Growth Scheme 3",
             "symbol": "SIGS3"
-        },
-        {
-            "securityId": 2923,
-            "totalTrades": 9,
-            "lastTradedPrice": 9.58,
-            "securityName": "Sanima Large Cap Fund",
-            "symbol": "SLCF"
-        },
-        {
-            "securityId": 700,
-            "totalTrades": 9,
-            "lastTradedPrice": 316.0,
-            "securityName": "Himalayan Everest Insurance Limited Promoter",
-            "symbol": "HEIP"
         },
         {
             "securityId": 213,
@@ -10133,11 +10133,11 @@
             "symbol": "C30MF"
         },
         {
-            "securityId": 2862,
+            "securityId": 9306,
             "totalTrades": 6,
-            "lastTradedPrice": 10.2,
-            "securityName": "CITIZENS MUTUAL FUND 2",
-            "symbol": "CMF2"
+            "lastTradedPrice": 361.8,
+            "securityName": "Reliance Spinning Mills Limited",
+            "symbol": "RSML"
         },
         {
             "securityId": 8033,
@@ -10147,25 +10147,18 @@
             "symbol": "GBBD85"
         },
         {
+            "securityId": 2862,
+            "totalTrades": 6,
+            "lastTradedPrice": 10.2,
+            "securityName": "CITIZENS MUTUAL FUND 2",
+            "symbol": "CMF2"
+        },
+        {
             "securityId": 2770,
             "totalTrades": 6,
             "lastTradedPrice": 9.73,
             "securityName": "Siddhartha Equity Fund",
             "symbol": "SEF"
-        },
-        {
-            "securityId": 9306,
-            "totalTrades": 6,
-            "lastTradedPrice": 361.8,
-            "securityName": "Reliance Spinning Mills Limited",
-            "symbol": "RSML"
-        },
-        {
-            "securityId": 9266,
-            "totalTrades": 5,
-            "lastTradedPrice": 1077.0,
-            "securityName": "7% NIC ASIA Debenture 2091",
-            "symbol": "NICAD2091"
         },
         {
             "securityId": 2867,
@@ -10180,6 +10173,13 @@
             "lastTradedPrice": 10.26,
             "securityName": "Sunrise First Mutual Fund",
             "symbol": "SFMF"
+        },
+        {
+            "securityId": 9266,
+            "totalTrades": 5,
+            "lastTradedPrice": 1077.0,
+            "securityName": "7% NIC ASIA Debenture 2091",
+            "symbol": "NICAD2091"
         },
         {
             "securityId": 8068,
@@ -10217,11 +10217,11 @@
             "symbol": "HBLD83"
         },
         {
-            "securityId": 634,
+            "securityId": 9299,
             "totalTrades": 4,
-            "lastTradedPrice": 11810.0,
-            "securityName": "Rastriya Beema Company Limited Promoter Share",
-            "symbol": "RBCLPO"
+            "lastTradedPrice": 1066.1,
+            "securityName": "7% Nabil Debenture 2089",
+            "symbol": "NABILD2089"
         },
         {
             "securityId": 4948,
@@ -10231,18 +10231,11 @@
             "symbol": "KSBBLD87"
         },
         {
-            "securityId": 9299,
+            "securityId": 634,
             "totalTrades": 4,
-            "lastTradedPrice": 1066.1,
-            "securityName": "7% Nabil Debenture 2089",
-            "symbol": "NABILD2089"
-        },
-        {
-            "securityId": 9231,
-            "totalTrades": 3,
-            "lastTradedPrice": 1187.0,
-            "securityName": "10% Citizens Bank Debenture 2090",
-            "symbol": "CIZBD90"
+            "lastTradedPrice": 11810.0,
+            "securityName": "Rastriya Beema Company Limited Promoter Share",
+            "symbol": "RBCLPO"
         },
         {
             "securityId": 511,
@@ -10250,6 +10243,13 @@
             "lastTradedPrice": 100.0,
             "securityName": "Global IME Bank Ltd. Promoter Share",
             "symbol": "GBIMEP"
+        },
+        {
+            "securityId": 9231,
+            "totalTrades": 3,
+            "lastTradedPrice": 1187.0,
+            "securityName": "10% Citizens Bank Debenture 2090",
+            "symbol": "CIZBD90"
         },
         {
             "securityId": 2922,
@@ -10287,20 +10287,6 @@
             "symbol": "SBID89"
         },
         {
-            "securityId": 4961,
-            "totalTrades": 2,
-            "lastTradedPrice": 1086.0,
-            "securityName": "8.5% BOK Debenture 2086",
-            "symbol": "BOKD86"
-        },
-        {
-            "securityId": 2932,
-            "totalTrades": 2,
-            "lastTradedPrice": 1122.0,
-            "securityName": "9.5% Manjushree Finance Limited Debenture 2085",
-            "symbol": "MFLD85"
-        },
-        {
             "securityId": 2866,
             "totalTrades": 2,
             "lastTradedPrice": 1125.1,
@@ -10322,11 +10308,32 @@
             "symbol": "NMBD87/88"
         },
         {
+            "securityId": 4961,
+            "totalTrades": 2,
+            "lastTradedPrice": 1086.0,
+            "securityName": "8.5% BOK Debenture 2086",
+            "symbol": "BOKD86"
+        },
+        {
+            "securityId": 2932,
+            "totalTrades": 2,
+            "lastTradedPrice": 1122.0,
+            "securityName": "9.5% Manjushree Finance Limited Debenture 2085",
+            "symbol": "MFLD85"
+        },
+        {
             "securityId": 8004,
             "totalTrades": 2,
             "lastTradedPrice": 1082.1,
             "securityName": "Global IME Bank Limited Debenture 2086/87",
             "symbol": "GBILD86/87"
+        },
+        {
+            "securityId": 8127,
+            "totalTrades": 2,
+            "lastTradedPrice": 1249.0,
+            "securityName": "11% KBL Debenture 2089",
+            "symbol": "KBLD89"
         },
         {
             "securityId": 9197,
@@ -10336,11 +10343,11 @@
             "symbol": "LBBLD89"
         },
         {
-            "securityId": 8127,
+            "securityId": 9264,
             "totalTrades": 2,
-            "lastTradedPrice": 1249.0,
-            "securityName": "11% KBL Debenture 2089",
-            "symbol": "KBLD89"
+            "lastTradedPrice": 1058.0,
+            "securityName": "7% RBBL Debenture 2088",
+            "symbol": "RBBD2088"
         },
         {
             "securityId": 469,
@@ -10357,20 +10364,6 @@
             "symbol": "BNL"
         },
         {
-            "securityId": 9264,
-            "totalTrades": 2,
-            "lastTradedPrice": 1058.0,
-            "securityName": "7% RBBL Debenture 2088",
-            "symbol": "RBBD2088"
-        },
-        {
-            "securityId": 2859,
-            "totalTrades": 2,
-            "lastTradedPrice": 9.69,
-            "securityName": "Siddhartha Investment Growth Scheme - 2",
-            "symbol": "SIGS2"
-        },
-        {
             "securityId": 2883,
             "totalTrades": 2,
             "lastTradedPrice": 1114.8,
@@ -10385,11 +10378,39 @@
             "symbol": "ADBLD83"
         },
         {
+            "securityId": 2859,
+            "totalTrades": 2,
+            "lastTradedPrice": 9.69,
+            "securityName": "Siddhartha Investment Growth Scheme - 2",
+            "symbol": "SIGS2"
+        },
+        {
+            "securityId": 2851,
+            "totalTrades": 1,
+            "lastTradedPrice": 1016.9,
+            "securityName": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
+            "symbol": "NIBD2082"
+        },
+        {
+            "securityId": 2825,
+            "totalTrades": 1,
+            "lastTradedPrice": 1130.1,
+            "securityName": "10% NIC Asia Debenture 2085/86",
+            "symbol": "NICAD85/86"
+        },
+        {
             "securityId": 2912,
             "totalTrades": 1,
             "lastTradedPrice": 1071.2,
             "securityName": "8.5% SBL Debenture 2084",
             "symbol": "SBLD84"
+        },
+        {
+            "securityId": 219,
+            "totalTrades": 1,
+            "lastTradedPrice": 46600.0,
+            "securityName": "Unilever Nepal Limited",
+            "symbol": "UNL"
         },
         {
             "securityId": 2936,
@@ -10413,25 +10434,11 @@
             "symbol": "NBLD87"
         },
         {
-            "securityId": 2851,
+            "securityId": 9180,
             "totalTrades": 1,
-            "lastTradedPrice": 1016.9,
-            "securityName": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
-            "symbol": "NIBD2082"
-        },
-        {
-            "securityId": 2825,
-            "totalTrades": 1,
-            "lastTradedPrice": 1130.1,
-            "securityName": "10% NIC Asia Debenture 2085/86",
-            "symbol": "NICAD85/86"
-        },
-        {
-            "securityId": 219,
-            "totalTrades": 1,
-            "lastTradedPrice": 46600.0,
-            "securityName": "Unilever Nepal Limited",
-            "symbol": "UNL"
+            "lastTradedPrice": 1249.0,
+            "securityName": "NMB Debenture 10.75%-2089/90",
+            "symbol": "NMBD89/90"
         },
         {
             "securityId": 8110,
@@ -10439,13 +10446,6 @@
             "lastTradedPrice": 1060.6,
             "securityName": "10.25% Nepal SBI Bank Debenture 2083",
             "symbol": "SBID83"
-        },
-        {
-            "securityId": 9180,
-            "totalTrades": 1,
-            "lastTradedPrice": 1249.0,
-            "securityName": "NMB Debenture 10.75%-2089/90",
-            "symbol": "NMBD89/90"
         },
         {
             "securityId": 4969,
