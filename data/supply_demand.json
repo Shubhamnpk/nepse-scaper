@@ -1,4 +1,27 @@
 {
-    "supplyList": [],
-    "demandList": []
+    "supplyList": [
+        {
+            "totalQuantity": 25,
+            "totalOrder": 1,
+            "securityId": 9220,
+            "symbol": "KBLD90",
+            "securityName": "10% KBL Debenture 2090"
+        }
+    ],
+    "demandList": [
+        {
+            "totalQuantity": 1778994,
+            "totalOrder": 1009,
+            "securityId": 9306,
+            "symbol": "RSML",
+            "securityName": "Reliance Spinning Mills Limited"
+        },
+        {
+            "totalQuantity": 848718,
+            "totalOrder": 4720,
+            "securityId": 9305,
+            "symbol": "SABBL",
+            "securityName": "Salapa Bikas Bank Limited"
+        }
+    ]
 }
