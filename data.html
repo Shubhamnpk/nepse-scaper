@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YONEPSE | Brokers and Datasets</title>
+    <meta name="description" content="Browse NEPSE broker directory and dataset coverage from YONEPSE.">
+    <meta name="theme-color" content="#050505">
+    <link rel="icon" href="favicon.png" type="image/png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <nav class="top-nav" aria-label="Primary">
+            <a class="nav-link" href="index.html">Market Dashboard</a>
+            <a class="nav-link active" href="data.html">Brokers & Datasets</a>
+        </nav>
+
+        <header>
+            <h1 class="hero-title">Data Hub</h1>
+            <p class="hero-subtitle">Dedicated view for brokers and supporting NEPSE datasets.</p>
+            <div class="market-status">
+                <div class="status-item">
+                    <i class="fa-solid fa-building-columns"></i>
+                    <span id="broker-count">Loading brokers...</span>
+                </div>
+                <div class="status-item">
+                    <i class="fa-solid fa-database"></i>
+                    <span id="dataset-count">Scanning datasets...</span>
+                </div>
+            </div>
+        </header>
+
+        <main class="data-shell">
+            <section class="intel-card">
+                <div class="intel-card-header">
+                    <h2 class="section-title"><i class="fa-solid fa-user-tie"></i> Broker Directory</h2>
+                </div>
+                <div class="data-toolbar">
+                    <div class="search-box">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        <input type="text" id="broker-search" placeholder="Search by broker code, name, district or TMS"
+                            aria-label="Search brokers">
+                    </div>
+                    <label>
+                        <span class="detail-label">Membership</span>
+                        <select id="membership-filter" class="filter-select" aria-label="Filter by membership type">
+                            <option value="all">All</option>
+                        </select>
+                    </label>
+                    <label>
+                        <span class="detail-label">District</span>
+                        <select id="district-filter" class="filter-select" aria-label="Filter by district">
+                            <option value="all">All</option>
+                        </select>
+                    </label>
+                    <label class="check-wrap">
+                        <input type="checkbox" id="tms-only">
+                        <span class="detail-label">Only with TMS link</span>
+                    </label>
+                </div>
+                <div class="broker-table-wrap table-gap">
+                    <table class="broker-table">
+                        <thead>
+                            <tr>
+                                <th>Code</th>
+                                <th>Broker Name</th>
+                                <th>Membership</th>
+                                <th>Branches</th>
+                                <th>Provinces</th>
+                                <th>Districts</th>
+                                <th>TMS</th>
+                                <th>Phone</th>
+                            </tr>
+                        </thead>
+                        <tbody id="broker-table-body">
+                            <tr>
+                                <td colspan="8" class="intel-empty">Loading broker data...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <section class="intel-card">
+                <div class="intel-card-header">
+                    <h2 class="section-title"><i class="fa-solid fa-clock-rotate-left"></i> Market Summary History</h2>
+                </div>
+                <div class="data-toolbar">
+                    <div class="search-box">
+                        <i class="fa-solid fa-calendar-day"></i>
+                        <input type="text" id="history-search" placeholder="Filter by business date (YYYY-MM-DD)"
+                            aria-label="Filter market summary history by date">
+                    </div>
+                    <label>
+                        <span class="detail-label">Rows</span>
+                        <select id="history-row-limit" class="filter-select" aria-label="Rows to display">
+                            <option value="30">30</option>
+                            <option value="60">60</option>
+                            <option value="120">120</option>
+                            <option value="1000">All</option>
+                        </select>
+                    </label>
+                </div>
+                <div class="broker-table-wrap table-gap">
+                    <table class="broker-table">
+                        <thead>
+                            <tr>
+                                <th>Business Date</th>
+                                <th>Total Turnover</th>
+                                <th>Total Traded Shares</th>
+                                <th>Total Transactions</th>
+                                <th>Traded Scrips</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-table-body">
+                            <tr>
+                                <td colspan="5" class="intel-empty">Loading market summary history...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <section class="intel-card">
+                <div class="intel-card-header">
+                    <h2 class="section-title"><i class="fa-solid fa-layer-group"></i> Other Datasets</h2>
+                </div>
+                <div id="dataset-list" class="dataset-catalog">
+                    <p class="intel-empty">Loading datasets...</p>
+                </div>
+            </section>
+
+            <section class="intel-card">
+                <div class="intel-card-header">
+                    <h2 class="section-title"><i class="fa-solid fa-bullhorn"></i> Latest Exchange Updates</h2>
+                </div>
+                <div id="updates-feed" class="notice-feed">
+                    <p class="intel-empty">Loading updates...</p>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="data.js" defer></script>
+</body>
+
+</html>

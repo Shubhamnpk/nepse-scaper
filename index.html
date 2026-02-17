@@ -4,261 +4,269 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YONEPSE | Ultimate Nepal Stock Terminal</title>
+    <title>YONEPSE | Real-time Nepal Stock Exchange Insights</title>
     <meta name="description"
-        content="A professional terminal for real-time NEPSE insights, tracking indices, market summaries, top stocks, and corporate notices.">
+        content="A modern and elegant dashboard for real-time NEPSE stock data, tracking live market trends and performance.">
+    <meta name="theme-color" content="#050505">
+    <meta property="og:title" content="YONEPSE | Real-time Nepal Stock Exchange Insights">
+    <meta property="og:description"
+        content="Track live market trends, performance, brokers, and key datasets from Nepal Stock Exchange sources.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="favicon.png">
+    <meta name="twitter:card" content="summary_large_image">
 
+    <!-- Favicon -->
     <link rel="icon" href="favicon.png" type="image/png">
 
-    <!-- Design System: Typography & Icons -->
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700;800&display=swap"
         rel="stylesheet">
+    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body class="theme-dark">
-    <div class="app-container">
-        <!-- Live Ticker Bar -->
-        <div class="ticker-wrapper">
-            <div class="index-scroll" id="index-bar">
-                <!-- Live Indices injected by JS -->
-                <div class="ticker-placeholder">Loading NEPSE Live Indices...</div>
+<body>
+    <div class="container">
+        <section class="indices-marquee" aria-label="Live market indices">
+            <div id="indices-marquee-track" class="indices-marquee-track">
+                <span class="indices-marquee-empty">Loading market indices...</span>
             </div>
-        </div>
+        </section>
 
-        <header class="main-header">
-            <div class="brand-section">
-                <div class="logo-wrapper">
-                    <i class="fa-solid fa-chart-line-up"></i>
-                    <h1 class="logo-text">YONEPSE</h1>
+        <nav class="top-nav" aria-label="Primary">
+            <a class="nav-link active" href="index.html">Market Dashboard</a>
+            <a class="nav-link" href="data.html">Brokers & Datasets</a>
+        </nav>
+
+        <header>
+            <h1 class="hero-title">YONEPSE</h1>
+            <p class="hero-subtitle">Real-time insights into the Nepal Stock Exchange. Track performance, trends, and
+                market movements with precision.</p>
+
+            <div class="market-status">
+                <div class="status-item">
+                    <span class="status-dot"></span>
+                    <span id="update-time">Loading market data...</span>
                 </div>
-                <div class="live-status">
-                    <span id="market-badge" class="badge">Checking...</span>
-                    <span id="update-time">--:--</span>
+                <div class="status-item">
+                    <i class="fa-solid fa-chart-line"></i>
+                    <span id="total-scanned">0 Companies Tracked</span>
                 </div>
             </div>
-
-            <nav class="app-nav">
-                <button class="nav-btn active" data-view="dashboard">
-                    <i class="fa-solid fa-grid-2"></i> Dashboard
-                </button>
-                <button class="nav-btn" data-view="companies">
-                    <i class="fa-solid fa-buildings"></i> Companies
-                </button>
-                <button class="nav-btn" data-view="brokers">
-                    <i class="fa-solid fa-users-gear"></i> Brokers
-                </button>
-                <button class="nav-btn" data-view="notices">
-                    <i class="fa-solid fa-envelope-open-text"></i> News
-                </button>
-            </nav>
         </header>
 
-        <!-- View Containers -->
-        <div class="view-manager">
-
-            <!-- 1. DASHBOARD VIEW (Default) -->
-            <section id="view-dashboard" class="view active">
-                <!-- Market Pulse Cards -->
-                <div class="summary-shelf" id="market-summary-grid">
-                    <!-- Turnover, Transactions, Volume cards -->
+        <section class="controls">
+            <div class="filter-box custom-dropdown">
+                <div class="dropdown-trigger" id="dropdown-trigger" role="button" tabindex="0" aria-haspopup="listbox"
+                    aria-expanded="false" aria-controls="dropdown-options">
+                    <i class="fa-solid fa-layer-group"></i>
+                    <span id="selected-sector">All Sectors</span>
+                    <i class="fa-solid fa-chevron-down arrow"></i>
                 </div>
-
-                <!-- Leaders Row -->
-                <div class="leaders-row">
-                    <div class="leader-column">
-                        <div class="column-header">
-                            <h3><i class="fa-solid fa-arrow-trend-up"></i> Top Gainers</h3>
-                            <button class="view-all-small" onclick="window.location.hash='#gainers'">All</button>
-                        </div>
-                        <div class="leader-list" id="gainers-mini"></div>
-                    </div>
-                    <div class="leader-column">
-                        <div class="column-header">
-                            <h3><i class="fa-solid fa-arrow-trend-down"></i> Top Losers</h3>
-                            <button class="view-all-small" onclick="window.location.hash='#losers'">All</button>
-                        </div>
-                        <div class="leader-list" id="losers-mini"></div>
-                    </div>
-                </div>
-
-                <!-- Live Market Explorer -->
-                <div class="explorer-section">
-                    <div class="explorer-header">
-                        <div class="header-titles">
-                            <h2>Market Explorer</h2>
-                            <p id="total-scanned">Tracking 0 instruments</p>
-                        </div>
-
-                        <div class="explorer-controls">
-                            <div class="search-wrapper">
-                                <i class="fa-solid fa-magnifying-glass"></i>
-                                <input type="text" id="market-search" placeholder="Search symbol or name...">
-                            </div>
-
-                            <div class="filter-group">
-                                <div class="dropdown" id="sector-dropdown">
-                                    <div class="dropdown-trigger" id="sector-trigger">
-                                        <i class="fa-solid fa-layer-group"></i>
-                                        <span id="active-sector">All Sectors</span>
-                                        <i class="fa-solid fa-chevron-down"></i>
-                                    </div>
-                                    <div class="dropdown-menu" id="sector-menu">
-                                        <div class="menu-item selected" data-value="all">All Sectors</div>
-                                    </div>
-                                </div>
-
-                                <div class="dropdown" id="sort-dropdown">
-                                    <div class="dropdown-trigger" id="sort-trigger">
-                                        <i class="fa-solid fa-arrow-down-wide-short"></i>
-                                        <span id="active-sort">Sort: % Change</span>
-                                        <i class="fa-solid fa-chevron-down"></i>
-                                    </div>
-                                    <div class="dropdown-menu" id="sort-menu">
-                                        <div class="menu-item selected" data-value="percent_change">Change % (Desc)
-                                        </div>
-                                        <div class="menu-item" data-value="ltp">Price (Desc)</div>
-                                        <div class="menu-item" data-value="volume">Volume (Desc)</div>
-                                        <div class="menu-item" data-value="symbol">Symbol (A-Z)</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="explorer-body" id="main-stock-grid">
-                        <!-- Sector-based groups or filtered list -->
-                        <div class="loader-state">
-                            <div class="spinner"></div>
-                            <p>Initializing Nepal Stock Terminal...</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Latest Intelligence Preview -->
-                <div class="intel-preview-row">
-                    <div class="intel-card">
-                        <div class="column-header">
-                            <h3><i class="fa-solid fa-newspaper"></i> Latest Disclosures</h3>
-                            <button class="view-all-small" onclick="window.terminal.switchView('notices')">Full
-                                Feed</button>
-                        </div>
-                        <div id="latest-disclosures-list" class="mini-news-list">
-                            <!-- Injected by JS -->
-                        </div>
-                    </div>
-                </div>
-
-                <!-- IPO Corner -->
-                <div id="ipo-section" class="ipo-section" style="display: none;">
-                    <div class="section-title-wrapper">
-                        <h2><i class="fa-solid fa-rocket"></i> Launchpad (Upcoming IPOs)</h2>
-                    </div>
-                    <div class="ipo-grid" id="ipo-grid"></div>
-                </div>
-            </section>
-
-            <!-- 2. COMPANIES VIEW -->
-            <section id="view-companies" class="view">
-                <div class="view-header-alt">
-                    <h2>Listed Companies</h2>
-                    <div class="search-wrapper alt">
-                        <i class="fa-solid fa-magnifying-glass"></i>
-                        <input type="text" id="company-search-input" placeholder="Search company, symbol, or ISIN...">
-                    </div>
-                </div>
-                <div class="table-card">
-                    <table class="data-table">
-                        <thead>
-                            <tr>
-                                <th>Symbol</th>
-                                <th>Name</th>
-                                <th>Sector</th>
-                                <th>Instrument</th>
-                                <th>Status</th>
-                            </tr>
-                        </thead>
-                        <tbody id="companies-table-body"></tbody>
-                    </table>
-                </div>
-            </section>
-
-            <!-- 3. BROKERS VIEW -->
-            <section id="view-brokers" class="view">
-                <div class="view-header-alt">
-                    <h2>Broker Directory</h2>
-                    <div class="search-wrapper alt">
-                        <i class="fa-solid fa-magnifying-glass"></i>
-                        <input type="text" id="broker-search-input" placeholder="Search broker name or code...">
-                    </div>
-                </div>
-                <div class="brokers-grid" id="brokers-grid"></div>
-            </section>
-
-            <!-- 4. NEWS/NOTICES VIEW -->
-            <section id="view-notices" class="view">
-                <div class="view-header-alt">
-                    <div class="header-titles">
-                        <h2>Market Intelligence</h2>
-                        <p>Real-time corporate disclosures & exchange messages</p>
-                    </div>
-                </div>
-
-                <div class="notices-nav">
-                    <button class="notice-tab active" data-category="general">
-                        <i class="fa-solid fa-bullhorn"></i> General
-                    </button>
-                    <button class="notice-tab" data-category="company">
-                        <i class="fa-solid fa-buildings"></i> Company
-                    </button>
-                    <button class="notice-tab" data-category="exchange">
-                        <i class="fa-solid fa-server"></i> Exchange
-                    </button>
-                </div>
-
-                <div class="notices-timeline" id="notices-timeline">
-                    <!-- Injected by JS -->
-                </div>
-            </section>
-
-        </div>
-
-        <footer class="app-footer">
-            <div class="footer-top">
-                <div class="footer-info">
-                    <h3>YONEPSE</h3>
-                    <p>Designed for professional-grade market awareness.</p>
-                </div>
-                <div class="footer-links">
-                    <a href="https://github.com/Shubhamnpk/nepse-scaper" target="_blank"><i
-                            class="fa-brands fa-github"></i> Source</a>
-                    <a href="https://merolagani.com" target="_blank">Merolagani</a>
-                    <a href="https://sharesansar.com" target="_blank">ShareSansar</a>
+                <div class="dropdown-options" id="dropdown-options" role="listbox" aria-label="Filter by sector">
+                    <div class="option-item" role="option" tabindex="0" data-value="all">All Sectors</div>
+                    <!-- Options populated by JS -->
                 </div>
             </div>
-            <div class="footer-disclaimer">
-                <p>Data refined by official NEPSE algorithms. Updates every 30 minutes during market hours. Created by
-                    My Wallet & Yoguru Teams.</p>
+            <div class="search-box">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" id="search-input" placeholder="Search by symbol or name..."
+                    aria-label="Search stocks by symbol or company name">
+            </div>
+            <div class="status-item">
+                <i class="fa-solid fa-filter"></i>
+                <span id="market-summary">Analyzing trends...</span>
+            </div>
+        </section>
+
+        <section class="dashboard-shell">
+            <div class="dash-main">
+                <section class="intel-section">
+                    <h2 class="section-title">
+                        <i class="fa-solid fa-table-columns"></i>
+                        Dashboard
+                    </h2>
+                    <div class="intel-grid">
+                        <article class="intel-card">
+                            <div class="intel-card-header">
+                                <h3><i class="fa-solid fa-chart-simple"></i> Snapshot</h3>
+                                <span id="market-open-status" class="chip neutral">Checking...</span>
+                            </div>
+                            <div id="snapshot-grid" class="snapshot-grid">
+                                <p class="intel-empty">Loading summary...</p>
+                            </div>
+                        </article>
+
+                        <article class="intel-card">
+                            <div class="intel-card-header">
+                                <h3><i class="fa-solid fa-wave-square"></i> Key Indices</h3>
+                            </div>
+                            <div id="indices-list" class="indices-list">
+                                <p class="intel-empty">Loading indices...</p>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+
+                <section id="ipo-section" class="ipo-section is-hidden">
+                    <h2 class="section-title">
+                        <i class="fa-solid fa-rocket"></i>
+                        Upcoming IPOs
+                    </h2>
+                    <div class="ipo-toolbar">
+                        <span id="ipo-summary-meta" class="ipo-meta">Loading IPO schedule...</span>
+                        <label class="ipo-filter-wrap" for="ipo-status-filter">
+                            <span class="detail-label">Status</span>
+                            <select id="ipo-status-filter" class="ipo-filter-select" aria-label="Filter IPOs by status">
+                                <option value="all">All</option>
+                                <option value="open">Open</option>
+                                <option value="upcoming">Upcoming</option>
+                                <option value="closed">Closed</option>
+                            </select>
+                        </label>
+                    </div>
+                    <div class="ipo-grid" id="ipo-grid">
+                        <!-- IPO Cards injected here -->
+                    </div>
+                </section>
+
+                <main class="stock-container" id="stock-grid">
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>Fetching latest market prices...</p>
+                    </div>
+                </main>
+            </div>
+
+            <aside class="dash-side">
+                <article class="intel-card side-card">
+                    <div class="intel-card-header">
+                        <h3><i class="fa-solid fa-ranking-star"></i> Top Movers</h3>
+                    </div>
+                    <div class="movers-wrap">
+                        <div>
+                            <p class="mover-title">Gainers</p>
+                            <div id="top-gainers-list" class="movers-list"></div>
+                        </div>
+                        <div>
+                            <p class="mover-title">Losers</p>
+                            <div id="top-losers-list" class="movers-list"></div>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="intel-card side-card">
+                    <div class="intel-card-header">
+                        <h3><i class="fa-solid fa-bell"></i> Latest Notices</h3>
+                    </div>
+                    <div id="notice-feed" class="notice-feed">
+                        <p class="intel-empty">Loading notices...</p>
+                    </div>
+                </article>
+            </aside>
+        </section>
+
+        <footer class="site-footer">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <h3>YONEPSE</h3>
+                    <p>Empowering investors with real-time, comprehensive market data.</p>
+                </div>
+
+                <div class="footer-links">
+                    <a rel="noopener noreferrer" href="https://github.com/Shubhamnpk/nepse-scraper" target="_blank">
+                        <i class="fa-brands fa-github"></i> Open Source
+                    </a>
+                    <a rel="noopener noreferrer" href="https://www.nepalstock.com/" target="_blank">
+                        <i class="fa-solid fa-building-columns"></i> NEPSE
+                    </a>
+                    <a rel="noopener noreferrer" href="https://merolagani.com/CompanyList.aspx" target="_blank">
+                        <i class="fa-solid fa-database"></i> Merolagani
+                    </a>
+                    <a rel="noopener noreferrer" href="https://www.sharesansar.com/" target="_blank">
+                        <i class="fa-solid fa-chart-pie"></i> ShareSansar
+                    </a>
+                </div>
+
+                <div class="footer-credits">
+                    <div class="credit-row">
+                        Developed by
+                        <span class="credit-highlight">My Wallet Team</span> &
+                        <span class="credit-highlight">Yoguru Team</span>
+                    </div>
+                    <div class="credit-row">
+                        Data and market operations credit:
+                        <span class="credit-highlight">Nepal Stock Exchange (NEPSE)</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2026 YONEPSE. All rights reserved.</p>
+                <div class="source-credit">
+                    Data sourced from <a rel="noopener noreferrer" href="https://www.nepalstock.com/" target="_blank">NEPSE</a>, <a
+                        rel="noopener noreferrer" href="https://merolagani.com" target="_blank">Merolagani</a> & <a
+                        rel="noopener noreferrer" href="https://www.sharesansar.com/" target="_blank">ShareSansar</a>.
+                    Not affiliated with NEPSE, Merolagani or ShareSansar.
+                </div>
+                <p style="margin-top: 0.5rem; opacity: 0.6;">
+                    Automated updates: Every 30 minutes (Sun-Thu, 11 AM - 3 PM).
+                </p>
             </div>
         </footer>
     </div>
 
     <!-- Stock Detail Modal -->
-    <div id="stock-modal" class="modal-overlay">
-        <div class="modal-panel">
-            <button class="modal-close" id="close-modal"><i class="fa-solid fa-xmark"></i></button>
-            <div id="modal-content-area">
-                <!-- Injected by JS -->
+    <div id="stock-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-symbol"
+        aria-describedby="modal-company-name">
+        <div class="modal-content">
+            <button title="Close Modal" id="close-modal" class="close-btn" aria-label="Close stock details modal"><i
+                    class="fa-solid fa-xmark"></i></button>
+            <div class="modal-header">
+                <div class="modal-title-area">
+                    <h2 id="modal-symbol">SYMBOL</h2>
+                    <p id="modal-company-name">Company Full Name</p>
+                    <span id="modal-sector-badge" class="sector-badge">Sector</span>
+                </div>
+                <div class="modal-price-area">
+                    <div id="modal-ltp" class="modal-ltp">Rs. 0,000.00</div>
+                    <div id="modal-change" class="modal-change">+ 0.00 (0.00%)</div>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="detail-grid">
+                    <div class="modal-detail-item">
+                        <span class="label">Previous Close</span>
+                        <span id="modal-prev-close" class="value">0.00</span>
+                    </div>
+                    <div class="modal-detail-item">
+                        <span class="label">Day High</span>
+                        <span id="modal-high" class="value">0.00</span>
+                    </div>
+                    <div class="modal-detail-item">
+                        <span class="label">Day Low</span>
+                        <span id="modal-low" class="value">0.00</span>
+                    </div>
+                    <div class="modal-detail-item">
+                        <span class="label">Volume</span>
+                        <span id="modal-volume" class="value">0.00</span>
+                    </div>
+                </div>
+
+                <div class="modal-footer-info">
+                    <p><i class="fa-solid fa-clock"></i> Last updated: <span id="modal-last-updated">-</span></p>
+                </div>
             </div>
         </div>
     </div>
 
-    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/nepali-date-converter@3.3.1/dist/nepali-date-converter.umd.min.js" defer></script>
+    <script src="script.js" defer></script>
 </body>
 
 </html>
+

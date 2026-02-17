@@ -103,11 +103,13 @@ if __name__ == "__main__":
     import os
 
     new_data = scrape_upcoming_ipo()
-    output_file = "data/upcoming_ipo.json" 
+    output_file = "data/upcoming_ipo.json"
+    history_file = "data/ipo.json"
     os.makedirs("data", exist_ok=True)
 
     # 1. Load existing data
     existing_items = {}
+    history_items = {}
     try:
         if os.path.exists(output_file):
             with open(output_file, "r", encoding='utf-8') as f:
@@ -117,6 +119,14 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Error loading existing data: {e}")
 
+    try:
+        if os.path.exists(history_file):
+            with open(history_file, "r", encoding='utf-8') as f:
+                old_history = json.load(f)
+                history_items = {item.get('url'): item for item in old_history if item.get('url')}
+    except Exception as e:
+        print(f"Error loading IPO history data: {e}")
+
     # 2. Add/Update with new data
     if new_data:
         for item in new_data:
@@ -125,11 +135,14 @@ if __name__ == "__main__":
                 # Update existing or add new
                 existing_items[url] = item
 
-    # 3. Filter items: Keep only those seen/scraped within the last 10 days
+    # 3. Split items:
+    # - Keep recent items in upcoming_ipo.json (within last 10 days by scraped_at)
+    # - Move older items into data/ipo.json history archive
     now = datetime.now()
     cutoff_date = now - timedelta(days=10)
     
     final_data = []
+    archived_data = []
     for item in existing_items.values():
         try:
             scraped_at = item.get('scraped_at')
@@ -137,6 +150,8 @@ if __name__ == "__main__":
                 item_date = datetime.fromisoformat(scraped_at)
                 if item_date > cutoff_date:
                     final_data.append(item)
+                else:
+                    archived_data.append(item)
             else:
                 # If no timestamp, keep it for now but add one
                 item['scraped_at'] = now.isoformat()
@@ -145,6 +160,15 @@ if __name__ == "__main__":
             # If date parsing fails, keep it
             final_data.append(item)
 
+    # Merge archived entries into history (dedupe by URL)
+    for item in archived_data:
+        url = item.get('url')
+        if url:
+            history_items[url] = item
+
+    history_list = list(history_items.values())
+    history_list.sort(key=lambda x: x.get('scraped_at', ''), reverse=True)
+
     # 4. Save results
     if final_data:
         # Sort by scraped_at descending so newest are first
@@ -152,6 +176,10 @@ if __name__ == "__main__":
         
         with open(output_file, "w", encoding='utf-8') as f:
             json.dump(final_data, f, indent=4, ensure_ascii=False)
-        print(f"Successfully processed {len(final_data)} items (New: {len(new_data) if new_data else 0}). Saved to {output_file}")
+        print(f"Successfully processed {len(final_data)} upcoming items (New: {len(new_data) if new_data else 0}). Saved to {output_file}")
     else:
         print("No data to save.")
+
+    with open(history_file, "w", encoding='utf-8') as f:
+        json.dump(history_list, f, indent=4, ensure_ascii=False)
+    print(f"Archived IPO history count: {len(history_list)}. Saved to {history_file}")
