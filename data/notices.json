@@ -84,17 +84,6 @@
             "id": 44816,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29975,
-                    "activeStatus": "A",
-                    "modifiedBy": "slbsl_user",
-                    "modifiedDate": "2026-02-17T10:42:52.657",
-                    "application": 44816,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-17",
-                    "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
-                    "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
-                },
-                {
                     "id": 29974,
                     "activeStatus": "A",
                     "modifiedBy": "slbsl_user",
@@ -104,6 +93,17 @@
                     "submittedDate": "2026-02-17",
                     "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
                     "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
+                },
+                {
+                    "id": 29975,
+                    "activeStatus": "A",
+                    "modifiedBy": "slbsl_user",
+                    "modifiedDate": "2026-02-17T10:42:52.657",
+                    "application": 44816,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-17",
+                    "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
+                    "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
                 }
             ],
             "newsHeadline": "Lock in period end [SLBSL] ",
@@ -199,50 +199,6 @@
             "addedDate": "2026-02-16T17:19:15.387",
             "newsSource": "SPC",
             "modifiedDate": "2026-02-17T08:54:59.587",
-            "approvedDate": null
-        },
-        {
-            "id": 44798,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29958,
-                    "activeStatus": "A",
-                    "modifiedBy": "nwcl_user",
-                    "modifiedDate": "2026-02-16T09:05:44.49",
-                    "application": 44798,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-16",
-                    "filePath": "Nepal_Warehousing_Company_Limited/Company News/2026-02-16/7th AGM Info_1771211996065.pdf",
-                    "encryptedId": "a49bedfc392c5d26ddd6d33a33c6963eb19297edc8678b84810cb94e18067a3a2963ef605d3d8f1749d630c8e4e664a382b6af940596196d47438c160120ab7a"
-                }
-            ],
-            "newsHeadline": "7th AGM Decisions [NWCL] ",
-            "newsBody": "",
-            "addedDate": "2026-02-16T09:05:44.473",
-            "newsSource": "7th AGM ",
-            "modifiedDate": "2026-02-16T10:18:32.987",
-            "approvedDate": null
-        },
-        {
-            "id": 44797,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29957,
-                    "activeStatus": "A",
-                    "modifiedBy": "chdc_user",
-                    "modifiedDate": "2026-02-14T17:21:26.303",
-                    "application": 44797,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-14",
-                    "filePath": "CEDB_Hydropower_Development_Company_Limited/Company News/2026-02-14/NEPSE (1)_1771068940122.pdf",
-                    "encryptedId": "b0617e87f7072d0d1001382a9db634c22b546094de97b163c58448a522c36121130dc41254ec8306fe478066e3374e199306ae56a710244c5188d22ab06ce726"
-                }
-            ],
-            "newsHeadline": "Information [CHDC] ",
-            "newsBody": "<p>Information</p>",
-            "addedDate": "2026-02-14T17:21:26.28",
-            "newsSource": "Information",
-            "modifiedDate": "2026-02-16T08:58:44.57",
             "approvedDate": null
         },
         {
@@ -364,5 +320,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-17T11:11:18.882186"
+    "last_updated": "2026-02-18T05:21:45.970176"
 }
