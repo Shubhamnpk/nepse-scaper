@@ -1,6 +1,23 @@
 {
     "general": [
         {
+            "id": 1222,
+            "noticeHeading": "\u092a\u094d\u0930\u0938\u094d\u0924\u093e\u0935 \u0938\u094d\u0935\u0940\u0915\u0943\u0924 \u0917\u0930\u094d\u0928\u0947 \u0906\u0936\u092f\u0915\u094b \u0938\u0942\u091a\u0928\u093e \u092c\u093e\u0930\u0947",
+            "noticeBody": "\u092a\u094d\u0930\u0938\u094d\u0924\u093e\u0935 \u0938\u094d\u0935\u0940\u0915\u0943\u0924 \u0917\u0930\u094d\u0928\u0947 \u0906\u0936\u092f\u0915\u094b \u0938\u0942\u091a\u0928\u093e \u092c\u093e\u0930\u0947",
+            "noticeFilePath": "bbc008974fb7f67cc16a95a82f1a591e.jpg",
+            "noticeExpiryDate": "2026-02-22",
+            "feature": true,
+            "noticeTypeId": {
+                "id": 1,
+                "activeStatus": "A",
+                "noticeType": "Company Notice"
+            },
+            "publishToWebsite": true,
+            "source": null,
+            "modifiedDate": null,
+            "modifiedBy": "prabhakar_k"
+        },
+        {
             "id": 1220,
             "noticeHeading": "\u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u0935\u094d\u092f\u093e\u092a\u093e\u0930\u0940\u0939\u0930\u0941\u0915\u094b \u0932\u093e\u0917\u093f \u0915\u093e\u0930\u094b\u092c\u093e\u0930 \u092f\u094b\u0917\u094d\u092f \u0915\u092e\u094d\u092a\u0928\u0940\u0939\u0930\u0941\u0915\u094b \u0928\u093e\u092e\u093e\u0935\u0932\u0940",
             "noticeBody": "\u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u0935\u094d\u092f\u093e\u092a\u093e\u0930\u0940\u0939\u0930\u0941\u0915\u094b \u0932\u093e\u0917\u093f \u0915\u093e\u0930\u094b\u092c\u093e\u0930 \u092f\u094b\u0917\u094d\u092f \u0915\u092e\u094d\u092a\u0928\u0940\u0939\u0930\u0941\u0915\u094b \u0928\u093e\u092e\u093e\u0935\u0932\u0940",
@@ -194,17 +211,6 @@
             "id": 44816,
             "applicationDocumentDetailsList": [
                 {
-                    "id": 29974,
-                    "activeStatus": "A",
-                    "modifiedBy": "slbsl_user",
-                    "modifiedDate": "2026-02-17T10:42:52.657",
-                    "application": 44816,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-17",
-                    "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
-                    "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
-                },
-                {
                     "id": 29975,
                     "activeStatus": "A",
                     "modifiedBy": "slbsl_user",
@@ -214,6 +220,17 @@
                     "submittedDate": "2026-02-17",
                     "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
                     "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
+                },
+                {
+                    "id": 29974,
+                    "activeStatus": "A",
+                    "modifiedBy": "slbsl_user",
+                    "modifiedDate": "2026-02-17T10:42:52.657",
+                    "application": 44816,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-17",
+                    "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
+                    "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
                 }
             ],
             "newsHeadline": "Lock in period end [SLBSL] ",
@@ -430,5 +447,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-20T07:29:58.422772"
+    "last_updated": "2026-02-20T08:04:26.499363"
 }
