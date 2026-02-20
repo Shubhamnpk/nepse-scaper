@@ -1,5 +1,27 @@
 [
     {
+        "id": 44830,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29984,
+                "activeStatus": "A",
+                "modifiedBy": "igi_user",
+                "modifiedDate": "2026-02-20T12:03:39.72",
+                "application": 44830,
+                "documentType": 54,
+                "submittedDate": "2026-02-20",
+                "filePath": "igi_user/2026-02-20/NEPSE_1771568303726.pdf",
+                "encryptedId": "c220a8b4538b01956425de379b8d4f25e9f5f7b82996dd367bc46830d93c32422c2458a86c727986d93d1c7f585276b89a4a0b354e59a9475691272924d16fc8"
+            }
+        ],
+        "newsHeadline": "Board Meeting [IGI] ",
+        "newsBody": "<p>Head office location change</p>",
+        "addedDate": "2026-02-20T12:03:39.717",
+        "newsSource": "Head office location change",
+        "modifiedDate": "2026-02-20T12:46:42.417",
+        "approvedDate": null
+    },
+    {
         "id": 44827,
         "applicationDocumentDetailsList": [
             {
@@ -91,17 +113,6 @@
         "id": 44816,
         "applicationDocumentDetailsList": [
             {
-                "id": 29975,
-                "activeStatus": "A",
-                "modifiedBy": "slbsl_user",
-                "modifiedDate": "2026-02-17T10:42:52.657",
-                "application": 44816,
-                "documentType": 54,
-                "submittedDate": "2026-02-17",
-                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
-                "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
-            },
-            {
                 "id": 29974,
                 "activeStatus": "A",
                 "modifiedBy": "slbsl_user",
@@ -111,6 +122,17 @@
                 "submittedDate": "2026-02-17",
                 "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
                 "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
+            },
+            {
+                "id": 29975,
+                "activeStatus": "A",
+                "modifiedBy": "slbsl_user",
+                "modifiedDate": "2026-02-17T10:42:52.657",
+                "application": 44816,
+                "documentType": 54,
+                "submittedDate": "2026-02-17",
+                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
+                "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
             }
         ],
         "newsHeadline": "Lock in period end [SLBSL] ",
