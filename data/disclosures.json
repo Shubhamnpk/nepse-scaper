@@ -1,5 +1,27 @@
 [
     {
+        "id": 44841,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 29999,
+                "activeStatus": "A",
+                "modifiedBy": "upper_user",
+                "modifiedDate": "2026-02-22T11:28:43.8",
+                "application": 44841,
+                "documentType": 54,
+                "submittedDate": "2026-02-22",
+                "filePath": "upper_user/2026-02-22/2082 11 07 - Company Registar - BoD Change of UPPER_1771738994651.pdf",
+                "encryptedId": "8a5560a759e89ef56c14a3491fe892adf8375e034d0d375df5f52577ebb2d636a5212697b1444dce79b7afa673d5a757e029209ebc2ea4efb404066e12412434"
+            }
+        ],
+        "newsHeadline": "BoD Change of UPPER [UPPER] ",
+        "newsBody": "<p>Please find the attached document for more info. </p>",
+        "addedDate": "2026-02-22T11:28:43.797",
+        "newsSource": "UPPER",
+        "modifiedDate": "2026-02-22T11:35:49.337",
+        "approvedDate": null
+    },
+    {
         "id": 44839,
         "applicationDocumentDetailsList": [
             {
