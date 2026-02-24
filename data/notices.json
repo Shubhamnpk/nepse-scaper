@@ -48,6 +48,50 @@
     ],
     "company": [
         {
+            "id": 44853,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 30014,
+                    "activeStatus": "A",
+                    "modifiedBy": "nil_user",
+                    "modifiedDate": "2026-02-24T10:26:04.197",
+                    "application": 44853,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-24",
+                    "filePath": "nil_user/2026-02-24/Letter to NEPSE_30th AGM Decision_1771908016989.pdf",
+                    "encryptedId": "25ff7bdeca187f91fdb8a2692a14cd06f62ddbc33c592f541f9c70c8fbf1d557050be81794b04980b6ef8de535f7afc363f7ecfbd096eb7bf0faeb9c1f2fbbdc"
+                }
+            ],
+            "newsHeadline": "30th AGM Decisions [NIL] ",
+            "newsBody": "",
+            "addedDate": "2026-02-24T10:26:04.19",
+            "newsSource": "30th AGM Decisions",
+            "modifiedDate": "2026-02-24T10:27:09.107",
+            "approvedDate": null
+        },
+        {
+            "id": 44852,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 30013,
+                    "activeStatus": "A",
+                    "modifiedBy": "nrn_user",
+                    "modifiedDate": "2026-02-24T10:11:15.183",
+                    "application": 44852,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-24",
+                    "filePath": "NRN_Infrastructure_and_Development_Limited/Company News/2026-02-24/241-Appointment of Independent Director_1771907161880.pdf",
+                    "encryptedId": "5197b901b2a5cd59e9115f280405a7619f2f998f87c66ac99125ddbc97448ee0497d4bd6735994d77d86279542866c84286f56b6bdc9dff6592f552b5685045b"
+                }
+            ],
+            "newsHeadline": "Appointment of Independent Director [NRN] ",
+            "newsBody": "",
+            "addedDate": "2026-02-24T10:11:15.163",
+            "newsSource": "NRN",
+            "modifiedDate": "2026-02-24T10:12:40.85",
+            "approvedDate": null
+        },
+        {
             "id": 44845,
             "applicationDocumentDetailsList": [
                 {
@@ -92,85 +136,8 @@
             "approvedDate": null
         },
         {
-            "id": 44841,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29999,
-                    "activeStatus": "A",
-                    "modifiedBy": "upper_user",
-                    "modifiedDate": "2026-02-22T11:28:43.8",
-                    "application": 44841,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-22",
-                    "filePath": "upper_user/2026-02-22/2082 11 07 - Company Registar - BoD Change of UPPER_1771738994651.pdf",
-                    "encryptedId": "8a5560a759e89ef56c14a3491fe892adf8375e034d0d375df5f52577ebb2d636a5212697b1444dce79b7afa673d5a757e029209ebc2ea4efb404066e12412434"
-                }
-            ],
-            "newsHeadline": "BoD Change of UPPER [UPPER] ",
-            "newsBody": "<p>Please find the attached document for more info. </p>",
-            "addedDate": "2026-02-22T11:28:43.797",
-            "newsSource": "UPPER",
-            "modifiedDate": "2026-02-22T11:35:49.337",
-            "approvedDate": null
-        },
-        {
-            "id": 44839,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29996,
-                    "activeStatus": "A",
-                    "modifiedBy": "umhl_user",
-                    "modifiedDate": "2026-02-22T10:31:04.617",
-                    "application": 44839,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-22",
-                    "filePath": "umhl_user/2026-02-22/UMHL_1771735548688.pdf",
-                    "encryptedId": "f3ed01b1933a402a9502e3ddc4d0f9d93e529d9cf10f8cb3b7f7ca422a8fb3d6637a0c0aa20b3ab5d12f11571b2065e73c7cf1fbf60a190be0fe62cb7ae632ea"
-                }
-            ],
-            "newsHeadline": "Dividend Declaration [UMHL] ",
-            "newsBody": "Dividend Declaration of UMHL\nFiscal Year: 2081-2082\nCash Dividend: 0.36842%\nBonus Shares: 7%",
-            "addedDate": "2026-02-22T10:31:04.61",
-            "newsSource": "Dividend Declaration",
-            "modifiedDate": "2026-02-22T10:31:37.177",
-            "approvedDate": null
-        },
-        {
-            "id": 44838,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29995,
-                    "activeStatus": "A",
-                    "modifiedBy": "gmfil_user",
-                    "modifiedDate": "2026-02-22T10:22:18.313",
-                    "application": 44838,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-22",
-                    "filePath": "gmfil_user/2026-02-22/Chief Executive Officer Appointment_1771735019182.pdf",
-                    "encryptedId": "e3c12cbdfb7cd1c8c1a5cee186c6fbf519263081216b6f4009ed6eef1bc31fbd97917054809a76311256732e3fe9514e1389393b7c3237d46fbdff7868a8d333"
-                }
-            ],
-            "newsHeadline": "Appointment of Chief Executive Officer (GMFIL) [GMFIL] ",
-            "newsBody": "",
-            "addedDate": "2026-02-22T10:22:18.31",
-            "newsSource": "289th BOD Meeting",
-            "modifiedDate": "2026-02-22T10:29:55.86",
-            "approvedDate": null
-        },
-        {
             "id": 44837,
             "applicationDocumentDetailsList": [
-                {
-                    "id": 29994,
-                    "activeStatus": "A",
-                    "modifiedBy": "user_sagar",
-                    "modifiedDate": "2026-02-22T10:14:46.097",
-                    "application": 44837,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-22",
-                    "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/Nepse_1771734575891.pdf",
-                    "encryptedId": "4af30b9d4979478b2730367fa91507f8571bcf7ca1f6d68485c238b824988d70d7386442ac67adea682df71dee82c3fcf09331baddfebb6bf0e83a07b864ec7e"
-                },
                 {
                     "id": 29993,
                     "activeStatus": "A",
@@ -181,6 +148,17 @@
                     "submittedDate": "2026-02-22",
                     "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/NSP fagun10 sunday epaper pdf-3_1771734582853.pdf",
                     "encryptedId": "eb78953229dc6bdaac6294c7485a5b471c0ff2532ec331875bedab6e628f2b11ef0e2827c451cf8995c33a1a1458a9e08456378bbd855e72d0c085920a95ded3"
+                },
+                {
+                    "id": 29994,
+                    "activeStatus": "A",
+                    "modifiedBy": "user_sagar",
+                    "modifiedDate": "2026-02-22T10:14:46.097",
+                    "application": 44837,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-22",
+                    "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/Nepse_1771734575891.pdf",
+                    "encryptedId": "4af30b9d4979478b2730367fa91507f8571bcf7ca1f6d68485c238b824988d70d7386442ac67adea682df71dee82c3fcf09331baddfebb6bf0e83a07b864ec7e"
                 }
             ],
             "newsHeadline": "\u0938\u093e\u092e\u0942\u0939\u093f\u0915 \u0932\u0917\u093e\u0928\u0940 \u0915\u094b\u0937\u0939\u0930\u0941\u0915\u094b \u0932\u093e\u0917\u093f \u091b\u0941\u091f\u094d\u091f\u093e\u0907\u090f\u0915\u094b \u0938\u093e\u0927\u093e\u0930\u0923 \u0936\u0947\u092f\u0930\u0915\u094b \u0932\u0915-\u0908\u0928 \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0938\u0942\u091a\u0928\u093e [SAGAR] ",
@@ -188,50 +166,6 @@
             "addedDate": "2026-02-22T10:14:46.077",
             "newsSource": "Nepal Samacharpatra",
             "modifiedDate": "2026-02-22T10:16:43.137",
-            "approvedDate": null
-        },
-        {
-            "id": 44836,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29992,
-                    "activeStatus": "A",
-                    "modifiedBy": "mbl_user",
-                    "modifiedDate": "2026-02-20T17:15:16.703",
-                    "application": 44836,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-20",
-                    "filePath": "mbl_user/2026-02-20/Letter to Regulatory Bodies Appointment of Director_1771586954870.pdf",
-                    "encryptedId": "7bfb6f53f2062fdd68fc2f84ca6bd956b1e17955772463677d60c53ca4cffc2ce6d697a63ff0cec7c67174d782c6c7acfe1f65001514ef55d4c03ff53e0792a1"
-                }
-            ],
-            "newsHeadline": "Appointment of Director (MBL) [MBL] ",
-            "newsBody": "<p>Appointment of Director </p>",
-            "addedDate": "2026-02-20T17:15:16.7",
-            "newsSource": "548 Board Meeting",
-            "modifiedDate": "2026-02-22T08:57:11.087",
-            "approvedDate": null
-        },
-        {
-            "id": 44835,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29991,
-                    "activeStatus": "A",
-                    "modifiedBy": "mbl_user",
-                    "modifiedDate": "2026-02-20T16:56:46.443",
-                    "application": 44835,
-                    "documentType": 54,
-                    "submittedDate": "2026-02-20",
-                    "filePath": "mbl_user/2026-02-20/Letter to Regulatory Bodies_1771585807969.pdf",
-                    "encryptedId": "3571c60b9e7b4ea03dfc2b8a06d2f8806d3ec8d2fa1592bf574a5df08ecabc65b8fa424e91ad485a033b810db931718742de0fcabc54c4919b25f4b70adce296"
-                }
-            ],
-            "newsHeadline": "Resignation of Director (MBL) [MBL] ",
-            "newsBody": "<p>Resignation of Director. </p>",
-            "addedDate": "2026-02-20T16:56:46.44",
-            "newsSource": "548 Board Meeting",
-            "modifiedDate": "2026-02-22T08:56:47.057",
             "approvedDate": null
         },
         {
@@ -266,43 +200,9 @@
             "newsSource": "Information about Lock in period end ",
             "modifiedDate": "2026-02-17T10:56:04.087",
             "approvedDate": null
-        },
-        {
-            "id": 44314,
-            "applicationDocumentDetailsList": [
-                {
-                    "id": 29391,
-                    "activeStatus": "A",
-                    "modifiedBy": "swastik_user",
-                    "modifiedDate": "2026-01-23T11:18:54.483",
-                    "application": 44314,
-                    "documentType": 54,
-                    "submittedDate": "2026-01-23",
-                    "filePath": "Swastik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-01-23/Lock in letter_1769146417762.pdf",
-                    "encryptedId": "88f868465341f4e8f17eacdefe291caf4408c632699b3632a296d14cf23cb0e91aa40eb45d8e5f20dc25352ec131f1c0c890d68ab09ea9c26afb7e724a248497"
-                }
-            ],
-            "newsHeadline": "Lock In Period Release Notice [SWASTIK] ",
-            "newsBody": "<p>In accordance with the directives received from your esteemed office regarding the above subject, this Swastik Laghubitta Bittiya Sanstha Limited issued and opened for sale shares to the general public through a public offering from <strong>30 Shrawan 2082 to 03 Bhadra 2082</strong>, and the allotment was completed on <strong>12 Bhadra 2082</strong>.</p><p>Out of the total <strong>231,000 ordinary shares</strong> allotted through the public issue, <strong>5 percent, i.e., 11,550 ordinary shares</strong>, were issued and allotted to <strong>Collective Investment Schemes</strong>. As the <strong>lock-in period of the said shares</strong>, which expires on <strong>11 Falgun 2082 (23 February 2026)</strong>, is coming to an end, information regarding this matter has been published for the awareness of <strong>all regulatory bodies, shareholders, and concerned stakeholders</strong> through a notice published in the <strong>Nagarik National Daily newspaper dated 09 Magh 2082</strong>.</p><p>This is respectfully submitted for your kind information.</p>",
-            "addedDate": "2026-01-23T11:18:54.48",
-            "newsSource": "Internal ",
-            "modifiedDate": "2026-01-23T11:34:39.243",
-            "approvedDate": null
         }
     ],
     "exchange": [
-        {
-            "id": 208597,
-            "messageBody": "Price Adjusted - BNHC|Adjusted Price for Buddha Bhumi Nepal Hydropower Company Limited is Rs. 313.1 for 100 % of Right Share.",
-            "messageTitle": "Price Adjusted - BNHC",
-            "encryptedId": null,
-            "expiryDate": "2026-02-12",
-            "filePath": null,
-            "remarks": "8",
-            "addedDate": null,
-            "modifiedDate": "2026-02-12T16:14:54.217",
-            "approvedDate": null
-        },
         {
             "id": 208592,
             "messageBody": "<p><span style=\"color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">For more details please find the attached NEPSE Notice.</span></p>",
@@ -316,5 +216,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-23T10:46:35.848328"
+    "last_updated": "2026-02-24T05:20:04.497419"
 }
