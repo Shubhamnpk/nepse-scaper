@@ -35,6 +35,17 @@
             "modifiedBy": "prabhakar_k"
         },
         {
+            "id": 208606,
+            "noticeHeading": "Price Adjusted - Super Mai Hydropower Limited (SMH)",
+            "noticeBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Adjusted price of&nbsp;</span>Super Mai Hydropower Limited (SMH)<span style=\"color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">&nbsp;</span><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">is Rs.591.67 for 20% Bonus shares on previous closing price of Rs.710</span><br class=\"Apple-interchange-newline\"></p>",
+            "noticeExpiryDate": null,
+            "noticeFilePath": null,
+            "feature": true,
+            "publishToWebsite": true,
+            "source": "NOTS",
+            "modifiedDate": "2026-02-24"
+        },
+        {
             "id": 208605,
             "noticeHeading": "Listing 14.25% Bonus Shares of Gurans Laghubitta Bittiya Sanstha Limited (GLBSL)",
             "noticeBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">1,65,085.54 Units Bonus Shares of&nbsp;</span>Gurans Laghubitta Bittiya Sanstha Limited (GLBSL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br class=\"Apple-interchange-newline\"></p>",
@@ -58,6 +69,28 @@
         }
     ],
     "company": [
+        {
+            "id": 44860,
+            "applicationDocumentDetailsList": [
+                {
+                    "id": 30020,
+                    "activeStatus": "A",
+                    "modifiedBy": "smjc_user",
+                    "modifiedDate": "2026-02-24T15:40:56.967",
+                    "application": 44860,
+                    "documentType": 54,
+                    "submittedDate": "2026-02-24",
+                    "filePath": "Sagarmatha_Jalbidhyut_Company_Limited/Company News/2026-02-24/Lock In Period SMJC_1771926691029.pdf",
+                    "encryptedId": "dde66a1722e7a60ee11f5d2d6c07a7315ca83047ca9a5bdb7b01f480ffcd82a2ba98093135691d64a10b958d00781abe0cb7676fb0d4f35d448247eff626951e"
+                }
+            ],
+            "newsHeadline": "Open Lock In Period [SMJC] ",
+            "newsBody": "",
+            "addedDate": "2026-02-24T15:40:56.96",
+            "newsSource": "Board Decision",
+            "modifiedDate": "2026-02-24T15:44:55.547",
+            "approvedDate": null
+        },
         {
             "id": 44853,
             "applicationDocumentDetailsList": [
@@ -215,6 +248,30 @@
     ],
     "exchange": [
         {
+            "id": 208607,
+            "messageBody": "Price Adjusted - SMH|Adjusted Price for Super Mai Hydropower Limited is Rs. 591.67 for 20 % of Bonus Share.",
+            "messageTitle": "Price Adjusted - SMH",
+            "encryptedId": null,
+            "expiryDate": "2026-02-24",
+            "filePath": null,
+            "remarks": "8",
+            "addedDate": null,
+            "modifiedDate": "2026-02-24T16:10:10.04",
+            "approvedDate": null
+        },
+        {
+            "id": 208606,
+            "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Adjusted price of&nbsp;</span>Super Mai Hydropower Limited (SMH)<span style=\"color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">&nbsp;</span><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">is Rs.591.67 for 20% Bonus shares on previous closing price of Rs.710</span><br class=\"Apple-interchange-newline\"></p>",
+            "messageTitle": "Price Adjusted - Super Mai Hydropower Limited (SMH)",
+            "encryptedId": null,
+            "expiryDate": "2026-02-24",
+            "filePath": null,
+            "remarks": "5",
+            "addedDate": "2026-02-24T15:15:43.457",
+            "modifiedDate": "2026-02-24T15:15:43.457",
+            "approvedDate": null
+        },
+        {
             "id": 208605,
             "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">1,65,085.54 Units Bonus Shares of&nbsp;</span>Gurans Laghubitta Bittiya Sanstha Limited (GLBSL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br class=\"Apple-interchange-newline\"></p>",
             "messageTitle": "Listing 14.25% Bonus Shares of Gurans Laghubitta Bittiya Sanstha Limited (GLBSL)",
@@ -239,5 +296,5 @@
             "approvedDate": null
         }
     ],
-    "last_updated": "2026-02-24T09:48:50.031571"
+    "last_updated": "2026-02-24T10:44:12.799078"
 }

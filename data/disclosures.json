@@ -1,5 +1,27 @@
 [
     {
+        "id": 44860,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30020,
+                "activeStatus": "A",
+                "modifiedBy": "smjc_user",
+                "modifiedDate": "2026-02-24T15:40:56.967",
+                "application": 44860,
+                "documentType": 54,
+                "submittedDate": "2026-02-24",
+                "filePath": "Sagarmatha_Jalbidhyut_Company_Limited/Company News/2026-02-24/Lock In Period SMJC_1771926691029.pdf",
+                "encryptedId": "dde66a1722e7a60ee11f5d2d6c07a7315ca83047ca9a5bdb7b01f480ffcd82a2ba98093135691d64a10b958d00781abe0cb7676fb0d4f35d448247eff626951e"
+            }
+        ],
+        "newsHeadline": "Open Lock In Period [SMJC] ",
+        "newsBody": "",
+        "addedDate": "2026-02-24T15:40:56.96",
+        "newsSource": "Board Decision",
+        "modifiedDate": "2026-02-24T15:44:55.547",
+        "approvedDate": null
+    },
+    {
         "id": 44853,
         "applicationDocumentDetailsList": [
             {
