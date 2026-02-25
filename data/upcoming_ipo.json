@@ -1,12 +1,30 @@
 [
     {
+        "company": "Taksar Pikhuwa Khola Hydropower Limited",
+        "units": "12,00,000.00",
+        "date_range": "27th Falgun - 11th Chaitra, 2082",
+        "announcement_date": "Feb 25, 2026",
+        "full_text": "Taksar Pikhuwa Khola Hydropower Limited is going to issue its 12,00,000.00 units of IPO shares to the project affected local residents of Bhojpur District starting from 27th Falgun - 11th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64523",
+        "scraped_at": "2026-02-25T05:19:01.477855"
+    },
+    {
+        "company": "Taksar Pikhuwa Khola Hydropower Limited",
+        "units": "3,03,067.00",
+        "date_range": "27th Falgun - 1st Chaitra, 2082",
+        "announcement_date": "Feb 25, 2026",
+        "full_text": "Taksar Pikhuwa Khola Hydropower Limited is going to issue its 3,03,067.00 units of IPO shares to the Nepalese citizens working abroad starting from 27th Falgun - 1st Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64522",
+        "scraped_at": "2026-02-25T05:19:01.477748"
+    },
+    {
         "company": "Shikhar Power Development Limited",
         "units": "18,42,600.00",
         "date_range": "17th - 22nd Falgun, 2082",
         "announcement_date": "Feb 17, 2026",
         "full_text": "Shikhar Power Development Limited is going to issue its 18,42,600.00 units of IPO shares to the general public starting from 17th - 22nd Falgun, 2082",
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64452",
-        "scraped_at": "2026-02-24T05:17:34.872615"
+        "scraped_at": "2026-02-25T05:19:01.477643"
     },
     {
         "company": "Kalinchowk Hydropower Limited",
@@ -15,7 +33,7 @@
         "announcement_date": "Feb 13, 2026",
         "full_text": "Kalinchowk Hydropower Limited is going to issue its 5,50,000.00 units of IPO shares to the project affected local residents of Dolakha District, Bigu VDC Ward No. 08/Kalinchowk VDC, Ward No. 01 & 02 starting from 13th - 27th Falgun, 2082",
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64435",
-        "scraped_at": "2026-02-24T05:17:34.872514"
+        "scraped_at": "2026-02-25T05:19:01.477547"
     },
     {
         "company": "Kalinchowk Hydropower Limited",
@@ -24,7 +42,7 @@
         "announcement_date": "Feb 13, 2026",
         "full_text": "Kalinchowk Hydropower Limited is going to issue its 82,500.00 units of IPO shares to the Nepalese citizens working abroad starting from 13th - 17th Falgun, 2082",
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64434",
-        "scraped_at": "2026-02-24T05:17:34.872394"
+        "scraped_at": "2026-02-25T05:19:01.477414"
     },
     {
         "company": "Palpa Cement Industries Limited",
