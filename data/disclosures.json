@@ -1,5 +1,49 @@
 [
     {
+        "id": 44864,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30024,
+                "activeStatus": "A",
+                "modifiedBy": "spl_user",
+                "modifiedDate": "2026-02-25T10:18:37.747",
+                "application": 44864,
+                "documentType": 54,
+                "submittedDate": "2026-02-25",
+                "filePath": "Shuvam_Power_Limited/Company News/2026-02-25/Director Resign_1771994012412.pdf",
+                "encryptedId": "953496937d1b781d135cd2032e782cfc302aa459eff256cfba73642419193182ae9c29c68ffeee4f3286c96ec5181bea5bf8f1ea4d3fed59236235be2c8b49c8"
+            }
+        ],
+        "newsHeadline": "\u0938\u0902\u091a\u093e\u0932\u0915\u0915\u093e\u0947 \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e [SPL] ",
+        "newsBody": "<p>\u0938\u0902\u091a\u093e\u0932\u0915\u0915\u093e\u0947 \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e</p>",
+        "addedDate": "2026-02-25T10:18:37.743",
+        "newsSource": "\u0938\u0902\u091a\u093e\u0932\u0915\u0915\u093e\u0947 \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e",
+        "modifiedDate": "2026-02-25T10:21:21.57",
+        "approvedDate": null
+    },
+    {
+        "id": 44863,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30023,
+                "activeStatus": "A",
+                "modifiedBy": "slbsl_user",
+                "modifiedDate": "2026-02-25T09:39:57.443",
+                "application": 44863,
+                "documentType": 54,
+                "submittedDate": "2026-02-25",
+                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-25/information about appointment of Independent Director 2082-11-12_1771991691153.jpg",
+                "encryptedId": "cab7c093ab18316354273aa40d9350fe0af9b6263de92b526e2afe8ae1313dfcae32566df1941ad07c72d59e948879a0607d117149aaf174d3cef30fab1b8532"
+            }
+        ],
+        "newsHeadline": "Appointment of Independent Director [SLBSL] ",
+        "newsBody": "<p>Dear Sir,</p><p>According to the 41th board meeting's decision, Mr Dinesh Aryal of permanent address Gorkha Municipality ward number 3, Holsing has been appointed as An Independent Director of Samudayik Laghubitta Bittiya Sanstha Limited.</p>",
+        "addedDate": "2026-02-25T09:39:57.423",
+        "newsSource": "Board meeting held 2082-11-12",
+        "modifiedDate": "2026-02-25T09:48:27.49",
+        "approvedDate": null
+    },
+    {
         "id": 44860,
         "applicationDocumentDetailsList": [
             {
@@ -63,50 +107,6 @@
         "addedDate": "2026-02-24T10:11:15.163",
         "newsSource": "NRN",
         "modifiedDate": "2026-02-24T10:12:40.85",
-        "approvedDate": null
-    },
-    {
-        "id": 44845,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 30004,
-                "activeStatus": "A",
-                "modifiedBy": "shpc_user",
-                "modifiedDate": "2026-02-22T17:25:57.84",
-                "application": 44845,
-                "documentType": 54,
-                "submittedDate": "2026-02-22",
-                "filePath": "shpc_user/2026-02-22/Resumption_1771760445865.jpg",
-                "encryptedId": "558d9863d578b4c1f8c6ea739e446767040ed5fab65f84c351fd58974a93eb529b5c8a0d597771928b854f08d62baa64e0f104d2163ec9a17342bcd372a151db"
-            }
-        ],
-        "newsHeadline": "End of force majeure and resumption of Mai & Cascade Plant [SHPC] ",
-        "newsBody": "<p>Please, see the attached notice.</p>",
-        "addedDate": "2026-02-22T17:25:57.837",
-        "newsSource": "Management",
-        "modifiedDate": "2026-02-23T10:08:21.01",
-        "approvedDate": null
-    },
-    {
-        "id": 44844,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 30003,
-                "activeStatus": "A",
-                "modifiedBy": "nmbmf_user",
-                "modifiedDate": "2026-02-22T17:08:51.043",
-                "application": 44844,
-                "documentType": 54,
-                "submittedDate": "2026-02-22",
-                "filePath": "nmbmf_user/2026-02-22/Dividend Declare_1771759397902.PDF",
-                "encryptedId": "e6197bb26c85f39a3493430864caf16c194c1bd86736b641969f21502f99e3a23fb21cf56a38bcb72c3d82dc41e46b5ef61e1172730e8a005f58b726243a62b2"
-            }
-        ],
-        "newsHeadline": "Regarding Dividend Declare [NMBMF] ",
-        "newsBody": "Dividend Declaration of NMBMF\nFiscal Year: 2081-2082",
-        "addedDate": "2026-02-22T17:08:51.037",
-        "newsSource": "NMBMF",
-        "modifiedDate": "2026-02-23T10:07:39.85",
         "approvedDate": null
     },
     {
