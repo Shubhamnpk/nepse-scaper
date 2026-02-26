@@ -6892,18 +6892,18 @@
             "securityId": 8065
         },
         {
-            "symbol": "RAWA",
-            "shareTraded": 2540,
-            "closingPrice": 716.9,
-            "securityName": "Rawa Energy Development Limited",
-            "securityId": 9181
-        },
-        {
             "symbol": "USHL",
             "shareTraded": 2540,
             "closingPrice": 714.0,
             "securityName": "Upper Syange Hydropower Limited",
             "securityId": 9192
+        },
+        {
+            "symbol": "RAWA",
+            "shareTraded": 2540,
+            "closingPrice": 716.9,
+            "securityName": "Rawa Energy Development Limited",
+            "securityId": 9181
         },
         {
             "symbol": "MSHL",
@@ -7354,18 +7354,18 @@
             "securityId": 8063
         },
         {
-            "symbol": "NBBD2085",
-            "shareTraded": 100,
-            "closingPrice": 1150.0,
-            "securityName": "10.25% NBBL Debenture 2085",
-            "securityId": 2854
-        },
-        {
             "symbol": "NABILD87",
             "shareTraded": 100,
             "closingPrice": 1133.5,
             "securityName": "9% Nabil Debenture 2087",
             "securityId": 9238
+        },
+        {
+            "symbol": "NBBD2085",
+            "shareTraded": 100,
+            "closingPrice": 1150.0,
+            "securityName": "10.25% NBBL Debenture 2085",
+            "securityId": 2854
         },
         {
             "symbol": "PBLD84",
@@ -7431,11 +7431,11 @@
             "securityId": 219
         },
         {
-            "symbol": "CIZBD90",
+            "symbol": "RBCLPO",
             "shareTraded": 50,
-            "closingPrice": 1210.0,
-            "securityName": "10% Citizens Bank Debenture 2090",
-            "securityId": 9231
+            "closingPrice": 12168.0,
+            "securityName": "Rastriya Beema Company Limited Promoter Share",
+            "securityId": 634
         },
         {
             "symbol": "JBBD87",
@@ -7445,11 +7445,11 @@
             "securityId": 8020
         },
         {
-            "symbol": "RBCLPO",
+            "symbol": "CIZBD90",
             "shareTraded": 50,
-            "closingPrice": 12168.0,
-            "securityName": "Rastriya Beema Company Limited Promoter Share",
-            "securityId": 634
+            "closingPrice": 1210.0,
+            "securityName": "10% Citizens Bank Debenture 2090",
+            "securityId": 9231
         },
         {
             "symbol": "BNL",
@@ -7494,27 +7494,6 @@
             "securityId": 9264
         },
         {
-            "symbol": "BOKD86",
-            "shareTraded": 25,
-            "closingPrice": 1100.0,
-            "securityName": "8.5% BOK Debenture 2086",
-            "securityId": 4961
-        },
-        {
-            "symbol": "CBLD88",
-            "shareTraded": 25,
-            "closingPrice": 1182.1,
-            "securityName": "Civil Bank Debenture 2088",
-            "securityId": 8043
-        },
-        {
-            "symbol": "GBILD86/87",
-            "shareTraded": 25,
-            "closingPrice": 1085.0,
-            "securityName": "Global IME Bank Limited Debenture 2086/87",
-            "securityId": 8004
-        },
-        {
             "symbol": "ADBLD83",
             "shareTraded": 25,
             "closingPrice": 1054.0,
@@ -7534,6 +7513,27 @@
             "closingPrice": 1067.0,
             "securityName": "Garima Debenture, 2085",
             "securityId": 8033
+        },
+        {
+            "symbol": "CBLD88",
+            "shareTraded": 25,
+            "closingPrice": 1182.1,
+            "securityName": "Civil Bank Debenture 2088",
+            "securityId": 8043
+        },
+        {
+            "symbol": "GBILD86/87",
+            "shareTraded": 25,
+            "closingPrice": 1085.0,
+            "securityName": "Global IME Bank Limited Debenture 2086/87",
+            "securityId": 8004
+        },
+        {
+            "symbol": "BOKD86",
+            "shareTraded": 25,
+            "closingPrice": 1100.0,
+            "securityName": "8.5% BOK Debenture 2086",
+            "securityId": 4961
         },
         {
             "symbol": "BNT",
