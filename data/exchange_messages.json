@@ -1,5 +1,17 @@
 [
     {
+        "id": 208611,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">5,09,024.25 Units Bonus Shares of&nbsp;</span>Barun Hydropower Co. Ltd. (BARUN)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span></p>",
+        "messageTitle": "Listing 4.75% Bonus Shares of Barun Hydropower Co. Ltd. (BARUN)",
+        "encryptedId": null,
+        "expiryDate": "2026-02-27",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-02-27T12:01:48.627",
+        "modifiedDate": "2026-02-27T12:01:48.627",
+        "approvedDate": null
+    },
+    {
         "id": 208610,
         "messageBody": "Price Adjusted - UAIL|Adjusted Price for United Ajod Insurance Limited is Rs. 431.64 for 10 % of Right Share.",
         "messageTitle": "Price Adjusted - UAIL",
