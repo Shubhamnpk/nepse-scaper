@@ -30,7 +30,7 @@
         {
             "symbol": "NIBLGF",
             "ltp": 9.71,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.55,
             "percentageChange": 6.0,
             "securityName": "NIBL Growth Fund",
@@ -75,7 +75,7 @@
         {
             "symbol": "UNLB",
             "ltp": 1887.9,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 61.9,
             "percentageChange": 3.39,
             "securityName": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
@@ -156,7 +156,7 @@
         {
             "symbol": "NIBLSTF",
             "ltp": 9.28,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.23,
             "percentageChange": 2.54,
             "securityName": "NIBL Stable Fund",
@@ -210,7 +210,7 @@
         {
             "symbol": "PBD88",
             "ltp": 1215.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 24.9,
             "percentageChange": 2.09,
             "securityName": "10% Prime Debenture 2088",
@@ -228,7 +228,7 @@
         {
             "symbol": "SBLD2091",
             "ltp": 1096.5,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 21.5,
             "percentageChange": 2.0,
             "securityName": "7.25% SBL Debenture 2091",
@@ -237,7 +237,7 @@
         {
             "symbol": "RBBD83",
             "ltp": 1052.69,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 20.59,
             "percentageChange": 1.99,
             "securityName": "8.5% RBBL Debenture 2083",
@@ -264,7 +264,7 @@
         {
             "symbol": "C30MF",
             "ltp": 9.82,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.19,
             "percentageChange": 1.97,
             "securityName": "Citizens Super 30 Mutual Fund",
@@ -282,7 +282,7 @@
         {
             "symbol": "NICGF2",
             "ltp": 9.4,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.18,
             "percentageChange": 1.95,
             "securityName": "NIC ASIA Growth Fund-2",
@@ -327,7 +327,7 @@
         {
             "symbol": "DLBS",
             "ltp": 1334.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 23.9,
             "percentageChange": 1.82,
             "securityName": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
@@ -354,7 +354,7 @@
         {
             "symbol": "MFLD85",
             "ltp": 1165.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 20.6,
             "percentageChange": 1.8,
             "securityName": "9.5% Manjushree Finance Limited Debenture 2085",
@@ -426,7 +426,7 @@
         {
             "symbol": "PURE",
             "ltp": 972.9,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 15.9,
             "percentageChange": 1.66,
             "securityName": "Pure Energy Limited",
@@ -453,7 +453,7 @@
         {
             "symbol": "OMPL",
             "ltp": 1303.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 20.9,
             "percentageChange": 1.63,
             "securityName": "Om Megashree Pharmaceuticals Limited",
@@ -471,7 +471,7 @@
         {
             "symbol": "SBID2090",
             "ltp": 1079.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 17.0,
             "percentageChange": 1.6,
             "securityName": "7% Nepal SBI Bank Debenture 2090",
@@ -480,7 +480,7 @@
         {
             "symbol": "SARBTM",
             "ltp": 880.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 13.9,
             "percentageChange": 1.6,
             "securityName": "Sarbottam Cement Limited",
@@ -489,7 +489,7 @@
         {
             "symbol": "TTL",
             "ltp": 896.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 14.0,
             "percentageChange": 1.59,
             "securityName": "Trade Tower Limited",
@@ -498,7 +498,7 @@
         {
             "symbol": "SBLD83",
             "ltp": 1093.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 17.0,
             "percentageChange": 1.58,
             "securityName": "10.25% SBL Debenture 2083",
@@ -516,7 +516,7 @@
         {
             "symbol": "SHLB",
             "ltp": 1579.9,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 23.9,
             "percentageChange": 1.54,
             "securityName": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
@@ -534,7 +534,7 @@
         {
             "symbol": "SBL",
             "ltp": 381.8,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 5.8,
             "percentageChange": 1.54,
             "securityName": "Siddhartha Bank Limited",
@@ -543,7 +543,7 @@
         {
             "symbol": "ADBL",
             "ltp": 302.6,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 4.6,
             "percentageChange": 1.54,
             "securityName": "Agricultural Development Bank Limited",
@@ -570,7 +570,7 @@
         {
             "symbol": "CYCL",
             "ltp": 1573.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 23.0,
             "percentageChange": 1.48,
             "securityName": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
@@ -606,7 +606,7 @@
         {
             "symbol": "ADBLD83",
             "ltp": 1069.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 15.0,
             "percentageChange": 1.42,
             "securityName": "10.35% Agricultural Bank Debenture 2083",
@@ -642,7 +642,7 @@
         {
             "symbol": "NICA",
             "ltp": 329.5,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 4.5,
             "percentageChange": 1.38,
             "securityName": "NIC Asia Bank Ltd.",
@@ -678,7 +678,7 @@
         {
             "symbol": "MBL",
             "ltp": 232.6,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 3.0,
             "percentageChange": 1.31,
             "securityName": "Machhapuchhre Bank Limited",
@@ -714,7 +714,7 @@
         {
             "symbol": "MBLD2085",
             "ltp": 1139.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 13.9,
             "percentageChange": 1.24,
             "securityName": "10.25% Machhapuchhre Bank Debenture 2085",
@@ -759,7 +759,7 @@
         {
             "symbol": "BOKD86",
             "ltp": 1113.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 13.0,
             "percentageChange": 1.18,
             "securityName": "8.5% BOK Debenture 2086",
@@ -930,7 +930,7 @@
         {
             "symbol": "SHINED",
             "ltp": 1151.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 11.0,
             "percentageChange": 0.96,
             "securityName": "Shine Resunga Debenture",
@@ -1038,7 +1038,7 @@
         {
             "symbol": "H8020",
             "ltp": 11.62,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.1,
             "percentageChange": 0.87,
             "securityName": "Himalayan 80-20",
@@ -1056,7 +1056,7 @@
         {
             "symbol": "KSY",
             "ltp": 9.4,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.08,
             "percentageChange": 0.86,
             "securityName": "Kumari Sabal Yojana",
@@ -1074,7 +1074,7 @@
         {
             "symbol": "JBLB",
             "ltp": 1321.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 11.0,
             "percentageChange": 0.84,
             "securityName": "Jeevan Bikas Laghubitta  Bittya Sanstha Ltd",
@@ -1110,7 +1110,7 @@
         {
             "symbol": "MLBS",
             "ltp": 1439.9,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 11.4,
             "percentageChange": 0.8,
             "securityName": "Manushi Laghubitta Bittiya Sanstha Limited",
@@ -1137,7 +1137,7 @@
         {
             "symbol": "GBBD85",
             "ltp": 1075.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 8.0,
             "percentageChange": 0.75,
             "securityName": "Garima Debenture, 2085",
@@ -1155,7 +1155,7 @@
         {
             "symbol": "SWASTIK",
             "ltp": 2809.9,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 19.9,
             "percentageChange": 0.71,
             "securityName": "Swastik Laghubitta Bittiya Sanstha Limited",
@@ -1263,7 +1263,7 @@
         {
             "symbol": "GMLI",
             "ltp": 1760.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 11.1,
             "percentageChange": 0.63,
             "securityName": "Guardian Micro Life Insurance Limited ",
@@ -1281,7 +1281,7 @@
         {
             "symbol": "JBBD87",
             "ltp": 1135.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 7.0,
             "percentageChange": 0.62,
             "securityName": "Jyoti Bikash Bank Bond 2087",
@@ -1290,7 +1290,7 @@
         {
             "symbol": "SDBD87",
             "ltp": 1147.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 7.0,
             "percentageChange": 0.61,
             "securityName": "Shangri-la Development Bank Debenture 2087",
@@ -1299,7 +1299,7 @@
         {
             "symbol": "SANIMA",
             "ltp": 335.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 2.0,
             "percentageChange": 0.6,
             "securityName": "Sanima Bank Limited",
@@ -1308,7 +1308,7 @@
         {
             "symbol": "BOKD86KA",
             "ltp": 1195.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 7.0,
             "percentageChange": 0.59,
             "securityName": "BOK Debenture 2086 \"KA\"",
@@ -1317,7 +1317,7 @@
         {
             "symbol": "HBLD83",
             "ltp": 1030.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 6.0,
             "percentageChange": 0.59,
             "securityName": "10% Himalayan Bank Debenture 2083",
@@ -1344,7 +1344,7 @@
         {
             "symbol": "NMIC",
             "ltp": 1295.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 7.0,
             "percentageChange": 0.54,
             "securityName": "Nepal Micro Insurance Company Limited",
@@ -1362,7 +1362,7 @@
         {
             "symbol": "NMBHF2",
             "ltp": 9.46,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.05,
             "percentageChange": 0.53,
             "securityName": "NMB Hybrid Fund L- II",
@@ -1380,7 +1380,7 @@
         {
             "symbol": "SRLI",
             "ltp": 395.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 2.0,
             "percentageChange": 0.51,
             "securityName": "Sanima Reliance Life Insurance Limited",
@@ -1434,7 +1434,7 @@
         {
             "symbol": "AVYAN",
             "ltp": 975.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 4.7,
             "percentageChange": 0.48,
             "securityName": "Aviyan Laghubitta Bittiya Sanstha Limited",
@@ -1632,7 +1632,7 @@
         {
             "symbol": "MNMF1",
             "ltp": 9.68,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.03,
             "percentageChange": 0.31,
             "securityName": "Muktinath Mutual Fund 1",
@@ -1704,7 +1704,7 @@
         {
             "symbol": "CZBIL",
             "ltp": 193.3,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.5,
             "percentageChange": 0.26,
             "securityName": "Citizens Bank International Limited",
@@ -1713,7 +1713,7 @@
         {
             "symbol": "ULBSL",
             "ltp": 3178.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 8.0,
             "percentageChange": 0.25,
             "securityName": "Upakar Laghubitta Bittiya Sanstha Limited",
@@ -1749,7 +1749,7 @@
         {
             "symbol": "NABIL",
             "ltp": 499.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 1.1,
             "percentageChange": 0.22,
             "securityName": "Nabil Bank Limited",
@@ -1758,7 +1758,7 @@
         {
             "symbol": "CSY",
             "ltp": 9.3,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.02,
             "percentageChange": 0.22,
             "securityName": "Citizens Santulit Yojana",
@@ -1767,7 +1767,7 @@
         {
             "symbol": "EBL",
             "ltp": 673.9,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 1.4,
             "percentageChange": 0.21,
             "securityName": "Everest Bank Limited",
@@ -1785,7 +1785,7 @@
         {
             "symbol": "RBBF40",
             "ltp": 9.48,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.02,
             "percentageChange": 0.21,
             "securityName": "RBB Focus 40",
@@ -1803,7 +1803,7 @@
         {
             "symbol": "NBLD87",
             "ltp": 1093.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 1.9,
             "percentageChange": 0.17,
             "securityName": "8.5% Nepal Bank Debenture 2087",
@@ -1812,7 +1812,7 @@
         {
             "symbol": "BHCL",
             "ltp": 582.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 1.0,
             "percentageChange": 0.17,
             "securityName": "Bikash Hydropower Company Limited",
@@ -1875,7 +1875,7 @@
         {
             "symbol": "NMB",
             "ltp": 238.8,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.3,
             "percentageChange": 0.13,
             "securityName": "NMB Bank Limited",
@@ -1902,7 +1902,7 @@
         {
             "symbol": "HLICF",
             "ltp": 9.09,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.01,
             "percentageChange": 0.11,
             "securityName": "HLI Large Cap Fund",
@@ -1920,7 +1920,7 @@
         {
             "symbol": "MBLEF",
             "ltp": 10.05,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.01,
             "percentageChange": 0.1,
             "securityName": "MBL Equity Fund",
@@ -1929,7 +1929,7 @@
         {
             "symbol": "RMF2",
             "ltp": 9.82,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.01,
             "percentageChange": 0.1,
             "securityName": "RBB Mutual Fund 2",
@@ -1983,7 +1983,7 @@
         {
             "symbol": "SCB",
             "ltp": 647.2,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": 0.1,
             "percentageChange": 0.02,
             "securityName": "Standard Chartered Bank Limited",
@@ -2057,7 +2057,7 @@
         {
             "symbol": "NABILD2089",
             "ltp": 1058.4,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -21.6,
             "percentageChange": -2.0,
             "securityName": "7% Nabil Debenture 2089",
@@ -2066,7 +2066,7 @@
         {
             "symbol": "SBD87",
             "ltp": 1108.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -22.0,
             "percentageChange": -1.95,
             "securityName": "8.5% Sanima Debenture 2087",
@@ -2084,7 +2084,7 @@
         {
             "symbol": "GBIMESY2",
             "ltp": 9.14,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -0.18,
             "percentageChange": -1.93,
             "securityName": "Global IME Sammunat Yojana -2",
@@ -2102,7 +2102,7 @@
         {
             "symbol": "NICAD2091",
             "ltp": 1060.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -20.0,
             "percentageChange": -1.85,
             "securityName": "7% NIC ASIA Debenture 2091",
@@ -2111,7 +2111,7 @@
         {
             "symbol": "EBLEB89",
             "ltp": 1060.1,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -18.9,
             "percentageChange": -1.75,
             "securityName": "Everest Bank Limited Energy Bond, 2089",
@@ -2120,7 +2120,7 @@
         {
             "symbol": "NICAD85/86",
             "ltp": 1135.1,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -19.9,
             "percentageChange": -1.72,
             "securityName": "10% NIC Asia Debenture 2085/86",
@@ -2138,7 +2138,7 @@
         {
             "symbol": "SCBD",
             "ltp": 1170.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -20.0,
             "percentageChange": -1.68,
             "securityName": "10.30% Standard Chartered Bank Limited Debenture",
@@ -2147,7 +2147,7 @@
         {
             "symbol": "SAND2085",
             "ltp": 1113.1,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -18.9,
             "percentageChange": -1.67,
             "securityName": "10% Sanima Bank Limited Debenture",
@@ -2183,7 +2183,7 @@
         {
             "symbol": "EBLD91",
             "ltp": 1082.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -18.0,
             "percentageChange": -1.64,
             "securityName": "Everest Bank Limited Debenture 2091",
@@ -2210,7 +2210,7 @@
         {
             "symbol": "NBLD82",
             "ltp": 1062.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -15.0,
             "percentageChange": -1.39,
             "securityName": "10% Nabil Debenture 2082",
@@ -2264,7 +2264,7 @@
         {
             "symbol": "NMBD87/88",
             "ltp": 1069.1,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -11.9,
             "percentageChange": -1.1,
             "securityName": "NMB Debenture 8.50% - 2087/88",
@@ -2291,7 +2291,7 @@
         {
             "symbol": "KSBBLD87",
             "ltp": 1128.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -12.0,
             "percentageChange": -1.05,
             "securityName": "9% Kamana Sewa Bikas Bank Limited Debenture 2087",
@@ -2327,7 +2327,7 @@
         {
             "symbol": "LVF2",
             "ltp": 9.6,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -0.1,
             "percentageChange": -1.03,
             "securityName": "Laxmi Value Fund 2",
@@ -2336,7 +2336,7 @@
         {
             "symbol": "RSY",
             "ltp": 9.9,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -0.1,
             "percentageChange": -1.0,
             "securityName": "Reliable Samriddhi Yojana",
@@ -2372,7 +2372,7 @@
         {
             "symbol": "CREST",
             "ltp": 1337.2,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -11.8,
             "percentageChange": -0.87,
             "securityName": "Crest Micro Life Insurance Limited",
@@ -2435,7 +2435,7 @@
         {
             "symbol": "PRSF",
             "ltp": 11.21,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -0.09,
             "percentageChange": -0.8,
             "securityName": "Prabhu Smart Fund",
@@ -2480,7 +2480,7 @@
         {
             "symbol": "UNL",
             "ltp": 46300.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -300.0,
             "percentageChange": -0.64,
             "securityName": "Unilever Nepal Limited",
@@ -2498,7 +2498,7 @@
         {
             "symbol": "MKCL",
             "ltp": 1360.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -8.0,
             "percentageChange": -0.58,
             "securityName": "Muktinath Krishi Company Limited",
@@ -2543,7 +2543,7 @@
         {
             "symbol": "KDL",
             "ltp": 887.6,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -4.4,
             "percentageChange": -0.49,
             "securityName": "Kalinchowk Darshan Limited",
@@ -2552,7 +2552,7 @@
         {
             "symbol": "NIBD84",
             "ltp": 1050.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -5.1,
             "percentageChange": -0.48,
             "securityName": "8.5% Nepal Investment Bank Debenture 2084",
@@ -2579,7 +2579,7 @@
         {
             "symbol": "NWCL",
             "ltp": 865.2,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -3.8,
             "percentageChange": -0.44,
             "securityName": "Nepal Warehousing Company Limited ",
@@ -2615,7 +2615,7 @@
         {
             "symbol": "SBI",
             "ltp": 408.5,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -1.5,
             "percentageChange": -0.37,
             "securityName": "Nepal SBI Bank Limited",
@@ -2660,7 +2660,7 @@
         {
             "symbol": "GSY",
             "ltp": 9.48,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -0.03,
             "percentageChange": -0.32,
             "securityName": "Garima Samriddhi Yojana",
@@ -2669,7 +2669,7 @@
         {
             "symbol": "SBLD84",
             "ltp": 1048.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -3.0,
             "percentageChange": -0.29,
             "securityName": "8.5% SBL Debenture 2084",
@@ -2687,7 +2687,7 @@
         {
             "symbol": "NESDO",
             "ltp": 1541.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -4.3,
             "percentageChange": -0.28,
             "securityName": "NESDO Sambridha Laghubitta Bittiya Sanstha Limited",
@@ -2732,7 +2732,7 @@
         {
             "symbol": "SBID83",
             "ltp": 1060.1,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -2.1,
             "percentageChange": -0.2,
             "securityName": "10.25% Nepal SBI Bank Debenture 2083",
@@ -2741,7 +2741,7 @@
         {
             "symbol": "SBIBD86",
             "ltp": 1125.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -2.0,
             "percentageChange": -0.18,
             "securityName": "10% Nepal SBI Bank Debenture 2086",
@@ -2759,7 +2759,7 @@
         {
             "symbol": "CITY",
             "ltp": 472.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -0.8,
             "percentageChange": -0.17,
             "securityName": "City Hotel Limited",
@@ -2786,7 +2786,7 @@
         {
             "symbol": "NIFRAGED",
             "ltp": 1021.1,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -1.1,
             "percentageChange": -0.11,
             "securityName": "Nifra Green Energy Debenture 6% - 2088/89",
@@ -2858,7 +2858,7 @@
         {
             "symbol": "ANLB",
             "ltp": 6350.0,
-            "cp": null,
+            "cp": 0.0,
             "pointChange": -5.4,
             "percentageChange": -0.08,
             "securityName": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
