@@ -1,5 +1,93 @@
 [
     {
+        "id": 44898,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30054,
+                "activeStatus": "A",
+                "modifiedBy": "sindu_user",
+                "modifiedDate": "2026-03-01T10:34:08.907",
+                "application": 44898,
+                "documentType": 54,
+                "submittedDate": "2026-03-01",
+                "filePath": "sindu_user/2026-03-01/Re-notice_1772340447517.pdf",
+                "encryptedId": "b1e449331525a8e72d8075421634bf4e58d52d3a086fa31e74b10c66defe7ba88f6eabb7925da89c023e5a87a405e71f5e799ff449f57fd9b459237383b502d1"
+            }
+        ],
+        "newsHeadline": "Information about re-announcement of AGM [SINDU] ",
+        "newsBody": "<p><span style=\"color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(0, 0, 0, 0.05); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Information about re-announcement of 16th AGM with published notice in Karobar national daily.</span></p>",
+        "addedDate": "2026-03-01T10:34:08.883",
+        "newsSource": "BOD meeting",
+        "modifiedDate": "2026-03-01T10:42:46.843",
+        "approvedDate": null
+    },
+    {
+        "id": 44896,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30052,
+                "activeStatus": "A",
+                "modifiedBy": "sindu_user",
+                "modifiedDate": "2026-02-27T16:10:01.853",
+                "application": 44896,
+                "documentType": 54,
+                "submittedDate": "2026-02-27",
+                "filePath": "sindu_user/2026-02-27/Letter to NEPSE_1772187840830.pdf",
+                "encryptedId": "974983b5ed7ba77116d5f2258b30a77baac6cc06d3f7a6445a36d560bb176a9f44e07260c57c27d9664503035b0c6c49a5c1d89097f7ab8ce2472d597abe2696"
+            }
+        ],
+        "newsHeadline": "Cancellation of 16 th AGM [SINDU] ",
+        "newsBody": "<p>Cancellation of 16th AGM</p>",
+        "addedDate": "2026-02-27T16:10:01.85",
+        "newsSource": "BOD Meeting",
+        "modifiedDate": "2026-03-01T10:01:00.647",
+        "approvedDate": null
+    },
+    {
+        "id": 44895,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30051,
+                "activeStatus": "A",
+                "modifiedBy": "smfbs_user",
+                "modifiedDate": "2026-02-27T15:40:43.96",
+                "application": 44895,
+                "documentType": 54,
+                "submittedDate": "2026-02-27",
+                "filePath": "Swabhimaan_Laghubitta_Bittiya_Sanstha_Ltd/Company News/2026-02-27/img001_1772186042419.pdf",
+                "encryptedId": "0dfaaddb7d941147bd8777b6e19ceb7b4e305c79a14ef51c14b4b129030eb9e6aa98b58c8ff6c923d5faeadd9bb726bf755898466265c0f3c2141f8f1c50228c"
+            }
+        ],
+        "newsHeadline": "Dividend Declaration [SMFBS] ",
+        "newsBody": "Dividend Declaration of SMFBS\nFiscal Year: 2081-2082\nCash Dividend: 0.5%\nBonus Shares: 9.5%",
+        "addedDate": "2026-02-27T15:40:43.953",
+        "newsSource": "Company Secretary",
+        "modifiedDate": "2026-03-01T10:00:36.667",
+        "approvedDate": null
+    },
+    {
+        "id": 44894,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30050,
+                "activeStatus": "A",
+                "modifiedBy": "ushl_user",
+                "modifiedDate": "2026-02-27T15:04:46.993",
+                "application": 44894,
+                "documentType": 54,
+                "submittedDate": "2026-02-27",
+                "filePath": "ushl_user/2026-02-27/Nepse_1772183982322.pdf",
+                "encryptedId": "3dfd0a58680595c0078a558b0ccd08bd58dd408ba2c02a302a3f8fa00e0f3422353384e4fafbeee60f75c60198feedfed4a4608aae3d7f8d83af37a62951543c"
+            }
+        ],
+        "newsHeadline": "Company Secretary Replacement [USHL] ",
+        "newsBody": "",
+        "addedDate": "2026-02-27T15:04:46.99",
+        "newsSource": "68th Board Meeting Decision",
+        "modifiedDate": "2026-03-01T10:00:13.19",
+        "approvedDate": null
+    },
+    {
         "id": 44893,
         "applicationDocumentDetailsList": [
             {
@@ -132,41 +220,8 @@
         "approvedDate": null
     },
     {
-        "id": 44878,
-        "applicationDocumentDetailsList": [
-            {
-                "id": 30038,
-                "activeStatus": "A",
-                "modifiedBy": "profl_user",
-                "modifiedDate": "2026-02-26T10:31:50.217",
-                "application": 44878,
-                "documentType": 54,
-                "submittedDate": "2026-02-26",
-                "filePath": "profl_user/2026-02-26/29th AGM Minute_1772081205348.pdf",
-                "encryptedId": "efd5e667c4b77db9f496372cc8fa998b8d821ec500a423d36e8bf58094ac2d2822987e129224baf09ce6e1f8f479ebbf94d0c7b07a8c89e581e540bf71490854"
-            }
-        ],
-        "newsHeadline": "29th AGM Minute [PROFL]  [PROFL] ",
-        "newsBody": "<p>29th AGM Minute [PROFL]</p>",
-        "addedDate": "2026-02-26T10:31:50.21",
-        "newsSource": "29th AGM Minute [PROFL] ",
-        "modifiedDate": "2026-02-26T10:43:14.97",
-        "approvedDate": null
-    },
-    {
         "id": 44837,
         "applicationDocumentDetailsList": [
-            {
-                "id": 29994,
-                "activeStatus": "A",
-                "modifiedBy": "user_sagar",
-                "modifiedDate": "2026-02-22T10:14:46.097",
-                "application": 44837,
-                "documentType": 54,
-                "submittedDate": "2026-02-22",
-                "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/Nepse_1771734575891.pdf",
-                "encryptedId": "4af30b9d4979478b2730367fa91507f8571bcf7ca1f6d68485c238b824988d70d7386442ac67adea682df71dee82c3fcf09331baddfebb6bf0e83a07b864ec7e"
-            },
             {
                 "id": 29993,
                 "activeStatus": "A",
@@ -177,6 +232,17 @@
                 "submittedDate": "2026-02-22",
                 "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/NSP fagun10 sunday epaper pdf-3_1771734582853.pdf",
                 "encryptedId": "eb78953229dc6bdaac6294c7485a5b471c0ff2532ec331875bedab6e628f2b11ef0e2827c451cf8995c33a1a1458a9e08456378bbd855e72d0c085920a95ded3"
+            },
+            {
+                "id": 29994,
+                "activeStatus": "A",
+                "modifiedBy": "user_sagar",
+                "modifiedDate": "2026-02-22T10:14:46.097",
+                "application": 44837,
+                "documentType": 54,
+                "submittedDate": "2026-02-22",
+                "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/Nepse_1771734575891.pdf",
+                "encryptedId": "4af30b9d4979478b2730367fa91507f8571bcf7ca1f6d68485c238b824988d70d7386442ac67adea682df71dee82c3fcf09331baddfebb6bf0e83a07b864ec7e"
             }
         ],
         "newsHeadline": "\u0938\u093e\u092e\u0942\u0939\u093f\u0915 \u0932\u0917\u093e\u0928\u0940 \u0915\u094b\u0937\u0939\u0930\u0941\u0915\u094b \u0932\u093e\u0917\u093f \u091b\u0941\u091f\u094d\u091f\u093e\u0907\u090f\u0915\u094b \u0938\u093e\u0927\u093e\u0930\u0923 \u0936\u0947\u092f\u0930\u0915\u094b \u0932\u0915-\u0908\u0928 \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0938\u0942\u091a\u0928\u093e [SAGAR] ",
@@ -190,17 +256,6 @@
         "id": 44816,
         "applicationDocumentDetailsList": [
             {
-                "id": 29974,
-                "activeStatus": "A",
-                "modifiedBy": "slbsl_user",
-                "modifiedDate": "2026-02-17T10:42:52.657",
-                "application": 44816,
-                "documentType": 54,
-                "submittedDate": "2026-02-17",
-                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
-                "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
-            },
-            {
                 "id": 29975,
                 "activeStatus": "A",
                 "modifiedBy": "slbsl_user",
@@ -210,6 +265,17 @@
                 "submittedDate": "2026-02-17",
                 "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
                 "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
+            },
+            {
+                "id": 29974,
+                "activeStatus": "A",
+                "modifiedBy": "slbsl_user",
+                "modifiedDate": "2026-02-17T10:42:52.657",
+                "application": 44816,
+                "documentType": 54,
+                "submittedDate": "2026-02-17",
+                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
+                "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
             }
         ],
         "newsHeadline": "Lock in period end [SLBSL] ",
