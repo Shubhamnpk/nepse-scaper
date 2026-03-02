@@ -26,6 +26,108 @@ def get_file_last_commit_date(filepath):
         pass
     return None
 
+def load_json_list(filepath):
+    """Load a JSON file and return a list, defaulting to an empty list."""
+    if not os.path.exists(filepath):
+        return []
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return data if isinstance(data, list) else []
+    except Exception:
+        return []
+
+def merge_records_by_id(existing_records, incoming_records):
+    """
+    Merge two record lists using `id` as the primary key.
+    - Existing records are preserved.
+    - Incoming records update matching IDs.
+    - Incoming records with new IDs are appended.
+    """
+    merged_by_id = {}
+    order = []
+    fallback_counter = 0
+
+    def record_key(record):
+        nonlocal fallback_counter
+        if isinstance(record, dict) and record.get('id') is not None:
+            return f"id:{record.get('id')}"
+        fallback_counter += 1
+        return f"fallback:{fallback_counter}"
+
+    for record in existing_records:
+        key = record_key(record)
+        if key not in merged_by_id:
+            order.append(key)
+            merged_by_id[key] = record
+
+    for record in incoming_records:
+        key = record_key(record)
+        if key in merged_by_id and isinstance(merged_by_id[key], dict) and isinstance(record, dict):
+            merged_by_id[key] = {**merged_by_id[key], **record}
+        else:
+            merged_by_id[key] = record
+            if key not in order:
+                order.append(key)
+
+    return [merged_by_id[key] for key in order]
+
+def _normalize_text(value):
+    """Normalize text for safe duplicate comparisons."""
+    return ' '.join(str(value or '').split()).strip().lower()
+
+def filter_general_notices(general_notices, exchange_messages):
+    """
+    Remove exchange-message entries from general notices.
+    Matching strategy:
+    1) Same numeric/string id
+    2) Same normalized title + body
+    """
+    notices = general_notices if isinstance(general_notices, list) else []
+    exchanges = exchange_messages if isinstance(exchange_messages, list) else []
+
+    exchange_ids = {
+        str(item.get('id'))
+        for item in exchanges
+        if isinstance(item, dict) and item.get('id') is not None
+    }
+    exchange_title_body = {
+        (
+            _normalize_text(item.get('messageTitle')),
+            _normalize_text(item.get('messageBody'))
+        )
+        for item in exchanges
+        if isinstance(item, dict)
+    }
+
+    filtered = []
+    removed_count = 0
+    for notice in notices:
+        if not isinstance(notice, dict):
+            filtered.append(notice)
+            continue
+
+        notice_id = notice.get('id')
+        notice_key = (
+            _normalize_text(notice.get('noticeHeading')),
+            _normalize_text(notice.get('noticeBody'))
+        )
+
+        is_exchange_duplicate = (
+            (notice_id is not None and str(notice_id) in exchange_ids)
+            or notice_key in exchange_title_body
+        )
+
+        if is_exchange_duplicate:
+            removed_count += 1
+            continue
+
+        filtered.append(notice)
+
+    if removed_count:
+        print(f"Filtered out {removed_count} exchange-derived records from notices.")
+    return filtered
+
 def scrape_all_official_data(include_brokers=False, include_securities=False):
     print(f"Starting Comprehensive Official NEPSE Scraper at {datetime.now().isoformat()}...")
     
@@ -124,21 +226,53 @@ def scrape_all_official_data(include_brokers=False, include_securities=False):
         disclosure_data = scraper.get_company_disclosures()
         company_disclosures = disclosure_data.get('companyNews', [])
         exchange_messages = disclosure_data.get('exchangeMessages', [])
+
+        disclosures_path = os.path.join(data_dir, 'disclosures.json')
+        exchange_messages_path = os.path.join(data_dir, 'exchange_messages.json')
+
+        existing_company_disclosures = load_json_list(disclosures_path)
+        existing_exchange_messages = load_json_list(exchange_messages_path)
+
+        merged_company_disclosures = merge_records_by_id(
+            existing_company_disclosures,
+            company_disclosures if isinstance(company_disclosures, list) else []
+        )
+        merged_exchange_messages = merge_records_by_id(
+            existing_exchange_messages,
+            exchange_messages if isinstance(exchange_messages, list) else []
+        )
         
-        with open(os.path.join(data_dir, 'disclosures.json'), 'w') as f:
-            json.dump(company_disclosures, f, indent=4)
+        with open(disclosures_path, 'w', encoding='utf-8') as f:
+            json.dump(merged_company_disclosures, f, indent=4)
         
-        with open(os.path.join(data_dir, 'exchange_messages.json'), 'w') as f:
-            json.dump(exchange_messages, f, indent=4)
+        with open(exchange_messages_path, 'w', encoding='utf-8') as f:
+            json.dump(merged_exchange_messages, f, indent=4)
 
         print("Fetching notices...")
         general_notices = scraper.get_notices()
+        filtered_general_notices = filter_general_notices(general_notices, merged_exchange_messages)
+        notices_path = os.path.join(data_dir, 'notices.json')
+
+        existing_notices = {}
+        if os.path.exists(notices_path):
+            try:
+                with open(notices_path, 'r', encoding='utf-8') as f:
+                    loaded_notices = json.load(f)
+                if isinstance(loaded_notices, dict):
+                    existing_notices = loaded_notices
+            except Exception:
+                existing_notices = {}
+
+        existing_general_notices = existing_notices.get('general', [])
+        merged_general_notices = merge_records_by_id(
+            existing_general_notices if isinstance(existing_general_notices, list) else [],
+            filtered_general_notices if isinstance(filtered_general_notices, list) else []
+        )
+
         with open(os.path.join(data_dir, 'notices.json'), 'w') as f:
-            # Save as a structured dictionary for better organization
+            # Keep notices file dedicated to general notices only.
             json.dump({
-                "general": general_notices,
-                "company": company_disclosures,
-                "exchange": exchange_messages,
+                "general": merged_general_notices,
                 "last_updated": datetime.now().isoformat()
             }, f, indent=4)
 

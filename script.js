@@ -78,23 +78,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Handle Option Selection (Delegation)
     dropdownOptions.addEventListener('click', (e) => {
-        if (e.target.classList.contains('option-item')) {
-            const value = e.target.getAttribute('data-value');
-            const text = e.target.textContent;
+        const optionItem = e.target.closest('.option-item');
+        if (!optionItem || !dropdownOptions.contains(optionItem)) return;
 
-            currentSelectedSector = value;
-            selectedSectorText.textContent = text;
+        const value = optionItem.getAttribute('data-value') || 'all';
+        const text = optionItem.textContent || 'All Sectors';
 
-            document.querySelectorAll('.option-item').forEach(item => {
-                item.classList.remove('selected');
-                item.setAttribute('aria-selected', 'false');
-            });
-            e.target.classList.add('selected');
-            e.target.setAttribute('aria-selected', 'true');
+        currentSelectedSector = value;
+        selectedSectorText.textContent = text;
 
-            applyFilters();
-            setDropdownOpen(false);
-        }
+        dropdownOptions.querySelectorAll('.option-item').forEach(item => {
+            item.classList.remove('selected');
+            item.setAttribute('aria-selected', 'false');
+        });
+        optionItem.classList.add('selected');
+        optionItem.setAttribute('aria-selected', 'true');
+
+        applyFilters();
+        setDropdownOpen(false);
     });
 
     dropdownOptions.addEventListener('keydown', (e) => {
@@ -509,12 +510,14 @@ document.addEventListener('DOMContentLoaded', () => {
             renderStocks(allStocks);
             updateMetadata(allStocks);
 
-            if (sectors) {
+            if (sectors && typeof sectors === 'object' && !Array.isArray(sectors)) {
                 Object.entries(sectors).forEach(([sector, items]) => {
+                    if (!Array.isArray(items)) return;
                     uniqueSectors.add(sector);
                     items.forEach(item => {
+                        if (!item || !item.symbol) return;
                         sectorMap[item.symbol] = sector;
-                        companyNameMap[item.symbol] = item.name;
+                        if (item.name) companyNameMap[item.symbol] = item.name;
                     });
                 });
                 populateSectorDropdown();
@@ -1023,11 +1026,15 @@ document.addEventListener('DOMContentLoaded', () => {
     function populateSectorDropdown() {
         const sortedSectors = Array.from(uniqueSectors).sort();
         const allOption = dropdownOptions.querySelector('[data-value="all"]');
+        const existingDynamicOptions = dropdownOptions.querySelectorAll('.option-item:not([data-value="all"])');
+        existingDynamicOptions.forEach((node) => node.remove());
+
         if (allOption) {
             allOption.classList.add('selected');
             allOption.setAttribute('aria-selected', 'true');
         }
 
+        const fragment = document.createDocumentFragment();
         sortedSectors.forEach(sector => {
             const option = document.createElement('div');
             option.className = 'option-item';
@@ -1036,8 +1043,9 @@ document.addEventListener('DOMContentLoaded', () => {
             option.setAttribute('aria-selected', 'false');
             option.setAttribute('data-value', sector);
             option.textContent = sector;
-            dropdownOptions.appendChild(option);
+            fragment.appendChild(option);
         });
+        dropdownOptions.appendChild(fragment);
     }
 
     function updateMetadata(stocks) {

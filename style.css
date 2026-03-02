@@ -229,6 +229,10 @@ header {
     z-index: 100;
 }
 
+.custom-dropdown.open {
+    z-index: 5000;
+}
+
 .filter-dropdown {
     width: 300px;
     z-index: 120;
@@ -245,6 +249,9 @@ header {
     border-radius: 12px;
     color: white;
     cursor: pointer;
+    position: relative;
+    z-index: 5002;
+    pointer-events: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -296,6 +303,8 @@ header {
     border-radius: 12px;
     padding: 0.5rem;
     display: none;
+    z-index: 5001;
+    pointer-events: auto;
     max-height: 300px;
     /* limits height */
     overflow-y: auto;
@@ -1402,6 +1411,13 @@ body.filter-active #ipo-section {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+    overflow: visible;
+}
+
+.filter-control {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
 }
 
 .section-toggle-btn {
@@ -1436,11 +1452,20 @@ body.filter-active #ipo-section {
 }
 
 .filter-select {
-    background: var(--card-bg);
-    border: 1px solid var(--card-border);
-    color: var(--text-primary);
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.06) 0%, rgba(255, 255, 255, 0.02) 100%),
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none'%3E%3Cpath d='M5 7l5 6 5-6' stroke='%23cbd5e1' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"),
+        rgba(10, 10, 10, 0.92);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center, right 0.72rem center, center;
+    background-size: auto, 0.95rem, auto;
+    border: 1px solid rgba(148, 163, 184, 0.28);
+    color: #f8fafc;
     border-radius: 12px;
-    padding: 0.75rem 0.85rem;
+    padding: 0.75rem 2.25rem 0.75rem 0.85rem;
     min-width: 240px;
 }
 
@@ -1448,6 +1473,123 @@ body.filter-active #ipo-section {
     border-color: var(--accent-primary);
     outline: none;
     box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.1);
+}
+
+.filter-select option {
+    background: #0b0f16;
+    color: #f8fafc;
+}
+
+.js-select-hidden {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -1px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    overflow: hidden !important;
+    white-space: nowrap !important;
+}
+
+.neo-select {
+    position: relative;
+    min-width: 240px;
+}
+
+.neo-select-trigger {
+    width: 100%;
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.06) 0%, rgba(255, 255, 255, 0.02) 100%),
+        rgba(10, 10, 10, 0.9);
+    color: var(--text-primary);
+    padding: 0.74rem 0.9rem;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    font: inherit;
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.neo-select-trigger:hover {
+    border-color: rgba(99, 102, 241, 0.45);
+    background:
+        linear-gradient(180deg, rgba(99, 102, 241, 0.16) 0%, rgba(99, 102, 241, 0.06) 100%),
+        rgba(10, 10, 10, 0.92);
+}
+
+.neo-select-trigger:focus-visible {
+    border-color: var(--accent-primary);
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.16);
+}
+
+.neo-select-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.neo-select-caret {
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.neo-select.open .neo-select-caret {
+    transform: rotate(180deg);
+    color: var(--text-primary);
+}
+
+.neo-select-listbox {
+    position: absolute;
+    top: calc(100% + 0.45rem);
+    left: 0;
+    width: 100%;
+    z-index: 4500;
+    display: none;
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    background: rgba(8, 8, 8, 0.98);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.42);
+    padding: 0.35rem;
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+.neo-select.open .neo-select-listbox {
+    display: block;
+    animation: fadeIn 0.16s ease;
+}
+
+.neo-select-option {
+    width: 100%;
+    border: 0;
+    background: transparent;
+    color: var(--text-secondary);
+    border-radius: 9px;
+    text-align: left;
+    padding: 0.62rem 0.7rem;
+    font: inherit;
+    cursor: pointer;
+    transition: background 0.16s ease, color 0.16s ease;
+}
+
+.neo-select-option:hover,
+.neo-select-option:focus-visible {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.09);
+    outline: none;
+}
+
+.neo-select-option.is-selected {
+    color: #c7d2fe;
+    background: rgba(99, 102, 241, 0.2);
 }
 
 .check-wrap {

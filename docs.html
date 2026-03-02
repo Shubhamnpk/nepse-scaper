@@ -243,6 +243,128 @@
             font-size: 0.8rem;
         }
 
+        .ai-pack-grid {
+            margin-top: 1rem;
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1rem;
+        }
+
+        @media (min-width: 1024px) {
+            .ai-pack-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        .ai-copy-card {
+            background: linear-gradient(135deg, rgba(14, 165, 233, 0.08), rgba(34, 197, 94, 0.06));
+            border: 1px solid rgba(255, 255, 255, 0.14);
+            border-radius: 0.9rem;
+            padding: 1rem;
+        }
+
+        .ai-copy-title {
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.95);
+            margin-bottom: 0.4rem;
+        }
+
+        .ai-copy-desc {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.72);
+            line-height: 1.5;
+            margin-bottom: 0.8rem;
+        }
+
+        .ai-copy-btn {
+            width: 100%;
+            justify-content: center;
+            font-size: 0.82rem;
+            padding: 0.55rem 0.8rem;
+        }
+
+        .floating-doc-nav {
+            position: fixed;
+            right: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 40;
+            width: 150px;
+        }
+
+        .floating-doc-nav-shell {
+            border: 1px solid rgba(255, 255, 255, 0.16);
+            border-radius: 0.8rem;
+            background: rgba(15, 23, 42, 0.82);
+            padding: 0.4rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.35rem;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+        }
+
+        .floating-doc-nav-title {
+            font-size: 0.66rem;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.75);
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            padding: 0.2rem 0.35rem 0.3rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+            margin-bottom: 0.1rem;
+        }
+
+        .floating-doc-nav-btn {
+            display: flex;
+            align-items: center;
+            gap: 0.45rem;
+            width: 100%;
+            text-align: left;
+            border: 1px solid transparent;
+            border-radius: 0.55rem;
+            background: rgba(255, 255, 255, 0.03);
+            color: rgba(255, 255, 255, 0.9);
+            padding: 0.42rem 0.5rem;
+            font-size: 0.7rem;
+            cursor: pointer;
+            transition: background 180ms ease, border-color 180ms ease, transform 180ms ease;
+        }
+
+        .floating-doc-nav-btn:hover {
+            background: rgba(30, 41, 59, 0.9);
+            border-color: rgba(255, 255, 255, 0.2);
+            transform: translateX(-2px);
+        }
+
+        .floating-doc-nav-btn.active {
+            border-color: rgba(99, 102, 241, 0.75);
+            background: rgba(99, 102, 241, 0.2);
+        }
+
+        .testing-head-actions {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .close-btn {
+            background: rgba(239, 68, 68, 0.16);
+            border-color: rgba(239, 68, 68, 0.3);
+            color: rgba(254, 202, 202, 0.95);
+        }
+
+        .close-btn:hover {
+            background: rgba(239, 68, 68, 0.25);
+        }
+
+        @media (max-width: 1400px) {
+            .floating-doc-nav {
+                display: none;
+            }
+        }
+
         .example-content {
             display: none;
         }
@@ -299,6 +421,27 @@
             <a class="nav-link active" href="docs.html">JSON Docs</a>
         </nav>
 
+        <aside class="floating-doc-nav" aria-label="Documentation quick navigation">
+            <div class="floating-doc-nav-shell">
+                <div class="floating-doc-nav-title">Docs Nav</div>
+                <button class="floating-doc-nav-btn" data-target="quick-start" onclick="scrollToDocSection('quick-start')">
+                    <i class="fa-solid fa-rocket"></i> Quick Start
+                </button>
+                <button class="floating-doc-nav-btn" data-target="endpoint-index" onclick="scrollToDocSection('endpoint-index')">
+                    <i class="fa-solid fa-table-list"></i> Endpoints
+                </button>
+                <button class="floating-doc-nav-btn" data-target="api-testing" onclick="scrollToDocSection('api-testing')">
+                    <i class="fa-solid fa-flask"></i> Testing
+                </button>
+                <button class="floating-doc-nav-btn" data-target="data-schema" onclick="scrollToDocSection('data-schema')">
+                    <i class="fa-solid fa-database"></i> Schema
+                </button>
+                <button class="floating-doc-nav-btn" data-target="integration-examples" onclick="scrollToDocSection('integration-examples')">
+                    <i class="fa-solid fa-code-compare"></i> Integrations
+                </button>
+            </div>
+        </aside>
+
         <header>
             <h1 class="hero-title">YONEPSE</h1>
             <p class="hero-subtitle">Developer documentation for the public JSON datasets generated by the YONEPSE scraper.</p>
@@ -321,7 +464,7 @@
 
         <main class="container mx-auto px-6 py-12">
             <!-- Quick Start Section -->
-            <section class="mb-12">
+            <section id="quick-start" class="mb-12">
                 <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-8">
                     <div class="flex items-center gap-3 mb-6">
                         <div class="w-12 h-12 bg-gradient-to-br from-purple-500/20 to-blue-500/20 rounded-xl flex items-center justify-center border border-purple-500/30">
@@ -364,19 +507,40 @@
                         </div>
                     </div>
                 
+                <!-- AI Copy Section -->
+                    <div class="bg-white/5 border border-white/10 rounded-xl p-5 mb-8">
+                        <div class="flex items-center gap-2 mb-3">
+                            <i class="fas fa-wand-magic-sparkles text-cyan-300 text-sm"></i>
+                            <h3 class="text-white font-semibold font-['Outfit'] text-lg">AI Quick Copy Pack</h3>
+                        </div>
+                        <p class="text-white/65 text-sm mb-4">Copy complete API documentation context for AI tools. Choose JSON or XML and paste directly into your assistant.</p>
+                        <div class="ai-pack-grid" aria-label="Quick Start AI copy pack">
+                            <div class="ai-copy-card">
+                                <h4 class="ai-copy-title">JSON Context Pack</h4>
+                                <p class="ai-copy-desc">Best for ChatGPT, Claude, Gemini, and most coding assistants.</p>
+                                <button class="copy-btn ai-copy-btn" data-copy-label="Copy JSON Pack" onclick="copyAiPack(this, 'json')">Copy JSON Pack</button>
+                            </div>
+                            <div class="ai-copy-card">
+                                <h4 class="ai-copy-title">XML Context Pack</h4>
+                                <p class="ai-copy-desc">Use when your workflow expects XML-structured context or tags.</p>
+                                <button class="copy-btn ai-copy-btn" data-copy-label="Copy XML Pack" onclick="copyAiPack(this, 'xml')">Copy XML Pack</button>
+                            </div>
+                        </div>
+                    </div>
+
                 <!-- Code Examples -->
                     <div class="bg-slate-900/50 border border-white/10 rounded-xl overflow-hidden" data-tab-group>
                         <div class="example-tabs">
-                            <button onclick="switchTab(event, 'curl')" class="example-tab active px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 bg-white/10 text-white border border-white/20">
+                            <button onclick="switchTab(event, 'curl')" class="example-tab active">
                                 <i class="fas fa-terminal mr-2"></i>cURL
                             </button>
-                            <button onclick="switchTab(event, 'javascript')" class="example-tab px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 text-white/60 hover:text-white hover:bg-white/5">
+                            <button onclick="switchTab(event, 'javascript')" class="example-tab">
                                 <i class="fab fa-js mr-2"></i>JavaScript
                             </button>
-                            <button onclick="switchTab(event, 'python')" class="example-tab px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 text-white/60 hover:text-white hover:bg-white/5">
+                            <button onclick="switchTab(event, 'python')" class="example-tab">
                                 <i class="fab fa-python mr-2"></i>Python
                             </button>
-                            <button onclick="switchTab(event, 'response')" class="example-tab px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 text-white/60 hover:text-white hover:bg-white/5">
+                            <button onclick="switchTab(event, 'response')" class="example-tab">
                                 <i class="fas fa-code mr-2"></i>Response
                             </button>
                         </div>
@@ -465,7 +629,7 @@ if __name__ == "__main__":
                 </div>
             </section>
 
-            <section class="docs-card">
+            <section id="endpoint-index" class="docs-card">
                 <div class="intel-card-header">
                     <h2 class="section-title"><i class="fa-solid fa-table-list"></i> Endpoint Index</h2>
                 </div>
@@ -619,7 +783,7 @@ if __name__ == "__main__":
                 </div>
             </section>
 
-            <section class="docs-card">
+            <section id="expected-formats" class="docs-card">
                 <div class="intel-card-header">
                     <h2 class="section-title"><i class="fa-solid fa-code"></i> Expected Formats</h2>
                 </div>
@@ -993,7 +1157,7 @@ if __name__ == "__main__":
                 </div>
             </section>
 
-            <section class="docs-card">
+            <section id="api-testing" class="docs-card">
                 <div class="intel-card-header">
                     <h2 class="section-title"><i class="fa-solid fa-flask"></i> API Testing & Playground</h2>
                 </div>
@@ -1015,7 +1179,10 @@ if __name__ == "__main__":
                                 <div class="code-wrap">
                                     <div class="code-head">
                                         <span>Live Response</span>
-                                        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                                        <div class="testing-head-actions">
+                                            <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                                            <button class="copy-btn close-btn" onclick="closeTestResult('nepse_data')">Close</button>
+                                        </div>
                                     </div>
                                     <pre style="max-height: 300px;"><code id="response-nepse_data"></code></pre>
                                 </div>
@@ -1038,7 +1205,10 @@ if __name__ == "__main__":
                                 <div class="code-wrap">
                                     <div class="code-head">
                                         <span>Live Response</span>
-                                        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                                        <div class="testing-head-actions">
+                                            <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                                            <button class="copy-btn close-btn" onclick="closeTestResult('market_status')">Close</button>
+                                        </div>
                                     </div>
                                     <pre style="max-height: 200px;"><code id="response-market_status"></code></pre>
                                 </div>
@@ -1059,7 +1229,7 @@ if __name__ == "__main__":
                 </div>
             </section>
 
-            <section class="docs-card">
+            <section id="data-schema" class="docs-card">
                 <div class="intel-card-header">
                     <h2 class="section-title"><i class="fa-solid fa-database"></i> Data Schema & Field Reference</h2>
                 </div>
@@ -1205,7 +1375,7 @@ if __name__ == "__main__":
                 </div>
             </section>
 
-            <section class="docs-card">
+            <section id="error-best-practices" class="docs-card">
                 <div class="intel-card-header">
                     <h2 class="section-title"><i class="fa-solid fa-shield-halved"></i> Error Handling & Best Practices</h2>
                 </div>
@@ -1311,7 +1481,7 @@ class MarketDataCache {
                 </div>
             </section>
 
-            <section class="docs-card">
+            <section id="performance-caching" class="docs-card">
                 <div class="intel-card-header">
                     <h2 class="section-title"><i class="fa-solid fa-gauge-high"></i> Performance & Caching Strategies</h2>
                 </div>
@@ -1500,7 +1670,7 @@ class NEPSEQueue {
                 </div>
             </section>
 
-            <section class="docs-card">
+            <section id="integration-examples" class="docs-card">
                 <div class="intel-card-header">
                     <h2 class="section-title"><i class="fa-solid fa-code-compare"></i> Integration Examples</h2>
                 </div>
@@ -1924,40 +2094,169 @@ if __name__ == "__main__":
             if (selectedContent) selectedContent.classList.add('active');
         }
 
-        // Copy to clipboard functionality
-        function copyCode(button) {
-            const codeBlock = button.closest('.code-wrap').querySelector('code');
-            const text = codeBlock.textContent;
-            
-            navigator.clipboard.writeText(text).then(() => {
-                // Change button text to indicate success
-                const originalText = button.textContent;
-                button.textContent = 'Copied!';
-                button.classList.add('copied');
-                
-                // Revert after 2 seconds
-                setTimeout(() => {
-                    button.textContent = originalText;
-                    button.classList.remove('copied');
-                }, 2000);
-            }).catch(err => {
+        function setCopiedState(button, copiedText = 'Copied!') {
+            const originalText = button.getAttribute('data-copy-label') || button.textContent;
+            button.textContent = copiedText;
+            button.classList.add('copied');
+
+            setTimeout(() => {
+                button.textContent = originalText;
+                button.classList.remove('copied');
+            }, 2000);
+        }
+
+        async function copyTextFromString(button, text) {
+            try {
+                await navigator.clipboard.writeText(text);
+                setCopiedState(button);
+            } catch (err) {
                 console.error('Failed to copy text: ', err);
-                // Fallback for older browsers
                 const textArea = document.createElement('textarea');
                 textArea.value = text;
                 document.body.appendChild(textArea);
                 textArea.select();
                 document.execCommand('copy');
                 document.body.removeChild(textArea);
-                
-                const originalText = button.textContent;
-                button.textContent = 'Copied!';
-                button.classList.add('copied');
-                
-                setTimeout(() => {
-                    button.textContent = originalText;
-                    button.classList.remove('copied');
-                }, 2000);
+                setCopiedState(button);
+            }
+        }
+
+        const AI_DOC_PACK = {
+            meta: {
+                project: 'YONEPSE',
+                type: 'public-market-data-api-docs',
+                version: '1.0',
+                generated_from: 'docs.html',
+                base_url: 'https://shubhamnpk.github.io/nepse-scaper',
+                data_base_url: 'https://shubhamnpk.github.io/nepse-scaper/data',
+                timezone: 'Asia/Kathmandu',
+                update_schedule: 'Every 30 minutes during market hours (Sun-Thu, 11:00-15:00 NPT)',
+                auth: 'none'
+            },
+            usage_instructions: {
+                objective: 'Use these endpoints to answer data questions, produce code samples, and build dashboards.',
+                response_policy: [
+                    'Prefer exact endpoint paths in answers.',
+                    'State when data may be stale due to schedule.',
+                    'For missing fields, return null-safe fallbacks.',
+                    'When relevant, show fetch + parse examples.'
+                ],
+                integration_notes: [
+                    'Endpoints return JSON documents.',
+                    'Notices and message bodies may contain HTML.',
+                    'Array sizes vary by market activity.',
+                    'Some sources may return empty arrays intermittently.'
+                ]
+            },
+            endpoints: [
+                { path: '/data/nepse_data.json', method: 'GET', shape: 'array', purpose: 'Live security data (price, OHLC, volume, turnover, trades).' },
+                { path: '/data/market_status.json', method: 'GET', shape: 'object', purpose: 'Market open/closed heartbeat.' },
+                { path: '/data/indices.json', method: 'GET', shape: 'array', purpose: 'Main index data with close and change values.' },
+                { path: '/data/sector_indices.json', method: 'GET', shape: 'array', purpose: 'Sector-level index values.' },
+                { path: '/data/top_stocks.json', method: 'GET', shape: 'object', purpose: 'Top gainers, losers, turnover, trades, transactions.' },
+                { path: '/data/market_summary.json', method: 'GET', shape: 'array', purpose: 'Current market summary key/value metrics.' },
+                { path: '/data/market_summary_history.json', method: 'GET', shape: 'array', purpose: 'Historical market summary rows by business date.' },
+                { path: '/data/notices.json', method: 'GET', shape: 'object', purpose: 'Combined general, company, and exchange notices.' },
+                { path: '/data/disclosures.json', method: 'GET', shape: 'array', purpose: 'Company disclosures and news.' },
+                { path: '/data/exchange_messages.json', method: 'GET', shape: 'array', purpose: 'Exchange-level messages and circulars.' },
+                { path: '/data/brokers.json', method: 'GET', shape: 'array', purpose: 'Broker directory with membership and district info.' },
+                { path: '/data/all_securities.json', method: 'GET', shape: 'array', purpose: 'Master security metadata list.' },
+                { path: '/data/supply_demand.json', method: 'GET', shape: 'array', purpose: 'Supply/demand orderbook snapshots.' },
+                { path: '/data/upcoming_ipo.json', method: 'GET', shape: 'array', purpose: 'Upcoming/open IPO records.' },
+                { path: '/data/oldipo.json', method: 'GET', shape: 'array', purpose: 'Historical IPO archive.' },
+                { path: '/data/proposed_dividend/latest_1y.json', method: 'GET', shape: 'array', purpose: 'Latest 1-year proposed dividends.' },
+                { path: '/data/proposed_dividend/history_all_years.json', method: 'GET', shape: 'array', purpose: 'All-years proposed dividend history.' },
+                { path: '/data/proposed_dividend/meta.json', method: 'GET', shape: 'object', purpose: 'Operational metadata for dividend scraper runs.' },
+                { path: '/data/nepse_sector_wise_codes.json', method: 'GET', shape: 'object', purpose: 'Sector-to-symbol mapping for filtering.' }
+            ],
+            key_fields: {
+                nepse_data: ['symbol', 'name', 'ltp', 'previous_close', 'change', 'percent_change', 'high', 'low', 'volume', 'turnover', 'trades', 'last_updated', 'market_cap'],
+                notices: ['general[]', 'company[]', 'exchange[]', 'last_updated'],
+                disclosures: ['id', 'newsHeadline', 'newsBody', 'addedDate', 'modifiedDate', 'applicationDocumentDetailsList[]'],
+                exchange_messages: ['id', 'messageTitle', 'messageBody', 'expiryDate', 'addedDate', 'modifiedDate'],
+                broker: ['id/memberId', 'memberCode', 'memberName', 'districtList[]', 'brokerBranchDtoList[]']
+            },
+            examples: {
+                fetch_js: "const data = await fetch('https://shubhamnpk.github.io/nepse-scaper/data/nepse_data.json').then(r => r.json());",
+                fetch_python: "import requests; data = requests.get('https://shubhamnpk.github.io/nepse-scaper/data/nepse_data.json', timeout=20).json()",
+                notice_filter_js: "const onlyExchange = notices.exchange || []; const active = onlyExchange.filter(x => (x.expiryDate || '') >= new Date().toISOString().slice(0,10));"
+            }
+        };
+
+        function escapeXml(value) {
+            return String(value)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/\"/g, '&quot;')
+                .replace(/'/g, '&apos;');
+        }
+
+        function toXml(value, nodeName = 'node') {
+            if (Array.isArray(value)) {
+                return `<${nodeName}>${value.map((item) => toXml(item, 'item')).join('')}</${nodeName}>`;
+            }
+            if (value && typeof value === 'object') {
+                const entries = Object.entries(value).map(([key, val]) => toXml(val, key)).join('');
+                return `<${nodeName}>${entries}</${nodeName}>`;
+            }
+            return `<${nodeName}>${escapeXml(value ?? '')}</${nodeName}>`;
+        }
+
+        function buildAiPack(format) {
+            if (format === 'xml') {
+                return `<?xml version="1.0" encoding="UTF-8"?>\n${toXml(AI_DOC_PACK, 'aiContext')}`;
+            }
+            return JSON.stringify(AI_DOC_PACK, null, 2);
+        }
+
+        function copyAiPack(button, format) {
+            const text = buildAiPack(format);
+            copyTextFromString(button, text);
+        }
+
+        // Copy to clipboard functionality
+        function copyCode(button) {
+            const codeBlock = button.closest('.code-wrap').querySelector('code');
+            const text = codeBlock.textContent;
+            copyTextFromString(button, text);
+        }
+
+        function closeTestResult(resultKey) {
+            const resultDiv = document.getElementById(`test-result-${resultKey}`);
+            if (!resultDiv) return;
+            resultDiv.style.display = 'none';
+        }
+
+        function scrollToDocSection(sectionId) {
+            const target = document.getElementById(sectionId);
+            if (!target) return;
+            target.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+
+        function updateFloatingDocNavActive() {
+            const navButtons = document.querySelectorAll('.floating-doc-nav-btn');
+            if (navButtons.length === 0) return;
+
+            let currentId = '';
+            const offset = window.innerHeight * 0.25;
+
+            navButtons.forEach((btn) => {
+                const targetId = btn.getAttribute('data-target');
+                const section = document.getElementById(targetId);
+                if (!section) return;
+                const top = section.getBoundingClientRect().top;
+                if (top <= offset) {
+                    currentId = targetId;
+                }
+            });
+
+            navButtons.forEach((btn) => {
+                const isActive = btn.getAttribute('data-target') === currentId;
+                btn.classList.toggle('active', isActive);
             });
         }
 
@@ -2074,7 +2373,11 @@ if __name__ == "__main__":
 
         document.addEventListener('DOMContentLoaded', () => {
             loadIndicesMarquee();
+            updateFloatingDocNavActive();
         });
+
+        window.addEventListener('scroll', updateFloatingDocNavActive, { passive: true });
+        window.addEventListener('resize', updateFloatingDocNavActive);
         
         // Update every 5 minutes
         setInterval(updateMarketStatus, 5 * 60 * 1000);

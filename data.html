@@ -16,90 +16,150 @@
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@500;600;700;800&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        display: ['Outfit', 'Inter', 'sans-serif']
+                    },
+                    keyframes: {
+                        indicesMarqueeScroll: {
+                            '0%': { transform: 'translateX(0)' },
+                            '100%': { transform: 'translateX(-50%)' }
+                        }
+                    },
+                    animation: {
+                        indicesMarqueeScroll: 'indicesMarqueeScroll 28s linear infinite'
+                    }
+                }
+            }
+        };
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        #updates-feed {
+            scrollbar-width: thin;
+            scrollbar-color: rgba(148, 163, 184, 0.55) rgba(15, 23, 42, 0.45);
+        }
+
+        #updates-feed::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        #updates-feed::-webkit-scrollbar-track {
+            background: rgba(15, 23, 42, 0.45);
+            border-radius: 999px;
+        }
+
+        #updates-feed::-webkit-scrollbar-thumb {
+            background: rgba(148, 163, 184, 0.55);
+            border-radius: 999px;
+            border: 2px solid rgba(15, 23, 42, 0.45);
+        }
+
+        #updates-feed::-webkit-scrollbar-thumb:hover {
+            background: rgba(148, 163, 184, 0.72);
+        }
+    </style>
 </head>
 
-<body>
-    <div class="container">
-        <section class="indices-marquee" aria-label="Live market indices">
-            <div id="indices-marquee-track" class="indices-marquee-track">
-                <span class="indices-marquee-empty">Loading market indices...</span>
+<body class="min-h-screen overflow-x-hidden bg-[#050505] text-white font-display"
+    style="background-image: radial-gradient(circle at 20% 20%, rgba(99, 102, 241, 0.15) 0%, transparent 40%), radial-gradient(circle at 80% 80%, rgba(168, 85, 247, 0.15) 0%, transparent 40%);">
+    <div class="mx-auto max-w-[1200px] p-8">
+        <section aria-label="Live market indices"
+            class="mb-4 overflow-hidden rounded-full border border-white/10 bg-white/[0.03]">
+            <div id="indices-marquee-track"
+                class="inline-flex min-w-full items-center gap-6 whitespace-nowrap py-[0.6rem] text-[0.82rem] text-[#a0a0a0] animate-indicesMarqueeScroll">
+                <span class="px-4 text-[0.82rem] text-[#a0a0a0]">Loading market indices...</span>
             </div>
         </section>
 
-        <nav class="top-nav" aria-label="Primary">
-            <a class="nav-link" href="index.html">Market Dashboard</a>
-            <a class="nav-link active" href="data.html">Brokers & Datasets</a>
-            <a class="nav-link" href="docs.html">JSON Docs</a>
+        <nav aria-label="Primary" class="mb-6 flex flex-wrap justify-center gap-3">
+            <a href="index.html"
+                class="rounded-full border border-white/10 bg-white/[0.03] px-4 py-2 text-[0.85rem] text-[#a0a0a0] transition hover:border-indigo-500/70 hover:text-white">Market Dashboard</a>
+            <a href="data.html"
+                class="rounded-full border border-indigo-500/90 bg-indigo-500/15 px-4 py-2 text-[0.85rem] text-white">Brokers & Datasets</a>
+            <a href="docs.html"
+                class="rounded-full border border-white/10 bg-white/[0.03] px-4 py-2 text-[0.85rem] text-[#a0a0a0] transition hover:border-indigo-500/70 hover:text-white">JSON Docs</a>
         </nav>
 
-        <header>
-            <h1 class="hero-title">Data Hub</h1>
-            <p class="hero-subtitle">Dedicated view for brokers and supporting NEPSE datasets.</p>
-            <div class="market-status">
-                <div class="status-item">
+        <header class="relative mb-12 py-16 text-center">
+            <h1
+                class="font-display mb-4 text-6xl font-extrabold tracking-[-2px] bg-gradient-to-r from-indigo-500 via-fuchsia-500 to-pink-500 bg-clip-text text-transparent">
+                Data Hub
+            </h1>
+            <p class="mx-auto max-w-[600px] text-xl text-[#a0a0a0]">Dedicated Data Hub for brokers and supporting
+                NEPSE datasets.</p>
+            <div class="mt-8 flex flex-wrap justify-center gap-4">
+                <div class="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-6 py-3 text-sm text-[#a0a0a0] backdrop-blur">
                     <i class="fa-solid fa-building-columns"></i>
                     <span id="broker-count">Loading brokers...</span>
                 </div>
-                <div class="status-item">
+                <div class="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-6 py-3 text-sm text-[#a0a0a0] backdrop-blur">
                     <i class="fa-solid fa-database"></i>
                     <span id="dataset-count">Scanning datasets...</span>
                 </div>
             </div>
         </header>
 
-        <main class="data-shell">
-            <section class="intel-card">
-                <div class="intel-card-header">
-                    <h2 class="section-title"><i class="fa-solid fa-user-tie"></i> Broker Directory</h2>
-                    <button id="broker-directory-toggle" class="section-toggle-btn" type="button" aria-expanded="false"
-                        aria-controls="broker-directory-content">
+        <main class="grid grid-cols-1 gap-4">
+            <section class="rounded-[20px] border border-white/10 bg-white/[0.03] p-5 backdrop-blur">
+                <div class="mb-4 flex items-center justify-between gap-3">
+                    <h2 class="flex items-center gap-2 text-lg font-semibold"><i class="fa-solid fa-user-tie"></i> Broker Directory</h2>
+                    <button id="broker-directory-toggle" type="button" aria-expanded="false" aria-controls="broker-directory-content"
+                        class="inline-flex items-center gap-2 rounded-full border border-white/10 bg-indigo-500/10 px-4 py-2 text-xs text-white transition hover:border-indigo-400/60 hover:bg-indigo-500/20">
                         <span>Show Directory</span>
-                        <i class="fa-solid fa-chevron-down"></i>
+                        <i class="fa-solid fa-chevron-down transition-transform"></i>
                     </button>
                 </div>
-                <div id="broker-directory-content" class="section-collapsible is-hidden">
-                    <div class="data-toolbar">
-                        <div class="search-box">
-                            <i class="fa-solid fa-magnifying-glass"></i>
-                            <input type="text" id="broker-search" placeholder="Search by broker code, name, district or TMS"
-                                aria-label="Search brokers">
+
+                <div id="broker-directory-content" class="hidden">
+                    <div class="mb-4 flex flex-wrap items-center justify-between gap-3">
+                        <div class="relative min-w-[260px] flex-1">
+                            <i class="fa-solid fa-magnifying-glass pointer-events-none absolute left-5 top-1/2 -translate-y-1/2 text-[#a0a0a0]"></i>
+                            <input type="text" id="broker-search"
+                                class="w-full rounded-xl border border-white/10 bg-white/[0.03] py-4 pl-12 pr-4 text-white placeholder-[#a0a0a0] outline-none transition focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10"
+                                placeholder="Search by broker code, name, district or TMS" aria-label="Search brokers">
                         </div>
-                        <label>
-                            <span class="detail-label">Membership</span>
-                            <select id="membership-filter" class="filter-select" aria-label="Filter by membership type">
-                                <option value="all">All</option>
-                            </select>
-                        </label>
-                        <label>
-                            <span class="detail-label">District</span>
-                            <select id="district-filter" class="filter-select" aria-label="Filter by district">
-                                <option value="all">All</option>
-                            </select>
-                        </label>
-                        <label class="check-wrap">
-                            <input type="checkbox" id="tms-only">
-                            <span class="detail-label">Only with TMS link</span>
+
+                        <select id="membership-filter"
+                            class="min-w-[240px] rounded-xl border border-white/10 bg-[#0a0a0a] px-3 py-3 text-sm text-white outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10"
+                            aria-label="Filter by membership type">
+                            <option value="all">All Memberships</option>
+                        </select>
+
+                        <select id="district-filter"
+                            class="min-w-[240px] rounded-xl border border-white/10 bg-[#0a0a0a] px-3 py-3 text-sm text-white outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10"
+                            aria-label="Filter by district">
+                            <option value="all">All Districts</option>
+                        </select>
+
+                        <label class="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-white/[0.03] px-3 py-3 text-sm text-[#a0a0a0]">
+                            <input type="checkbox" id="tms-only" class="accent-indigo-500">
+                            <span>Only with TMS link</span>
                         </label>
                     </div>
-                    <div class="broker-table-wrap table-gap">
-                        <table class="broker-table broker-table-minimal">
-                            <thead>
+
+                    <div class="overflow-x-auto rounded-xl border border-white/10">
+                        <table class="min-w-[900px] w-full border-collapse text-left text-sm">
+                            <thead class="bg-black/80 text-xs text-[#a0a0a0]">
                                 <tr>
-                                    <th>Code</th>
-                                    <th>Broker Name</th>
-                                    <th>Membership</th>
-                                    <th>Branches</th>
-                                    <th>Provinces</th>
-                                    <th>Districts</th>
-                                    <th>TMS</th>
-                                    <th>Phone</th>
+                                    <th class="px-3 py-3">Code</th>
+                                    <th class="px-3 py-3">Broker Name</th>
+                                    <th class="px-3 py-3">Membership</th>
+                                    <th class="px-3 py-3">Branches</th>
+                                    <th class="px-3 py-3">Provinces</th>
+                                    <th class="px-3 py-3">Districts</th>
+                                    <th class="px-3 py-3">TMS</th>
+                                    <th class="px-3 py-3">Phone</th>
                                 </tr>
                             </thead>
-                            <tbody id="broker-table-body">
+                            <tbody id="broker-table-body" class="divide-y divide-white/5 bg-transparent">
                                 <tr>
-                                    <td colspan="8" class="intel-empty">Loading broker data...</td>
+                                    <td colspan="8" class="px-3 py-6 text-center text-[#a0a0a0]">Loading broker data...</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -107,50 +167,54 @@
                 </div>
             </section>
 
-            <section class="intel-card">
-                <div class="intel-card-header">
-                    <h2 class="section-title"><i class="fa-solid fa-clock-rotate-left"></i> Market Summary History</h2>
-                    <button id="history-toggle" class="section-toggle-btn" type="button" aria-expanded="false"
-                        aria-controls="history-content">
+            <section class="rounded-[20px] border border-white/10 bg-white/[0.03] p-5 backdrop-blur">
+                <div class="mb-4 flex items-center justify-between gap-3">
+                    <h2 class="flex items-center gap-2 text-lg font-semibold"><i class="fa-solid fa-clock-rotate-left"></i> Market Summary History</h2>
+                    <button id="history-toggle" type="button" aria-expanded="false" aria-controls="history-content"
+                        class="inline-flex items-center gap-2 rounded-full border border-white/10 bg-indigo-500/10 px-4 py-2 text-xs text-white transition hover:border-indigo-400/60 hover:bg-indigo-500/20">
                         <span>Show History</span>
-                        <i class="fa-solid fa-chevron-down"></i>
+                        <i class="fa-solid fa-chevron-down transition-transform"></i>
                     </button>
                 </div>
-                <div id="history-content" class="section-collapsible is-hidden">
-                    <div class="data-toolbar">
-                        <div class="search-box">
-                            <i class="fa-solid fa-calendar-day"></i>
-                            <input type="text" id="history-search" placeholder="Filter by business date (YYYY-MM-DD)"
+
+                <div id="history-content" class="hidden">
+                    <div class="mb-4 flex flex-wrap items-center justify-between gap-3">
+                        <div class="relative min-w-[260px] flex-1">
+                            <i class="fa-solid fa-calendar-day pointer-events-none absolute left-5 top-1/2 -translate-y-1/2 text-[#a0a0a0]"></i>
+                            <input type="text" id="history-search"
+                                class="w-full rounded-xl border border-white/10 bg-white/[0.03] py-4 pl-12 pr-4 text-white placeholder-[#a0a0a0] outline-none transition focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10"
+                                placeholder="Filter by business date (YYYY-MM-DD)"
                                 aria-label="Filter market summary history by date">
                         </div>
-                        <label>
-                            <span class="detail-label">Rows</span>
-                            <select id="history-row-limit" class="filter-select" aria-label="Rows to display">
-                                <option value="30">30</option>
-                                <option value="60">60</option>
-                                <option value="120">120</option>
-                                <option value="1000">All</option>
-                            </select>
-                        </label>
+                        <select id="history-row-limit"
+                            class="min-w-[120px] rounded-xl border border-white/10 bg-[#0a0a0a] px-3 py-3 text-sm text-white outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10"
+                            aria-label="Rows to display">
+                            <option value="30">30</option>
+                            <option value="60">60</option>
+                            <option value="120">120</option>
+                            <option value="1000">All</option>
+                        </select>
                     </div>
-                    <div class="broker-table-wrap table-gap" style="padding: 1rem;">
-                        <p id="history-chart-status" class="intel-empty" style="display: none; margin: 0 0 0.75rem 0;"></p>
+
+                    <div class="mb-4 rounded-xl border border-white/10 p-4">
+                        <p id="history-chart-status" class="mb-3 hidden text-sm text-[#a0a0a0]"></p>
                         <canvas id="history-chart" height="120" aria-label="Market summary history chart" role="img"></canvas>
                     </div>
-                    <div class="broker-table-wrap table-gap">
-                        <table class="broker-table broker-table-minimal">
-                            <thead>
+
+                    <div class="overflow-x-auto rounded-xl border border-white/10">
+                        <table class="min-w-[760px] w-full border-collapse text-left text-sm">
+                            <thead class="bg-black/80 text-xs text-[#a0a0a0]">
                                 <tr>
-                                    <th>Business Date</th>
-                                    <th>Total Turnover</th>
-                                    <th>Total Traded Shares</th>
-                                    <th>Total Transactions</th>
-                                    <th>Traded Scrips</th>
+                                    <th class="px-3 py-3">Business Date</th>
+                                    <th class="px-3 py-3">Total Turnover</th>
+                                    <th class="px-3 py-3">Total Traded Shares</th>
+                                    <th class="px-3 py-3">Total Transactions</th>
+                                    <th class="px-3 py-3">Traded Scrips</th>
                                 </tr>
                             </thead>
-                            <tbody id="history-table-body">
+                            <tbody id="history-table-body" class="divide-y divide-white/5 bg-transparent">
                                 <tr>
-                                    <td colspan="5" class="intel-empty">Loading market summary history...</td>
+                                    <td colspan="5" class="px-3 py-6 text-center text-[#a0a0a0]">Loading market summary history...</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -158,31 +222,31 @@
                 </div>
             </section>
 
-            <section class="intel-card">
-                <div class="intel-card-header">
-                    <h2 class="section-title"><i class="fa-solid fa-box-archive"></i> Old IPO Archive</h2>
-                    <button id="old-ipo-toggle" class="section-toggle-btn" type="button" aria-expanded="false"
-                        aria-controls="old-ipo-content">
+            <section class="rounded-[20px] border border-white/10 bg-white/[0.03] p-5 backdrop-blur">
+                <div class="mb-4 flex items-center justify-between gap-3">
+                    <h2 class="flex items-center gap-2 text-lg font-semibold"><i class="fa-solid fa-box-archive"></i> Old IPO Archive</h2>
+                    <button id="old-ipo-toggle" type="button" aria-expanded="false" aria-controls="old-ipo-content"
+                        class="inline-flex items-center gap-2 rounded-full border border-white/10 bg-indigo-500/10 px-4 py-2 text-xs text-white transition hover:border-indigo-400/60 hover:bg-indigo-500/20">
                         <span>Show Archive</span>
-                        <i class="fa-solid fa-chevron-down"></i>
+                        <i class="fa-solid fa-chevron-down transition-transform"></i>
                     </button>
                 </div>
-                <div id="old-ipo-content" class="section-collapsible is-hidden">
-                    <div class="broker-table-wrap table-gap">
-                        <table class="broker-table">
-                            <thead>
+                <div id="old-ipo-content" class="hidden">
+                    <div class="overflow-x-auto rounded-xl border border-white/10">
+                        <table class="min-w-[900px] w-full border-collapse text-left text-sm">
+                            <thead class="bg-black/80 text-xs text-[#a0a0a0]">
                                 <tr>
-                                    <th>Company</th>
-                                    <th>Units</th>
-                                    <th>BS Date Range</th>
-                                    <th>Notice Date</th>
-                                    <th>Reserved For</th>
-                                    <th>Source</th>
+                                    <th class="px-3 py-3">Company</th>
+                                    <th class="px-3 py-3">Units</th>
+                                    <th class="px-3 py-3">BS Date Range</th>
+                                    <th class="px-3 py-3">Notice Date</th>
+                                    <th class="px-3 py-3">Reserved For</th>
+                                    <th class="px-3 py-3">Source</th>
                                 </tr>
                             </thead>
-                            <tbody id="old-ipo-table-body">
+                            <tbody id="old-ipo-table-body" class="divide-y divide-white/5 bg-transparent">
                                 <tr>
-                                    <td colspan="6" class="intel-empty">Loading old IPO archive...</td>
+                                    <td colspan="6" class="px-3 py-6 text-center text-[#a0a0a0]">Loading old IPO archive...</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -190,21 +254,21 @@
                 </div>
             </section>
 
-            <section class="intel-card">
-                <div class="intel-card-header">
-                    <h2 class="section-title"><i class="fa-solid fa-layer-group"></i> Other Datasets</h2>
+            <section class="rounded-[20px] border border-white/10 bg-white/[0.03] p-5 backdrop-blur">
+                <div class="mb-4 flex items-center justify-between gap-3">
+                    <h2 class="flex items-center gap-2 text-lg font-semibold"><i class="fa-solid fa-layer-group"></i> Other Datasets</h2>
                 </div>
-                <div id="dataset-list" class="dataset-catalog">
-                    <p class="intel-empty">Loading datasets...</p>
+                <div id="dataset-list" class="grid grid-cols-1 gap-3 sm:grid-cols-2 xl:grid-cols-4">
+                    <p class="text-[#a0a0a0]">Loading datasets...</p>
                 </div>
             </section>
 
-            <section class="intel-card">
-                <div class="intel-card-header">
-                    <h2 class="section-title"><i class="fa-solid fa-bullhorn"></i> Latest Exchange Updates</h2>
+            <section class="rounded-[20px] border border-white/10 bg-white/[0.03] p-5 backdrop-blur">
+                <div class="mb-4 flex items-center justify-between gap-3">
+                    <h2 class="flex items-center gap-2 text-lg font-semibold"><i class="fa-solid fa-bullhorn"></i> Latest Exchange Updates</h2>
                 </div>
-                <div id="updates-feed" class="notice-feed">
-                    <p class="intel-empty">Loading updates...</p>
+                <div id="updates-feed" class="max-h-[460px] space-y-3 overflow-y-auto pr-1">
+                    <p class="text-[#a0a0a0]">Loading updates...</p>
                 </div>
             </section>
         </main>

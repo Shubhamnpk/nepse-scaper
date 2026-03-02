@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+    const EMPTY_TEXT_CLASS = 'text-sm text-slate-400';
     const indicesMarqueeTrack = document.getElementById('indices-marquee-track');
     const brokerTableBody = document.getElementById('broker-table-body');
     const brokerSearch = document.getElementById('broker-search');
@@ -21,7 +22,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const oldIpoContent = document.getElementById('old-ipo-content');
     const historyChartCanvas = document.getElementById('history-chart');
     const historyChartStatus = document.getElementById('history-chart-status');
-    const customSelectControllers = new Map();
 
     const DATASET_FILES = [
         'all_securities.json',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const indices = await res.json();
 
             if (!Array.isArray(indices) || indices.length === 0) {
-                indicesMarqueeTrack.innerHTML = '<span class="indices-marquee-empty">No indices available.</span>';
+                indicesMarqueeTrack.innerHTML = `<span class="${EMPTY_TEXT_CLASS}">No indices available.</span>`;
                 return;
             }
 
@@ -74,14 +74,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     const change = idx.change ?? 0;
                     const perChange = idx.perChange ?? 0;
                     const isUp = Number(change) >= 0;
-                    const color = isUp ? 'var(--success)' : 'var(--danger)';
+                    const color = isUp ? '#22c55e' : '#ef4444';
                     const changeText = formatIndexChange(change, perChange);
 
                     return `
-                        <span class="indices-marquee-item">
-                            <span class="indices-marquee-name">${safeText(name)}:</span>
+                        <span class="inline-flex items-center gap-2 text-[0.82rem] text-[#a0a0a0]">
+                            <span class="mr-1 font-bold text-white">${safeText(name)}:</span>
                             <span>${safeText(close)}</span>
-                            <span style="color:${color}; margin-left:0.5rem;">${safeText(changeText)}</span>
+                            <span style="color:${color}; margin-left:0.5rem;">
+                                ${safeText(changeText)}
+                            </span>
                         </span>
                     `;
                 })
@@ -89,22 +91,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
             indicesMarqueeTrack.innerHTML = itemsHtml + itemsHtml;
         } catch {
-            indicesMarqueeTrack.innerHTML = '<span class="indices-marquee-empty">Unable to load market indices.</span>';
+            indicesMarqueeTrack.innerHTML = `<span class="${EMPTY_TEXT_CLASS}">Unable to load market indices.</span>`;
         }
     }
 
     async function fetchJson(fileName) {
         const candidates = [`data/${fileName}`, fileName];
+        const errors = [];
+
         for (const url of candidates) {
             try {
-                const res = await fetch(url);
+                const res = await fetch(url, { cache: 'no-store' });
                 if (res.ok) {
                     return await res.json();
                 }
-            } catch {
-                // Try fallback path.
+                errors.push(`${url} -> HTTP ${res.status}`);
+            } catch (err) {
+                errors.push(`${url} -> ${err?.message || String(err)}`);
             }
         }
+
+        console.error(`Failed to fetch ${fileName}. Attempts: ${errors.join(' | ')}`);
         return null;
     }
 
@@ -134,6 +141,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function getMembership(broker) {
         return broker.membershipTypeMaster?.membershipType || 'N/A';
+    }
+
+    function getMembershipDisplayLabel(membership) {
+        const normalized = String(membership || '').trim().toLowerCase();
+        if (normalized === 'trading cum clearing member') return 'TCCM';
+        if (normalized === 'trading cum self clearing member') return 'TCSCM';
+        return membership || 'N/A';
     }
 
     function getDistrictNames(broker) {
@@ -207,7 +221,6 @@ document.addEventListener('DOMContentLoaded', () => {
             option.textContent = type;
             membershipFilter.appendChild(option);
         });
-        refreshCustomSelect(membershipFilter);
     }
 
     function renderDistrictOptions() {
@@ -218,10 +231,14 @@ document.addEventListener('DOMContentLoaded', () => {
             option.textContent = district;
             districtFilter.appendChild(option);
         });
-        refreshCustomSelect(districtFilter);
     }
 
     function applyBrokerFilters() {
+        if (!Array.isArray(brokers) || brokers.length === 0) {
+            brokerTableBody.innerHTML = `<tr><td colspan="8" class="px-3 py-6 text-center ${EMPTY_TEXT_CLASS}">Broker data unavailable, so filters cannot be applied.</td></tr>`;
+            return;
+        }
+
         const term = brokerSearch.value.trim().toUpperCase();
         const selectedMembership = membershipFilter.value;
         const selectedDistrict = districtFilter.value;
@@ -250,7 +267,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderBrokers(rows) {
         if (!Array.isArray(rows) || rows.length === 0) {
-            brokerTableBody.innerHTML = '<tr><td colspan="8" class="intel-empty">No brokers match the current filters.</td></tr>';
+            brokerTableBody.innerHTML = `<tr><td colspan="8" class="px-3 py-6 text-center ${EMPTY_TEXT_CLASS}">No brokers match the current filters.</td></tr>`;
             return;
         }
 
@@ -261,6 +278,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const tms = getTmsLink(broker);
                 const phone = broker.authorizedContactPersonNumber || '-';
                 const membership = getMembership(broker);
+                const membershipLabel = getMembershipDisplayLabel(membership);
                 const branches = getBranchCount(broker);
                 const provinceNames = getProvinceNames(broker);
                 const districtNames = getDistrictNames(broker);
@@ -268,24 +286,24 @@ document.addEventListener('DOMContentLoaded', () => {
                 const districtText = districtNames.length > 0 ? districtNames.join(', ') : '-';
                 const territoryMeta = `${provinceNames.length || 0} province${provinceNames.length === 1 ? '' : 's'} | ${districtNames.length || 0} district${districtNames.length === 1 ? '' : 's'}`;
                 const tmsCell = tms
-                    ? `<a rel="noopener noreferrer" target="_blank" class="table-link" href="https://${safeText(tms)}">Open TMS <i class="fa-solid fa-arrow-up-right-from-square"></i></a>`
-                    : '<span class="table-chip">N/A</span>';
+                    ? `<a rel="noopener noreferrer" target="_blank" class="inline-flex items-center gap-1 text-indigo-300 hover:text-indigo-200" href="https://${safeText(tms)}">Open TMS <i class="fa-solid fa-arrow-up-right-from-square text-xs"></i></a>`
+                    : '<span class="inline-flex rounded-full border border-slate-700 px-2 py-0.5 text-xs text-slate-400">N/A</span>';
 
                 return `
-                    <tr>
-                        <td><span class="broker-code-chip">#${safeText(broker.memberCode)}</span></td>
-                        <td>
-                            <div class="broker-name-cell">
-                                <p class="broker-name-primary">${safeText(broker.memberName)}</p>
-                                <p class="broker-name-sub">${safeText(territoryMeta)}</p>
+                    <tr class="hover:bg-slate-900/60">
+                        <td class="px-3 py-3 align-top"><span class="inline-flex rounded-full border border-slate-700 px-2 py-0.5 text-xs text-slate-200">#${safeText(broker.memberCode)}</span></td>
+                        <td class="px-3 py-3 align-top">
+                            <div class="flex flex-col gap-1">
+                                <p class="text-sm font-medium text-slate-100">${safeText(broker.memberName)}</p>
+                                <p class="text-xs text-slate-400">${safeText(territoryMeta)}</p>
                             </div>
                         </td>
-                        <td><span class="table-chip membership-chip">${safeText(membership)}</span></td>
-                        <td><span class="metric-pill">${branches.toLocaleString()}</span></td>
-                        <td class="table-clamp" title="${safeText(provinceText)}">${safeText(provinceText)}</td>
-                        <td class="table-clamp" title="${safeText(districtText)}">${safeText(districtText)}</td>
-                        <td>${tmsCell}</td>
-                        <td><span class="phone-cell">${safeText(phone)}</span></td>
+                        <td class="px-3 py-3 align-top"><span class="inline-flex rounded-full border border-slate-700 px-2 py-0.5 text-xs text-slate-300" title="${safeText(membership)}">${safeText(membershipLabel)}</span></td>
+                        <td class="px-3 py-3 align-top"><span class="inline-flex rounded-full border border-slate-700 px-2 py-0.5 text-xs text-slate-100">${branches.toLocaleString()}</span></td>
+                        <td class="max-w-[240px] px-3 py-3 align-top text-sm text-slate-300" title="${safeText(provinceText)}">${safeText(provinceText)}</td>
+                        <td class="max-w-[240px] px-3 py-3 align-top text-sm text-slate-300" title="${safeText(districtText)}">${safeText(districtText)}</td>
+                        <td class="px-3 py-3 align-top">${tmsCell}</td>
+                        <td class="px-3 py-3 align-top text-sm text-slate-200">${safeText(phone)}</td>
                     </tr>
                 `;
             })
@@ -308,17 +326,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderHistoryTable(rows) {
         if (!Array.isArray(rows) || rows.length === 0) {
-            historyTableBody.innerHTML = '<tr><td colspan="5" class="intel-empty">No market history rows match the current filter.</td></tr>';
+            historyTableBody.innerHTML = `<tr><td colspan="5" class="px-3 py-6 text-center ${EMPTY_TEXT_CLASS}">No market history rows match the current filter.</td></tr>`;
             return;
         }
 
         historyTableBody.innerHTML = rows.map((row) => `
-            <tr>
-                <td>${safeText(row.businessDate)}</td>
-                <td>Rs. ${formatNumber(row.totalTurnover, 2)}</td>
-                <td>${formatNumber(row.totalTradedShares, 0)}</td>
-                <td>${formatNumber(row.totalTransactions, 0)}</td>
-                <td>${formatNumber(row.tradedScrips, 0)}</td>
+            <tr class="hover:bg-slate-900/60">
+                <td class="px-3 py-3">${safeText(row.businessDate)}</td>
+                <td class="px-3 py-3">Rs. ${formatNumber(row.totalTurnover, 2)}</td>
+                <td class="px-3 py-3">${formatNumber(row.totalTradedShares, 0)}</td>
+                <td class="px-3 py-3">${formatNumber(row.totalTransactions, 0)}</td>
+                <td class="px-3 py-3">${formatNumber(row.tradedScrips, 0)}</td>
             </tr>
         `).join('');
     }
@@ -450,7 +468,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderOldIpoTable(rows) {
         if (!oldIpoTableBody) return;
         if (!Array.isArray(rows) || rows.length === 0) {
-            oldIpoTableBody.innerHTML = '<tr><td colspan="6" class="intel-empty">Old IPO archive unavailable.</td></tr>';
+            oldIpoTableBody.innerHTML = `<tr><td colspan="6" class="px-3 py-6 text-center ${EMPTY_TEXT_CLASS}">Old IPO archive unavailable.</td></tr>`;
             return;
         }
 
@@ -462,17 +480,17 @@ document.addEventListener('DOMContentLoaded', () => {
         oldIpoTableBody.innerHTML = sorted.map((row) => {
             const reservedFor = row.reserved_for || (row.is_reserved_share ? 'Nepalese citizens working abroad' : '-');
             const source = row.url
-                ? `<a rel="noopener noreferrer" target="_blank" href="${safeText(row.url)}">View</a>`
-                : '<span class="table-chip">N/A</span>';
+                ? `<a rel="noopener noreferrer" target="_blank" class="text-indigo-300 hover:text-indigo-200" href="${safeText(row.url)}">View</a>`
+                : '<span class="inline-flex rounded-full border border-slate-700 px-2 py-0.5 text-xs text-slate-400">N/A</span>';
 
             return `
-                <tr>
-                    <td>${safeText(row.company || '-')}</td>
-                    <td>${safeText(row.units || '-')}</td>
-                    <td>${safeText(row.date_range || '-')}</td>
-                    <td>${safeText(row.announcement_date || '-')}</td>
-                    <td>${safeText(reservedFor)}</td>
-                    <td>${source}</td>
+                <tr class="hover:bg-slate-900/60">
+                    <td class="px-3 py-3">${safeText(row.company || '-')}</td>
+                    <td class="px-3 py-3">${safeText(row.units || '-')}</td>
+                    <td class="px-3 py-3">${safeText(row.date_range || '-')}</td>
+                    <td class="px-3 py-3">${safeText(row.announcement_date || '-')}</td>
+                    <td class="px-3 py-3">${safeText(reservedFor)}</td>
+                    <td class="px-3 py-3">${source}</td>
                 </tr>
             `;
         }).join('');
@@ -511,12 +529,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         datasetList.innerHTML = nonBrokerRows
             .map((row) => `
-                <div class="dataset-row ${row.loaded ? '' : 'missing'}">
+                <div class="flex items-center justify-between gap-3 rounded-xl border px-3 py-3 ${row.loaded ? 'border-slate-800 bg-slate-950/70' : 'border-rose-900 bg-rose-950/30'}">
                     <div>
-                        <p class="dataset-name">${safeText(row.fileName)}</p>
-                        <p class="dataset-type">${safeText(row.type)}</p>
+                        <p class="text-sm font-medium text-slate-100">${safeText(row.fileName)}</p>
+                        <p class="text-xs uppercase tracking-wide text-slate-400">${safeText(row.type)}</p>
                     </div>
-                    <div class="dataset-count">${Number(row.count || 0).toLocaleString()}</div>
+                    <div class="rounded-full border border-slate-700 px-2.5 py-1 text-xs font-semibold text-slate-200">${Number(row.count || 0).toLocaleString()}</div>
                 </div>
             `)
             .join('');
@@ -559,7 +577,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         return rows
             .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0))
-            .slice(0, 8);
+            .slice(0, 60);
     }
 
     function stripHtml(html) {
@@ -570,18 +588,18 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderUpdatesFeed(exchangeMessages, disclosures, notices) {
         const items = normalizeUpdates(exchangeMessages, disclosures, notices);
         if (!items.length) {
-            updatesFeed.innerHTML = '<p class="intel-empty">No updates available.</p>';
+            updatesFeed.innerHTML = `<p class="${EMPTY_TEXT_CLASS}">No updates available.</p>`;
             return;
         }
 
         updatesFeed.innerHTML = items.map((item) => `
-            <div class="notice-item">
-                <div class="notice-head">
-                    <span class="chip small">${safeText(item.type)}</span>
-                    <span class="notice-date">${item.date ? new Date(item.date).toLocaleDateString() : 'N/A'}</span>
+            <div class="rounded-xl border border-slate-800 bg-slate-950/70 p-3">
+                <div class="mb-2 flex items-center justify-between gap-2">
+                    <span class="inline-flex rounded-full border border-slate-700 px-2 py-0.5 text-[11px] font-medium uppercase tracking-wide text-slate-300">${safeText(item.type)}</span>
+                    <span class="text-xs text-slate-400">${item.date ? new Date(item.date).toLocaleDateString() : 'N/A'}</span>
                 </div>
-                <p class="notice-title">${safeText(item.title)}</p>
-                <p class="notice-body">${safeText(stripHtml(item.body) || 'No description provided.')}</p>
+                <p class="text-sm font-semibold text-slate-100">${safeText(item.title)}</p>
+                <p class="mt-1 text-sm text-slate-300">${safeText(stripHtml(item.body) || 'No description provided.')}</p>
             </div>
         `).join('');
     }
@@ -605,7 +623,7 @@ document.addEventListener('DOMContentLoaded', () => {
         brokerCount.setAttribute('aria-label', brokerReason);
 
         if (brokers.length === 0) {
-            brokerTableBody.innerHTML = '<tr><td colspan="8" class="intel-empty">Broker data unavailable.</td></tr>';
+            brokerTableBody.innerHTML = `<tr><td colspan="8" class="px-3 py-6 text-center ${EMPTY_TEXT_CLASS}">Broker data unavailable.</td></tr>`;
         } else {
             renderMembershipOptions();
             renderDistrictOptions();
@@ -618,7 +636,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (marketSummaryHistory.length === 0) {
-            historyTableBody.innerHTML = '<tr><td colspan="5" class="intel-empty">Market summary history unavailable.</td></tr>';
+            historyTableBody.innerHTML = `<tr><td colspan="5" class="px-3 py-6 text-center ${EMPTY_TEXT_CLASS}">Market summary history unavailable.</td></tr>`;
         } else {
             if (historyChartStatus) {
                 historyChartStatus.style.display = 'none';
@@ -641,9 +659,10 @@ document.addEventListener('DOMContentLoaded', () => {
     function bindSectionToggle(toggleEl, contentEl, showLabel, hideLabel) {
         if (!toggleEl || !contentEl) return;
         const sync = () => {
-            const isHidden = contentEl.classList.contains('is-hidden');
+            const isHidden = contentEl.classList.contains('hidden');
             toggleEl.setAttribute('aria-expanded', String(!isHidden));
-            toggleEl.classList.toggle('open', !isHidden);
+            const chevron = toggleEl.querySelector('i');
+            if (chevron) chevron.classList.toggle('rotate-180', !isHidden);
             const labelEl = toggleEl.querySelector('span');
             if (labelEl) {
                 labelEl.textContent = isHidden ? showLabel : hideLabel;
@@ -656,123 +675,12 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         };
         toggleEl.addEventListener('click', () => {
-            contentEl.classList.toggle('is-hidden');
+            contentEl.classList.toggle('hidden');
             sync();
         });
         sync();
     }
 
-    function closeAllCustomDropdowns() {
-        customSelectControllers.forEach((controller) => controller.setOpen(false));
-    }
-
-    function initCustomSelect(selectEl) {
-        if (!selectEl) return;
-        if (customSelectControllers.has(selectEl)) return;
-
-        selectEl.classList.add('native-select-hidden');
-
-        const wrapper = document.createElement('div');
-        wrapper.className = 'custom-dropdown filter-dropdown';
-        const leftIcon = 'fa-layer-group';
-
-        const trigger = document.createElement('div');
-        trigger.className = 'dropdown-trigger';
-        trigger.setAttribute('role', 'button');
-        trigger.setAttribute('tabindex', '0');
-        trigger.setAttribute('aria-haspopup', 'listbox');
-        trigger.setAttribute('aria-expanded', 'false');
-        trigger.innerHTML = `
-            <i class="fa-solid ${leftIcon}" aria-hidden="true"></i>
-            <span></span>
-            <i class="fa-solid fa-chevron-down arrow"></i>
-        `;
-
-        const optionsBox = document.createElement('div');
-        optionsBox.className = 'dropdown-options';
-        optionsBox.setAttribute('role', 'listbox');
-
-        wrapper.appendChild(trigger);
-        wrapper.appendChild(optionsBox);
-        selectEl.insertAdjacentElement('afterend', wrapper);
-
-        const setOpen = (isOpen) => {
-            wrapper.classList.toggle('open', isOpen);
-            trigger.setAttribute('aria-expanded', String(isOpen));
-        };
-
-        const refresh = () => {
-            optionsBox.innerHTML = '';
-            Array.from(selectEl.options).forEach((opt) => {
-                const item = document.createElement('div');
-                item.className = 'option-item';
-                item.setAttribute('role', 'option');
-                item.setAttribute('tabindex', '0');
-                item.setAttribute('data-value', opt.value);
-                item.setAttribute('aria-selected', String(opt.selected));
-                item.textContent = opt.textContent || opt.value;
-                if (opt.selected) item.classList.add('selected');
-                optionsBox.appendChild(item);
-            });
-
-            const selectedOpt = selectEl.options[selectEl.selectedIndex];
-            const selectedText = selectedOpt ? selectedOpt.textContent : 'Select';
-            const span = trigger.querySelector('span');
-            if (span) span.textContent = selectedText || 'Select';
-        };
-
-        trigger.addEventListener('click', (e) => {
-            e.stopPropagation();
-            const willOpen = !wrapper.classList.contains('open');
-            closeAllCustomDropdowns();
-            setOpen(willOpen);
-        });
-
-        trigger.addEventListener('keydown', (e) => {
-            if (e.key === 'Enter' || e.key === ' ') {
-                e.preventDefault();
-                const willOpen = !wrapper.classList.contains('open');
-                closeAllCustomDropdowns();
-                setOpen(willOpen);
-            } else if (e.key === 'Escape') {
-                setOpen(false);
-            }
-        });
-
-        optionsBox.addEventListener('click', (e) => {
-            const item = e.target.closest('.option-item');
-            if (!item) return;
-            const value = item.getAttribute('data-value') || '';
-            if (selectEl.value !== value) {
-                selectEl.value = value;
-                selectEl.dispatchEvent(new Event('change', { bubbles: true }));
-            } else {
-                refresh();
-            }
-            setOpen(false);
-        });
-
-        optionsBox.addEventListener('keydown', (e) => {
-            if (e.key === 'Enter' || e.key === ' ') {
-                e.preventDefault();
-                const item = e.target.closest('.option-item');
-                if (item) item.click();
-            } else if (e.key === 'Escape') {
-                setOpen(false);
-                trigger.focus();
-            }
-        });
-
-        selectEl.addEventListener('change', refresh);
-        refresh();
-
-        customSelectControllers.set(selectEl, { refresh, setOpen });
-    }
-
-    function refreshCustomSelect(selectEl) {
-        const controller = customSelectControllers.get(selectEl);
-        if (controller) controller.refresh();
-    }
 
     brokerSearch.addEventListener('input', applyBrokerFilters);
     membershipFilter.addEventListener('change', applyBrokerFilters);
@@ -783,8 +691,5 @@ document.addEventListener('DOMContentLoaded', () => {
     bindSectionToggle(brokerDirectoryToggle, brokerDirectoryContent, 'Show Directory', 'Hide Directory');
     bindSectionToggle(historyToggle, historyContent, 'Show History', 'Hide History');
     bindSectionToggle(oldIpoToggle, oldIpoContent, 'Show Archive', 'Hide Archive');
-    document.querySelectorAll('select').forEach((selectEl) => initCustomSelect(selectEl));
-    document.addEventListener('click', () => closeAllCustomDropdowns());
-
     init();
 });
