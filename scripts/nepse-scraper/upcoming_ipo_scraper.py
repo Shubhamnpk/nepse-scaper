@@ -4,6 +4,18 @@ import json
 import re
 from datetime import datetime
 
+def detect_reserved_categories(full_text):
+    text = (full_text or "").lower()
+    categories = []
+
+    if "nepalese citizens working abroad" in text:
+        categories.append("Nepalese citizens working abroad")
+
+    if "local residents" in text or "project affected" in text:
+        categories.append("Local residents")
+
+    return categories
+
 def extract_company_from_text(text):
     if not text:
         return ""
@@ -107,6 +119,18 @@ def backfill_company_from_text(item):
         item["company"] = extracted
     return item
 
+def backfill_reserved_from_text(item):
+    reserved_for = str(item.get("reserved_for", "")).strip()
+    has_flag = isinstance(item.get("is_reserved_share"), bool)
+    if reserved_for and has_flag:
+        return item
+
+    full_text = str(item.get("full_text", ""))
+    reserved_categories = detect_reserved_categories(full_text)
+    item["is_reserved_share"] = len(reserved_categories) > 0
+    item["reserved_for"] = ", ".join(reserved_categories)
+    return item
+
 def scrape_upcoming_ipo():
     url = "https://merolagani.com/Ipo.aspx?type=upcoming"
     headers = {
@@ -151,7 +175,7 @@ def scrape_upcoming_ipo():
                     continue
                 if not link.startswith('http'):
                     link = "https://merolagani.com" + link
-                is_reserved_share = "nepalese citizens working abroad" in full_text.lower()
+                reserved_categories = detect_reserved_categories(full_text)
                 
                 # Parse text
                 company, units, date_range = parse_ipo_text(full_text)
@@ -163,8 +187,8 @@ def scrape_upcoming_ipo():
                     "announcement_date": announcement_date,
                     "full_text": full_text,
                     "url": link,
-                    "is_reserved_share": is_reserved_share,
-                    "reserved_for": "Nepalese citizens working abroad" if is_reserved_share else "",
+                    "is_reserved_share": len(reserved_categories) > 0,
+                    "reserved_for": ", ".join(reserved_categories),
                     "scraped_at": datetime.now().isoformat()
                 }
                 data.append(entry)
@@ -174,6 +198,7 @@ def scrape_upcoming_ipo():
                 fallback_date_elem = item.find('small', class_='text-muted')
                 fallback_date = fallback_date_elem.get_text(strip=True) if fallback_date_elem else ""
                 fallback_company = extract_company_from_text(fallback_text) or fallback_text
+                fallback_reserved_categories = detect_reserved_categories(fallback_text)
                 data.append({
                     "company": fallback_company,
                     "units": "",
@@ -181,8 +206,8 @@ def scrape_upcoming_ipo():
                     "announcement_date": fallback_date,
                     "full_text": fallback_text,
                     "url": "",
-                    "is_reserved_share": "nepalese citizens working abroad" in fallback_text.lower(),
-                    "reserved_for": "Nepalese citizens working abroad" if "nepalese citizens working abroad" in fallback_text.lower() else "",
+                    "is_reserved_share": len(fallback_reserved_categories) > 0,
+                    "reserved_for": ", ".join(fallback_reserved_categories),
                     "scraped_at": datetime.now().isoformat(),
                     "parse_error": str(e),
                 })
@@ -243,6 +268,7 @@ if __name__ == "__main__":
         item = backfill_company_from_text(item)
         item = backfill_units_from_text(item)
         item = backfill_date_range_from_text(item)
+        item = backfill_reserved_from_text(item)
         try:
             scraped_at = item.get('scraped_at')
             if scraped_at:
