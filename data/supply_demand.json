@@ -1,19 +1,4 @@
 {
-    "supplyList": [
-        {
-            "totalQuantity": 157,
-            "totalOrder": 4,
-            "securityId": 5984,
-            "symbol": "LBLD88",
-            "securityName": "8.5% Laxmi Bank Debenture 2088"
-        },
-        {
-            "totalQuantity": 85,
-            "totalOrder": 5,
-            "securityId": 9136,
-            "symbol": "BOKD86KA",
-            "securityName": "BOK Debenture 2086 \"KA\""
-        }
-    ],
+    "supplyList": [],
     "demandList": []
 }
