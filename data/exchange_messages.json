@@ -82,5 +82,29 @@
         "addedDate": null,
         "modifiedDate": "2026-02-24T16:10:10.04",
         "approvedDate": null
+    },
+    {
+        "id": 208616,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">2,12,679.0566 Units Bonus Shares of&nbsp;</span>Himalayan Laghubitta Bittiya Sanstha Limited (HLBSL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span></p>",
+        "messageTitle": "Listing 6.65% Bonus Shares of Himalayan Laghubitta Bittiya Sanstha Limited (HLBSL)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-03",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-03T13:52:51.187",
+        "modifiedDate": "2026-03-03T13:55:59.617",
+        "approvedDate": null
+    },
+    {
+        "id": 208615,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">45,67,685.70 Units Bonus Shares of&nbsp;</span>Ghorahi Cement Industry Limited (GCIL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span></p>",
+        "messageTitle": "Listing 10% Bonus Shares of Ghorahi Cement Industry Limited (GCIL)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-03",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-03T13:50:40.137",
+        "modifiedDate": "2026-03-03T13:55:12.87",
+        "approvedDate": null
     }
 ]
