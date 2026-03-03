@@ -3,17 +3,6 @@
         "id": 44902,
         "applicationDocumentDetailsList": [
             {
-                "id": 30055,
-                "activeStatus": "A",
-                "modifiedBy": "mehl_user",
-                "modifiedDate": "2026-03-01T15:13:48.723",
-                "application": 44902,
-                "documentType": 54,
-                "submittedDate": "2026-03-01",
-                "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-03-01/sgm completion minute_1772357244830.pdf",
-                "encryptedId": "ba508515f0c660652fdb98128587e4af23bdb488eb94118eb3b8c606bf5d532e98f3b4a1b0b58fb45e236f39dab4f7273d8b1991ab11768061220e262e0b76b9"
-            },
-            {
                 "id": 30056,
                 "activeStatus": "A",
                 "modifiedBy": "mehl_user",
@@ -23,6 +12,17 @@
                 "submittedDate": "2026-03-01",
                 "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-03-01/sgm completion letter_1772357240428.pdf",
                 "encryptedId": "78bff54997b9699b298ecb389f10e8ac2a1ab4c90cb595f9deb00595a835f60d55cff61126fa5cdeb09dcf7992b176fa2bc2f3817c8b84e147a2a89816319b0e"
+            },
+            {
+                "id": 30055,
+                "activeStatus": "A",
+                "modifiedBy": "mehl_user",
+                "modifiedDate": "2026-03-01T15:13:48.723",
+                "application": 44902,
+                "documentType": 54,
+                "submittedDate": "2026-03-01",
+                "filePath": "Manakamana_Engineering_Hydropower_Limited/Company News/2026-03-01/sgm completion minute_1772357244830.pdf",
+                "encryptedId": "ba508515f0c660652fdb98128587e4af23bdb488eb94118eb3b8c606bf5d532e98f3b4a1b0b58fb45e236f39dab4f7273d8b1991ab11768061220e262e0b76b9"
             }
         ],
         "newsHeadline": "MEHL has successfully completed its SGM. [MEHL] ",
@@ -223,6 +223,17 @@
         "id": 44918,
         "applicationDocumentDetailsList": [
             {
+                "id": 30072,
+                "activeStatus": "A",
+                "modifiedBy": "gmfbs_user",
+                "modifiedDate": "2026-03-03T10:28:32.453",
+                "application": 44918,
+                "documentType": 54,
+                "submittedDate": "2026-03-03",
+                "filePath": "Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company News/2026-03-03/AGM Notice In News_1772512991621.jpg",
+                "encryptedId": "9fb4062890133ca61954b7ff4ad9b39092f84068ec0b67e1433a796688e1ef9b17828473f6fefbb1d7ff1298fa9ef714bb95ad3c2b8bfa3c1b39f309b81628d2"
+            },
+            {
                 "id": 30071,
                 "activeStatus": "A",
                 "modifiedBy": "gmfbs_user",
@@ -243,17 +254,6 @@
                 "submittedDate": "2026-03-03",
                 "filePath": "Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company News/2026-03-03/AGM Notice Letter_1772512972243.pdf",
                 "encryptedId": "b8ff20023cae0a84f16835b9692979d0a78ea7d33ffdd857773d62aba23ceb41703d0b54c124dd8301f6f61c61f2052acf4101b2112b453dc2baeb899ced9aaf"
-            },
-            {
-                "id": 30072,
-                "activeStatus": "A",
-                "modifiedBy": "gmfbs_user",
-                "modifiedDate": "2026-03-03T10:28:32.453",
-                "application": 44918,
-                "documentType": 54,
-                "submittedDate": "2026-03-03",
-                "filePath": "Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company News/2026-03-03/AGM Notice In News_1772512991621.jpg",
-                "encryptedId": "9fb4062890133ca61954b7ff4ad9b39092f84068ec0b67e1433a796688e1ef9b17828473f6fefbb1d7ff1298fa9ef714bb95ad3c2b8bfa3c1b39f309b81628d2"
             }
         ],
         "newsHeadline": "9th AGM Notice & Book Closer Date of GMFBS [GMFBS] ",
@@ -503,6 +503,28 @@
         "addedDate": "2026-03-01T16:44:52.14",
         "newsSource": "Wnlb",
         "modifiedDate": "2026-03-03T10:00:03.66",
+        "approvedDate": null
+    },
+    {
+        "id": 44928,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30083,
+                "activeStatus": "A",
+                "modifiedBy": "alicl_user",
+                "modifiedDate": "2026-03-03T15:37:36.857",
+                "application": 44928,
+                "documentType": 54,
+                "submittedDate": "2026-03-03",
+                "filePath": "alicl_user/2026-03-03/ALICL 18th AGM Minute_1772531464950.pdf",
+                "encryptedId": "45f0f5ecc539614a02e11d5c6bd49fafe448070f02a19ffe81d1acc232fe6bee8fa3c58b59094712da46fb6299b2a35a58a250a530b9544260f290ff1cc1128b"
+            }
+        ],
+        "newsHeadline": "18th AGM Minute [ALICL] ",
+        "newsBody": "",
+        "addedDate": "2026-03-03T15:37:36.853",
+        "newsSource": "Asian Life Insurance Company Ltd.",
+        "modifiedDate": "2026-03-03T15:40:16.557",
         "approvedDate": null
     }
 ]
