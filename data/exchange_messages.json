@@ -118,5 +118,53 @@
         "addedDate": null,
         "modifiedDate": "2026-03-09T11:01:03.023",
         "approvedDate": null
+    },
+    {
+        "id": 208621,
+        "messageBody": "The market operations has now been suspended. NEPSE Index increased by 6.0 % at 2026-03-09 12:01:37.718. The trading will be halt for 240 minutes.",
+        "messageTitle": "Market operations has now been suspended.",
+        "encryptedId": null,
+        "expiryDate": "2026-03-09",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": null,
+        "modifiedDate": "2026-03-09T12:01:37.733",
+        "approvedDate": null
+    },
+    {
+        "id": 208620,
+        "messageBody": "Market operations has now been resumed at 2026-03-09 12:01:13.857. Remarks: Circuit Limit Resumed for LEVEL 5.0 at 2026-03-09 12:01:13.857",
+        "messageTitle": "Market operations has now been resumed.",
+        "encryptedId": null,
+        "expiryDate": "2026-03-09",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": null,
+        "modifiedDate": "2026-03-09T12:01:13.87",
+        "approvedDate": null
+    },
+    {
+        "id": 208619,
+        "messageBody": "The market operations has now been suspended. NEPSE Index increased by 5.0 % at 2026-03-09 11:21:13.851. The trading will be halt for 40 minutes.",
+        "messageTitle": "Market operations has now been suspended.",
+        "encryptedId": null,
+        "expiryDate": "2026-03-09",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": null,
+        "modifiedDate": "2026-03-09T11:21:13.87",
+        "approvedDate": null
+    },
+    {
+        "id": 208618,
+        "messageBody": "Market operations has now been resumed at 2026-03-09 11:21:03.002. Remarks: Circuit Limit Resumed for LEVEL 4.0 at 2026-03-09 11:21:03.002",
+        "messageTitle": "Market operations has now been resumed.",
+        "encryptedId": null,
+        "expiryDate": "2026-03-09",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": null,
+        "modifiedDate": "2026-03-09T11:21:03.03",
+        "approvedDate": null
     }
 ]
