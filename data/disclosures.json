@@ -223,15 +223,15 @@
         "id": 44918,
         "applicationDocumentDetailsList": [
             {
-                "id": 30071,
+                "id": 30070,
                 "activeStatus": "A",
                 "modifiedBy": "gmfbs_user",
                 "modifiedDate": "2026-03-03T10:28:32.453",
                 "application": 44918,
                 "documentType": 54,
                 "submittedDate": "2026-03-03",
-                "filePath": "Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company News/2026-03-03/Ganapati AGM Notice 3x34_1772512980668.pdf",
-                "encryptedId": "09628e25c125491cef62bb8b31d96dc5f9e76315af7ff852514ec1bf36091f338517daeb9c57f5800c3bd0944e963142e7ea991a2e463ca44dd7cbe3fe5f1f47"
+                "filePath": "Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company News/2026-03-03/AGM Notice Letter_1772512972243.pdf",
+                "encryptedId": "b8ff20023cae0a84f16835b9692979d0a78ea7d33ffdd857773d62aba23ceb41703d0b54c124dd8301f6f61c61f2052acf4101b2112b453dc2baeb899ced9aaf"
             },
             {
                 "id": 30072,
@@ -245,15 +245,15 @@
                 "encryptedId": "9fb4062890133ca61954b7ff4ad9b39092f84068ec0b67e1433a796688e1ef9b17828473f6fefbb1d7ff1298fa9ef714bb95ad3c2b8bfa3c1b39f309b81628d2"
             },
             {
-                "id": 30070,
+                "id": 30071,
                 "activeStatus": "A",
                 "modifiedBy": "gmfbs_user",
                 "modifiedDate": "2026-03-03T10:28:32.453",
                 "application": 44918,
                 "documentType": 54,
                 "submittedDate": "2026-03-03",
-                "filePath": "Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company News/2026-03-03/AGM Notice Letter_1772512972243.pdf",
-                "encryptedId": "b8ff20023cae0a84f16835b9692979d0a78ea7d33ffdd857773d62aba23ceb41703d0b54c124dd8301f6f61c61f2052acf4101b2112b453dc2baeb899ced9aaf"
+                "filePath": "Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company News/2026-03-03/Ganapati AGM Notice 3x34_1772512980668.pdf",
+                "encryptedId": "09628e25c125491cef62bb8b31d96dc5f9e76315af7ff852514ec1bf36091f338517daeb9c57f5800c3bd0944e963142e7ea991a2e463ca44dd7cbe3fe5f1f47"
             }
         ],
         "newsHeadline": "9th AGM Notice & Book Closer Date of GMFBS [GMFBS] ",
@@ -525,6 +525,138 @@
         "addedDate": "2026-03-03T15:37:36.853",
         "newsSource": "Asian Life Insurance Company Ltd.",
         "modifiedDate": "2026-03-03T15:40:16.557",
+        "approvedDate": null
+    },
+    {
+        "id": 44936,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30090,
+                "activeStatus": "A",
+                "modifiedBy": "makar_user",
+                "modifiedDate": "2026-03-09T10:21:48.55",
+                "application": 44936,
+                "documentType": 54,
+                "submittedDate": "2026-03-09",
+                "filePath": "Makar_Jitumaya_Suri_Hydropower_Limited/Company News/2026-03-09/Makar Jitu Lockin Notice_3x20cc_25_gate_1773030979870.pdf",
+                "encryptedId": "82b224504d8b96579cbf4e5c7a7f1def275495e23b642c0b2c5387d1b400ae91c7eb5455e08db948d729948b8f017a5b7b6328e928a9b99e5a1e27a136a3412f"
+            },
+            {
+                "id": 30091,
+                "activeStatus": "A",
+                "modifiedBy": "makar_user",
+                "modifiedDate": "2026-03-09T10:21:48.55",
+                "application": 44936,
+                "documentType": 54,
+                "submittedDate": "2026-03-09",
+                "filePath": "Makar_Jitumaya_Suri_Hydropower_Limited/Company News/2026-03-09/Letter OF Locking release_1773030929603.pdf",
+                "encryptedId": "1ca55173984ae9f4e6d2aae5ab8cbd414594a55eff6b29bf8f3dbbbf88ec41adb4eecb4aa041413e5c2ca7020e5c08ae971bcc7ff87d208868aedee0579c6d44"
+            },
+            {
+                "id": 30089,
+                "activeStatus": "A",
+                "modifiedBy": "makar_user",
+                "modifiedDate": "2026-03-09T10:21:48.55",
+                "application": 44936,
+                "documentType": 54,
+                "submittedDate": "2026-03-09",
+                "filePath": "Makar_Jitumaya_Suri_Hydropower_Limited/Company News/2026-03-09/Pages from Locking Release notic Prakshepa_25 fagun_1773030948471.pdf",
+                "encryptedId": "3bfa72f724a58c183f20f3fe2d0a6693cd98b9ba9e837dda5aea13e4069b3176ea163dd84390d2fbb9182e01970528d5f9a03257751f55032473d67804ac0b63"
+            }
+        ],
+        "newsHeadline": "Open Lock In Period  [MAKAR] ",
+        "newsBody": "",
+        "addedDate": "2026-03-09T10:21:48.543",
+        "newsSource": "https://prakshepandaily.com/2026/03/09/59386/",
+        "modifiedDate": "2026-03-09T10:36:16.023",
+        "approvedDate": null
+    },
+    {
+        "id": 44935,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30088,
+                "activeStatus": "A",
+                "modifiedBy": "nlic_user",
+                "modifiedDate": "2026-03-09T10:14:19.79",
+                "application": 44935,
+                "documentType": 54,
+                "submittedDate": "2026-03-09",
+                "filePath": "nlic_user/2026-03-09/Disclosure to NEPSE _1773030554204.pdf",
+                "encryptedId": "f48cc5d5cb29d206c90a5a4bf7e3764614ff8621973008e1cb00a7ddeec169fcd4f2ff421cc6e0c897bcf51011627a4946de95059c50b8c98086de5ce278193f"
+            }
+        ],
+        "newsHeadline": "Director's Resignation & new appointment of Director  [NLIC] ",
+        "newsBody": "<p>410th Board Meeting (2082/11/24) has accepted the resignation of Director Mr. Govind Lal Sanghai and appointed to Mr. Purushottam Lal Sanghai as Director in that vacant position. Also, 411th Board Meeting held on 2082/11/25 (9 am) has appointed to Mr. Purushottam Lal Sanghai as the Chairman of the Company.</p>",
+        "addedDate": "2026-03-09T10:14:19.78",
+        "newsSource": "NLIC",
+        "modifiedDate": "2026-03-09T10:15:34.233",
+        "approvedDate": null
+    },
+    {
+        "id": 44933,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30086,
+                "activeStatus": "A",
+                "modifiedBy": "mhl_user",
+                "modifiedDate": "2026-03-08T14:52:01.743",
+                "application": 44933,
+                "documentType": 54,
+                "submittedDate": "2026-03-08",
+                "filePath": "Mandakini_Hydropower_Limited/Company News/2026-03-08/letter_1772960784277.pdf",
+                "encryptedId": "45086dcaae8c4cc14bce29696b64b3023ce0f66eaebcbf78faafae51ac3dbd1513aa51ad327a7d71dc710d474fe517627b0419ed000905d26ac5fa16563fe95f"
+            }
+        ],
+        "newsHeadline": "Appointment of Managing Director/CEO [MHL] ",
+        "newsBody": "",
+        "addedDate": "2026-03-08T14:52:01.737",
+        "newsSource": "BOD",
+        "modifiedDate": "2026-03-09T09:00:08.327",
+        "approvedDate": null
+    },
+    {
+        "id": 44932,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30085,
+                "activeStatus": "A",
+                "modifiedBy": "fowad_user",
+                "modifiedDate": "2026-03-08T14:04:20.907",
+                "application": 44932,
+                "documentType": 54,
+                "submittedDate": "2026-03-08",
+                "filePath": "fowad_user/2026-03-08/About Dividend_1772957913778.pdf",
+                "encryptedId": "96a71c1dcc424eb7e6da8c701e06f6ba6fc937e39db4dfa45b0927ba4fdfd016263e1b93b871e98e2a211e1b6bd3714693724b5eff9d7527eb13e4cd33e02679"
+            }
+        ],
+        "newsHeadline": "About Dividend [FOWAD] ",
+        "newsBody": "Dividend Declaration of FOWAD\nFiscal Year: 2081-2082",
+        "addedDate": "2026-03-08T14:04:20.87",
+        "newsSource": "0",
+        "modifiedDate": "2026-03-09T08:59:42.897",
+        "approvedDate": null
+    },
+    {
+        "id": 44931,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30084,
+                "activeStatus": "A",
+                "modifiedBy": "mhl_user",
+                "modifiedDate": "2026-03-03T16:52:46.69",
+                "application": 44931,
+                "documentType": 54,
+                "submittedDate": "2026-03-03",
+                "filePath": "Mandakini_Hydropower_Limited/Company News/2026-03-03/mhl letter_1772535941986.pdf",
+                "encryptedId": "cecfcf4fb896dcb9580aaa595c7faac46089f164ac4b5591747c5c6986f813712a77dbf402abcc61f27585437d9b5518d13981b3fd3c9fc0968f9488f7606843"
+            }
+        ],
+        "newsHeadline": "Resignation of Chairman [MHL] ",
+        "newsBody": "",
+        "addedDate": "2026-03-03T16:52:46.687",
+        "newsSource": "BOD",
+        "modifiedDate": "2026-03-09T08:59:13.043",
         "approvedDate": null
     }
 ]

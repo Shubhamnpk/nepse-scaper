@@ -106,5 +106,17 @@
         "addedDate": "2026-03-03T13:50:40.137",
         "modifiedDate": "2026-03-03T13:55:12.87",
         "approvedDate": null
+    },
+    {
+        "id": 208617,
+        "messageBody": "The market operations has now been suspended. NEPSE Index increased by 4.0 % at 2026-03-09 11:01:02.989. The trading will be halt for 20 minutes.",
+        "messageTitle": "Market operations has now been suspended.",
+        "encryptedId": null,
+        "expiryDate": "2026-03-09",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": null,
+        "modifiedDate": "2026-03-09T11:01:03.023",
+        "approvedDate": null
     }
 ]
