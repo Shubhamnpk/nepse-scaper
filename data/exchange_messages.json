@@ -166,5 +166,17 @@
         "addedDate": null,
         "modifiedDate": "2026-03-09T11:21:03.03",
         "approvedDate": null
+    },
+    {
+        "id": 208622,
+        "messageBody": "Market operations has now been resumed at 2026-03-09 16:01:37.724. Remarks: Circuit Limit Resumed for LEVEL 6.0 at 2026-03-09 16:01:37.724",
+        "messageTitle": "Market operations has now been resumed.",
+        "encryptedId": null,
+        "expiryDate": "2026-03-09",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": null,
+        "modifiedDate": "2026-03-09T16:01:37.74",
+        "approvedDate": null
     }
 ]
