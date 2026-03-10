@@ -124,17 +124,6 @@
         "id": 44837,
         "applicationDocumentDetailsList": [
             {
-                "id": 29994,
-                "activeStatus": "A",
-                "modifiedBy": "user_sagar",
-                "modifiedDate": "2026-02-22T10:14:46.097",
-                "application": 44837,
-                "documentType": 54,
-                "submittedDate": "2026-02-22",
-                "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/Nepse_1771734575891.pdf",
-                "encryptedId": "4af30b9d4979478b2730367fa91507f8571bcf7ca1f6d68485c238b824988d70d7386442ac67adea682df71dee82c3fcf09331baddfebb6bf0e83a07b864ec7e"
-            },
-            {
                 "id": 29993,
                 "activeStatus": "A",
                 "modifiedBy": "user_sagar",
@@ -144,6 +133,17 @@
                 "submittedDate": "2026-02-22",
                 "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/NSP fagun10 sunday epaper pdf-3_1771734582853.pdf",
                 "encryptedId": "eb78953229dc6bdaac6294c7485a5b471c0ff2532ec331875bedab6e628f2b11ef0e2827c451cf8995c33a1a1458a9e08456378bbd855e72d0c085920a95ded3"
+            },
+            {
+                "id": 29994,
+                "activeStatus": "A",
+                "modifiedBy": "user_sagar",
+                "modifiedDate": "2026-02-22T10:14:46.097",
+                "application": 44837,
+                "documentType": 54,
+                "submittedDate": "2026-02-22",
+                "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/Nepse_1771734575891.pdf",
+                "encryptedId": "4af30b9d4979478b2730367fa91507f8571bcf7ca1f6d68485c238b824988d70d7386442ac67adea682df71dee82c3fcf09331baddfebb6bf0e83a07b864ec7e"
             }
         ],
         "newsHeadline": "\u0938\u093e\u092e\u0942\u0939\u093f\u0915 \u0932\u0917\u093e\u0928\u0940 \u0915\u094b\u0937\u0939\u0930\u0941\u0915\u094b \u0932\u093e\u0917\u093f \u091b\u0941\u091f\u094d\u091f\u093e\u0907\u090f\u0915\u094b \u0938\u093e\u0927\u093e\u0930\u0923 \u0936\u0947\u092f\u0930\u0915\u094b \u0932\u0915-\u0908\u0928 \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0938\u0942\u091a\u0928\u093e [SAGAR] ",
@@ -531,17 +531,6 @@
         "id": 44936,
         "applicationDocumentDetailsList": [
             {
-                "id": 30091,
-                "activeStatus": "A",
-                "modifiedBy": "makar_user",
-                "modifiedDate": "2026-03-09T10:21:48.55",
-                "application": 44936,
-                "documentType": 54,
-                "submittedDate": "2026-03-09",
-                "filePath": "Makar_Jitumaya_Suri_Hydropower_Limited/Company News/2026-03-09/Letter OF Locking release_1773030929603.pdf",
-                "encryptedId": "1ca55173984ae9f4e6d2aae5ab8cbd414594a55eff6b29bf8f3dbbbf88ec41adb4eecb4aa041413e5c2ca7020e5c08ae971bcc7ff87d208868aedee0579c6d44"
-            },
-            {
                 "id": 30090,
                 "activeStatus": "A",
                 "modifiedBy": "makar_user",
@@ -562,6 +551,17 @@
                 "submittedDate": "2026-03-09",
                 "filePath": "Makar_Jitumaya_Suri_Hydropower_Limited/Company News/2026-03-09/Pages from Locking Release notic Prakshepa_25 fagun_1773030948471.pdf",
                 "encryptedId": "3bfa72f724a58c183f20f3fe2d0a6693cd98b9ba9e837dda5aea13e4069b3176ea163dd84390d2fbb9182e01970528d5f9a03257751f55032473d67804ac0b63"
+            },
+            {
+                "id": 30091,
+                "activeStatus": "A",
+                "modifiedBy": "makar_user",
+                "modifiedDate": "2026-03-09T10:21:48.55",
+                "application": 44936,
+                "documentType": 54,
+                "submittedDate": "2026-03-09",
+                "filePath": "Makar_Jitumaya_Suri_Hydropower_Limited/Company News/2026-03-09/Letter OF Locking release_1773030929603.pdf",
+                "encryptedId": "1ca55173984ae9f4e6d2aae5ab8cbd414594a55eff6b29bf8f3dbbbf88ec41adb4eecb4aa041413e5c2ca7020e5c08ae971bcc7ff87d208868aedee0579c6d44"
             }
         ],
         "newsHeadline": "Open Lock In Period  [MAKAR] ",
