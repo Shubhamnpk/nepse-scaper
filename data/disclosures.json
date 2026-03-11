@@ -124,17 +124,6 @@
         "id": 44837,
         "applicationDocumentDetailsList": [
             {
-                "id": 29993,
-                "activeStatus": "A",
-                "modifiedBy": "user_sagar",
-                "modifiedDate": "2026-02-22T10:14:46.097",
-                "application": 44837,
-                "documentType": 54,
-                "submittedDate": "2026-02-22",
-                "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/NSP fagun10 sunday epaper pdf-3_1771734582853.pdf",
-                "encryptedId": "eb78953229dc6bdaac6294c7485a5b471c0ff2532ec331875bedab6e628f2b11ef0e2827c451cf8995c33a1a1458a9e08456378bbd855e72d0c085920a95ded3"
-            },
-            {
                 "id": 29994,
                 "activeStatus": "A",
                 "modifiedBy": "user_sagar",
@@ -144,6 +133,17 @@
                 "submittedDate": "2026-02-22",
                 "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/Nepse_1771734575891.pdf",
                 "encryptedId": "4af30b9d4979478b2730367fa91507f8571bcf7ca1f6d68485c238b824988d70d7386442ac67adea682df71dee82c3fcf09331baddfebb6bf0e83a07b864ec7e"
+            },
+            {
+                "id": 29993,
+                "activeStatus": "A",
+                "modifiedBy": "user_sagar",
+                "modifiedDate": "2026-02-22T10:14:46.097",
+                "application": 44837,
+                "documentType": 54,
+                "submittedDate": "2026-02-22",
+                "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/NSP fagun10 sunday epaper pdf-3_1771734582853.pdf",
+                "encryptedId": "eb78953229dc6bdaac6294c7485a5b471c0ff2532ec331875bedab6e628f2b11ef0e2827c451cf8995c33a1a1458a9e08456378bbd855e72d0c085920a95ded3"
             }
         ],
         "newsHeadline": "\u0938\u093e\u092e\u0942\u0939\u093f\u0915 \u0932\u0917\u093e\u0928\u0940 \u0915\u094b\u0937\u0939\u0930\u0941\u0915\u094b \u0932\u093e\u0917\u093f \u091b\u0941\u091f\u094d\u091f\u093e\u0907\u090f\u0915\u094b \u0938\u093e\u0927\u093e\u0930\u0923 \u0936\u0947\u092f\u0930\u0915\u094b \u0932\u0915-\u0908\u0928 \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0938\u0942\u091a\u0928\u093e [SAGAR] ",
@@ -157,17 +157,6 @@
         "id": 44816,
         "applicationDocumentDetailsList": [
             {
-                "id": 29975,
-                "activeStatus": "A",
-                "modifiedBy": "slbsl_user",
-                "modifiedDate": "2026-02-17T10:42:52.657",
-                "application": 44816,
-                "documentType": 54,
-                "submittedDate": "2026-02-17",
-                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
-                "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
-            },
-            {
                 "id": 29974,
                 "activeStatus": "A",
                 "modifiedBy": "slbsl_user",
@@ -177,6 +166,17 @@
                 "submittedDate": "2026-02-17",
                 "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
                 "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
+            },
+            {
+                "id": 29975,
+                "activeStatus": "A",
+                "modifiedBy": "slbsl_user",
+                "modifiedDate": "2026-02-17T10:42:52.657",
+                "application": 44816,
+                "documentType": 54,
+                "submittedDate": "2026-02-17",
+                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
+                "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
             }
         ],
         "newsHeadline": "Lock in period end [SLBSL] ",
@@ -701,6 +701,50 @@
         "addedDate": "2026-03-11T11:01:57.433",
         "newsSource": "Lock-in period end (BEDC) ",
         "modifiedDate": "2026-03-11T11:09:04.723",
+        "approvedDate": null
+    },
+    {
+        "id": 44956,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30116,
+                "activeStatus": "A",
+                "modifiedBy": "rlfl_user",
+                "modifiedDate": "2026-03-11T15:59:36.197",
+                "application": 44956,
+                "documentType": 54,
+                "submittedDate": "2026-03-11",
+                "filePath": "rlfl_user/2026-03-11/Ishwori sir chairman_1773224055917.pdf",
+                "encryptedId": "2b2377775910d0b44191f955ddf25a90a02b4b68da834475f00e1b0393b7273b1a212cbbe2cdccfd12370f3ece324f48e9e4bf73ff7b04e13e7a4f533ef52853"
+            }
+        ],
+        "newsHeadline": "\u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e \u0964  [RLFL] ",
+        "newsBody": "<p>\u092f\u0938 \u0938\u0902\u0938\u094d\u0925\u093e\u0915\u094b\u0947 \u092e\u093f\u0924\u093f \u0968\u0966\u096e\u0968/\u0967\u0967/\u0968\u096d \u0917\u0924\u0947 \u0926\u093f\u0928\u0915\u094b \u0969\u0903\u0966\u0966 \u092c\u091c\u0947 \u092c\u0938\u0947\u0915\u094b \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u0969\u096c\u0969 \u0914 \u092c\u0948\u0920\u0915\u0932\u0947 \u0938\u0902\u091a\u093e\u0932\u0915 \u0936\u094d\u0930\u0940 \u0908\u0936\u094d\u0935\u0930\u0940 \u092a\u094d\u0930\u0938\u093e\u0926 \u0928\u094d\u092f\u094c\u092a\u093e\u0928\u0947\u0932\u093e\u0908 \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u0940 \u0917\u0930\u0947\u0915\u094b \u0935\u094d\u092f\u0939\u094b\u0930\u093e \u091c\u093e\u0928\u0915\u093e\u0930\u0940\u0915\u094b \u0932\u093e\u0917\u093f \u0905\u0928\u0941\u0930\u094b\u0927 \u091b \u0964</p>",
+        "addedDate": "2026-03-11T15:59:36.193",
+        "newsSource": "RFL",
+        "modifiedDate": "2026-03-11T16:02:44.237",
+        "approvedDate": null
+    },
+    {
+        "id": 44955,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30115,
+                "activeStatus": "A",
+                "modifiedBy": "rlfl_user",
+                "modifiedDate": "2026-03-11T15:57:20.937",
+                "application": 44955,
+                "documentType": 54,
+                "submittedDate": "2026-03-11",
+                "filePath": "rlfl_user/2026-03-11/rajinama Kush sir_1773223903514.pdf",
+                "encryptedId": "fff46700db562f1e8761f34fa0e8e3a57d35498c254931bf14e7883b7bc99669a9c9530f85720d58377a29adc66d1cf282d0727023910cacefaa46d7cbd6f3e6"
+            }
+        ],
+        "newsHeadline": "\u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u0938\u094d\u0935\u0940\u0915\u0943\u0924\u0940 \u092d\u090f\u0915\u094b \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e \u0964  [RLFL] ",
+        "newsBody": "<p>\u092f\u0938 \u0938\u0902\u0938\u094d\u0925\u093e\u0915\u093e \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u093e \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u0936\u094d\u0930\u0940 \u0915\u0941\u0936 \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0932\u094d\u0932\u0940\u091c\u094d\u092f\u0942\u0932\u0947 \u092f\u0938 \u0938\u0902\u0938\u094d\u0925\u093e\u0915\u094b \u0938\u0902\u091a\u093e\u0932\u0915 \u0924\u0925\u093e \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u092a\u0926\u092c\u093e\u091f \u0926\u093f\u0928\u0941 \u092d\u090f\u0915\u094b \u0930\u093e\u091c\u0940\u0928\u093e\u092e\u093e \u092f\u0938 \u0938\u0902\u0938\u094d\u0925\u093e\u0915\u094b \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u092e\u093f\u0924\u093f \u0968\u0966\u096e\u0968/\u0967\u0967/\u0968\u096d \u0917\u0924\u0947 \u0926\u093f\u0928\u0915\u094b \u0969\u0903\u0966\u0966 \u092c\u091c\u0947 \u092c\u0938\u0947\u0915\u094b \u092c\u0948\u0920\u0915\u0932\u0947 \u0938\u094d\u0935\u0940\u0915\u0943\u0924\u0940 \u0917\u0930\u0947\u0915\u094b \u0935\u094d\u092f\u0939\u094b\u0930\u093e \u091c\u093e\u0928\u0915\u093e\u0930\u0940\u0915\u094b \u0932\u093e\u0917\u093f \u0905\u0928\u0941\u0930\u094b\u0927 \u091b \u0964</p>",
+        "addedDate": "2026-03-11T15:57:20.93",
+        "newsSource": "RFL",
+        "modifiedDate": "2026-03-11T15:58:30.477",
         "approvedDate": null
     }
 ]
