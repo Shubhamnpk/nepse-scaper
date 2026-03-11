@@ -1,34 +1,419 @@
 {
     "supplyList": [
         {
+            "totalQuantity": 4297,
+            "totalOrder": 3,
+            "securityId": 341,
+            "symbol": "GBIME",
+            "securityName": "Global IME Bank Limited"
+        },
+        {
+            "totalQuantity": 1267,
+            "totalOrder": 4,
+            "securityId": 142,
+            "symbol": "KBL",
+            "securityName": "Kumari Bank Limited"
+        },
+        {
+            "totalQuantity": 990,
+            "totalOrder": 3,
+            "securityId": 131,
+            "symbol": "NABIL",
+            "securityName": "Nabil Bank Limited"
+        },
+        {
+            "totalQuantity": 743,
+            "totalOrder": 3,
+            "securityId": 137,
+            "symbol": "EBL",
+            "securityName": "Everest Bank Limited"
+        },
+        {
+            "totalQuantity": 727,
+            "totalOrder": 4,
+            "securityId": 134,
+            "symbol": "HBL",
+            "securityName": "Himalayan Bank Limited"
+        },
+        {
+            "totalQuantity": 500,
+            "totalOrder": 1,
+            "securityId": 132,
+            "symbol": "NIMB",
+            "securityName": "Nepal Investment Mega Bank Limited"
+        },
+        {
+            "totalQuantity": 343,
+            "totalOrder": 1,
+            "securityId": 171,
+            "symbol": "SANIMA",
+            "securityName": "Sanima Bank Limited"
+        },
+        {
+            "totalQuantity": 340,
+            "totalOrder": 1,
+            "securityId": 133,
+            "symbol": "SCB",
+            "securityName": "Standard Chartered Bank Limited"
+        },
+        {
+            "totalQuantity": 250,
+            "totalOrder": 3,
+            "securityId": 187,
+            "symbol": "NLIC",
+            "securityName": "Nepal Life Insurance Co. Ltd."
+        },
+        {
+            "totalQuantity": 250,
+            "totalOrder": 2,
+            "securityId": 204,
+            "symbol": "GUFL",
+            "securityName": "Gurkhas Finance Ltd."
+        },
+        {
+            "totalQuantity": 238,
+            "totalOrder": 3,
+            "securityId": 348,
+            "symbol": "CZBIL",
+            "securityName": "Citizens Bank International Limited"
+        },
+        {
+            "totalQuantity": 175,
+            "totalOrder": 5,
+            "securityId": 2851,
+            "symbol": "NIBD2082",
+            "securityName": "10.5 % NEPAL INVESTMENT DEBENTURE 2082"
+        },
+        {
+            "totalQuantity": 165,
+            "totalOrder": 5,
+            "securityId": 2878,
+            "symbol": "SRBLD83",
+            "securityName": "10.25% Sunrise Bank Debenture 2083"
+        },
+        {
             "totalQuantity": 100,
             "totalOrder": 1,
-            "securityId": 8109,
-            "symbol": "SBD89",
-            "securityName": "10.25% Sanima Debenture 2089"
+            "securityId": 232,
+            "symbol": "GFCL",
+            "securityName": "Goodwill Finance Limited"
         },
         {
-            "totalQuantity": 50,
-            "totalOrder": 2,
-            "securityId": 9220,
-            "symbol": "KBLD90",
-            "securityName": "10% KBL Debenture 2090"
+            "totalQuantity": 100,
+            "totalOrder": 5,
+            "securityId": 2825,
+            "symbol": "NICAD85/86",
+            "securityName": "10% NIC Asia Debenture 2085/86"
         },
         {
-            "totalQuantity": 50,
-            "totalOrder": 2,
-            "securityId": 8098,
-            "symbol": "SBLD89",
-            "securityName": "10.75% SBL Debenture 2089"
+            "totalQuantity": 100,
+            "totalOrder": 1,
+            "securityId": 172,
+            "symbol": "NABBC",
+            "securityName": "Narayani Development Bank Limited"
+        },
+        {
+            "totalQuantity": 100,
+            "totalOrder": 1,
+            "securityId": 178,
+            "symbol": "NLICL",
+            "securityName": "National Life Insurance Co. Ltd."
+        },
+        {
+            "totalQuantity": 100,
+            "totalOrder": 1,
+            "securityId": 135,
+            "symbol": "SBI",
+            "securityName": "Nepal SBI Bank Limited"
+        },
+        {
+            "totalQuantity": 85,
+            "totalOrder": 5,
+            "securityId": 2864,
+            "symbol": "SBLD83",
+            "securityName": "10.25% SBL Debenture 2083"
+        },
+        {
+            "totalQuantity": 80,
+            "totalOrder": 5,
+            "securityId": 2850,
+            "symbol": "NMBD2085",
+            "securityName": "10 % NMB DEBENTURE 2085"
+        },
+        {
+            "totalQuantity": 65,
+            "totalOrder": 4,
+            "securityId": 2904,
+            "symbol": "PBLD84",
+            "securityName": "10% Prabhu Bank Debenture 2084 "
+        },
+        {
+            "totalQuantity": 45,
+            "totalOrder": 4,
+            "securityId": 2854,
+            "symbol": "NBBD2085",
+            "securityName": "10.25% NBBL Debenture 2085"
+        },
+        {
+            "totalQuantity": 40,
+            "totalOrder": 4,
+            "securityId": 2883,
+            "symbol": "GWFD83",
+            "securityName": "12 % Goodwill Finance Limited Debenture 2083"
+        },
+        {
+            "totalQuantity": 25,
+            "totalOrder": 1,
+            "securityId": 2892,
+            "symbol": "NBLD82",
+            "securityName": "10% Nabil Debenture 2082"
+        },
+        {
+            "totalQuantity": 15,
+            "totalOrder": 1,
+            "securityId": 2886,
+            "symbol": "ADBLD83",
+            "securityName": "10.35% Agricultural Bank Debenture 2083"
+        },
+        {
+            "totalQuantity": 12,
+            "totalOrder": 1,
+            "securityId": 139,
+            "symbol": "NICA",
+            "securityName": "NIC Asia Bank Ltd."
+        },
+        {
+            "totalQuantity": 10,
+            "totalOrder": 1,
+            "securityId": 2866,
+            "symbol": "MBLD2085",
+            "securityName": "10.25% Machhapuchhre Bank Debenture 2085"
+        },
+        {
+            "totalQuantity": 10,
+            "totalOrder": 1,
+            "securityId": 2873,
+            "symbol": "HBLD83",
+            "securityName": "10% Himalayan Bank Debenture 2083"
+        },
+        {
+            "totalQuantity": 10,
+            "totalOrder": 1,
+            "securityId": 164,
+            "symbol": "CBBL",
+            "securityName": "Chhimek Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+            "totalQuantity": 1,
+            "totalOrder": 1,
+            "securityId": 2868,
+            "symbol": "NICD83/84",
+            "securityName": "10.25% NIC Asia Debenture 2083/84"
         }
     ],
     "demandList": [
         {
+            "totalQuantity": 10130,
+            "totalOrder": 81,
+            "securityId": 198,
+            "symbol": "NLO",
+            "securityName": "Nepal Lube Oil Limited"
+        },
+        {
+            "totalQuantity": 1560,
+            "totalOrder": 2,
+            "securityId": 245,
+            "symbol": "CFCL",
+            "securityName": "Central Finance Co. Ltd."
+        },
+        {
+            "totalQuantity": 1000,
+            "totalOrder": 1,
+            "securityId": 255,
+            "symbol": "PRVU",
+            "securityName": "Prabhu  Bank Limited"
+        },
+        {
+            "totalQuantity": 1000,
+            "totalOrder": 1,
+            "securityId": 137,
+            "symbol": "EBL",
+            "securityName": "Everest Bank Limited"
+        },
+        {
+            "totalQuantity": 530,
+            "totalOrder": 2,
+            "securityId": 142,
+            "symbol": "KBL",
+            "securityName": "Kumari Bank Limited"
+        },
+        {
+            "totalQuantity": 500,
+            "totalOrder": 1,
+            "securityId": 517,
+            "symbol": "NBL",
+            "securityName": "Nepal Bank Limited"
+        },
+        {
+            "totalQuantity": 400,
+            "totalOrder": 5,
+            "securityId": 2851,
+            "symbol": "NIBD2082",
+            "securityName": "10.5 % NEPAL INVESTMENT DEBENTURE 2082"
+        },
+        {
+            "totalQuantity": 339,
+            "totalOrder": 2,
+            "securityId": 274,
+            "symbol": "EDBL",
+            "securityName": "Excel Development Bank Ltd."
+        },
+        {
+            "totalQuantity": 300,
+            "totalOrder": 5,
+            "securityId": 2828,
+            "symbol": "SAND2085",
+            "securityName": "10% Sanima Bank Limited Debenture"
+        },
+        {
+            "totalQuantity": 300,
+            "totalOrder": 5,
+            "securityId": 2892,
+            "symbol": "NBLD82",
+            "securityName": "10% Nabil Debenture 2082"
+        },
+        {
+            "totalQuantity": 250,
+            "totalOrder": 5,
+            "securityId": 2890,
+            "symbol": "SBIBD86",
+            "securityName": "10% Nepal SBI Bank Debenture 2086"
+        },
+        {
+            "totalQuantity": 250,
+            "totalOrder": 5,
+            "securityId": 2875,
+            "symbol": "PBLD86",
+            "securityName": "10.25% Prabhu Bank  Debenture 2086"
+        },
+        {
+            "totalQuantity": 225,
+            "totalOrder": 5,
+            "securityId": 2873,
+            "symbol": "HBLD83",
+            "securityName": "10% Himalayan Bank Debenture 2083"
+        },
+        {
+            "totalQuantity": 225,
+            "totalOrder": 2,
+            "securityId": 2886,
+            "symbol": "ADBLD83",
+            "securityName": "10.35% Agricultural Bank Debenture 2083"
+        },
+        {
+            "totalQuantity": 200,
+            "totalOrder": 5,
+            "securityId": 2912,
+            "symbol": "SBLD84",
+            "securityName": "8.5% SBL Debenture 2084"
+        },
+        {
+            "totalQuantity": 200,
+            "totalOrder": 1,
+            "securityId": 238,
+            "symbol": "NMB",
+            "securityName": "NMB Bank Limited"
+        },
+        {
+            "totalQuantity": 200,
+            "totalOrder": 1,
+            "securityId": 140,
+            "symbol": "MBL",
+            "securityName": "Machhapuchhre Bank Limited"
+        },
+        {
+            "totalQuantity": 189,
+            "totalOrder": 5,
+            "securityId": 2936,
+            "symbol": "NCCD86",
+            "securityName": "9.5% NCC Debenture 2086"
+        },
+        {
+            "totalQuantity": 175,
+            "totalOrder": 4,
+            "securityId": 2931,
+            "symbol": "NIBD84",
+            "securityName": "8.5% Nepal Investment Bank Debenture 2084"
+        },
+        {
+            "totalQuantity": 150,
+            "totalOrder": 5,
+            "securityId": 2879,
+            "symbol": "LBLD86",
+            "securityName": "10% Laxmi Bank Debenture 2086"
+        },
+        {
+            "totalQuantity": 120,
+            "totalOrder": 2,
+            "securityId": 135,
+            "symbol": "SBI",
+            "securityName": "Nepal SBI Bank Limited"
+        },
+        {
+            "totalQuantity": 115,
+            "totalOrder": 1,
+            "securityId": 397,
+            "symbol": "ADBL",
+            "securityName": "Agricultural Development Bank Limited"
+        },
+        {
             "totalQuantity": 100,
-            "totalOrder": 3,
-            "securityId": 8109,
-            "symbol": "SBD89",
-            "securityName": "10.25% Sanima Debenture 2089"
+            "totalOrder": 1,
+            "securityId": 2825,
+            "symbol": "NICAD85/86",
+            "securityName": "10% NIC Asia Debenture 2085/86"
+        },
+        {
+            "totalQuantity": 100,
+            "totalOrder": 1,
+            "securityId": 2922,
+            "symbol": "SBD87",
+            "securityName": "8.5% Sanima Debenture 2087"
+        },
+        {
+            "totalQuantity": 75,
+            "totalOrder": 1,
+            "securityId": 164,
+            "symbol": "CBBL",
+            "securityName": "Chhimek Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+            "totalQuantity": 40,
+            "totalOrder": 2,
+            "securityId": 2882,
+            "symbol": "ICFCD83",
+            "securityName": "12% ICFC Finance Limited Debenture 2083"
+        },
+        {
+            "totalQuantity": 38,
+            "totalOrder": 1,
+            "securityId": 132,
+            "symbol": "NIMB",
+            "securityName": "Nepal Investment Mega Bank Limited"
+        },
+        {
+            "totalQuantity": 30,
+            "totalOrder": 2,
+            "securityId": 131,
+            "symbol": "NABIL",
+            "securityName": "Nabil Bank Limited"
+        },
+        {
+            "totalQuantity": 10,
+            "totalOrder": 1,
+            "securityId": 187,
+            "symbol": "NLIC",
+            "securityName": "Nepal Life Insurance Co. Ltd."
         }
     ]
 }
