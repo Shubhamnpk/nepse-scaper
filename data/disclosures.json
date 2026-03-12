@@ -157,17 +157,6 @@
         "id": 44816,
         "applicationDocumentDetailsList": [
             {
-                "id": 29974,
-                "activeStatus": "A",
-                "modifiedBy": "slbsl_user",
-                "modifiedDate": "2026-02-17T10:42:52.657",
-                "application": 44816,
-                "documentType": 54,
-                "submittedDate": "2026-02-17",
-                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
-                "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
-            },
-            {
                 "id": 29975,
                 "activeStatus": "A",
                 "modifiedBy": "slbsl_user",
@@ -177,6 +166,17 @@
                 "submittedDate": "2026-02-17",
                 "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
                 "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
+            },
+            {
+                "id": 29974,
+                "activeStatus": "A",
+                "modifiedBy": "slbsl_user",
+                "modifiedDate": "2026-02-17T10:42:52.657",
+                "application": 44816,
+                "documentType": 54,
+                "submittedDate": "2026-02-17",
+                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
+                "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
             }
         ],
         "newsHeadline": "Lock in period end [SLBSL] ",
@@ -745,6 +745,116 @@
         "addedDate": "2026-03-11T15:57:20.93",
         "newsSource": "RFL",
         "modifiedDate": "2026-03-11T15:58:30.477",
+        "approvedDate": null
+    },
+    {
+        "id": 44969,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30133,
+                "activeStatus": "A",
+                "modifiedBy": "sypnl_uesr",
+                "modifiedDate": "2026-03-12T10:44:25.77",
+                "application": 44969,
+                "documentType": 54,
+                "submittedDate": "2026-03-12",
+                "filePath": "SY_Panel_Nepal_Limited/Company News/2026-03-12/information_1773291556018.pdf",
+                "encryptedId": "88742ad4a5cf4afe958bde7895fbe54b37a1369a2647ba4862e6540641f44cdc47a0f1641a3dc99a563826d19fce7235b1195741685503a2ea5d3420dd800b15"
+            }
+        ],
+        "newsHeadline": "MD change [SYPNL] ",
+        "newsBody": "",
+        "addedDate": "2026-03-12T10:44:25.767",
+        "newsSource": "Company's BOD meeting minute",
+        "modifiedDate": "2026-03-12T10:45:15.893",
+        "approvedDate": null
+    },
+    {
+        "id": 44967,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30130,
+                "activeStatus": "A",
+                "modifiedBy": "hppl_user",
+                "modifiedDate": "2026-03-12T10:28:57.847",
+                "application": 44967,
+                "documentType": 54,
+                "submittedDate": "2026-03-12",
+                "filePath": "hppl_user/2026-03-12/book close notice_hppl_1773290605757.pdf",
+                "encryptedId": "0438d12aaabc6e994e2d04c0a2cc8bfc764f72ed0e94089a0c1e21c0a32e9ac7f3bbea196e54c8e4e023ebc91f712d4bca3011128228036a6eef8c4660009ccb"
+            }
+        ],
+        "newsHeadline": "Book Close [HPPL] ",
+        "newsBody": "Book Close of HPPL\nBook Close Date : 3/24/2026",
+        "addedDate": "2026-03-12T10:28:57.843",
+        "newsSource": "Board Meeting of 2082/11/28",
+        "modifiedDate": "2026-03-12T10:31:27.387",
+        "approvedDate": null
+    },
+    {
+        "id": 44964,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30127,
+                "activeStatus": "A",
+                "modifiedBy": "mkcl_user",
+                "modifiedDate": "2026-03-12T10:11:38.5",
+                "application": 44964,
+                "documentType": 54,
+                "submittedDate": "2026-03-12",
+                "filePath": "Muktinath_Krishi_Company_Limited/Company News/2026-03-12/MKCL Company Secretary Appointment Lette_1773289549854.pdf",
+                "encryptedId": "805505bc1ae190f3a3244fdf5a3b2e990fed843b0d8f4cf3f522cc64cb2f1748e9e81a78dffa6091e9cc2df765e3192e01f15b08509940e0acdcb2fdbbbf880e"
+            }
+        ],
+        "newsHeadline": "Mrs. Deepanjali Khakurel appointed as company secretary [MKCL] ",
+        "newsBody": "<p>MKCL 104th BoD meeting held on 2082.11.27 appointed Mrs. Deepanjali Khakurel as a Company Secretary.</p>",
+        "addedDate": "2026-03-12T10:11:38.493",
+        "newsSource": "104th BoD meeting decision regarding appointment of Company Secretary",
+        "modifiedDate": "2026-03-12T10:12:49.917",
+        "approvedDate": null
+    },
+    {
+        "id": 44958,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30118,
+                "activeStatus": "A",
+                "modifiedBy": "mkjc_user",
+                "modifiedDate": "2026-03-11T16:55:32.403",
+                "application": 44958,
+                "documentType": 54,
+                "submittedDate": "2026-03-11",
+                "filePath": "mkjc_user/2026-03-11/Resignation of Chairman_1773227215193.pdf",
+                "encryptedId": "ad2478cbb97f2f2c1a589b1312b81699ce177aa47f4f7bdad74e5a38d4659bcf60c98ef657144438c8dfa20b038d422718fc0ac36ddee4dfaca6842ec7d80e51"
+            }
+        ],
+        "newsHeadline": "Resignation of Chairman [MKJC] ",
+        "newsBody": "<p>\u0915\u092e\u094d\u092a\u0928\u0940\u0915\u094b \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u0924\u0925\u093e \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u092a\u0926\u092c\u093e\u091f \u0930\u093e\u091c\u093f\u0928\u093e\u092e\u093e \u0938\u094d\u0935\u0940\u0915\u0943\u0924 \u092d\u0908  \u0938\u094b \u0930\u093f\u0915\u094d\u0924 \u0938\u0902\u091a\u093e\u0932\u0915 \u092a\u0926\u092e\u093e \u0928\u092f\u093e\u0901 \u0938\u0902\u091a\u093e\u0932\u0915 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f \u0917\u0930\u093f\u090f\u0915\u094b \u092c\u093e\u0930\u0947 \u0964</p>",
+        "addedDate": "2026-03-11T16:55:32.4",
+        "newsSource": "Mailung Khola Jal Vidhyut Company Limited",
+        "modifiedDate": "2026-03-12T08:11:43.62",
+        "approvedDate": null
+    },
+    {
+        "id": 44957,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30117,
+                "activeStatus": "A",
+                "modifiedBy": "dlbs_user",
+                "modifiedDate": "2026-03-11T16:46:11.923",
+                "application": 44957,
+                "documentType": 54,
+                "submittedDate": "2026-03-11",
+                "filePath": "Dhaulagiri_laghubitta_Sanstha_Limited/Company News/2026-03-11/sebon_faglun 27 divident_1773226843932.pdf",
+                "encryptedId": "2cf138cda0440217f5629cc85babdb22f671fc2fb830766d55b02f0636f4af842e5695c83bb41402d1729d934b9617a0f749c969f108bc885b88d7517da33bd3"
+            }
+        ],
+        "newsHeadline": "Divedend Declaration of DLBS [DLBS] ",
+        "newsBody": "Dividend Declaration of DLBS\nFiscal Year: 2081-2082",
+        "addedDate": "2026-03-11T16:46:11.92",
+        "newsSource": "Baord Meeting",
+        "modifiedDate": "2026-03-12T08:11:20.05",
         "approvedDate": null
     }
 ]
