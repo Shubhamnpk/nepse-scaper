@@ -7347,13 +7347,6 @@
             "securityId": 8018
         },
         {
-            "symbol": "RSML",
-            "shareTraded": 160,
-            "closingPrice": 893.3,
-            "securityName": "Reliance Spinning Mills Limited",
-            "securityId": 9306
-        },
-        {
             "symbol": "RBBD2088",
             "shareTraded": 160,
             "closingPrice": 1065.0,
@@ -7361,11 +7354,11 @@
             "securityId": 9264
         },
         {
-            "symbol": "EBLD91",
-            "shareTraded": 150,
-            "closingPrice": 1105.0,
-            "securityName": "Everest Bank Limited Debenture 2091",
-            "securityId": 9255
+            "symbol": "RSML",
+            "shareTraded": 160,
+            "closingPrice": 893.3,
+            "securityName": "Reliance Spinning Mills Limited",
+            "securityId": 9306
         },
         {
             "symbol": "HFIN",
@@ -7373,6 +7366,13 @@
             "closingPrice": 111.8,
             "securityName": "Hotel Forest Inn Limited",
             "securityId": 9308
+        },
+        {
+            "symbol": "EBLD91",
+            "shareTraded": 150,
+            "closingPrice": 1105.0,
+            "securityName": "Everest Bank Limited Debenture 2091",
+            "securityId": 9255
         },
         {
             "symbol": "SBLD2091",
@@ -7438,18 +7438,18 @@
             "securityId": 219
         },
         {
-            "symbol": "MBLD87",
-            "shareTraded": 50,
-            "closingPrice": 1106.0,
-            "securityName": "8.5% Machhapuchchhre Debenture 2087",
-            "securityId": 7985
-        },
-        {
             "symbol": "MBLD2085",
             "shareTraded": 50,
             "closingPrice": 1165.0,
             "securityName": "10.25% Machhapuchhre Bank Debenture 2085",
             "securityId": 2866
+        },
+        {
+            "symbol": "MBLD87",
+            "shareTraded": 50,
+            "closingPrice": 1106.0,
+            "securityName": "8.5% Machhapuchchhre Debenture 2087",
+            "securityId": 7985
         },
         {
             "symbol": "SHINED",
@@ -7473,20 +7473,6 @@
             "securityId": 213
         },
         {
-            "symbol": "ADBLD83",
-            "shareTraded": 25,
-            "closingPrice": 1052.5,
-            "securityName": "10.35% Agricultural Bank Debenture 2083",
-            "securityId": 2886
-        },
-        {
-            "symbol": "SAND2085",
-            "shareTraded": 25,
-            "closingPrice": 1123.0,
-            "securityName": "10% Sanima Bank Limited Debenture",
-            "securityId": 2828
-        },
-        {
             "symbol": "NIBD84",
             "shareTraded": 25,
             "closingPrice": 1056.0,
@@ -7506,6 +7492,20 @@
             "closingPrice": 1065.0,
             "securityName": "10.25% Nepal SBI Bank Debenture 2083",
             "securityId": 8110
+        },
+        {
+            "symbol": "ADBLD83",
+            "shareTraded": 25,
+            "closingPrice": 1052.5,
+            "securityName": "10.35% Agricultural Bank Debenture 2083",
+            "securityId": 2886
+        },
+        {
+            "symbol": "SAND2085",
+            "shareTraded": 25,
+            "closingPrice": 1123.0,
+            "securityName": "10% Sanima Bank Limited Debenture",
+            "securityId": 2828
         },
         {
             "symbol": "NABILD2089",
