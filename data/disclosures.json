@@ -157,17 +157,6 @@
         "id": 44816,
         "applicationDocumentDetailsList": [
             {
-                "id": 29975,
-                "activeStatus": "A",
-                "modifiedBy": "slbsl_user",
-                "modifiedDate": "2026-02-17T10:42:52.657",
-                "application": 44816,
-                "documentType": 54,
-                "submittedDate": "2026-02-17",
-                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
-                "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
-            },
-            {
                 "id": 29974,
                 "activeStatus": "A",
                 "modifiedBy": "slbsl_user",
@@ -177,6 +166,17 @@
                 "submittedDate": "2026-02-17",
                 "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Notice_Lock in period end_1771304122239.jpg",
                 "encryptedId": "963d59d6355709e3699349e371840f4462d195096f125d5bfe0f6c8572f9a4690209d6a745dc4998ad810be12ac14693fbf0aaff2b2468cf5d6f2a78f8bd1094"
+            },
+            {
+                "id": 29975,
+                "activeStatus": "A",
+                "modifiedBy": "slbsl_user",
+                "modifiedDate": "2026-02-17T10:42:52.657",
+                "application": 44816,
+                "documentType": 54,
+                "submittedDate": "2026-02-17",
+                "filePath": "Samudayik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-02-17/Information to Nepse_Lock in period_1771304110682.pdf",
+                "encryptedId": "32efa875a5e0e77976d842aa7994e3fcdaab7058225c8da93a90b74245b8ea18d1002881080df2671d11d2602e9c32b956ecfde6160ae8e9d0ece7e44c13c847"
             }
         ],
         "newsHeadline": "Lock in period end [SLBSL] ",
@@ -877,6 +877,72 @@
         "addedDate": "2026-03-12T16:16:18.68",
         "newsSource": "BOD and MOCIT",
         "modifiedDate": "2026-03-12T16:19:27.237",
+        "approvedDate": null
+    },
+    {
+        "id": 44989,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30148,
+                "activeStatus": "A",
+                "modifiedBy": "ili_user",
+                "modifiedDate": "2026-03-13T08:02:08.6",
+                "application": 44989,
+                "documentType": 54,
+                "submittedDate": "2026-03-13",
+                "filePath": "IME_Life_Insurance_Company_Limited/Company News/2026-03-13/Reformation of Audit Committee Letter to NEPSE_1773368185013.pdf",
+                "encryptedId": "8554e44fe21f72889cd0dc086527a448434812409ba9028292b4b712d500691f58ff0b52acb39ec7b7a3904f5e0b49467814d9638280fab5326ff8de2f2f6cff"
+            }
+        ],
+        "newsHeadline": "Re-Formation Of Audit Committee [ILI] ",
+        "newsBody": "<p>Dear Sir/Madam,</p><p></p><p>Please do find the letter regarding reformation of Audit Committee. </p><p></p><p>WBR </p><p>Prakash Neupane </p><p>Company Secretary</p>",
+        "addedDate": "2026-03-13T08:02:08.59",
+        "newsSource": "Board Meeting (Re-Formation Of Audit Committee)",
+        "modifiedDate": "2026-03-13T09:35:04.87",
+        "approvedDate": null
+    },
+    {
+        "id": 44988,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30147,
+                "activeStatus": "A",
+                "modifiedBy": "jbbl_user",
+                "modifiedDate": "2026-03-12T18:36:37.3",
+                "application": 44988,
+                "documentType": 54,
+                "submittedDate": "2026-03-12",
+                "filePath": "jbbl_user/2026-03-12/After AGM Appointment of Statutory Auditor_1773319856411.pdf",
+                "encryptedId": "9bbcf5ec8598f843f3c680c64ea9601623ff24dc13edbe628fb50d81ff205359d78c33d3bbb0eb97da028f827f8be96d4b136b0065677b993927d071ca1d8fe2"
+            }
+        ],
+        "newsHeadline": "AGM Completion & Appointment of Statutory Auditor. [JBBL] ",
+        "newsBody": "",
+        "addedDate": "2026-03-12T18:36:37.297",
+        "newsSource": "AGM",
+        "modifiedDate": "2026-03-13T09:34:45.693",
+        "approvedDate": null
+    },
+    {
+        "id": 44987,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30146,
+                "activeStatus": "A",
+                "modifiedBy": "shpc_user",
+                "modifiedDate": "2026-03-12T17:12:37.043",
+                "application": 44987,
+                "documentType": 54,
+                "submittedDate": "2026-03-12",
+                "filePath": "shpc_user/2026-03-12/Book Close Notice_1773314754513.pdf",
+                "encryptedId": "e1322fb6dc9487199d1af15b2f5765e0ba2d84151458b06f803293e54431a753265f89ec2759915eae4da7ba391cd40b1411e062b9fcc4fc970d59e6fdf4b635"
+            }
+        ],
+        "newsHeadline": "14th AGM declaration and Book Closure date [SHPC] ",
+        "newsBody": "Annual General Meeting of SHPC\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 4/12/2026\nAGM No: 14\nBook Close Date: 3/26/2026",
+        "addedDate": "2026-03-12T17:12:37.037",
+        "newsSource": "BOD meeting held on 2082.11.28 at 3:30 Pm onwards",
+        "modifiedDate": "2026-03-13T09:34:28.45",
         "approvedDate": null
     }
 ]
