@@ -202,5 +202,77 @@
         "addedDate": "2026-03-12T14:20:43.897",
         "modifiedDate": "2026-03-12T14:20:43.897",
         "approvedDate": null
+    },
+    {
+        "id": 208631,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">25,15,616 Units Bonus Shares of&nbsp;</span>Sun Nepal Life Insurance Company Limited (SNLI) <span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">has been listed in NEPSE.</span></p>",
+        "messageTitle": "Listing 5% Bonus Shares of Sun Nepal Life Insurance Company Limited (SNLI)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-13",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-13T12:46:56.583",
+        "modifiedDate": "2026-03-13T12:46:56.583",
+        "approvedDate": null
+    },
+    {
+        "id": 208630,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">11,17,092.2743 Units Bonus Shares of&nbsp;</span>Swarojgar Laghubitta Bittiya Sanstha Ltd. (SLBBL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Listing 14.25% Bonus Shares of Swarojgar Laghubitta Bittiya Sanstha Ltd. (SLBBL)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-13",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-13T12:45:06.69",
+        "modifiedDate": "2026-03-13T12:45:06.69",
+        "approvedDate": null
+    },
+    {
+        "id": 208629,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">9,33,750 Units Bonus Shares of&nbsp;</span>Swabalamban Laghubitta Bittiya Sanstha Limited (SWBBL) <span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">has been listed in NEPSE.</span></p>",
+        "messageTitle": "Listing 5.6365% Bonus Shares of Swabalamban Laghubitta Bittiya Sanstha Limited (SWBBL)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-13",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-13T12:43:28.667",
+        "modifiedDate": "2026-03-13T12:43:28.667",
+        "approvedDate": null
+    },
+    {
+        "id": 208628,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">40,19,182.335 Units Bonus Shares of&nbsp;</span>Chhimek Laghubitta Bittiya Sanstha Limited (CBBL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Listing 12.5% Bonus Shares of Chhimek Laghubitta Bittiya Sanstha Limited (CBBL)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-13",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-13T12:41:43.183",
+        "modifiedDate": "2026-03-13T12:41:43.183",
+        "approvedDate": null
+    },
+    {
+        "id": 208627,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">12,75,000 Units Bonus Shares of&nbsp;</span>Sikles Hydropower Limited (SIKLES)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Listing 15% Bonus Shares of Sikles Hydropower Limited (SIKLES)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-13",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-13T12:41:12.667",
+        "modifiedDate": "2026-03-13T12:41:12.667",
+        "approvedDate": null
+    },
+    {
+        "id": 208626,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">24,87,750 Units Bonus Shares of&nbsp;</span>Sarbottam Cement Limited (SARBTM)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Listing 5% Bonus Shares of Sarbottam Cement Limited (SARBTM)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-13",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-13T12:38:45.857",
+        "modifiedDate": "2026-03-13T12:38:45.857",
+        "approvedDate": null
     }
 ]
