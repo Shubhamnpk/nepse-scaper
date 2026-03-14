@@ -461,6 +461,10 @@
             "name": "Green Development Bank Ltd."
         },
         {
+            "symbol": "SABBL",
+            "name": "Salapa Bikas Bank Limited"
+        },
+        {
             "symbol": "MLBL",
             "name": "Mahalaxmi Bikas Bank Ltd."
         },
@@ -645,6 +649,10 @@
         {
             "symbol": "BANDIPUR",
             "name": "Bandipur Cablecar and Tourism Limited"
+        },
+        {
+            "symbol": "HFIN",
+            "name": "Hotel Forest Inn Limited"
         }
     ],
     "Hydro Power": [
@@ -1035,6 +1043,10 @@
         {
             "symbol": "VLUCL",
             "name": "Vision Lumbini Urja Company Limited"
+        },
+        {
+            "symbol": "SOHL",
+            "name": "Solu Hydropower Limited"
         }
     ],
     "Investment": [
@@ -1153,6 +1165,10 @@
         {
             "symbol": "SARBTM",
             "name": "Sarbottam Cement Limited"
+        },
+        {
+            "symbol": "RSML",
+            "name": "Reliance Spinning Mills Limited"
         },
         {
             "symbol": "SONA",
@@ -1583,7 +1599,7 @@
             "name": "Global IME Samunnat Yojana - II"
         },
         {
-            "symbol": "CSY",
+            "symbol": "CSBY",
             "name": "Citizens Sadabahar Yojana"
         },
         {
@@ -1601,6 +1617,10 @@
         {
             "symbol": "HLICF",
             "name": "HLI Large Cap Fund"
+        },
+        {
+            "symbol": "CSY",
+            "name": "Citizens Santulit Yojana"
         }
     ],
     "Non-Life Insurance": [
@@ -2231,6 +2251,10 @@
         {
             "symbol": "SWASTIKP",
             "name": "Swastik Laghubitta Bittiya Sanstha Limited Promoter Share"
+        },
+        {
+            "symbol": "SABBLP",
+            "name": "Salapa Bikas Bank Limited Promoter Share"
         }
     ],
     "Tradings": [

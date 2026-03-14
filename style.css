@@ -1034,12 +1034,18 @@ header {
     border-radius: 999px;
     padding: 0.4rem 0.8rem;
     font-size: 0.78rem;
+    color-scheme: dark;
 }
 
 .ipo-filter-select:focus-visible {
     border-color: var(--accent-primary);
     outline: none;
     box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.1);
+}
+
+.ipo-filter-select option {
+    background: #0b0f16;
+    color: #f8fafc;
 }
 
 .ipo-toggle-btn {

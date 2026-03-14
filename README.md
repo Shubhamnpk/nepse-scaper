@@ -33,7 +33,7 @@ A modern, elegant, and comprehensive dashboard as well as open api for tracking 
 - **Market History**: Historical market summary data
 
 ### JSON API
-All data is available as static JSON endpoints for developers. See [JSON Docs](docs.html) for complete API reference.
+All data is available as static JSON endpoints for developers. See [JSON Docs](docs.html) for complete API reference. The OpenAPI spec is available at `openapi.yaml`.
 
 ---
 

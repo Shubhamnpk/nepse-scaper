@@ -4,6 +4,8 @@ import json
 import argparse
 import subprocess
 from datetime import datetime, timedelta
+import urllib.parse
+import re
 
 # Add the current directory to path to find official_api
 sys.path.append(os.path.dirname(__file__))
@@ -75,6 +77,150 @@ def merge_records_by_id(existing_records, incoming_records):
 def _normalize_text(value):
     """Normalize text for safe duplicate comparisons."""
     return ' '.join(str(value or '').split()).strip().lower()
+
+def build_file_url(file_path):
+    """Construct the full, valid download URL for a NEPSE attachment path."""
+    if not file_path:
+        return None
+    file_path = str(file_path)
+    if file_path.startswith('http://') or file_path.startswith('https://'):
+        return file_path
+    base_url = "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation="
+    encoded_path = urllib.parse.quote(file_path, safe="/%")
+    return base_url + encoded_path
+
+def add_file_urls_to_company_disclosures(records):
+    """Attach fileUrl to each document entry in company disclosures."""
+    if not isinstance(records, list):
+        return records
+    for record in records:
+        if not isinstance(record, dict):
+            continue
+        documents = record.get('applicationDocumentDetailsList')
+        if not isinstance(documents, list):
+            continue
+        for doc in documents:
+            if not isinstance(doc, dict):
+                continue
+            file_url = build_file_url(doc.get('filePath'))
+            if file_url:
+                doc['fileUrl'] = file_url
+    return records
+
+def add_file_urls_to_exchange_messages(records):
+    """Attach fileUrl to each exchange message when filePath is present."""
+    if not isinstance(records, list):
+        return records
+    for record in records:
+        if not isinstance(record, dict):
+            continue
+        file_url = build_file_url(record.get('filePath'))
+        if file_url:
+            record['fileUrl'] = file_url
+    return records
+
+def _parse_datetime(value):
+    """Parse a date/time string to a datetime; fallback to datetime.min."""
+    if not value:
+        return datetime.min
+    try:
+        return datetime.fromisoformat(str(value))
+    except Exception:
+        return datetime.min
+
+def sort_disclosures_latest_first(records, date_keys):
+    """Sort disclosures so newest entries appear first."""
+    if not isinstance(records, list):
+        return records
+    def sort_key(item):
+        if not isinstance(item, dict):
+            return datetime.min
+        for key in date_keys:
+            value = item.get(key)
+            if value:
+                return _parse_datetime(value)
+        return datetime.min
+    records.sort(key=sort_key, reverse=True)
+    return records
+
+def sort_notices_latest_first(records):
+    """Sort notices so newest entries appear first (date, then id fallback)."""
+    if not isinstance(records, list):
+        return records
+    def sort_key(item):
+        if not isinstance(item, dict):
+            return (datetime.min, 0)
+        for key in ('modifiedDate', 'noticeExpiryDate'):
+            value = item.get(key)
+            if value:
+                return (_parse_datetime(value), 0)
+        notice_id = item.get('id')
+        try:
+            return (datetime.min, int(notice_id))
+        except Exception:
+            return (datetime.min, 0)
+    records.sort(key=sort_key, reverse=True)
+    return records
+
+def _collect_record_ids(records):
+    """Collect numeric/string IDs from a list of records."""
+    if not isinstance(records, list):
+        return set()
+    return {
+        str(item.get('id'))
+        for item in records
+        if isinstance(item, dict) and item.get('id') is not None
+    }
+
+def filter_new_records(existing_records, incoming_records):
+    """Return only incoming records whose IDs are not in existing records."""
+    existing_ids = _collect_record_ids(existing_records)
+    if not isinstance(incoming_records, list):
+        return []
+    return [
+        item for item in incoming_records
+        if isinstance(item, dict)
+        and item.get('id') is not None
+        and str(item.get('id')) not in existing_ids
+    ]
+
+def extract_symbol_from_title(title):
+    """Extract ticker symbol from a title like '[SYMBOL]' or '(SYMBOL)'."""
+    if not title:
+        return ""
+    match = re.search(r'\[([A-Za-z0-9]+)\]', str(title))
+    if match:
+        return match.group(1).upper()
+    match = re.search(r'\(([A-Za-z0-9]+)\)', str(title))
+    if match:
+        return match.group(1).upper()
+    return ""
+
+def add_symbols_to_company_disclosures(records):
+    """Add `symbol` field to company disclosures for easier filtering."""
+    if not isinstance(records, list):
+        return records
+    for record in records:
+        if not isinstance(record, dict):
+            continue
+        title = record.get('newsHeadline') or record.get('messageTitle') or ""
+        symbol = extract_symbol_from_title(title)
+        if symbol:
+            record['symbol'] = symbol
+    return records
+
+def add_symbols_to_exchange_messages(records):
+    """Add `symbol` field to exchange messages for easier filtering."""
+    if not isinstance(records, list):
+        return records
+    for record in records:
+        if not isinstance(record, dict):
+            continue
+        title = record.get('messageTitle') or record.get('newsHeadline') or ""
+        symbol = extract_symbol_from_title(title)
+        if symbol:
+            record['symbol'] = symbol
+    return records
 
 def filter_general_notices(general_notices, exchange_messages):
     """
@@ -233,20 +379,58 @@ def scrape_all_official_data(include_brokers=False, include_securities=False):
         existing_company_disclosures = load_json_list(disclosures_path)
         existing_exchange_messages = load_json_list(exchange_messages_path)
 
-        merged_company_disclosures = merge_records_by_id(
+        incoming_company_disclosures = company_disclosures if isinstance(company_disclosures, list) else []
+        incoming_exchange_messages = exchange_messages if isinstance(exchange_messages, list) else []
+
+        new_company_disclosures = filter_new_records(
             existing_company_disclosures,
-            company_disclosures if isinstance(company_disclosures, list) else []
+            incoming_company_disclosures
         )
-        merged_exchange_messages = merge_records_by_id(
+        new_exchange_messages = filter_new_records(
             existing_exchange_messages,
-            exchange_messages if isinstance(exchange_messages, list) else []
+            incoming_exchange_messages
         )
-        
-        with open(disclosures_path, 'w', encoding='utf-8') as f:
-            json.dump(merged_company_disclosures, f, indent=4)
-        
-        with open(exchange_messages_path, 'w', encoding='utf-8') as f:
-            json.dump(merged_exchange_messages, f, indent=4)
+
+        if new_company_disclosures or new_exchange_messages:
+            merged_company_disclosures = merge_records_by_id(
+                existing_company_disclosures,
+                incoming_company_disclosures
+            )
+            merged_exchange_messages = merge_records_by_id(
+                existing_exchange_messages,
+                incoming_exchange_messages
+            )
+
+            merged_company_disclosures = add_file_urls_to_company_disclosures(merged_company_disclosures)
+            merged_exchange_messages = add_file_urls_to_exchange_messages(merged_exchange_messages)
+
+            merged_company_disclosures = add_symbols_to_company_disclosures(merged_company_disclosures)
+            merged_exchange_messages = add_symbols_to_exchange_messages(merged_exchange_messages)
+
+            merged_company_disclosures = sort_disclosures_latest_first(
+                merged_company_disclosures,
+                date_keys=('addedDate', 'modifiedDate', 'approvedDate')
+            )
+            merged_exchange_messages = sort_disclosures_latest_first(
+                merged_exchange_messages,
+                date_keys=('addedDate', 'modifiedDate', 'approvedDate', 'expiryDate')
+            )
+            
+            with open(disclosures_path, 'w', encoding='utf-8') as f:
+                json.dump(merged_company_disclosures, f, indent=4)
+            
+            with open(exchange_messages_path, 'w', encoding='utf-8') as f:
+                json.dump(merged_exchange_messages, f, indent=4)
+
+            print(
+                "New disclosures found: "
+                f"{len(new_company_disclosures)} company disclosures, "
+                f"{len(new_exchange_messages)} exchange messages."
+            )
+        else:
+            merged_company_disclosures = existing_company_disclosures
+            merged_exchange_messages = existing_exchange_messages
+            print("No new disclosures found. Keeping existing disclosure files unchanged.")
 
         print("Fetching notices...")
         general_notices = scraper.get_notices()
@@ -264,17 +448,28 @@ def scrape_all_official_data(include_brokers=False, include_securities=False):
                 existing_notices = {}
 
         existing_general_notices = existing_notices.get('general', [])
-        merged_general_notices = merge_records_by_id(
+        incoming_general_notices = filtered_general_notices if isinstance(filtered_general_notices, list) else []
+        new_general_notices = filter_new_records(
             existing_general_notices if isinstance(existing_general_notices, list) else [],
-            filtered_general_notices if isinstance(filtered_general_notices, list) else []
+            incoming_general_notices
         )
 
-        with open(os.path.join(data_dir, 'notices.json'), 'w') as f:
-            # Keep notices file dedicated to general notices only.
-            json.dump({
-                "general": merged_general_notices,
-                "last_updated": datetime.now().isoformat()
-            }, f, indent=4)
+        if new_general_notices:
+            merged_general_notices = merge_records_by_id(
+                existing_general_notices if isinstance(existing_general_notices, list) else [],
+                incoming_general_notices
+            )
+            merged_general_notices = sort_notices_latest_first(merged_general_notices)
+
+            with open(os.path.join(data_dir, 'notices.json'), 'w') as f:
+                # Keep notices file dedicated to general notices only.
+                json.dump({
+                    "general": merged_general_notices,
+                    "last_updated": datetime.now().isoformat()
+                }, f, indent=4)
+            print(f"New notices found: {len(new_general_notices)}.")
+        else:
+            print("No new notices found. Keeping existing notices file unchanged.")
 
         # 8. Brokers
         if include_brokers:
