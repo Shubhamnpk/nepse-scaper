@@ -1,25 +1,25 @@
 [
     {
-        "company": "Sopan Pharmaceuticals Limited",
-        "units": "4,29,000.00",
-        "date_range": "9th - 12th Chaitra, 2082",
-        "announcement_date": "Mar 13, 2026",
-        "full_text": "Sopan Pharmaceuticals Limited is going to issue its 4,29,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 9th - 12th Chaitra, 2082",
-        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64664",
+        "company": "Kalanga Hydro Limited",
+        "units": "14,00,000.00",
+        "date_range": "10th - 24th Chaitra, 2082",
+        "announcement_date": "Mar 16, 2026",
+        "full_text": "Kalanga Hydro Limited is going to issue its 14,00,000.00 units of IPO shares to the project affected local residents of Far Western Province, Bajhang District, Kedarsyu VDC, Ward No. 04 & 05 (Including Former Banjh VDC, Ward No. 03), Bithadchir VDC, Ward No. 06 & 08 (Including Former Sunkunda VDC, Ward No. 03 & 05), Bungal Municipality, Ward No. 03,04,06,08 & 05 (Including Former Khiratadi VDC, Ward No. 09), Baitadi District, Dilasaini VDC, Ward No. 01 & 02/Darchula District, Sailyashikhar Municipality, Ward No. 01 and non- affected areas of all Wards of Bajhang District, Kedarsyu VDC,  Bithadchir VDC, Bungal Municipality, Baitadi District and Darchula District starting from 10th - 24th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64742",
         "is_reserved_share": true,
-        "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-15T05:24:47.144198"
+        "reserved_for": "Local residents",
+        "scraped_at": "2026-03-16T05:45:43.388561"
     },
     {
-        "company": "Snow Rivers Limited",
-        "units": "93,750.00",
-        "date_range": "9th - 12th Chaitra, 2082",
-        "announcement_date": "Mar 12, 2026",
-        "full_text": "Snow Rivers Limited is going to issue its 93,750.00 units of IPO shares to the Nepalese citizens working abroad starting from 9th - 12th Chaitra, 2082",
-        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64658",
+        "company": "Kalanga Hydro Limited",
+        "units": "3,50,000.00",
+        "date_range": "10th - 15th Chaitra, 2082",
+        "announcement_date": "Mar 16, 2026",
+        "full_text": "Kalanga Hydro Limited is going to issue its 3,50,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 10th - 15th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64741",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-15T05:24:47.144114"
+        "scraped_at": "2026-03-16T05:45:43.388463"
     },
     {
         "company": "Snow Rivers Limited",
@@ -30,7 +30,29 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64659",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-15T05:24:47.144018"
+        "scraped_at": "2026-03-16T05:45:43.388373"
+    },
+    {
+        "company": "Sopan Pharmaceuticals Limited",
+        "units": "4,29,000.00",
+        "date_range": "9th - 12th Chaitra, 2082",
+        "announcement_date": "Mar 13, 2026",
+        "full_text": "Sopan Pharmaceuticals Limited is going to issue its 4,29,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 9th - 12th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64664",
+        "is_reserved_share": true,
+        "reserved_for": "Nepalese citizens working abroad",
+        "scraped_at": "2026-03-16T05:45:43.388278"
+    },
+    {
+        "company": "Snow Rivers Limited",
+        "units": "93,750.00",
+        "date_range": "9th - 12th Chaitra, 2082",
+        "announcement_date": "Mar 12, 2026",
+        "full_text": "Snow Rivers Limited is going to issue its 93,750.00 units of IPO shares to the Nepalese citizens working abroad starting from 9th - 12th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64658",
+        "is_reserved_share": true,
+        "reserved_for": "Nepalese citizens working abroad",
+        "scraped_at": "2026-03-16T05:45:43.388188"
     },
     {
         "company": "Sanigad Hydro Limited",
@@ -41,7 +63,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64730",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-15T05:24:47.143931"
+        "scraped_at": "2026-03-16T05:45:43.388092"
     },
     {
         "company": "Sanigad Hydro Limited",
@@ -52,7 +74,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64731",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-15T05:24:47.143850"
+        "scraped_at": "2026-03-16T05:45:43.388000"
     },
     {
         "company": "Yambaling Hydropower Limited",
@@ -63,7 +85,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64657",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-15T05:24:47.143765"
+        "scraped_at": "2026-03-16T05:45:43.387899"
     },
     {
         "company": "Yambaling Hydropower Limited",
@@ -74,7 +96,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64656",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-15T05:24:47.143682"
+        "scraped_at": "2026-03-16T05:45:43.387772"
     },
     {
         "company": "Beni Hydropower Project Limited",
