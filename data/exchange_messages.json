@@ -1,5 +1,19 @@
 [
     {
+        "id": 208639,
+        "messageBody": "<p>NEPSE listed 1,00,00,000 units IPO Shares of Bhujung Hydropower Limited (BJHL) and signed agreement on 2026-03-19 A.D. (2082/12/05 BS). Trading of the listed shares will commence on 2026-03-22 A.D. (2082/12/08 BS).</p><p>The open price range is set as Rs.90.04 to Rs.270.12 for the first transactions.</p><p>For more details find the attached NEPSE Notice</p><p><br class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Listing IPO Share of Bhujung Hydropower Limited (BJHL)",
+        "encryptedId": "43af62f7744978871364a62bfe9879bee2c053fb857919efd3eeb721be9c3e5445033ad355862cef0ae8b93bccc902aed209a3d6478da2c30320ff5e5d14ab9f",
+        "expiryDate": "2026-03-19",
+        "filePath": "rita_listing/2026-03-19/BJHL Notice_1773903685375.pdf",
+        "remarks": "5",
+        "addedDate": "2026-03-19T12:46:45.503",
+        "modifiedDate": "2026-03-19T12:46:45.503",
+        "approvedDate": null,
+        "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=rita_listing/2026-03-19/BJHL%20Notice_1773903685375.pdf",
+        "symbol": "BJHL"
+    },
+    {
         "id": 208638,
         "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">4,66,817 Units FPO Share of&nbsp;</span>Vijaya laghubitta Bittiya Sanstha Ltd. (VLBS)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br class=\"Apple-interchange-newline\"></p>",
         "messageTitle": "Listing FPO Share of Vijaya laghubitta Bittiya Sanstha Ltd. (VLBS)",
