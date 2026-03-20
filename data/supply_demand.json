@@ -1,20 +1,4 @@
 {
-    "supplyList": [
-        {
-            "totalQuantity": 13300,
-            "totalOrder": 11,
-            "securityId": 9312,
-            "symbol": "NSY",
-            "securityName": "Nepal Life Samriddhi Lagani Yojana"
-        }
-    ],
-    "demandList": [
-        {
-            "totalQuantity": 93105,
-            "totalOrder": 9,
-            "securityId": 9312,
-            "symbol": "NSY",
-            "securityName": "Nepal Life Samriddhi Lagani Yojana"
-        }
-    ]
+    "supplyList": [],
+    "demandList": []
 }
