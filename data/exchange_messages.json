@@ -1,5 +1,31 @@
 [
     {
+        "id": 208641,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">2,43,46,512.23 Units Bonus Shares of&nbsp;</span>Laxmi Sunrise Bank Limited (LSL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Listing 10% Bonus Shares of Laxmi Sunrise Bank Limited (LSL)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-20",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-20T12:21:34.567",
+        "modifiedDate": "2026-03-20T12:21:34.567",
+        "approvedDate": null,
+        "symbol": "LSL"
+    },
+    {
+        "id": 208640,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">21,50,640.16 Units Bonus Shares of&nbsp;</span>Jeevan Bikas Laghubitta Bittya Sanstha Ltd (JBLB)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Listing 14% Bonus Shares of Jeevan Bikas Laghubitta Bittya Sanstha Ltd (JBLB)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-20",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-20T12:19:19.007",
+        "modifiedDate": "2026-03-20T12:19:19.007",
+        "approvedDate": null,
+        "symbol": "JBLB"
+    },
+    {
         "id": 208639,
         "messageBody": "<p>NEPSE listed 1,00,00,000 units IPO Shares of Bhujung Hydropower Limited (BJHL) and signed agreement on 2026-03-19 A.D. (2082/12/05 BS). Trading of the listed shares will commence on 2026-03-22 A.D. (2082/12/08 BS).</p><p>The open price range is set as Rs.90.04 to Rs.270.12 for the first transactions.</p><p>For more details find the attached NEPSE Notice</p><p><br class=\"Apple-interchange-newline\"></p>",
         "messageTitle": "Listing IPO Share of Bhujung Hydropower Limited (BJHL)",
@@ -396,5 +422,18 @@
         "modifiedDate": "2026-03-16T13:39:49.79",
         "approvedDate": null,
         "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=rita_listing/2026-03-16/NSY%20Notice_1773647663760.pdf"
+    },
+    {
+        "id": 208642,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">18,68,285.6961 Units Bonus Shares of&nbsp;</span>Deprosc Laghubitta Bittiya Sanstha Limited (DDBL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span><br style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\" class=\"Apple-interchange-newline\"></p>",
+        "messageTitle": "Listing 10% Bonus Shares of Deprosc Laghubitta Bittiya Sanstha Limited (DDBL)",
+        "encryptedId": null,
+        "expiryDate": "2026-03-20",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-03-20T12:27:51.55",
+        "modifiedDate": "2026-03-20T12:27:51.55",
+        "approvedDate": null,
+        "symbol": "DDBL"
     }
 ]
