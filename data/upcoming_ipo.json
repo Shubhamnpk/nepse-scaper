@@ -8,7 +8,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64742",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-21T05:02:27.829727"
+        "scraped_at": "2026-03-21T08:42:47.021896"
     },
     {
         "company": "Kalanga Hydro Limited",
@@ -19,7 +19,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64741",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-21T05:02:27.829624"
+        "scraped_at": "2026-03-21T08:42:47.021787"
     },
     {
         "company": "Snow Rivers Limited",
@@ -30,7 +30,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64659",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-21T05:02:27.829526"
+        "scraped_at": "2026-03-21T08:42:47.021669"
     },
     {
         "company": "Sopan Pharmaceuticals Limited",
@@ -41,7 +41,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64664",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-21T05:02:27.829413"
+        "scraped_at": "2026-03-21T08:42:47.021518"
     },
     {
         "company": "Snow Rivers Limited",
@@ -52,7 +52,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64658",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-21T05:02:27.829318"
+        "scraped_at": "2026-03-21T08:42:47.021384"
     },
     {
         "company": "Sanigad Hydro Limited",
@@ -63,7 +63,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64730",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-21T05:02:27.829219"
+        "scraped_at": "2026-03-21T08:42:47.021248"
     },
     {
         "company": "Sanigad Hydro Limited",
@@ -74,7 +74,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64731",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-21T05:02:27.829125"
+        "scraped_at": "2026-03-21T08:42:47.021094"
     },
     {
         "company": "Yambaling Hydropower Limited",
@@ -85,7 +85,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64657",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-21T05:02:27.829024"
+        "scraped_at": "2026-03-21T08:42:47.020990"
     },
     {
         "company": "Yambaling Hydropower Limited",
@@ -96,7 +96,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64656",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-21T05:02:27.828894"
+        "scraped_at": "2026-03-21T08:42:47.020850"
     },
     {
         "company": "Beni Hydropower Project Limited",
@@ -119,27 +119,5 @@
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
         "scraped_at": "2026-03-15T05:24:47.143485"
-    },
-    {
-        "company": "Taksar Pikhuwa Khola Hydropower Limited",
-        "units": "12,00,000.00",
-        "date_range": "27th Falgun - 11th Chaitra, 2082",
-        "announcement_date": "Feb 25, 2026",
-        "full_text": "Taksar Pikhuwa Khola Hydropower Limited is going to issue its 12,00,000.00 units of IPO shares to the project affected local residents of Bhojpur District starting from 27th Falgun - 11th Chaitra, 2082",
-        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64523",
-        "is_reserved_share": true,
-        "reserved_for": "Local residents",
-        "scraped_at": "2026-03-11T05:07:07.324857"
-    },
-    {
-        "company": "Taksar Pikhuwa Khola Hydropower Limited",
-        "units": "3,03,067.00",
-        "date_range": "27th Falgun - 1st Chaitra, 2082",
-        "announcement_date": "Feb 25, 2026",
-        "full_text": "Taksar Pikhuwa Khola Hydropower Limited is going to issue its 3,03,067.00 units of IPO shares to the Nepalese citizens working abroad starting from 27th Falgun - 1st Chaitra, 2082",
-        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64522",
-        "is_reserved_share": true,
-        "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-11T05:07:07.324735"
     }
 ]
