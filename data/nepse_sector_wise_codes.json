@@ -1045,6 +1045,10 @@
             "name": "Vision Lumbini Urja Company Limited"
         },
         {
+            "symbol": "BJHL",
+            "name": "Bhujung Hydropower Limited"
+        },
+        {
             "symbol": "SOHL",
             "name": "Solu Hydropower Limited"
         }
@@ -1621,6 +1625,10 @@
         {
             "symbol": "CSY",
             "name": "Citizens Santulit Yojana"
+        },
+        {
+            "symbol": "NSY",
+            "name": "Nepal Life Samriddhi Lagani Yojana"
         }
     ],
     "Non-Life Insurance": [
