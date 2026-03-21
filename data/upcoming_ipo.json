@@ -1,5 +1,27 @@
 [
     {
+        "company": "Kalanga Hydro Limited",
+        "units": "14,00,000.00",
+        "date_range": "10th - 24th Chaitra, 2082",
+        "announcement_date": "Mar 16, 2026",
+        "full_text": "Kalanga Hydro Limited is going to issue its 14,00,000.00 units of IPO shares to the project affected local residents of Far Western Province, Bajhang District, Kedarsyu VDC, Ward No. 04 & 05 (Including Former Banjh VDC, Ward No. 03), Bithadchir VDC, Ward No. 06 & 08 (Including Former Sunkunda VDC, Ward No. 03 & 05), Bungal Municipality, Ward No. 03,04,06,08 & 05 (Including Former Khiratadi VDC, Ward No. 09), Baitadi District, Dilasaini VDC, Ward No. 01 & 02/Darchula District, Sailyashikhar Municipality, Ward No. 01 and non- affected areas of all Wards of Bajhang District, Kedarsyu VDC,  Bithadchir VDC, Bungal Municipality, Baitadi District and Darchula District starting from 10th - 24th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64742",
+        "is_reserved_share": true,
+        "reserved_for": "Local residents",
+        "scraped_at": "2026-03-21T05:02:27.829727"
+    },
+    {
+        "company": "Kalanga Hydro Limited",
+        "units": "3,50,000.00",
+        "date_range": "10th - 15th Chaitra, 2082",
+        "announcement_date": "Mar 16, 2026",
+        "full_text": "Kalanga Hydro Limited is going to issue its 3,50,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 10th - 15th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64741",
+        "is_reserved_share": true,
+        "reserved_for": "Nepalese citizens working abroad",
+        "scraped_at": "2026-03-21T05:02:27.829624"
+    },
+    {
         "company": "Snow Rivers Limited",
         "units": "9,37,500.00",
         "date_range": "9th - 23rd Chaitra, 2082",
@@ -8,7 +30,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64659",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-14T05:06:08.596987"
+        "scraped_at": "2026-03-21T05:02:27.829526"
     },
     {
         "company": "Sopan Pharmaceuticals Limited",
@@ -19,7 +41,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64664",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-14T05:06:08.596871"
+        "scraped_at": "2026-03-21T05:02:27.829413"
     },
     {
         "company": "Snow Rivers Limited",
@@ -30,7 +52,29 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64658",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-14T05:06:08.596779"
+        "scraped_at": "2026-03-21T05:02:27.829318"
+    },
+    {
+        "company": "Sanigad Hydro Limited",
+        "units": "5,70,000.00",
+        "date_range": "8th - 11th Chaitra, 2082",
+        "announcement_date": "Mar 15, 2026",
+        "full_text": "Sanigad Hydro Limited is going to issue its 5,70,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 8th - 11th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64730",
+        "is_reserved_share": true,
+        "reserved_for": "Nepalese citizens working abroad",
+        "scraped_at": "2026-03-21T05:02:27.829219"
+    },
+    {
+        "company": "Sanigad Hydro Limited",
+        "units": "28,50,000.00",
+        "date_range": "8th - 22nd Chaitra, 2082",
+        "announcement_date": "Mar 15, 2026",
+        "full_text": "Sanigad Hydro Limited is going to issue its 28,50,000.00 units of IPO shares to the project affected local residents of Far Western Province, Bajhang District, Bungal Municipality, Ward No. 04 (Former Khiratadi VDC Ward No. 08), Ward No. 02 (Former Dahabgar VDC Ward No. 06)/Ward No. 01 (Former Dahabgar VDC Ward No. 02) and Ward No. 03, 05 -11 starting from 8th - 22nd Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64731",
+        "is_reserved_share": true,
+        "reserved_for": "Local residents",
+        "scraped_at": "2026-03-21T05:02:27.829125"
     },
     {
         "company": "Yambaling Hydropower Limited",
@@ -41,7 +85,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64657",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-14T05:06:08.596686"
+        "scraped_at": "2026-03-21T05:02:27.829024"
     },
     {
         "company": "Yambaling Hydropower Limited",
@@ -52,7 +96,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64656",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-14T05:06:08.596591"
+        "scraped_at": "2026-03-21T05:02:27.828894"
     },
     {
         "company": "Beni Hydropower Project Limited",
@@ -63,7 +107,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64589",
         "is_reserved_share": true,
         "reserved_for": "Local residents",
-        "scraped_at": "2026-03-14T05:06:08.596491"
+        "scraped_at": "2026-03-15T05:24:47.143598"
     },
     {
         "company": "Beni Hydropower Project Limited",
@@ -74,7 +118,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64588",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-03-14T05:06:08.596356"
+        "scraped_at": "2026-03-15T05:24:47.143485"
     },
     {
         "company": "Taksar Pikhuwa Khola Hydropower Limited",
