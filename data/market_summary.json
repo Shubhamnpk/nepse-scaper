@@ -1,26 +1,18 @@
 [
     {
         "detail": "Total Turnover Rs:",
-        "value": 21223494886.98
+        "value": 354621347.9
     },
     {
         "detail": "Total Traded Shares",
-        "value": 56920608.0
+        "value": 970108.0
     },
     {
         "detail": "Total Transactions",
-        "value": 191251.0
+        "value": 2203.0
     },
     {
         "detail": "Total Scrips Traded",
-        "value": 342.0
-    },
-    {
-        "detail": "Total Market Capitalization Rs:",
-        "value": 4876192935369.0
-    },
-    {
-        "detail": "Total Float Market Capitalization Rs:",
-        "value": 1662101044121.6
+        "value": 183.0
     }
 ]
