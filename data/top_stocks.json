@@ -7498,18 +7498,18 @@
             "securityId": 9196
         },
         {
-            "symbol": "NBLD87",
-            "shareTraded": 100,
-            "closingPrice": 1105.0,
-            "securityName": "8.5% Nepal Bank Debenture 2087",
-            "securityId": 4959
-        },
-        {
             "symbol": "BNT",
             "shareTraded": 100,
             "closingPrice": 12100.0,
             "securityName": "Bottlers Nepal (Terai) Limited",
             "securityId": 213
+        },
+        {
+            "symbol": "NBLD87",
+            "shareTraded": 100,
+            "closingPrice": 1105.0,
+            "securityName": "8.5% Nepal Bank Debenture 2087",
+            "securityId": 4959
         },
         {
             "symbol": "UNL",
@@ -7582,18 +7582,18 @@
             "securityId": 6985
         },
         {
-            "symbol": "NICAD85/86",
-            "shareTraded": 50,
-            "closingPrice": 1128.0,
-            "securityName": "10% NIC Asia Debenture 2085/86",
-            "securityId": 2825
-        },
-        {
             "symbol": "GBBD85",
             "shareTraded": 50,
             "closingPrice": 1072.5,
             "securityName": "Garima Debenture, 2085",
             "securityId": 8033
+        },
+        {
+            "symbol": "NICAD85/86",
+            "shareTraded": 50,
+            "closingPrice": 1128.0,
+            "securityName": "10% NIC Asia Debenture 2085/86",
+            "securityId": 2825
         },
         {
             "symbol": "SBLD2091",
