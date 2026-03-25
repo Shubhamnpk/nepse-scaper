@@ -2218,5 +2218,29 @@
         "modifiedDate": "2026-03-25T10:03:59.243",
         "approvedDate": null,
         "symbol": "GFCL"
+    },
+    {
+        "id": 45200,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30324,
+                "activeStatus": "A",
+                "modifiedBy": "ili_user",
+                "modifiedDate": "2026-03-25T15:56:15.137",
+                "application": 45200,
+                "documentType": 54,
+                "submittedDate": "2026-03-25",
+                "filePath": "IME_Life_Insurance_Company_Limited/Company News/2026-03-25/Letter to NEPSE Of Public Director_1774433438113.pdf",
+                "encryptedId": "69defa54dbfac2adc59ac4164cb507d46ce94bfc4120b5ed64aa59732149066bcf94498069912e308c9fe10b88ae7f1f6c33e7f1cbc50dc5c7f3edc6a8001909",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=IME_Life_Insurance_Company_Limited/Company%20News/2026-03-25/Letter%20to%20NEPSE%20Of%20Public%20Director_1774433438113.pdf"
+            }
+        ],
+        "newsHeadline": "BOD decision Appointment of Public Director  [ILI] ",
+        "newsBody": "<p>Dear Sir,</p><p></p><p>PFTA regarding appointment of Public Director.</p><p>Regards </p><p>Prakash Neupane</p>",
+        "addedDate": "2026-03-25T15:56:15.13",
+        "newsSource": "Appointment of Public Director ",
+        "modifiedDate": "2026-03-25T15:57:10.79",
+        "approvedDate": null,
+        "symbol": "ILI"
     }
 ]

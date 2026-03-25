@@ -1,34 +1,4 @@
 {
-    "supplyList": [
-        {
-            "totalQuantity": 75,
-            "totalOrder": 2,
-            "securityId": 6984,
-            "symbol": "PBD85",
-            "securityName": "8.75 % Prime Debenture 2085"
-        },
-        {
-            "totalQuantity": 25,
-            "totalOrder": 1,
-            "securityId": 8116,
-            "symbol": "PBD84",
-            "securityName": "10.15% Prime Debenture 2084"
-        }
-    ],
-    "demandList": [
-        {
-            "totalQuantity": 201697,
-            "totalOrder": 1227,
-            "securityId": 9323,
-            "symbol": "SKHL",
-            "securityName": "Super Khudi Hydropower Limited"
-        },
-        {
-            "totalQuantity": 500,
-            "totalOrder": 1,
-            "securityId": 8116,
-            "symbol": "PBD84",
-            "securityName": "10.15% Prime Debenture 2084"
-        }
-    ]
+    "supplyList": [],
+    "demandList": []
 }
