@@ -1,19 +1,55 @@
 [
     {
-        "id": 45148,
+        "id": 45169,
         "applicationDocumentDetailsList": [
             {
-                "id": 30285,
+                "id": 30303,
                 "activeStatus": "A",
-                "modifiedBy": "mchpl_user",
-                "modifiedDate": "2026-03-24T10:06:42.983",
-                "application": 45148,
+                "modifiedBy": "mbl_user",
+                "modifiedDate": "2026-03-25T09:49:26.197",
+                "application": 45169,
+                "documentType": 54,
+                "submittedDate": "2026-03-25",
+                "filePath": "mbl_user/2026-03-25/Reformation of Audit Committee MBL_1774411423297.pdf",
+                "encryptedId": "06ccb7b15fa3a7df507015f53e1727df27815c6170ae5cdbadf539ad5612411df5e65579b97ef0c370b65d756f57fe21f092dbddb7153f35f6f472de70f8dd99",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mbl_user/2026-03-25/Reformation%20of%20Audit%20Committee%20MBL_1774411423297.pdf"
+            }
+        ],
+        "newsHeadline": "Reformation of Audit Committee  [MBL] ",
+        "newsBody": "<p>Reformation of Audit Committee</p>",
+        "addedDate": "2026-03-25T09:49:26.187",
+        "newsSource": "550 Board Meeting ",
+        "modifiedDate": "2026-03-25T10:03:40.547",
+        "approvedDate": null,
+        "symbol": "MBL"
+    },
+    {
+        "id": 45168,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30302,
+                "activeStatus": "A",
+                "modifiedBy": "hbl_user",
+                "modifiedDate": "2026-03-24T17:18:04.52",
+                "application": 45168,
                 "documentType": 54,
                 "submittedDate": "2026-03-24",
-                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/img-7_1774326095513.pdf",
-                "encryptedId": "dee1d8743d136498a30852363522a4a935a1424844615ae8ae76d8dad8df01c5030a42b4ade4f87d1fb4b86d6867a425aab85b8456634dcdc469eaae9fc65c0f",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/img-7_1774326095513.pdf"
-            },
+                "filePath": "hbl_user/2026-03-24/resignation of director - sunil bahadur thapa_1774351965527.jpg",
+                "encryptedId": "434d1eebb8594d9b303f147b6c43a101bcd126ba9259aef684919df5560e29a798aebdca65212506533b36826fd37c908da3deb24257a54af5ec35288b574201",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=hbl_user/2026-03-24/resignation%20of%20director%20-%20sunil%20bahadur%20thapa_1774351965527.jpg"
+            }
+        ],
+        "newsHeadline": "Resignation of Director [HBL] ",
+        "newsBody": "<p>Resignation of Director</p>",
+        "addedDate": "2026-03-24T17:18:04.517",
+        "newsSource": "BOD",
+        "modifiedDate": "2026-03-25T10:03:15.737",
+        "approvedDate": null,
+        "symbol": "HBL"
+    },
+    {
+        "id": 45148,
+        "applicationDocumentDetailsList": [
             {
                 "id": 30284,
                 "activeStatus": "A",
@@ -25,6 +61,18 @@
                 "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/lock in notice_1774326080607.pdf",
                 "encryptedId": "941cd0f24595cc66b7304dd55435cdc171ffdb8174a2833546281577fecaf4a8b68ab97b7729498c372ca6aa5a06daefba598118b29927dc65013b4d80636810",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/lock%20in%20notice_1774326080607.pdf"
+            },
+            {
+                "id": 30285,
+                "activeStatus": "A",
+                "modifiedBy": "mchpl_user",
+                "modifiedDate": "2026-03-24T10:06:42.983",
+                "application": 45148,
+                "documentType": 54,
+                "submittedDate": "2026-03-24",
+                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/img-7_1774326095513.pdf",
+                "encryptedId": "dee1d8743d136498a30852363522a4a935a1424844615ae8ae76d8dad8df01c5030a42b4ade4f87d1fb4b86d6867a425aab85b8456634dcdc469eaae9fc65c0f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/img-7_1774326095513.pdf"
             }
         ],
         "newsHeadline": "Lock In Period End Notice MCHL [MCHL] ",
@@ -1395,18 +1443,6 @@
         "id": 44837,
         "applicationDocumentDetailsList": [
             {
-                "id": 29993,
-                "activeStatus": "A",
-                "modifiedBy": "user_sagar",
-                "modifiedDate": "2026-02-22T10:14:46.097",
-                "application": 44837,
-                "documentType": 54,
-                "submittedDate": "2026-02-22",
-                "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/NSP fagun10 sunday epaper pdf-3_1771734582853.pdf",
-                "encryptedId": "eb78953229dc6bdaac6294c7485a5b471c0ff2532ec331875bedab6e628f2b11ef0e2827c451cf8995c33a1a1458a9e08456378bbd855e72d0c085920a95ded3",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sagar_Distillery_Limited/Company%20News/2026-02-22/NSP%20fagun10%20sunday%20epaper%20pdf-3_1771734582853.pdf"
-            },
-            {
                 "id": 29994,
                 "activeStatus": "A",
                 "modifiedBy": "user_sagar",
@@ -1417,6 +1453,18 @@
                 "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/Nepse_1771734575891.pdf",
                 "encryptedId": "4af30b9d4979478b2730367fa91507f8571bcf7ca1f6d68485c238b824988d70d7386442ac67adea682df71dee82c3fcf09331baddfebb6bf0e83a07b864ec7e",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sagar_Distillery_Limited/Company%20News/2026-02-22/Nepse_1771734575891.pdf"
+            },
+            {
+                "id": 29993,
+                "activeStatus": "A",
+                "modifiedBy": "user_sagar",
+                "modifiedDate": "2026-02-22T10:14:46.097",
+                "application": 44837,
+                "documentType": 54,
+                "submittedDate": "2026-02-22",
+                "filePath": "Sagar_Distillery_Limited/Company News/2026-02-22/NSP fagun10 sunday epaper pdf-3_1771734582853.pdf",
+                "encryptedId": "eb78953229dc6bdaac6294c7485a5b471c0ff2532ec331875bedab6e628f2b11ef0e2827c451cf8995c33a1a1458a9e08456378bbd855e72d0c085920a95ded3",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sagar_Distillery_Limited/Company%20News/2026-02-22/NSP%20fagun10%20sunday%20epaper%20pdf-3_1771734582853.pdf"
             }
         ],
         "newsHeadline": "\u0938\u093e\u092e\u0942\u0939\u093f\u0915 \u0932\u0917\u093e\u0928\u0940 \u0915\u094b\u0937\u0939\u0930\u0941\u0915\u094b \u0932\u093e\u0917\u093f \u091b\u0941\u091f\u094d\u091f\u093e\u0907\u090f\u0915\u094b \u0938\u093e\u0927\u093e\u0930\u0923 \u0936\u0947\u092f\u0930\u0915\u094b \u0932\u0915-\u0908\u0928 \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0938\u0942\u091a\u0928\u093e [SAGAR] ",
@@ -2086,5 +2134,89 @@
         "modifiedDate": "2026-03-24T10:05:01.247",
         "approvedDate": null,
         "symbol": "API"
+    },
+    {
+        "id": 45175,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30311,
+                "activeStatus": "A",
+                "modifiedBy": "mandu_user",
+                "modifiedDate": "2026-03-25T10:54:48.657",
+                "application": 45175,
+                "documentType": 54,
+                "submittedDate": "2026-03-25",
+                "filePath": "Mandu_Hydropower_Limited/Company News/2026-03-25/Testing and Commissioning_1774415383038.pdf",
+                "encryptedId": "60278e5274e2412e8630bcc363a88d08e6cb2c6646f5bb942855cddb0bed138f8da211c2b17aec15d9a0ab89af596396a33fca58109dc957c38103eea3aea29f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Mandu_Hydropower_Limited/Company%20News/2026-03-25/Testing%20and%20Commissioning_1774415383038.pdf"
+            }
+        ],
+        "newsHeadline": "Testing and commissioning [MANDU] ",
+        "newsBody": "<p>Testing and commissioning</p>",
+        "addedDate": "2026-03-25T10:54:48.65",
+        "newsSource": "Testing and commissioning",
+        "modifiedDate": "2026-03-25T10:56:05.737",
+        "approvedDate": null,
+        "symbol": "MANDU"
+    },
+    {
+        "id": 45171,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30305,
+                "activeStatus": "A",
+                "modifiedBy": "nmic_user",
+                "modifiedDate": "2026-03-25T10:01:57.517",
+                "application": 45171,
+                "documentType": 54,
+                "submittedDate": "2026-03-25",
+                "filePath": "Nepal_Micro_Insurance_Company_Limited/Company News/2026-03-25/3rd AGM_Cover letter_1774412191311.PDF",
+                "encryptedId": "0468742eefadeb78ad1a1cda7f8d416640a70c8fc86cac8b1ca776aab810649f5b80b2bc7712481d4de9315e83db7557c0b6064d66a21363546b4aa2e9d4f993",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Nepal_Micro_Insurance_Company_Limited/Company%20News/2026-03-25/3rd%20AGM_Cover%20letter_1774412191311.PDF"
+            },
+            {
+                "id": 30306,
+                "activeStatus": "A",
+                "modifiedBy": "nmic_user",
+                "modifiedDate": "2026-03-25T10:01:57.517",
+                "application": 45171,
+                "documentType": 54,
+                "submittedDate": "2026-03-25",
+                "filePath": "Nepal_Micro_Insurance_Company_Limited/Company News/2026-03-25/3rd AGM Notice_1774412199001.pdf",
+                "encryptedId": "862329edba32c570c59c4015c4af71c29f3d17413c3b768a456af940f5e3c21b8fbe8da3188034814dc92ed8d65e8ef147a9ae02a80fc12a58a8129d324521a0",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Nepal_Micro_Insurance_Company_Limited/Company%20News/2026-03-25/3rd%20AGM%20Notice_1774412199001.pdf"
+            }
+        ],
+        "newsHeadline": "3rd AGM of NMIC [NMIC] ",
+        "newsBody": "Annual General Meeting of NMIC\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 4/23/2026\nAGM No: 3\nBook Close Date: 4/9/2026",
+        "addedDate": "2026-03-25T10:01:57.51",
+        "newsSource": "Nepal Samachar Patra",
+        "modifiedDate": "2026-03-25T10:04:30.213",
+        "approvedDate": null,
+        "symbol": "NMIC"
+    },
+    {
+        "id": 45170,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30304,
+                "activeStatus": "A",
+                "modifiedBy": "gfcl_user",
+                "modifiedDate": "2026-03-25T09:58:45.433",
+                "application": 45170,
+                "documentType": 54,
+                "submittedDate": "2026-03-25",
+                "filePath": "gfcl_user/2026-03-25/IMG_20260325_0001_1774412015613.pdf",
+                "encryptedId": "c90941c6d1f34b628a32b30d2802a01bd199e906170e309af6c632939bd31193679e01dab5bcb7ed9b7ddc7ab1988a13be53ef2cd45835c4651bed6b30a84a0c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gfcl_user/2026-03-25/IMG_20260325_0001_1774412015613.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of Auditor [GFCL] ",
+        "newsBody": "<p><span style=\"color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Appointment of Auditor</span></p>",
+        "addedDate": "2026-03-25T09:58:45.43",
+        "newsSource": "Appointment of Auditor",
+        "modifiedDate": "2026-03-25T10:03:59.243",
+        "approvedDate": null,
+        "symbol": "GFCL"
     }
 ]
