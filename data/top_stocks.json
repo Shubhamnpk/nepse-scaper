@@ -2923,7 +2923,7 @@
         {
             "symbol": "NRN",
             "turnover": 942980046.9,
-            "closingPrice": 1668.0,
+            "closingPrice": 1670.0,
             "securityName": "NRN Infrastructure and Development Limited",
             "securityId": 2898
         },
@@ -2944,14 +2944,14 @@
         {
             "symbol": "RIDI",
             "turnover": 450745062.2,
-            "closingPrice": 379.3,
+            "closingPrice": 379.0,
             "securityName": "Ridi Power Company Limited",
             "securityId": 610
         },
         {
             "symbol": "NGPL",
             "turnover": 412414881.5,
-            "closingPrice": 486.0,
+            "closingPrice": 486.1,
             "securityName": "Ngadi Group Power Ltd.",
             "securityId": 2743
         },
@@ -3007,7 +3007,7 @@
         {
             "symbol": "HIDCLP",
             "turnover": 205488256.4,
-            "closingPrice": 225.1,
+            "closingPrice": 225.0,
             "securityName": "Hydorelectricity Investment and Development Company Limited Promoter",
             "securityId": 8111
         },
@@ -3063,7 +3063,7 @@
         {
             "symbol": "BHL",
             "turnover": 128937350.4,
-            "closingPrice": 251.0,
+            "closingPrice": 249.0,
             "securityName": "Balephi Hydropower Limited",
             "securityId": 8055
         },
@@ -3175,7 +3175,7 @@
         {
             "symbol": "SAPDBL",
             "turnover": 91035305.0,
-            "closingPrice": 1026.6,
+            "closingPrice": 927.9,
             "securityName": "Saptakoshi Development Bank Ltd",
             "securityId": 2860
         },
@@ -3231,7 +3231,7 @@
         {
             "symbol": "LSL",
             "turnover": 70576506.4,
-            "closingPrice": 234.0,
+            "closingPrice": 235.0,
             "securityName": "Laxmi Sunrise Bank Limited",
             "securityId": 141
         },
@@ -3546,7 +3546,7 @@
         {
             "symbol": "RSDC",
             "turnover": 33781189.3,
-            "closingPrice": 730.1,
+            "closingPrice": 730.0,
             "securityName": "RSDC Laghubitta Bittiya Sanstha Ltd.",
             "securityId": 2748
         },
@@ -3637,7 +3637,7 @@
         {
             "symbol": "MBJC",
             "turnover": 27226012.3,
-            "closingPrice": 316.5,
+            "closingPrice": 317.0,
             "securityName": "Madhya Bhotekoshi Jalavidyut Company Limited",
             "securityId": 8031
         },
@@ -4372,7 +4372,7 @@
         {
             "symbol": "TSHL",
             "turnover": 5143780.9,
-            "closingPrice": 759.0,
+            "closingPrice": 750.0,
             "securityName": "Three Star Hydropower Limited",
             "securityId": 9194
         },
@@ -4484,7 +4484,7 @@
         {
             "symbol": "USHL",
             "turnover": 4207246.4,
-            "closingPrice": 736.0,
+            "closingPrice": 737.0,
             "securityName": "Upper Syange Hydropower Limited",
             "securityId": 9192
         },
@@ -5233,7 +5233,7 @@
         {
             "symbol": "PBLD87",
             "turnover": 33326.0,
-            "closingPrice": 1113.0,
+            "closingPrice": 1100.2,
             "securityName": "8.5% Prabhu Bank Debenture 2087",
             "securityId": 4962
         },
@@ -5313,13 +5313,6 @@
             "closingPrice": 10.0,
             "securityName": "Laxmi Value Fund 2",
             "securityId": 9198
-        },
-        {
-            "symbol": "RLEL",
-            "turnover": 300.0,
-            "closingPrice": 30.0,
-            "securityName": "Ridge Line Energy Limited",
-            "securityId": 9324
         }
     ],
     "top_trade": [
@@ -5340,14 +5333,14 @@
         {
             "symbol": "RIDI",
             "shareTraded": 1220472,
-            "closingPrice": 379.3,
+            "closingPrice": 379.0,
             "securityName": "Ridi Power Company Limited",
             "securityId": 610
         },
         {
             "symbol": "HIDCLP",
             "shareTraded": 913073,
-            "closingPrice": 225.1,
+            "closingPrice": 225.0,
             "securityName": "Hydorelectricity Investment and Development Company Limited Promoter",
             "securityId": 8111
         },
@@ -5361,7 +5354,7 @@
         {
             "symbol": "NGPL",
             "shareTraded": 854037,
-            "closingPrice": 486.0,
+            "closingPrice": 486.1,
             "securityName": "Ngadi Group Power Ltd.",
             "securityId": 2743
         },
@@ -5389,14 +5382,14 @@
         {
             "symbol": "NRN",
             "shareTraded": 571545,
-            "closingPrice": 1668.0,
+            "closingPrice": 1670.0,
             "securityName": "NRN Infrastructure and Development Limited",
             "securityId": 2898
         },
         {
             "symbol": "BHL",
             "shareTraded": 519966,
-            "closingPrice": 251.0,
+            "closingPrice": 249.0,
             "securityName": "Balephi Hydropower Limited",
             "securityId": 8055
         },
@@ -5515,7 +5508,7 @@
         {
             "symbol": "LSL",
             "shareTraded": 301843,
-            "closingPrice": 234.0,
+            "closingPrice": 235.0,
             "securityName": "Laxmi Sunrise Bank Limited",
             "securityId": 141
         },
@@ -5844,7 +5837,7 @@
         {
             "symbol": "SAPDBL",
             "shareTraded": 97018,
-            "closingPrice": 1026.6,
+            "closingPrice": 927.9,
             "securityName": "Saptakoshi Development Bank Ltd",
             "securityId": 2860
         },
@@ -5879,7 +5872,7 @@
         {
             "symbol": "MBJC",
             "shareTraded": 86331,
-            "closingPrice": 316.5,
+            "closingPrice": 317.0,
             "securityName": "Madhya Bhotekoshi Jalavidyut Company Limited",
             "securityId": 8031
         },
@@ -6124,7 +6117,7 @@
         {
             "symbol": "RSDC",
             "shareTraded": 46327,
-            "closingPrice": 730.1,
+            "closingPrice": 730.0,
             "securityName": "RSDC Laghubitta Bittiya Sanstha Ltd.",
             "securityId": 2748
         },
@@ -7027,7 +7020,7 @@
         {
             "symbol": "TSHL",
             "shareTraded": 6894,
-            "closingPrice": 759.0,
+            "closingPrice": 750.0,
             "securityName": "Three Star Hydropower Limited",
             "securityId": 9194
         },
@@ -7076,7 +7069,7 @@
         {
             "symbol": "USHL",
             "shareTraded": 5737,
-            "closingPrice": 736.0,
+            "closingPrice": 737.0,
             "securityName": "Upper Syange Hydropower Limited",
             "securityId": 9192
         },
@@ -7671,7 +7664,7 @@
         {
             "symbol": "PBLD87",
             "shareTraded": 30,
-            "closingPrice": 1113.0,
+            "closingPrice": 1100.2,
             "securityName": "8.5% Prabhu Bank Debenture 2087",
             "securityId": 4962
         },
@@ -7716,13 +7709,6 @@
             "closingPrice": 1032.0,
             "securityName": "Nifra Green Energy Debenture 6% - 2088/89",
             "securityId": 9261
-        },
-        {
-            "symbol": "RLEL",
-            "shareTraded": 10,
-            "closingPrice": 30.0,
-            "securityName": "Ridge Line Energy Limited",
-            "securityId": 9324
         }
     ],
     "top_transaction": [
@@ -7764,14 +7750,14 @@
         {
             "securityId": 2898,
             "totalTrades": 2519,
-            "lastTradedPrice": 1668.0,
+            "lastTradedPrice": 1670.0,
             "securityName": "NRN Infrastructure and Development Limited",
             "symbol": "NRN"
         },
         {
             "securityId": 610,
             "totalTrades": 2256,
-            "lastTradedPrice": 379.3,
+            "lastTradedPrice": 379.0,
             "securityName": "Ridi Power Company Limited",
             "symbol": "RIDI"
         },
@@ -7820,14 +7806,14 @@
         {
             "securityId": 8055,
             "totalTrades": 1820,
-            "lastTradedPrice": 251.0,
+            "lastTradedPrice": 249.0,
             "securityName": "Balephi Hydropower Limited",
             "symbol": "BHL"
         },
         {
             "securityId": 2743,
             "totalTrades": 1747,
-            "lastTradedPrice": 486.0,
+            "lastTradedPrice": 486.1,
             "securityName": "Ngadi Group Power Ltd.",
             "symbol": "NGPL"
         },
@@ -7939,7 +7925,7 @@
         {
             "securityId": 8111,
             "totalTrades": 964,
-            "lastTradedPrice": 225.1,
+            "lastTradedPrice": 225.0,
             "securityName": "Hydorelectricity Investment and Development Company Limited Promoter",
             "symbol": "HIDCLP"
         },
@@ -8170,7 +8156,7 @@
         {
             "securityId": 2860,
             "totalTrades": 554,
-            "lastTradedPrice": 1026.6,
+            "lastTradedPrice": 927.9,
             "securityName": "Saptakoshi Development Bank Ltd",
             "symbol": "SAPDBL"
         },
@@ -8198,14 +8184,14 @@
         {
             "securityId": 8031,
             "totalTrades": 502,
-            "lastTradedPrice": 316.5,
+            "lastTradedPrice": 317.0,
             "securityName": "Madhya Bhotekoshi Jalavidyut Company Limited",
             "symbol": "MBJC"
         },
         {
             "securityId": 141,
             "totalTrades": 501,
-            "lastTradedPrice": 234.0,
+            "lastTradedPrice": 235.0,
             "securityName": "Laxmi Sunrise Bank Limited",
             "symbol": "LSL"
         },
@@ -8674,7 +8660,7 @@
         {
             "securityId": 2748,
             "totalTrades": 209,
-            "lastTradedPrice": 730.1,
+            "lastTradedPrice": 730.0,
             "securityName": "RSDC Laghubitta Bittiya Sanstha Ltd.",
             "symbol": "RSDC"
         },
@@ -9087,7 +9073,7 @@
         {
             "securityId": 9194,
             "totalTrades": 99,
-            "lastTradedPrice": 759.0,
+            "lastTradedPrice": 750.0,
             "securityName": "Three Star Hydropower Limited",
             "symbol": "TSHL"
         },
@@ -9290,7 +9276,7 @@
         {
             "securityId": 9192,
             "totalTrades": 63,
-            "lastTradedPrice": 736.0,
+            "lastTradedPrice": 737.0,
             "securityName": "Upper Syange Hydropower Limited",
             "symbol": "USHL"
         },
@@ -10032,7 +10018,7 @@
         {
             "securityId": 4962,
             "totalTrades": 2,
-            "lastTradedPrice": 1113.0,
+            "lastTradedPrice": 1100.2,
             "securityName": "8.5% Prabhu Bank Debenture 2087",
             "symbol": "PBLD87"
         },
@@ -10086,11 +10072,11 @@
             "symbol": "GBILD84/85"
         },
         {
-            "securityId": 9324,
+            "securityId": 8097,
             "totalTrades": 1,
-            "lastTradedPrice": 30.0,
-            "securityName": "Ridge Line Energy Limited",
-            "symbol": "RLEL"
+            "lastTradedPrice": 1223.5,
+            "securityName": "10% Prime Debenture 2088",
+            "symbol": "PBD88"
         },
         {
             "securityId": 720,
@@ -10100,11 +10086,11 @@
             "symbol": "SWMFPO"
         },
         {
-            "securityId": 8097,
+            "securityId": 2931,
             "totalTrades": 1,
-            "lastTradedPrice": 1223.5,
-            "securityName": "10% Prime Debenture 2088",
-            "symbol": "PBD88"
+            "lastTradedPrice": 1074.0,
+            "securityName": "8.5% Nepal Investment Bank Debenture 2084",
+            "symbol": "NIBD84"
         },
         {
             "securityId": 9261,
@@ -10112,13 +10098,6 @@
             "lastTradedPrice": 1032.0,
             "securityName": "Nifra Green Energy Debenture 6% - 2088/89",
             "symbol": "NIFRAGED"
-        },
-        {
-            "securityId": 2931,
-            "totalTrades": 1,
-            "lastTradedPrice": 1074.0,
-            "securityName": "8.5% Nepal Investment Bank Debenture 2084",
-            "symbol": "NIBD84"
         },
         {
             "securityId": 623,

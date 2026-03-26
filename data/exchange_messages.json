@@ -1,5 +1,31 @@
 [
     {
+        "id": 208663,
+        "messageBody": "<p>NEPSE listed 68,96,744 units IPO Shares of Suryakunda Hydro Electric Limited (SKHEL) and signed agreement on 2026-03-26 A.D. (2082/12/12 BS). Trading of the listed shares will commence on 2026-03-29 A.D. (2082/12/15 BS).</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 14px; line-height: 1.7; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">The open price range is set as<strong>&nbsp;Rs.94.77 to Rs.284.31</strong>&nbsp;for the first transactions.</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-size: 14px; line-height: 1.7; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">For more details find the attached NEPSE Notice</p>",
+        "messageTitle": "Listing IPO Share of Suryakunda Hydro Electric Limited (SKHEL)",
+        "encryptedId": "229094a688eadc953be7c1548571a984f76ca002c38ba801c777a29f9daa0ef8872e69ebb8a816a5ea5a56838d8c714b140716f7fb356fdd0e3e551db9e6a8d3",
+        "expiryDate": "2026-03-26",
+        "filePath": "rita_listing/2026-03-26/SKHEL NOTICE_1774519608866.pdf",
+        "remarks": "5",
+        "addedDate": "2026-03-26T15:51:52.137",
+        "modifiedDate": "2026-03-26T15:51:52.137",
+        "approvedDate": null,
+        "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=rita_listing/2026-03-26/SKHEL%20NOTICE_1774519608866.pdf",
+        "symbol": "SKHEL"
+    },
+    {
+        "id": 208662,
+        "messageBody": "Security Ridge Line Energy Limited (RLEL) has been revoked for trading.",
+        "messageTitle": "Security Revocation: RLEL",
+        "encryptedId": null,
+        "expiryDate": "2026-03-26",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": "2026-03-26T15:29:47.187",
+        "modifiedDate": "2026-03-26T15:29:47.187",
+        "approvedDate": null
+    },
+    {
         "id": 208661,
         "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">7,50,000 Units Bonus Shares of&nbsp;</span>Upper Hewakhola Hydropower Company Limited (UHEWA)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span></p>",
         "messageTitle": "Listing 15% Bonus Shares of Upper Hewakhola Hydropower Company Limited (UHEWA)",
