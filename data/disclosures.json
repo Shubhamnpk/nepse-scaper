@@ -1,5 +1,29 @@
 [
     {
+        "id": 45228,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30353,
+                "activeStatus": "A",
+                "modifiedBy": "ebl_user",
+                "modifiedDate": "2026-03-26T11:46:23.89",
+                "application": 45228,
+                "documentType": 54,
+                "submittedDate": "2026-03-26",
+                "filePath": "ebl_user/2026-03-26/Appointment of Independent Director (NEPSE)_1774504879436.pdf",
+                "encryptedId": "e86cd3aca14f57ad2a30557d2111473494041aa5ae0700289e590fcc425dd89aafbc99e5bf120e5917239aa08d59cc873291123b7f9ede18b3add3f8ba1b98fd",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=ebl_user/2026-03-26/Appointment%20of%20Independent%20Director%20%28NEPSE%29_1774504879436.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of Independent Director [EBL] ",
+        "newsBody": "",
+        "addedDate": "2026-03-26T11:46:23.887",
+        "newsSource": "BOD",
+        "modifiedDate": "2026-03-26T12:08:39.93",
+        "approvedDate": null,
+        "symbol": "EBL"
+    },
+    {
         "id": 45225,
         "applicationDocumentDetailsList": [
             {
