@@ -3558,7 +3558,7 @@
         {
             "symbol": "TVCL",
             "turnover": 37478979.9,
-            "closingPrice": 617.0,
+            "closingPrice": 629.7,
             "securityName": "Trishuli Jal Vidhyut Company Limited ",
             "securityId": 9218
         },
@@ -5084,7 +5084,7 @@
         {
             "symbol": "NIFRAGED",
             "turnover": 57595.5,
-            "closingPrice": 1028.1,
+            "closingPrice": 1050.0,
             "securityName": "Nifra Green Energy Debenture 6% - 2088/89",
             "securityId": 9261
         },
@@ -5982,7 +5982,7 @@
         {
             "symbol": "TVCL",
             "shareTraded": 61204,
-            "closingPrice": 617.0,
+            "closingPrice": 629.7,
             "securityName": "Trishuli Jal Vidhyut Company Limited ",
             "securityId": 9218
         },
@@ -7480,7 +7480,7 @@
         {
             "symbol": "NIFRAGED",
             "shareTraded": 56,
-            "closingPrice": 1028.1,
+            "closingPrice": 1050.0,
             "securityName": "Nifra Green Energy Debenture 6% - 2088/89",
             "securityId": 9261
         },
@@ -8861,7 +8861,7 @@
         {
             "securityId": 9218,
             "totalTrades": 159,
-            "lastTradedPrice": 617.0,
+            "lastTradedPrice": 629.7,
             "securityName": "Trishuli Jal Vidhyut Company Limited ",
             "symbol": "TVCL"
         },
@@ -9813,7 +9813,7 @@
         {
             "securityId": 9261,
             "totalTrades": 3,
-            "lastTradedPrice": 1028.1,
+            "lastTradedPrice": 1050.0,
             "securityName": "Nifra Green Energy Debenture 6% - 2088/89",
             "symbol": "NIFRAGED"
         },

@@ -14,5 +14,13 @@
     {
         "detail": "Total Scrips Traded",
         "value": 333.0
+    },
+    {
+        "detail": "Total Market Capitalization Rs:",
+        "value": 4888739538949.2
+    },
+    {
+        "detail": "Total Float Market Capitalization Rs:",
+        "value": 1651905370335.2
     }
 ]
