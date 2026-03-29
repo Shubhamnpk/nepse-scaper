@@ -2626,5 +2626,29 @@
         "modifiedDate": "2026-03-29T10:41:14.24",
         "approvedDate": null,
         "symbol": "JBLB"
+    },
+    {
+        "id": 45245,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30364,
+                "activeStatus": "A",
+                "modifiedBy": "unlb_user",
+                "modifiedDate": "2026-03-29T11:30:02.827",
+                "application": 45245,
+                "documentType": 54,
+                "submittedDate": "2026-03-29",
+                "filePath": "Unique_Nepal_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-03-29/Share Rokka Letter for LOI-FINAL NEPSE_1774763089026.pdf",
+                "encryptedId": "dc6b35ec067520ea1e256f5b1e71bf9d33e8c92bf1549fa6df27ee787ea5e49d76c631ce78c9f76728d10de3fa2faf36a7f8e23246736dcd07db8a250d088895",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Unique_Nepal_Laghubitta_Bittiya_Sanstha_Limited/Company%20News/2026-03-29/Share%20Rokka%20Letter%20for%20LOI-FINAL%20NEPSE_1774763089026.pdf"
+            }
+        ],
+        "newsHeadline": "Information regarding share lock-in [UNLB] ",
+        "newsBody": "",
+        "addedDate": "2026-03-29T11:30:02.82",
+        "newsSource": "UNLBSL",
+        "modifiedDate": "2026-03-29T11:34:37.727",
+        "approvedDate": null,
+        "symbol": "UNLB"
     }
 ]
