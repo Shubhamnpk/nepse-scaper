@@ -1,5 +1,29 @@
 [
     {
+        "id": 45256,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30368,
+                "activeStatus": "A",
+                "modifiedBy": "nlicl_user",
+                "modifiedDate": "2026-03-29T16:57:57.56",
+                "application": 45256,
+                "documentType": 54,
+                "submittedDate": "2026-03-29",
+                "filePath": "nlicl_user/2026-03-29/CS_1774782717464.pdf",
+                "encryptedId": "4efd95ae6bea8fd437aaa1c4d4897ab5bf9b26b61b89b0b04d9b5d81d45cfb4f2be28d91657b89d0a48f2d838ea628bf3c6bb7c9ecb82f0761075d964ce3bf63",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nlicl_user/2026-03-29/CS_1774782717464.pdf"
+            }
+        ],
+        "newsHeadline": "For Information [NLICL] ",
+        "newsBody": "<p>Appointment of Company Secretary</p>",
+        "addedDate": "2026-03-29T16:57:57.557",
+        "newsSource": "NLICL",
+        "modifiedDate": "2026-03-30T09:58:19.843",
+        "approvedDate": null,
+        "symbol": "NLICL"
+    },
+    {
         "id": 45247,
         "applicationDocumentDetailsList": [
             {
@@ -2674,5 +2698,29 @@
         "modifiedDate": "2026-03-29T11:34:37.727",
         "approvedDate": null,
         "symbol": "UNLB"
+    },
+    {
+        "id": 45258,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30370,
+                "activeStatus": "A",
+                "modifiedBy": "hbl_user",
+                "modifiedDate": "2026-03-30T11:02:55.363",
+                "application": 45258,
+                "documentType": 54,
+                "submittedDate": "2026-03-30",
+                "filePath": "hbl_user/2026-03-30/Nepse letter_1774847796739.pdf",
+                "encryptedId": "58cf0bd7428d7b184f9116128ce6de1b3e13b46584275af5cbd2c3abbef9b20a876863b7dc0416a0ce485bcfb0396bd162f6ef648971c052078b4591cfb51506",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=hbl_user/2026-03-30/Nepse%20letter_1774847796739.pdf"
+            }
+        ],
+        "newsHeadline": "Conversion of 10% promoter share to public [HBL] ",
+        "newsBody": "<p>Conversion of 10% promoter share to public</p>",
+        "addedDate": "2026-03-30T11:02:55.34",
+        "newsSource": "Board of Director",
+        "modifiedDate": "2026-03-30T11:15:53.673",
+        "approvedDate": null,
+        "symbol": "HBL"
     }
 ]
