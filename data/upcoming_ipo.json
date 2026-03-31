@@ -1,5 +1,16 @@
 [
     {
+        "company": "Appolo Hydropower Limited",
+        "units": "7,80,200.00",
+        "date_range": "26th - 30th Chaitra, 2082",
+        "announcement_date": "Mar 31, 2026",
+        "full_text": "Appolo Hydropower Limited is going to issue its 7,80,200.00 units of IPO shares to the general public starting from 26th - 30th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64950",
+        "is_reserved_share": false,
+        "reserved_for": "",
+        "scraped_at": "2026-03-31T05:40:55.415888"
+    },
+    {
         "company": "Kalinchowk Hydropower Limited",
         "units": "6,84,750.00",
         "date_range": "22nd - 25th Chaitra, 2082",
@@ -8,7 +19,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64893",
         "is_reserved_share": false,
         "reserved_for": "",
-        "scraped_at": "2026-03-30T05:54:55.981328"
+        "scraped_at": "2026-03-31T05:40:55.415763"
     },
     {
         "company": "Kalanga Hydro Limited",
