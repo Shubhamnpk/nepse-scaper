@@ -1,5 +1,29 @@
 [
     {
+        "id": 45307,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30402,
+                "activeStatus": "A",
+                "modifiedBy": "dordi_user",
+                "modifiedDate": "2026-04-02T12:59:13",
+                "application": 45307,
+                "documentType": 54,
+                "submittedDate": "2026-04-02",
+                "filePath": "Dordi_Khola_Jal_Bidyut_Company_limited/Company News/2026-04-02/letter_1775113906278.pdf",
+                "encryptedId": "7c1c6024a239007b8e7319da9f2d62c5cc1070ba97fa5a6c9680ef0519f76d9b61bef7e566110b45d9a05de2a93de4637238bb1a0bcfde00547c86be7bbae087",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Dordi_Khola_Jal_Bidyut_Company_limited/Company%20News/2026-04-02/letter_1775113906278.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of issue manager [DORDI] ",
+        "newsBody": "<p>Appointment of issue manager</p>",
+        "addedDate": "2026-04-02T12:59:12.997",
+        "newsSource": "Appointment of issue manager",
+        "modifiedDate": "2026-04-02T15:03:50.243",
+        "approvedDate": null,
+        "symbol": "DORDI"
+    },
+    {
         "id": 45306,
         "applicationDocumentDetailsList": [
             {
