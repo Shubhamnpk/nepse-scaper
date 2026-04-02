@@ -1,5 +1,113 @@
 [
     {
+        "id": 45306,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30400,
+                "activeStatus": "A",
+                "modifiedBy": "nmic_user",
+                "modifiedDate": "2026-04-02T10:46:04.333",
+                "application": 45306,
+                "documentType": 54,
+                "submittedDate": "2026-04-02",
+                "filePath": "Nepal_Micro_Insurance_Company_Limited/Company News/2026-04-02/Nepse Book Close_1775106061555.pdf",
+                "encryptedId": "45ec28dbc20c9aac30adc7d185a80d43e2adb8a45e9b16e9d1c808599cbd4a9d77b3a53936b53c0a41c526af21289f0a3845b35d62588c5e92cb2875ff851b5f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Nepal_Micro_Insurance_Company_Limited/Company%20News/2026-04-02/Nepse%20Book%20Close_1775106061555.pdf"
+            },
+            {
+                "id": 30401,
+                "activeStatus": "A",
+                "modifiedBy": "nmic_user",
+                "modifiedDate": "2026-04-02T10:46:04.333",
+                "application": 45306,
+                "documentType": 54,
+                "submittedDate": "2026-04-02",
+                "filePath": "Nepal_Micro_Insurance_Company_Limited/Company News/2026-04-02/3rd AGM Notice_1775106054447.pdf",
+                "encryptedId": "3467a3a7ef01f5bf04aabfae4b9c8e45b46e7c8fef88f62890c66f1040a7a4a3662535c671c092741df46245f180bb4ca1e116e477487640523f98ba30a3b7d7",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Nepal_Micro_Insurance_Company_Limited/Company%20News/2026-04-02/3rd%20AGM%20Notice_1775106054447.pdf"
+            }
+        ],
+        "newsHeadline": "3rd AGM of NMIC [NMIC] ",
+        "newsBody": "Book Close of NMIC\nBook Close Date : 4/9/2026",
+        "addedDate": "2026-04-02T10:46:04.327",
+        "newsSource": "Nepal Samachar Patra",
+        "modifiedDate": "2026-04-02T10:52:01.077",
+        "approvedDate": null,
+        "symbol": "NMIC"
+    },
+    {
+        "id": 45305,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30399,
+                "activeStatus": "A",
+                "modifiedBy": "mchpl_user",
+                "modifiedDate": "2026-04-02T10:45:36.637",
+                "application": 45305,
+                "documentType": 54,
+                "submittedDate": "2026-04-02",
+                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-04-02/rajinama mchl (2)_1775106027005.pdf",
+                "encryptedId": "d1a0153b1a5c6e35307991aebaeaeefb16fbfd59e7bb5a9ec9c3f0d49a0b553790fad6f64f24d08d9293147ac33d3d71dee110c732d630b3a5663c106a43e06c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-04-02/rajinama%20mchl%20%282%29_1775106027005.pdf"
+            }
+        ],
+        "newsHeadline": "Independent Director Resignation MCHL [MCHL] ",
+        "newsBody": "<p>Independent Director Resignation MCHL</p>",
+        "addedDate": "2026-04-02T10:45:36.633",
+        "newsSource": "Independent Director Resignation MCHL",
+        "modifiedDate": "2026-04-02T10:51:37.12",
+        "approvedDate": null,
+        "symbol": "MCHL"
+    },
+    {
+        "id": 45304,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30398,
+                "activeStatus": "A",
+                "modifiedBy": "dordi_user",
+                "modifiedDate": "2026-04-02T10:23:35.923",
+                "application": 45304,
+                "documentType": 54,
+                "submittedDate": "2026-04-02",
+                "filePath": "Dordi_Khola_Jal_Bidyut_Company_limited/Company News/2026-04-02/Letter_1775104654974.pdf",
+                "encryptedId": "08e3369f489d6ac2e0b97acab010a91c3d2ff28113e4d7a2871f6d449235589ebceb54d5cfb2e79fb9e9efbe432d738f7e364bb71b00f1c06e7bb079455c2a8c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Dordi_Khola_Jal_Bidyut_Company_limited/Company%20News/2026-04-02/Letter_1775104654974.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of Issue Manager [DORDI] ",
+        "newsBody": "<p><span style=\"color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(0, 0, 0, 0.05); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Appointment of Issue Manager</span></p>",
+        "addedDate": "2026-04-02T10:23:35.903",
+        "newsSource": "Appointment of Issue Manager",
+        "modifiedDate": "2026-04-02T10:30:11.387",
+        "approvedDate": null,
+        "symbol": "DORDI"
+    },
+    {
+        "id": 45303,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30397,
+                "activeStatus": "A",
+                "modifiedBy": "nicl_user",
+                "modifiedDate": "2026-04-01T18:57:15.46",
+                "application": 45303,
+                "documentType": 54,
+                "submittedDate": "2026-04-01",
+                "filePath": "nicl_user/2026-04-01/Director Information_1775049112703.pdf",
+                "encryptedId": "79dbdf1486fbde1445b29223ee8fc03b2c52fd26501be6f18b178cab91f46db9c741c72c2e94b3e1846c153b6d0a6e6daa54804dfd054de11776a9df784640e4",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nicl_user/2026-04-01/Director%20Information_1775049112703.pdf"
+            }
+        ],
+        "newsHeadline": "NICL Director Information [NICL] ",
+        "newsBody": "<p>NICL Director Information</p>",
+        "addedDate": "2026-04-01T18:57:15.457",
+        "newsSource": "NICL",
+        "modifiedDate": "2026-04-02T08:56:46.537",
+        "approvedDate": null,
+        "symbol": "NICL"
+    },
+    {
         "id": 45296,
         "applicationDocumentDetailsList": [
             {
