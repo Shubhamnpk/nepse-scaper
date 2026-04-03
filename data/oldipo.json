@@ -1,5 +1,27 @@
 [
     {
+        "company": "Kalanga Hydro Limited",
+        "units": "3,50,000.00",
+        "date_range": "10th - 15th Chaitra, 2082",
+        "announcement_date": "Mar 16, 2026",
+        "full_text": "Kalanga Hydro Limited is going to issue its 3,50,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 10th - 15th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64741",
+        "is_reserved_share": true,
+        "reserved_for": "Nepalese citizens working abroad",
+        "scraped_at": "2026-03-24T05:19:43.850668"
+    },
+    {
+        "company": "Kalanga Hydro Limited",
+        "units": "14,00,000.00",
+        "date_range": "10th - 24th Chaitra, 2082",
+        "announcement_date": "Mar 16, 2026",
+        "full_text": "Kalanga Hydro Limited is going to issue its 14,00,000.00 units of IPO shares to the project affected local residents of Far Western Province, Bajhang District, Kedarsyu VDC, Ward No. 04 & 05 (Including Former Banjh VDC, Ward No. 03), Bithadchir VDC, Ward No. 06 & 08 (Including Former Sunkunda VDC, Ward No. 03 & 05), Bungal Municipality, Ward No. 03,04,06,08 & 05 (Including Former Khiratadi VDC, Ward No. 09), Baitadi District, Dilasaini VDC, Ward No. 01 & 02/Darchula District, Sailyashikhar Municipality, Ward No. 01 and non- affected areas of all Wards of Bajhang District, Kedarsyu VDC,  Bithadchir VDC, Bungal Municipality, Baitadi District and Darchula District starting from 10th - 24th Chaitra, 2082",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=64742",
+        "is_reserved_share": true,
+        "reserved_for": "Local residents",
+        "scraped_at": "2026-03-24T05:19:43.850546"
+    },
+    {
         "company": "Sopan Pharmaceuticals Limited",
         "units": "4,29,000.00",
         "date_range": "9th - 12th Chaitra, 2082",
