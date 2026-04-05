@@ -5757,18 +5757,18 @@
             "securityId": 591
         },
         {
-            "symbol": "BARUN",
-            "shareTraded": 172225,
-            "closingPrice": 334.0,
-            "securityName": "Barun Hydropower Co. Ltd.",
-            "securityId": 686
-        },
-        {
             "symbol": "SYPNL",
             "shareTraded": 172225,
             "closingPrice": 1759.0,
             "securityName": "SY Panel Nepal Limited",
             "securityId": 9303
+        },
+        {
+            "symbol": "BARUN",
+            "shareTraded": 172225,
+            "closingPrice": 334.0,
+            "securityName": "Barun Hydropower Co. Ltd.",
+            "securityId": 686
         },
         {
             "symbol": "RFPL",
@@ -7724,18 +7724,11 @@
             "securityId": 9261
         },
         {
-            "symbol": "RBBD2088",
+            "symbol": "PBLD84",
             "shareTraded": 50,
-            "closingPrice": 1056.5,
-            "securityName": "7% RBBL Debenture 2088",
-            "securityId": 9264
-        },
-        {
-            "symbol": "GBBD85",
-            "shareTraded": 50,
-            "closingPrice": 1073.1,
-            "securityName": "Garima Debenture, 2085",
-            "securityId": 8033
+            "closingPrice": 1136.0,
+            "securityName": "10% Prabhu Bank Debenture 2084 ",
+            "securityId": 2904
         },
         {
             "symbol": "CBLD88",
@@ -7745,11 +7738,18 @@
             "securityId": 8043
         },
         {
-            "symbol": "PBLD84",
+            "symbol": "GBBD85",
             "shareTraded": 50,
-            "closingPrice": 1136.0,
-            "securityName": "10% Prabhu Bank Debenture 2084 ",
-            "securityId": 2904
+            "closingPrice": 1073.1,
+            "securityName": "Garima Debenture, 2085",
+            "securityId": 8033
+        },
+        {
+            "symbol": "RBBD2088",
+            "shareTraded": 50,
+            "closingPrice": 1056.5,
+            "securityName": "7% RBBL Debenture 2088",
+            "securityId": 9264
         },
         {
             "symbol": "BNL",
@@ -7780,11 +7780,25 @@
             "securityId": 9211
         },
         {
-            "symbol": "NABILD87",
+            "symbol": "NIBD84",
+            "shareTraded": 25,
+            "closingPrice": 1053.0,
+            "securityName": "8.5% Nepal Investment Bank Debenture 2084",
+            "securityId": 2931
+        },
+        {
+            "symbol": "SDBD87",
             "shareTraded": 25,
             "closingPrice": 1145.0,
-            "securityName": "9% Nabil Debenture 2087",
-            "securityId": 9238
+            "securityName": "Shangri-la Development Bank Debenture 2087",
+            "securityId": 6985
+        },
+        {
+            "symbol": "CIZBD86",
+            "shareTraded": 25,
+            "closingPrice": 1175.0,
+            "securityName": "10.25% Citizens Bank Debenture 2086",
+            "securityId": 2889
         },
         {
             "symbol": "SRBLD83",
@@ -7801,6 +7815,13 @@
             "securityId": 2825
         },
         {
+            "symbol": "NABILD87",
+            "shareTraded": 25,
+            "closingPrice": 1145.0,
+            "securityName": "9% Nabil Debenture 2087",
+            "securityId": 9238
+        },
+        {
             "symbol": "EBLD85",
             "shareTraded": 25,
             "closingPrice": 1148.0,
@@ -7813,27 +7834,6 @@
             "closingPrice": 1200.0,
             "securityName": "10% Prime Debenture 2088",
             "securityId": 8097
-        },
-        {
-            "symbol": "CIZBD86",
-            "shareTraded": 25,
-            "closingPrice": 1175.0,
-            "securityName": "10.25% Citizens Bank Debenture 2086",
-            "securityId": 2889
-        },
-        {
-            "symbol": "NIBD84",
-            "shareTraded": 25,
-            "closingPrice": 1053.0,
-            "securityName": "8.5% Nepal Investment Bank Debenture 2084",
-            "securityId": 2931
-        },
-        {
-            "symbol": "SDBD87",
-            "shareTraded": 25,
-            "closingPrice": 1145.0,
-            "securityName": "Shangri-la Development Bank Debenture 2087",
-            "securityId": 6985
         },
         {
             "symbol": "LBLD86",
