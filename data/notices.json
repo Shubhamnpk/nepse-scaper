@@ -52,6 +52,40 @@
             "modifiedBy": "rabin.kc"
         },
         {
+            "id": 1227,
+            "noticeHeading": "Financial Bid Opening Notice for IS Audit",
+            "noticeBody": "Financial Bid Opening Notice for IS Audit",
+            "noticeFilePath": "30c91adccf6125c7a57b01ba8b7533b4.pdf",
+            "noticeExpiryDate": "2026-04-15",
+            "feature": true,
+            "noticeTypeId": {
+                "id": 1,
+                "activeStatus": "A",
+                "noticeType": "Company Notice"
+            },
+            "publishToWebsite": true,
+            "source": null,
+            "modifiedDate": null,
+            "modifiedBy": "rabin.kc"
+        },
+        {
+            "id": 1228,
+            "noticeHeading": "Notice Regarding Securities Transaction",
+            "noticeBody": "Notice Regarding Securities Transaction",
+            "noticeFilePath": "7bb1f07da6d4c27511e1cbbfdb984895.pdf",
+            "noticeExpiryDate": "2026-04-11",
+            "feature": true,
+            "noticeTypeId": {
+                "id": 1,
+                "activeStatus": "A",
+                "noticeType": "Company Notice"
+            },
+            "publishToWebsite": true,
+            "source": null,
+            "modifiedDate": null,
+            "modifiedBy": "rabin.kc"
+        },
+        {
             "id": 1226,
             "noticeHeading": "\u092e\u093e\u0930\u094d\u091c\u093f\u0928 \u0915\u093e\u0930\u094b\u0935\u093e\u0930 \u092f\u094b\u0917\u094d\u092f \u0915\u092e\u094d\u092a\u0928\u0940\u0939\u0930\u0941\u0915\u094b \u0938\u0942\u091a\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093f \u0938\u0942\u091a\u0928\u093e",
             "noticeBody": "\u092e\u093e\u0930\u094d\u091c\u093f\u0928 \u0915\u093e\u0930\u094b\u0935\u093e\u0930 \u092f\u094b\u0917\u094d\u092f \u0915\u092e\u094d\u092a\u0928\u0940\u0939\u0930\u0941\u0915\u094b \u0938\u0942\u091a\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093f \u0938\u0942\u091a\u0928\u093e",
@@ -136,5 +170,5 @@
             "modifiedDate": "2026-03-01"
         }
     ],
-    "last_updated": "2026-04-01T05:53:25.363428"
+    "last_updated": "2026-04-08T05:45:04.884885"
 }

@@ -1,5 +1,53 @@
 [
     {
+        "id": 45359,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30466,
+                "activeStatus": "A",
+                "modifiedBy": "madhya_user",
+                "modifiedDate": "2026-04-08T09:10:44.277",
+                "application": 45359,
+                "documentType": 54,
+                "submittedDate": "2026-04-08",
+                "filePath": "madhya_user/2026-04-08/Change in personnel in finance division_1775618716680.pdf",
+                "encryptedId": "b918c689accfcb9b8740ef7f9d5a7a1a0cbc529f00837c8dee62b723ddf5dc7a30dee34e38b197e5f8312cf6acb5b97fc05e730df6991b1b3a4020ba3a447714",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=madhya_user/2026-04-08/Change%20in%20personnel%20in%20finance%20division_1775618716680.pdf"
+            }
+        ],
+        "newsHeadline": "Change in Personnel at Finance Division [MBJC] ",
+        "newsBody": "<p>Mr. Prakash Kunwar, who joined on deputation from NEA, has been posted as Finance Officer at the Corporate Office and has been entrusted with responsibility as the Finance Chief as stated in the rule 15 of the Financial Bylaws, 2071 of the Company.</p>",
+        "addedDate": "2026-04-08T09:10:44.277",
+        "newsSource": "393rd BOD decision dated 2082.12.19",
+        "modifiedDate": "2026-04-08T09:13:05.267",
+        "approvedDate": null,
+        "symbol": "MBJC"
+    },
+    {
+        "id": 45358,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30465,
+                "activeStatus": "A",
+                "modifiedBy": "snli_user",
+                "modifiedDate": "2026-04-08T08:57:06.62",
+                "application": 45358,
+                "documentType": 54,
+                "submittedDate": "2026-04-08",
+                "filePath": "Sun_Nepal_Life_Insurance_Company_Limited/Company News/2026-04-08/Acting CEO SNLI_1775617874110.pdf",
+                "encryptedId": "cf70a97dbb4a8798c954097ee45c78bec656141e3b04f1ea64f69927d987b8082ddbc8c2005cacf3b513c2858212630bfaf945e767e55222ea2b26d12f2d8267",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sun_Nepal_Life_Insurance_Company_Limited/Company%20News/2026-04-08/Acting%20CEO%20SNLI_1775617874110.pdf"
+            }
+        ],
+        "newsHeadline": "Acting CEO  [SNLI] ",
+        "newsBody": "<p>Mr.Kabi Phuyal as Acting CEO of SNLI</p>",
+        "addedDate": "2026-04-08T08:57:06.603",
+        "newsSource": "Internal",
+        "modifiedDate": "2026-04-08T08:58:24.847",
+        "approvedDate": null,
+        "symbol": "SNLI"
+    },
+    {
         "id": 45351,
         "applicationDocumentDetailsList": [
             {
@@ -27,18 +75,6 @@
         "id": 45350,
         "applicationDocumentDetailsList": [
             {
-                "id": 30447,
-                "activeStatus": "A",
-                "modifiedBy": "balephi_user",
-                "modifiedDate": "2026-04-07T10:44:10.673",
-                "application": 45350,
-                "documentType": 54,
-                "submittedDate": "2026-04-07",
-                "filePath": "Balephi_Hydropower_Limited/Company News/2026-04-07/nirnaya utar chairman_1775537889930.pdf",
-                "encryptedId": "bdaaefdea78b80ee19bec12718c241b3a28fddc7e57fab77c6af7c480d312b617f3c37512bef901105722f6be4f4088d3158decd9a380aef04b0e55e85d8d479",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Balephi_Hydropower_Limited/Company%20News/2026-04-07/nirnaya%20utar%20chairman_1775537889930.pdf"
-            },
-            {
                 "id": 30446,
                 "activeStatus": "A",
                 "modifiedBy": "balephi_user",
@@ -49,6 +85,18 @@
                 "filePath": "Balephi_Hydropower_Limited/Company News/2026-04-07/appoint letter nepse_1775537882544.pdf",
                 "encryptedId": "a0917bebd4ac585b4bdd87a2f8e85d5351cc07e729e10e7685ea089b96e0611e5e805ad2b3ac4c0f6d10a245975483cbf8d0d424d1729cca8f76e6981b73488c",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Balephi_Hydropower_Limited/Company%20News/2026-04-07/appoint%20letter%20nepse_1775537882544.pdf"
+            },
+            {
+                "id": 30447,
+                "activeStatus": "A",
+                "modifiedBy": "balephi_user",
+                "modifiedDate": "2026-04-07T10:44:10.673",
+                "application": 45350,
+                "documentType": 54,
+                "submittedDate": "2026-04-07",
+                "filePath": "Balephi_Hydropower_Limited/Company News/2026-04-07/nirnaya utar chairman_1775537889930.pdf",
+                "encryptedId": "bdaaefdea78b80ee19bec12718c241b3a28fddc7e57fab77c6af7c480d312b617f3c37512bef901105722f6be4f4088d3158decd9a380aef04b0e55e85d8d479",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Balephi_Hydropower_Limited/Company%20News/2026-04-07/nirnaya%20utar%20chairman_1775537889930.pdf"
             }
         ],
         "newsHeadline": "Appointment of Chairman [BHL] ",
@@ -975,18 +1023,6 @@
         "id": 45148,
         "applicationDocumentDetailsList": [
             {
-                "id": 30284,
-                "activeStatus": "A",
-                "modifiedBy": "mchpl_user",
-                "modifiedDate": "2026-03-24T10:06:42.98",
-                "application": 45148,
-                "documentType": 54,
-                "submittedDate": "2026-03-24",
-                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/lock in notice_1774326080607.pdf",
-                "encryptedId": "941cd0f24595cc66b7304dd55435cdc171ffdb8174a2833546281577fecaf4a8b68ab97b7729498c372ca6aa5a06daefba598118b29927dc65013b4d80636810",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/lock%20in%20notice_1774326080607.pdf"
-            },
-            {
                 "id": 30285,
                 "activeStatus": "A",
                 "modifiedBy": "mchpl_user",
@@ -997,6 +1033,18 @@
                 "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/img-7_1774326095513.pdf",
                 "encryptedId": "dee1d8743d136498a30852363522a4a935a1424844615ae8ae76d8dad8df01c5030a42b4ade4f87d1fb4b86d6867a425aab85b8456634dcdc469eaae9fc65c0f",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/img-7_1774326095513.pdf"
+            },
+            {
+                "id": 30284,
+                "activeStatus": "A",
+                "modifiedBy": "mchpl_user",
+                "modifiedDate": "2026-03-24T10:06:42.98",
+                "application": 45148,
+                "documentType": 54,
+                "submittedDate": "2026-03-24",
+                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/lock in notice_1774326080607.pdf",
+                "encryptedId": "941cd0f24595cc66b7304dd55435cdc171ffdb8174a2833546281577fecaf4a8b68ab97b7729498c372ca6aa5a06daefba598118b29927dc65013b4d80636810",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/lock%20in%20notice_1774326080607.pdf"
             }
         ],
         "newsHeadline": "Lock In Period End Notice MCHL [MCHL] ",
@@ -3454,5 +3502,29 @@
         "modifiedDate": "2026-04-07T09:59:52.587",
         "approvedDate": null,
         "symbol": "SMB"
+    },
+    {
+        "id": 45361,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30468,
+                "activeStatus": "A",
+                "modifiedBy": "chdc_user",
+                "modifiedDate": "2026-04-08T09:51:07.913",
+                "application": 45361,
+                "documentType": 54,
+                "submittedDate": "2026-04-08",
+                "filePath": "CEDB_Hydropower_Development_Company_Limited/Company News/2026-04-08/LETTER_1775621146473.pdf",
+                "encryptedId": "203d91920b7f54d574ffb642b1d20cc1d6b749ca1adfbb79d6555a6a3c6b2da0ace7cfb9fa796d6f116e3ec2179f62d00fb892664986377fa80547dfaf26a2f1",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=CEDB_Hydropower_Development_Company_Limited/Company%20News/2026-04-08/LETTER_1775621146473.pdf"
+            }
+        ],
+        "newsHeadline": "Information [CHDC] ",
+        "newsBody": "<p>Information</p>",
+        "addedDate": "2026-04-08T09:51:07.91",
+        "newsSource": "Information",
+        "modifiedDate": "2026-04-08T09:52:06.943",
+        "approvedDate": null,
+        "symbol": "CHDC"
     }
 ]
