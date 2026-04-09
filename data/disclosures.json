@@ -1,5 +1,29 @@
 [
     {
+        "id": 45381,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30482,
+                "activeStatus": "A",
+                "modifiedBy": "gmfbs_user",
+                "modifiedDate": "2026-04-09T12:15:09.313",
+                "application": 45381,
+                "documentType": 54,
+                "submittedDate": "2026-04-09",
+                "filePath": "Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company News/2026-04-09/NEPSE_1775716203262.pdf",
+                "encryptedId": "46a8494efac7ecbf4cd198c89b9360a1427ccf6cfac6b56e7469400918cfcd87c07a1ecafb46f7407b1000705ca5ee6f1dde524b7616dd52ae9261198da5fff7",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Ganapati_Microfinance_Bittiya_Sanstha_Ltd/Company%20News/2026-04-09/NEPSE_1775716203262.pdf"
+            }
+        ],
+        "newsHeadline": "9th AGM Minute of GMFBS [GMFBS] ",
+        "newsBody": "",
+        "addedDate": "2026-04-09T12:15:09.307",
+        "newsSource": "AGM",
+        "modifiedDate": "2026-04-09T12:59:50.327",
+        "approvedDate": null,
+        "symbol": "GMFBS"
+    },
+    {
         "id": 45377,
         "applicationDocumentDetailsList": [
             {
@@ -1167,18 +1191,6 @@
         "id": 45148,
         "applicationDocumentDetailsList": [
             {
-                "id": 30284,
-                "activeStatus": "A",
-                "modifiedBy": "mchpl_user",
-                "modifiedDate": "2026-03-24T10:06:42.98",
-                "application": 45148,
-                "documentType": 54,
-                "submittedDate": "2026-03-24",
-                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/lock in notice_1774326080607.pdf",
-                "encryptedId": "941cd0f24595cc66b7304dd55435cdc171ffdb8174a2833546281577fecaf4a8b68ab97b7729498c372ca6aa5a06daefba598118b29927dc65013b4d80636810",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/lock%20in%20notice_1774326080607.pdf"
-            },
-            {
                 "id": 30285,
                 "activeStatus": "A",
                 "modifiedBy": "mchpl_user",
@@ -1189,6 +1201,18 @@
                 "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/img-7_1774326095513.pdf",
                 "encryptedId": "dee1d8743d136498a30852363522a4a935a1424844615ae8ae76d8dad8df01c5030a42b4ade4f87d1fb4b86d6867a425aab85b8456634dcdc469eaae9fc65c0f",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/img-7_1774326095513.pdf"
+            },
+            {
+                "id": 30284,
+                "activeStatus": "A",
+                "modifiedBy": "mchpl_user",
+                "modifiedDate": "2026-03-24T10:06:42.98",
+                "application": 45148,
+                "documentType": 54,
+                "submittedDate": "2026-03-24",
+                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/lock in notice_1774326080607.pdf",
+                "encryptedId": "941cd0f24595cc66b7304dd55435cdc171ffdb8174a2833546281577fecaf4a8b68ab97b7729498c372ca6aa5a06daefba598118b29927dc65013b4d80636810",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/lock%20in%20notice_1774326080607.pdf"
             }
         ],
         "newsHeadline": "Lock In Period End Notice MCHL [MCHL] ",
