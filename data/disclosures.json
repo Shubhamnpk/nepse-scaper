@@ -1,5 +1,77 @@
 [
     {
+        "id": 45377,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30479,
+                "activeStatus": "A",
+                "modifiedBy": "mel_user",
+                "modifiedDate": "2026-04-09T10:30:16.333",
+                "application": 45377,
+                "documentType": 54,
+                "submittedDate": "2026-04-09",
+                "filePath": "Modi_Energy_Limited/Company News/2026-04-09/Modi Lock In Letter_1775709904054.PDF",
+                "encryptedId": "ee31f28494837f488ccedcceab2a3d216f2fe1da20ebe77d70dadaa24e750e5929cae7c4e735321374e440ed0be45bbdee593cf4d9488de59adeb58610905fa7",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Modi_Energy_Limited/Company%20News/2026-04-09/Modi%20Lock%20In%20Letter_1775709904054.PDF"
+            }
+        ],
+        "newsHeadline": "End Lock in Period notice [MEL] ",
+        "newsBody": "",
+        "addedDate": "2026-04-09T10:30:16.313",
+        "newsSource": "End Lock in Period notic",
+        "modifiedDate": "2026-04-09T10:31:43.72",
+        "approvedDate": null,
+        "symbol": "MEL"
+    },
+    {
+        "id": 45376,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30478,
+                "activeStatus": "A",
+                "modifiedBy": "hrl_user",
+                "modifiedDate": "2026-04-08T19:52:45.427",
+                "application": 45376,
+                "documentType": 54,
+                "submittedDate": "2026-04-08",
+                "filePath": "Himalayan_Reinsurance_Limited/Company News/2026-04-08/Board Formation_1775657146680.pdf",
+                "encryptedId": "e67c25fe62098c25ef13e85a7234d3ce9842478eb38050f387bf5fd6b0b6c4ed85b104f07ed5b98b7cfd52f591878018fe2b87bb15524a1389cf2f83c900514a",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Himalayan_Reinsurance_Limited/Company%20News/2026-04-08/Board%20Formation_1775657146680.pdf"
+            }
+        ],
+        "newsHeadline": "\u0915\u092e\u094d\u092a\u0928\u0940\u0915\u094b \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u092a\u0941\u0928\u0930\u094d\u0917\u0920\u0928 \u0924\u0925\u093e \u0928\u092f\u093e\u0901 \u0938\u0902\u091a\u093e\u0932\u0915 \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f  [HRL] ",
+        "newsBody": "<p>\u092e\u0939\u094b\u0926\u092f,</p><p>\u0909\u092a\u0930\u094b\u0915\u094d\u0924 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e, \u092f\u0938 \u0939\u093f\u092e\u093e\u0932\u092f\u0928 \u0930\u093f\u0907\u0928\u094d\u0938\u094d\u092f\u094b\u0930\u0947\u0928\u094d\u0938 \u0932\u093f\u092e\u093f\u091f\u0947\u0921\u0915\u094b \u0938\u0902\u0938\u094d\u0925\u093e\u092a\u0915 \u0936\u0947\u092f\u0930\u0927\u0928\u0940 \u0915\u092e\u094d\u092a\u0928\u0940\u0939\u0930\u0942\u0915\u094b \u092a\u094d\u0930\u0924\u093f\u0928\u093f\u0927\u093f\u0924\u094d\u0935 \u0917\u0930\u094d\u0928\u0947 \u0938\u0902\u091a\u093e\u0932\u0915\u0939\u0930\u0942\u092e\u093e \u092d\u090f\u0915\u094b \u0939\u0947\u0930\u092b\u0947\u0930 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0909\u0915\u094d\u0924 \u0915\u092e\u094d\u092a\u0928\u0940\u0939\u0930\u0942\u092c\u093e\u091f \u092e\u093f\u0924\u093f \u0968\u0966\u096e\u0968\u0964\u0967\u0968\u0964\u0968\u096b \u0917\u0924\u0947\u0915\u094b \u092a\u0924\u094d\u0930\u092e\u093e\u0930\u094d\u092b\u0924 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u092d\u0908, \u092f\u0938 \u0915\u092e\u094d\u092a\u0928\u0940\u0915\u094b \u0906\u091c\u0948\u0915\u094b \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u096e\u0968 \u0914\u0902 \u092c\u0948\u0920\u0915\u0932\u0947 \u0906\u0917\u093e\u092e\u0940 \u0935\u093e\u0930\u094d\u0937\u093f\u0915 \u0938\u093e\u0927\u093e\u0930\u0923 \u0938\u092d\u093e\u0938\u092e\u094d\u092e\u0915\u093e \u0932\u093e\u0917\u093f \u0926\u0947\u0939\u093e\u092f \u092c\u092e\u094b\u091c\u093f\u092e\u0915\u093e \u092e\u0928\u094b\u0928\u093f\u0924 \u0938\u0902\u091a\u093e\u0932\u0915\u0939\u0930\u0942\u0915\u094b \u092e\u0928\u094b\u0928\u092f\u0928 \u0938\u094d\u0935\u0940\u0915\u0943\u0924 \u0917\u0930\u0947\u0915\u094b \u0935\u094d\u092f\u0939\u094b\u0930\u093e \u091c\u093e\u0928\u0915\u093e\u0930\u0940\u0915\u093e \u0932\u093e\u0917\u093f \u092f\u094b \u092a\u0924\u094d\u0930 \u092a\u0947\u0936 \u0917\u0930\u094d\u0926\u091b\u094c\u0902 \u0964</p><p>\u0938\u093e\u0935\u093f\u0915\u0915\u094b \u0938\u0902\u091a\u093e\u0932\u0915\t\u0928\u092f\u093e\u0901 \u0928\u093f\u092f\u0941\u0915\u094d\u0924 \u0938\u0902\u091a\u093e\u0932\u0915</p><p>\u0936\u094d\u0930\u0940 \u0936\u0947\u0916\u0930 \u0917\u094b\u0932\u094d\u091b\u093e\t\u0936\u094d\u0930\u0940 \u0909\u0926\u092f \u0915\u0941\u092e\u093e\u0930 \u0928\u093f\u0930\u094c\u0932\u093e</p><p>\u0936\u094d\u0930\u0940 \u0936\u093e\u0939\u093f\u0932 \u0905\u0917\u094d\u0930\u0935\u093e\u0932    \t\u0936\u094d\u0930\u0940 \u0926\u093f\u092a\u0947\u0928\u094d\u0926\u094d\u0930 \u0915\u0941\u092e\u093e\u0930 \u092e\u093f\u0936\u094d\u0930</p><p>\u0936\u094d\u0930\u0940 \u0930\u094b\u0939\u093f\u0924 \u0917\u0941\u092a\u094d\u0924\u093e       \t\u0936\u094d\u0930\u0940 \u092a\u0943\u0925\u094d\u0935\u0940 \u0930\u093e\u091c \u0925\u093e\u092a\u093e</p><p>\u0938\u093e\u0925\u0948, \u0938\u0902\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u092a\u0926\u092e\u093e \u0928\u0935\u2013\u0928\u093f\u092f\u0941\u0915\u094d\u0924 \u0938\u0902\u091a\u093e\u0932\u0915 \u0936\u094d\u0930\u0940 \u0909\u0926\u092f \u0915\u0941\u092e\u093e\u0930 \u0928\u093f\u0930\u094c\u0932\u093e\u091c\u094d\u092f\u0942\u0932\u093e\u0908 \u0906\u091c\u0915\u0948 \u092e\u093f\u0924\u093f\u092c\u093e\u091f \u0932\u093e\u0917\u0942 \u0939\u0941\u0928\u0947 \u0917\u0930\u0940 \u0928\u093f\u092f\u0941\u0915\u094d\u0924 \u0917\u0930\u093f\u090f\u0915\u094b \u0935\u094d\u092f\u0939\u094b\u0930\u093e \u0938\u092e\u0947\u0924 \u092f\u0938\u0948 \u092a\u0924\u094d\u0930\u092e\u093e\u0930\u094d\u092b\u0924 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0917\u0930\u093e\u0909\u0901\u0926\u091b\u094c\u0902 \u0964</p>",
+        "addedDate": "2026-04-08T19:52:45.423",
+        "newsSource": "Company Secretry",
+        "modifiedDate": "2026-04-09T09:15:51.51",
+        "approvedDate": null,
+        "symbol": "HRL"
+    },
+    {
+        "id": 45375,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30477,
+                "activeStatus": "A",
+                "modifiedBy": "edbl_user",
+                "modifiedDate": "2026-04-08T18:40:31.59",
+                "application": 45375,
+                "documentType": 54,
+                "submittedDate": "2026-04-08",
+                "filePath": "edbl_user/2026-04-08/Reappointment of CEO_1775652887651.pdf",
+                "encryptedId": "00065fd7ac4509d7e1119cd592d6fc8e6270d198e2a1d2db34d9da754770b5c8f5419c309ed28929e008d07383a6ced9547906d2cd0c43711892440290b5c4f3",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=edbl_user/2026-04-08/Reappointment%20of%20CEO_1775652887651.pdf"
+            }
+        ],
+        "newsHeadline": "Reappointment of CEO [EDBL] ",
+        "newsBody": "<p>Reappointment of CEO Dr. Indra Kumar Kattel.</p>",
+        "addedDate": "2026-04-08T18:40:31.587",
+        "newsSource": "Company Secretary",
+        "modifiedDate": "2026-04-09T09:15:24.503",
+        "approvedDate": null,
+        "symbol": "EDBL"
+    },
+    {
         "id": 45372,
         "applicationDocumentDetailsList": [
             {
@@ -1095,18 +1167,6 @@
         "id": 45148,
         "applicationDocumentDetailsList": [
             {
-                "id": 30285,
-                "activeStatus": "A",
-                "modifiedBy": "mchpl_user",
-                "modifiedDate": "2026-03-24T10:06:42.983",
-                "application": 45148,
-                "documentType": 54,
-                "submittedDate": "2026-03-24",
-                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/img-7_1774326095513.pdf",
-                "encryptedId": "dee1d8743d136498a30852363522a4a935a1424844615ae8ae76d8dad8df01c5030a42b4ade4f87d1fb4b86d6867a425aab85b8456634dcdc469eaae9fc65c0f",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/img-7_1774326095513.pdf"
-            },
-            {
                 "id": 30284,
                 "activeStatus": "A",
                 "modifiedBy": "mchpl_user",
@@ -1117,6 +1177,18 @@
                 "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/lock in notice_1774326080607.pdf",
                 "encryptedId": "941cd0f24595cc66b7304dd55435cdc171ffdb8174a2833546281577fecaf4a8b68ab97b7729498c372ca6aa5a06daefba598118b29927dc65013b4d80636810",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/lock%20in%20notice_1774326080607.pdf"
+            },
+            {
+                "id": 30285,
+                "activeStatus": "A",
+                "modifiedBy": "mchpl_user",
+                "modifiedDate": "2026-03-24T10:06:42.983",
+                "application": 45148,
+                "documentType": 54,
+                "submittedDate": "2026-03-24",
+                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/img-7_1774326095513.pdf",
+                "encryptedId": "dee1d8743d136498a30852363522a4a935a1424844615ae8ae76d8dad8df01c5030a42b4ade4f87d1fb4b86d6867a425aab85b8456634dcdc469eaae9fc65c0f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/img-7_1774326095513.pdf"
             }
         ],
         "newsHeadline": "Lock In Period End Notice MCHL [MCHL] ",

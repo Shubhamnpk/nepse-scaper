@@ -1,5 +1,18 @@
 [
     {
+        "id": 208684,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">5,67,322.20 Units Bonus Shares of&nbsp;</span>Ru Ru Jalbidhyut Pariyojana Limited (RURU)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span></p>",
+        "messageTitle": "Listing 10% Bonus Shares of Ru Ru Jalbidhyut Pariyojana Limited (RURU)",
+        "encryptedId": null,
+        "expiryDate": "2026-04-09",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-04-09T11:17:13.533",
+        "modifiedDate": "2026-04-09T11:17:13.533",
+        "approvedDate": null,
+        "symbol": "RURU"
+    },
+    {
         "id": 208683,
         "messageBody": "Price Adjusted - ANLB|Adjusted Price for Aatmanirbhar Laghubitta Bittiya Sanstha Limited is Rs. 5571.47 for 14.25 % of Bonus Share.",
         "messageTitle": "Price Adjusted - ANLB",
