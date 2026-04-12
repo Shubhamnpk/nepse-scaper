@@ -1,41 +1,4 @@
 {
-    "supplyList": [
-        {
-            "totalQuantity": 146,
-            "totalOrder": 5,
-            "securityId": 2864,
-            "symbol": "SBLD83",
-            "securityName": "10.25% SBL Debenture 2083"
-        },
-        {
-            "totalQuantity": 30,
-            "totalOrder": 3,
-            "securityId": 2875,
-            "symbol": "PBLD86",
-            "securityName": "10.25% Prabhu Bank  Debenture 2086"
-        }
-    ],
-    "demandList": [
-        {
-            "totalQuantity": 496963,
-            "totalOrder": 3449,
-            "securityId": 9330,
-            "symbol": "PCIL",
-            "securityName": "Palpa Cement Industries Limited"
-        },
-        {
-            "totalQuantity": 247645,
-            "totalOrder": 992,
-            "securityId": 9329,
-            "symbol": "SIPD",
-            "securityName": "Shikhar power Development Limited"
-        },
-        {
-            "totalQuantity": 100,
-            "totalOrder": 1,
-            "securityId": 9195,
-            "symbol": "MLBLD89",
-            "securityName": "11% Mahalaxmi Debenture 2089"
-        }
-    ]
+    "supplyList": [],
+    "demandList": []
 }

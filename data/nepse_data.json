@@ -3411,7 +3411,7 @@
         "turnover": 81310.0,
         "trades": 25,
         "last_updated": "2026-04-10T14:51:46.762543",
-        "market_cap": null
+        "market_cap": 12375.0
     },
     {
         "symbol": "PFL",
@@ -4403,7 +4403,7 @@
         "turnover": 42647.0,
         "trades": 14,
         "last_updated": "2026-04-10T14:57:21.071113",
-        "market_cap": null
+        "market_cap": 3064.46
     },
     {
         "symbol": "SJCL",
