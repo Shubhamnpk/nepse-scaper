@@ -1,5 +1,29 @@
 [
     {
+        "id": 45446,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30533,
+                "activeStatus": "A",
+                "modifiedBy": "nfs_user",
+                "modifiedDate": "2026-04-17T15:12:32.687",
+                "application": 45446,
+                "documentType": 54,
+                "submittedDate": "2026-04-17",
+                "filePath": "nfs_user/2026-04-17/Letter- Appointment of Chairman_1776418033691.pdf",
+                "encryptedId": "51a6934010d9fccc8fdb01f7c24adc56529985f5571abb0f58f3f6da994e0883436820d28f367fc3c934d1bf91512a977767337019f144ec18c2b030e748f00d",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nfs_user/2026-04-17/Letter-%20Appointment%20of%20Chairman_1776418033691.pdf"
+            }
+        ],
+        "newsHeadline": "Information Regarding Appointment of Chairman [NFS] ",
+        "newsBody": "<p>Information Regarding Appointment of Chairman</p>",
+        "addedDate": "2026-04-17T15:12:32.683",
+        "newsSource": "Information Regarding Appointment of Chairman",
+        "modifiedDate": "2026-04-17T15:17:37.17",
+        "approvedDate": null,
+        "symbol": "NFS"
+    },
+    {
         "id": 45444,
         "applicationDocumentDetailsList": [
             {
@@ -4270,5 +4294,29 @@
         "modifiedDate": "2026-04-17T08:56:29.06",
         "approvedDate": null,
         "symbol": "PCIL"
+    },
+    {
+        "id": 45445,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30532,
+                "activeStatus": "A",
+                "modifiedBy": "sypnl_uesr",
+                "modifiedDate": "2026-04-17T13:44:30.327",
+                "application": 45445,
+                "documentType": 54,
+                "submittedDate": "2026-04-17",
+                "filePath": "SY_Panel_Nepal_Limited/Company News/2026-04-17/Share Capital Investment_1776412750301.pdf",
+                "encryptedId": "1902ee5bf324996aa8ff25ea4a8284912218bcced8eae27f54d9976f0513f56e240531ed826ef53657354eb41d68dbec06cb894a2f157c5d4232149f286536f6",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=SY_Panel_Nepal_Limited/Company%20News/2026-04-17/Share%20Capital%20Investment_1776412750301.pdf"
+            }
+        ],
+        "newsHeadline": "Share Capital Investment [SYPNL] ",
+        "newsBody": "",
+        "addedDate": "2026-04-17T13:44:30.32",
+        "newsSource": "Company's Official Letter",
+        "modifiedDate": "2026-04-17T15:07:47.5",
+        "approvedDate": null,
+        "symbol": "SYPNL"
     }
 ]
