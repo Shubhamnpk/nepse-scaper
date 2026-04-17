@@ -35,6 +35,23 @@
             "modifiedBy": "prabhakar_k"
         },
         {
+            "id": 1230,
+            "noticeHeading": "\u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u0915\u093e\u0930\u094b\u092c\u093e\u0930 \u0938\u0928\u094d\u091a\u093e\u0932\u0928 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0938\u0942\u091a\u0928\u093e",
+            "noticeBody": "\u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u0915\u093e\u0930\u094b\u092c\u093e\u0930 \u0938\u0928\u094d\u091a\u093e\u0932\u0928 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0938\u0942\u091a\u0928\u093e",
+            "noticeFilePath": "5dd1a5756a83e72ba11df84b1a5bc75c.pdf",
+            "noticeExpiryDate": "2026-05-26",
+            "feature": true,
+            "noticeTypeId": {
+                "id": 1,
+                "activeStatus": "A",
+                "noticeType": "Company Notice"
+            },
+            "publishToWebsite": true,
+            "source": null,
+            "modifiedDate": null,
+            "modifiedBy": "rabin.kc"
+        },
+        {
             "id": 1229,
             "noticeHeading": "LOI for NEPSE IS Audit",
             "noticeBody": "LOI for NEPSE IS Audit",
@@ -187,5 +204,5 @@
             "modifiedDate": "2026-03-01"
         }
     ],
-    "last_updated": "2026-04-17T05:57:29.113473"
+    "last_updated": "2026-04-17T11:27:41.320720"
 }

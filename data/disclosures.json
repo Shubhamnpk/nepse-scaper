@@ -1,5 +1,29 @@
 [
     {
+        "id": 45447,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30534,
+                "activeStatus": "A",
+                "modifiedBy": "mchpl_user",
+                "modifiedDate": "2026-04-17T16:19:34.87",
+                "application": 45447,
+                "documentType": 54,
+                "submittedDate": "2026-04-17",
+                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-04-17/Scan_20260417 (1)_1776421651027.pdf",
+                "encryptedId": "b0444cfb49dd18b6e06c2ef67257344b4afb5a526615e4859deaf6bfdd2d17a66b8ce3e7acee8aaac1d79639d7ac43f056f7fc4bf461019530f2a54f682c0ae6",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-04-17/Scan_20260417%20%281%29_1776421651027.pdf"
+            }
+        ],
+        "newsHeadline": "Book Close for SGM [MCHL] ",
+        "newsBody": "Book Close of MCHL\nBook Close Date : 27/04/2026\nRight Shares : 100%",
+        "addedDate": "2026-04-17T16:19:34.863",
+        "newsSource": "Book Close for SGM",
+        "modifiedDate": "2026-04-17T16:40:40.627",
+        "approvedDate": null,
+        "symbol": "MCHL"
+    },
+    {
         "id": 45446,
         "applicationDocumentDetailsList": [
             {
@@ -4318,5 +4342,29 @@
         "modifiedDate": "2026-04-17T15:07:47.5",
         "approvedDate": null,
         "symbol": "SYPNL"
+    },
+    {
+        "id": 45448,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30535,
+                "activeStatus": "A",
+                "modifiedBy": "api_user",
+                "modifiedDate": "2026-04-17T16:35:22.693",
+                "application": 45448,
+                "documentType": 54,
+                "submittedDate": "2026-04-17",
+                "filePath": "api_user/2026-04-17/Resignation and Appointment of Company Secretary_1776422987937.pdf",
+                "encryptedId": "95cd81b1fc7a97fd46405739997350bf2c5061b6cb4eb01edc2dabe743d801440bdab0411578d11777de8258d7edf2fb219b528cd1b125a668cf7d2834e522c9",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=api_user/2026-04-17/Resignation%20and%20Appointment%20of%20Company%20Secretary_1776422987937.pdf"
+            }
+        ],
+        "newsHeadline": "Resignation & Appointment of Company Secretary. [API] ",
+        "newsBody": "",
+        "addedDate": "2026-04-17T16:35:22.69",
+        "newsSource": "BOD API POWER",
+        "modifiedDate": "2026-04-17T16:42:22.107",
+        "approvedDate": null,
+        "symbol": "API"
     }
 ]
