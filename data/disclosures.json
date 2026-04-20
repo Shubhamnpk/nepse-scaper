@@ -1,5 +1,113 @@
 [
     {
+        "id": 45453,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30540,
+                "activeStatus": "A",
+                "modifiedBy": "nmic_user",
+                "modifiedDate": "2026-04-20T09:48:31.863",
+                "application": 45453,
+                "documentType": 54,
+                "submittedDate": "2026-04-20",
+                "filePath": "Nepal_Micro_Insurance_Company_Limited/Company News/2026-04-20/3rd AGM _NEPSE_1776657802486.PDF",
+                "encryptedId": "4bbd743b93b5a9f6e32a6a7107e2153c7874a767c5cf7fc0119cfcfe0fa836fd1d6e0e5b5d18f9ad7d9f6d75f7b4e0aa594d4f3e93b670e51151bb350969fc31",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Nepal_Micro_Insurance_Company_Limited/Company%20News/2026-04-20/3rd%20AGM%20_NEPSE_1776657802486.PDF"
+            },
+            {
+                "id": 30541,
+                "activeStatus": "A",
+                "modifiedBy": "nmic_user",
+                "modifiedDate": "2026-04-20T09:48:31.867",
+                "application": 45453,
+                "documentType": 54,
+                "submittedDate": "2026-04-20",
+                "filePath": "Nepal_Micro_Insurance_Company_Limited/Company News/2026-04-20/notice_1776657808469.jpeg",
+                "encryptedId": "006dcbe06093801eb298dd479f9b731a2e9451ea65ca7c7c3d6b89de550adbb34c5de01d537db9558637c9cc829cdb31560f7962e3f78fa3c73b0bf1ad3c4b48",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Nepal_Micro_Insurance_Company_Limited/Company%20News/2026-04-20/notice_1776657808469.jpeg"
+            }
+        ],
+        "newsHeadline": "Postponement of AGM [NMIC] ",
+        "newsBody": "Annual General Meeting of NMIC\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 4/23/2026\nAGM No: 3\nBook Close Date: 4/9/2026",
+        "addedDate": "2026-04-20T09:48:31.853",
+        "newsSource": "Saurya Dainik",
+        "modifiedDate": "2026-04-20T09:50:05.17",
+        "approvedDate": null,
+        "symbol": "NMIC"
+    },
+    {
+        "id": 45452,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30539,
+                "activeStatus": "A",
+                "modifiedBy": "snli_user",
+                "modifiedDate": "2026-04-20T09:18:04.71",
+                "application": 45452,
+                "documentType": 54,
+                "submittedDate": "2026-04-20",
+                "filePath": "Sun_Nepal_Life_Insurance_Company_Limited/Company News/2026-04-20/Time Extension of Board Member till AGM_1776655920488.pdf",
+                "encryptedId": "f4a2b917850e7e570186d5c934292cac8ece8af76de86269e2c2f27870411294d62351727d0570cb7948c22044358a908cac9eff3729a069aa99b4e9370316fe",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sun_Nepal_Life_Insurance_Company_Limited/Company%20News/2026-04-20/Time%20Extension%20of%20Board%20Member%20till%20AGM_1776655920488.pdf"
+            }
+        ],
+        "newsHeadline": "Time Extension of Board Member till AGM  [SNLI] ",
+        "newsBody": "<p>Time Extension of members Board of Directors of SNLI till AGM </p>",
+        "addedDate": "2026-04-20T09:18:04.687",
+        "newsSource": "Interna;",
+        "modifiedDate": "2026-04-20T09:20:16.757",
+        "approvedDate": null,
+        "symbol": "SNLI"
+    },
+    {
+        "id": 45451,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30538,
+                "activeStatus": "A",
+                "modifiedBy": "unhpl_user",
+                "modifiedDate": "2026-04-19T15:01:00.573",
+                "application": 45451,
+                "documentType": 54,
+                "submittedDate": "2026-04-19",
+                "filePath": "Union_Hydropower_Limited/Company News/2026-04-19/Jankari Sambhandha_1776590121767.pdf",
+                "encryptedId": "8e311015b23acafe1f7db774e00aab6fb2e20f6f57b336fe136c2497353e668435292bd220f7e4f66a3c74986b362df116d0132e92f1935c0ee37f78d7718814",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Union_Hydropower_Limited/Company%20News/2026-04-19/Jankari%20Sambhandha_1776590121767.pdf"
+            }
+        ],
+        "newsHeadline": "S.G.M [UNHPL] ",
+        "newsBody": "",
+        "addedDate": "2026-04-19T15:01:00.567",
+        "newsSource": "Special General Meeting ",
+        "modifiedDate": "2026-04-20T09:09:22.743",
+        "approvedDate": null,
+        "symbol": "UNHPL"
+    },
+    {
+        "id": 45449,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30536,
+                "activeStatus": "A",
+                "modifiedBy": "swastik_user",
+                "modifiedDate": "2026-04-17T16:55:04.937",
+                "application": 45449,
+                "documentType": 54,
+                "submittedDate": "2026-04-17",
+                "filePath": "Swastik_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-04-17/BOD resign Nepse letter_1776424199291.pdf",
+                "encryptedId": "a13cf7573bb735073164fde60afe34bccdc458a42baf53875037711a04d0cfe9ae967860e397844ce4b257dc9317202d3cd57f0ef8441fa2cdab885dec89c80b",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Swastik_Laghubitta_Bittiya_Sanstha_Limited/Company%20News/2026-04-17/BOD%20resign%20Nepse%20letter_1776424199291.pdf"
+            }
+        ],
+        "newsHeadline": "Resignation Of BOD Member [SWASTIK] ",
+        "newsBody": "<p>Board of Directors member Kusheshwar Yadav has resigned from his position. His resignation was submitted to the concerned authority and was subsequently approved during a board meeting.</p><p>Yadav cited personal reasons for stepping down from the role. The board expressed its appreciation for his contributions during his tenure and formally accepted his resignation.</p><p>Following his departure, the process to appoint a new member to the vacant position will be initiated soon, according to sources.</p>",
+        "addedDate": "2026-04-17T16:55:04.937",
+        "newsSource": "BOD Minute",
+        "modifiedDate": "2026-04-20T09:08:48.583",
+        "approvedDate": null,
+        "symbol": "SWASTIK"
+    },
+    {
         "id": 45447,
         "applicationDocumentDetailsList": [
             {
@@ -1623,18 +1731,6 @@
         "id": 45148,
         "applicationDocumentDetailsList": [
             {
-                "id": 30285,
-                "activeStatus": "A",
-                "modifiedBy": "mchpl_user",
-                "modifiedDate": "2026-03-24T10:06:42.983",
-                "application": 45148,
-                "documentType": 54,
-                "submittedDate": "2026-03-24",
-                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/img-7_1774326095513.pdf",
-                "encryptedId": "dee1d8743d136498a30852363522a4a935a1424844615ae8ae76d8dad8df01c5030a42b4ade4f87d1fb4b86d6867a425aab85b8456634dcdc469eaae9fc65c0f",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/img-7_1774326095513.pdf"
-            },
-            {
                 "id": 30284,
                 "activeStatus": "A",
                 "modifiedBy": "mchpl_user",
@@ -1645,6 +1741,18 @@
                 "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/lock in notice_1774326080607.pdf",
                 "encryptedId": "941cd0f24595cc66b7304dd55435cdc171ffdb8174a2833546281577fecaf4a8b68ab97b7729498c372ca6aa5a06daefba598118b29927dc65013b4d80636810",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/lock%20in%20notice_1774326080607.pdf"
+            },
+            {
+                "id": 30285,
+                "activeStatus": "A",
+                "modifiedBy": "mchpl_user",
+                "modifiedDate": "2026-03-24T10:06:42.983",
+                "application": 45148,
+                "documentType": 54,
+                "submittedDate": "2026-03-24",
+                "filePath": "Menchhiyam_Hydropower_Ltd/Company News/2026-03-24/img-7_1774326095513.pdf",
+                "encryptedId": "dee1d8743d136498a30852363522a4a935a1424844615ae8ae76d8dad8df01c5030a42b4ade4f87d1fb4b86d6867a425aab85b8456634dcdc469eaae9fc65c0f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Menchhiyam_Hydropower_Ltd/Company%20News/2026-03-24/img-7_1774326095513.pdf"
             }
         ],
         "newsHeadline": "Lock In Period End Notice MCHL [MCHL] ",
@@ -4366,5 +4474,29 @@
         "modifiedDate": "2026-04-17T16:42:22.107",
         "approvedDate": null,
         "symbol": "API"
+    },
+    {
+        "id": 45450,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30537,
+                "activeStatus": "A",
+                "modifiedBy": "niclbsl_user",
+                "modifiedDate": "2026-04-19T09:16:38.41",
+                "application": 45450,
+                "documentType": 54,
+                "submittedDate": "2026-04-19",
+                "filePath": "NIC_ASIA_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-04-19/No Dividend Declaration for FY 208182_1776569455469.pdf",
+                "encryptedId": "c71905fb29f368ca5590b24c14ed4257dfaff725bc2a4c68d63c689a48a25f6a6c0d36130226dda09efd871f160a49bd7c3a2d23a4118387a044d62e0f8f4209",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=NIC_ASIA_Laghubitta_Bittiya_Sanstha_Limited/Company%20News/2026-04-19/No%20Dividend%20Declaration%20for%20FY%20208182_1776569455469.pdf"
+            }
+        ],
+        "newsHeadline": "No any Dividend Declaration for F.Y.2081/82 [NICLBSL] ",
+        "newsBody": "Dividend Declaration of NICLBSL\nFiscal Year: 2081-2082",
+        "addedDate": "2026-04-19T09:16:38.39",
+        "newsSource": "NIC ASIA Laghubitta",
+        "modifiedDate": "2026-04-20T09:09:06.22",
+        "approvedDate": null,
+        "symbol": "NICLBSL"
     }
 ]
