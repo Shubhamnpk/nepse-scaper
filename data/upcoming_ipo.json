@@ -1,5 +1,38 @@
 [
     {
+        "company": "Sarvottam Paints Industries Limited",
+        "units": "85,000.00",
+        "date_range": "21st - 24th Baishakh, 2083",
+        "announcement_date": "Apr 22, 2026",
+        "full_text": "Sarvottam Paints Industries Limited is going to issue its 85,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 21st - 24th Baishakh, 2083",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=65250",
+        "is_reserved_share": true,
+        "reserved_for": "Nepalese citizens working abroad",
+        "scraped_at": "2026-04-22T05:55:24.554646"
+    },
+    {
+        "company": "Mount Everest Power Development Limited",
+        "units": "8,60,000.00",
+        "date_range": "17th - 31st Baishakh, 2083",
+        "announcement_date": "Apr 21, 2026",
+        "full_text": "Mount Everest Power Development Limited is going to issue its 8,60,000.00 units of IPO shares to the project affected local residents of Solukhumbu District, Solu Dudhkunda Municipality Ward No. 01 & 02 and other Wards of affected areas starting from 17th - 31st Baishakh, 2083",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=65248",
+        "is_reserved_share": true,
+        "reserved_for": "Local residents",
+        "scraped_at": "2026-04-22T05:55:24.554550"
+    },
+    {
+        "company": "Mount Everest Power Development Limited",
+        "units": "1,72,000.00",
+        "date_range": "17th - 23rd Baishakh, 2083",
+        "announcement_date": "Apr 21, 2026",
+        "full_text": "Mount Everest Power Development Limited is going to issue its 1,72,000.00 units of IPO shares to the Nepalese citizens working abroad starting from 17th - 23rd Baishakh, 2083",
+        "url": "https://merolagani.com/AnnouncementDetail.aspx?id=65247",
+        "is_reserved_share": true,
+        "reserved_for": "Nepalese citizens working abroad",
+        "scraped_at": "2026-04-22T05:55:24.554449"
+    },
+    {
         "company": "Yambaling Hydropower Limited",
         "units": "17,43,000.00",
         "date_range": "16th - 22nd Baishakh, 2083",
@@ -8,7 +41,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=65242",
         "is_reserved_share": false,
         "reserved_for": "",
-        "scraped_at": "2026-04-20T06:08:46.751761"
+        "scraped_at": "2026-04-22T05:55:24.554323"
     },
     {
         "company": "Everest Colour Limited",
@@ -19,7 +52,7 @@
         "url": "https://merolagani.com/AnnouncementDetail.aspx?id=65181",
         "is_reserved_share": true,
         "reserved_for": "Nepalese citizens working abroad",
-        "scraped_at": "2026-04-20T06:08:46.751648"
+        "scraped_at": "2026-04-22T05:55:24.554197"
     },
     {
         "company": "Sopan Pharmaceuticals Limited",
