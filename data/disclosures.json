@@ -1,5 +1,29 @@
 [
     {
+        "id": 45483,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30558,
+                "activeStatus": "A",
+                "modifiedBy": "prin_user",
+                "modifiedDate": "2026-04-22T18:06:25.917",
+                "application": 45483,
+                "documentType": 54,
+                "submittedDate": "2026-04-22",
+                "filePath": "prin_user/2026-04-22/PRIN_auditor appointment_1776860442239.pdf",
+                "encryptedId": "2afed21e80585ff34d9349b17ef6b88c0e98d5ca575e4ac7c45a91ec10ac2a2658fe1dc30e5d707da3c165886dfe7ee75fe246e35d43ae88e2b361576c03a368",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=prin_user/2026-04-22/PRIN_auditor%20appointment_1776860442239.pdf"
+            }
+        ],
+        "newsHeadline": "Auditor Appointment (PRIN) [PRIN] ",
+        "newsBody": "<p>Auditor Appointment (PRIN)</p>",
+        "addedDate": "2026-04-22T18:06:25.913",
+        "newsSource": "30th AGM of PRIN",
+        "modifiedDate": "2026-04-23T09:00:17.363",
+        "approvedDate": null,
+        "symbol": "PRIN"
+    },
+    {
         "id": 45464,
         "applicationDocumentDetailsList": [
             {

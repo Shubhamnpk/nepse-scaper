@@ -52,6 +52,23 @@
             "modifiedBy": "rabin.kc"
         },
         {
+            "id": 1231,
+            "noticeHeading": "\t\u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u0915\u093e\u0930\u094b\u0935\u093e\u0930 \u0938\u0902\u091a\u093e\u0932\u0928 (\u091a\u094c\u0925\u094b \u0938\u0902\u0936\u094b\u0927\u0928) \u0935\u093f\u0928\u093f\u092f\u092e\u093e\u0935\u0932\u0940, \u0968\u0966\u096e\u0968",
+            "noticeBody": "\u0927\u093f\u0924\u094b\u092a\u0924\u094d\u0930 \u0915\u093e\u0930\u094b\u0935\u093e\u0930 \u0938\u0902\u091a\u093e\u0932\u0928 (\u091a\u094c\u0925\u094b \u0938\u0902\u0936\u094b\u0927\u0928) \u0935\u093f\u0928\u093f\u092f\u092e\u093e\u0935\u0932\u0940, \u0968\u0966\u096e\u0968",
+            "noticeFilePath": "0dac19faeeec4f91aa172ba7f0d72a86.pdf",
+            "noticeExpiryDate": "2026-05-24",
+            "feature": true,
+            "noticeTypeId": {
+                "id": 1,
+                "activeStatus": "A",
+                "noticeType": "Company Notice"
+            },
+            "publishToWebsite": true,
+            "source": null,
+            "modifiedDate": null,
+            "modifiedBy": "rabin.kc"
+        },
+        {
             "id": 1229,
             "noticeHeading": "LOI for NEPSE IS Audit",
             "noticeBody": "LOI for NEPSE IS Audit",
@@ -204,5 +221,5 @@
             "modifiedDate": "2026-03-01"
         }
     ],
-    "last_updated": "2026-04-17T11:27:41.320720"
+    "last_updated": "2026-04-23T05:58:42.937288"
 }
