@@ -1,5 +1,101 @@
 [
     {
+        "id": 45488,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30563,
+                "activeStatus": "A",
+                "modifiedBy": "uslb_user",
+                "modifiedDate": "2026-04-24T09:38:17.79",
+                "application": 45488,
+                "documentType": 54,
+                "submittedDate": "2026-04-24",
+                "filePath": "uslb_user/2026-04-24/11th AGM Minutes_compressed_1777002793215.pdf",
+                "encryptedId": "689b328d73568c2163027bc6c5814468a861658e91523f90bf49ad8c31cbe9a40566d50231acdc307dbe882bf9e7db3005ef29e5b8e810bab413f49e66743b2c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=uslb_user/2026-04-24/11th%20AGM%20Minutes_compressed_1777002793215.pdf"
+            }
+        ],
+        "newsHeadline": "11th AGM Minute of USLB  [USLB] ",
+        "newsBody": "<p>11th AGM Minute of USLB</p>",
+        "addedDate": "2026-04-24T09:38:17.787",
+        "newsSource": "11th AGM Minute ",
+        "modifiedDate": "2026-04-24T09:56:48.827",
+        "approvedDate": null,
+        "symbol": "USLB"
+    },
+    {
+        "id": 45487,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30562,
+                "activeStatus": "A",
+                "modifiedBy": "uic_user",
+                "modifiedDate": "2026-04-24T09:34:26.56",
+                "application": 45487,
+                "documentType": 54,
+                "submittedDate": "2026-04-24",
+                "filePath": "uic_user/2026-04-24/Appointment_1777002550013.pdf",
+                "encryptedId": "e39be1a91b8753635d27f0dd903fd517a780dedea21b8295d6cec5c2bbdb9554c9957d01d53d593b9b39e4f64f2012845faadd3d7b86eb24c05cccaddd8aefad",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=uic_user/2026-04-24/Appointment_1777002550013.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of CEO [UAIL] ",
+        "newsBody": "<p>Regarding appointment of CEO.</p>",
+        "addedDate": "2026-04-24T09:34:26.553",
+        "newsSource": "BOD",
+        "modifiedDate": "2026-04-24T09:36:55.343",
+        "approvedDate": null,
+        "symbol": "UAIL"
+    },
+    {
+        "id": 45485,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30560,
+                "activeStatus": "A",
+                "modifiedBy": "sgic_user",
+                "modifiedDate": "2026-04-23T17:21:19.043",
+                "application": 45485,
+                "documentType": 54,
+                "submittedDate": "2026-04-23",
+                "filePath": "Sanima_General_Insurance_Ltd/Company News/2026-04-23/NEPSE_1776944145751.pdf",
+                "encryptedId": "54fb82232b3ac8699e06e461ede3d3f23444d7655c6df06b08079ae870043c2aa9f02110405866c5b9ae474df31690fd3bc8496ef941ce40706f55ab1ea0460a",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sanima_General_Insurance_Ltd/Company%20News/2026-04-23/NEPSE_1776944145751.pdf"
+            }
+        ],
+        "newsHeadline": "8th AGM and book close notice [SGIC] ",
+        "newsBody": "Book Close of SGIC\nBook Close Date : 5/6/2026\nCash Dividend: 0.2632%\nBonus Shares: 5%",
+        "addedDate": "2026-04-23T17:21:19.037",
+        "newsSource": "Notice",
+        "modifiedDate": "2026-04-24T09:22:16.2",
+        "approvedDate": null,
+        "symbol": "SGIC"
+    },
+    {
+        "id": 45484,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30559,
+                "activeStatus": "A",
+                "modifiedBy": "sgic_user",
+                "modifiedDate": "2026-04-23T17:17:58.517",
+                "application": 45484,
+                "documentType": 54,
+                "submittedDate": "2026-04-23",
+                "filePath": "Sanima_General_Insurance_Ltd/Company News/2026-04-23/8th AGM notice_1776943951125.pdf",
+                "encryptedId": "e524f15c302a948323895b6a80c0972631f0f3eb13b3b4c85f0c17e0809cd17e9be7fae1b047f1b3ad2289272c564a4f7f472f1863eecaae81292866da652a5c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sanima_General_Insurance_Ltd/Company%20News/2026-04-23/8th%20AGM%20notice_1776943951125.pdf"
+            }
+        ],
+        "newsHeadline": "8th AGM and Book close notice [SGIC] ",
+        "newsBody": "Annual General Meeting of SGIC\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 5/20/2026\nAGM No: 8\nBook Close Date: 5/6/2026\nCash Dividend: 0.2632%\nBonus Shares: 5%",
+        "addedDate": "2026-04-23T17:17:58.503",
+        "newsSource": "Notice",
+        "modifiedDate": "2026-04-24T09:22:38.537",
+        "approvedDate": null,
+        "symbol": "SGIC"
+    },
+    {
         "id": 45483,
         "applicationDocumentDetailsList": [
             {
