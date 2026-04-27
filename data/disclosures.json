@@ -1,5 +1,113 @@
 [
     {
+        "id": 45498,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30576,
+                "activeStatus": "A",
+                "modifiedBy": "dlbs_user",
+                "modifiedDate": "2026-04-27T10:28:08.55",
+                "application": 45498,
+                "documentType": 54,
+                "submittedDate": "2026-04-27",
+                "filePath": "Dhaulagiri_laghubitta_Sanstha_Limited/Company News/2026-04-27/CEO_hemraj Joshi_1777264975591.pdf",
+                "encryptedId": "10dcb9966fcb0e2c643323bbe18ef1ada9846afca3a703dc9ebe39a70a75cf06f8cb83d42c300cdfec7121398922f49896163e3d375c0d63e7aca1d3c750ae13",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Dhaulagiri_laghubitta_Sanstha_Limited/Company%20News/2026-04-27/CEO_hemraj%20Joshi_1777264975591.pdf"
+            }
+        ],
+        "newsHeadline": "Information About CEO Appointment of DLBS [DLBS] ",
+        "newsBody": "<p>Information About CEO Appointment of DLBS</p>",
+        "addedDate": "2026-04-27T10:28:08.547",
+        "newsSource": "Information About CEO Appointment of DLBS",
+        "modifiedDate": "2026-04-27T10:42:10.167",
+        "approvedDate": null,
+        "symbol": "DLBS"
+    },
+    {
+        "id": 45496,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30574,
+                "activeStatus": "A",
+                "modifiedBy": "sipd_user",
+                "modifiedDate": "2026-04-27T09:43:20.42",
+                "application": 45496,
+                "documentType": 54,
+                "submittedDate": "2026-04-27",
+                "filePath": "Shikhar_Power_Development_Limited/Company News/2026-04-27/spdlsgm_1777262288748.pdf",
+                "encryptedId": "d74aa1f07fe582d5e395ebf2e0d5808c5f7a99a892afebf3c2e3b8bb59bdb5d2e9d339d87fbfdbd375b2423d9f7713b88a42b07f2c3d430f1fdca607c58b2ef9",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Shikhar_Power_Development_Limited/Company%20News/2026-04-27/spdlsgm_1777262288748.pdf"
+            },
+            {
+                "id": 30573,
+                "activeStatus": "A",
+                "modifiedBy": "sipd_user",
+                "modifiedDate": "2026-04-27T09:43:20.42",
+                "application": 45496,
+                "documentType": 54,
+                "submittedDate": "2026-04-27",
+                "filePath": "Shikhar_Power_Development_Limited/Company News/2026-04-27/spdsgmnotice_1777262297228.pdf",
+                "encryptedId": "b5fb997c410fc2eda317adb594db75c2033a9269deab41a5c95d090b641df5cff43d4f44810b43241a294c43d195cf1c79bacdcffc652bca0d200193a5cbb10f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Shikhar_Power_Development_Limited/Company%20News/2026-04-27/spdsgmnotice_1777262297228.pdf"
+            }
+        ],
+        "newsHeadline": "sgm [SIPD] ",
+        "newsBody": "Annual General Meeting of SIPD\nFiscal Year: 2081-2082\nAGM Type: SGM\nAGM Date: 5/10/2026\nAGM No: 1\nBook Close Date: 4/30/2026",
+        "addedDate": "2026-04-27T09:43:20.413",
+        "newsSource": "newspaper",
+        "modifiedDate": "2026-04-27T09:44:28.89",
+        "approvedDate": null,
+        "symbol": "SIPD"
+    },
+    {
+        "id": 45492,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30567,
+                "activeStatus": "A",
+                "modifiedBy": "fowad_user",
+                "modifiedDate": "2026-04-26T10:32:35.307",
+                "application": 45492,
+                "documentType": 54,
+                "submittedDate": "2026-04-26",
+                "filePath": "fowad_user/2026-04-26/CEO Appointment_1777178768265.pdf",
+                "encryptedId": "ce051e067539d70e1c2d9f0118ed76414660e5c5196b3dc8d3d0676bc74189b0634c4092aa2435ce4cd17a8185fe948dadcb8a6c8a656c4a6fa989dc3aa65ddc",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=fowad_user/2026-04-26/CEO%20Appointment_1777178768265.pdf"
+            }
+        ],
+        "newsHeadline": "Chief Executive Officer Appointment [FOWAD] ",
+        "newsBody": "<p>Appointment of Chief Executive Officer </p>",
+        "addedDate": "2026-04-26T10:32:35.297",
+        "newsSource": "FOWAD",
+        "modifiedDate": "2026-04-27T09:07:40.31",
+        "approvedDate": null,
+        "symbol": "FOWAD"
+    },
+    {
+        "id": 45490,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30565,
+                "activeStatus": "A",
+                "modifiedBy": "tamor_user",
+                "modifiedDate": "2026-04-24T17:56:13.58",
+                "application": 45490,
+                "documentType": 54,
+                "submittedDate": "2026-04-24",
+                "filePath": "Sanima_Middle_Tamor_Hydropower_Limited/Company News/2026-04-24/Appointment of new director_1777032670521.pdf",
+                "encryptedId": "09e7f3b87e6eb0226b7f4c9a378b47236345eb4a9ecebf5accc97b2fb6df58d3c73636bf5fd7160683e77b2a12e758b707667c5cbd0f53ba8bfa7f1d6bd4603b",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sanima_Middle_Tamor_Hydropower_Limited/Company%20News/2026-04-24/Appointment%20of%20new%20director_1777032670521.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of new director [TAMOR] ",
+        "newsBody": "<p>Appointment of new director</p>",
+        "addedDate": "2026-04-24T17:56:13.573",
+        "newsSource": "Board Meeting",
+        "modifiedDate": "2026-04-27T09:07:04.343",
+        "approvedDate": null,
+        "symbol": "TAMOR"
+    },
+    {
         "id": 45488,
         "applicationDocumentDetailsList": [
             {
@@ -4738,5 +4846,77 @@
         "modifiedDate": "2026-04-22T13:06:52.957",
         "approvedDate": null,
         "symbol": "UPPER"
+    },
+    {
+        "id": 45497,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30575,
+                "activeStatus": "A",
+                "modifiedBy": "akpl_user",
+                "modifiedDate": "2026-04-27T09:51:45.513",
+                "application": 45497,
+                "documentType": 54,
+                "submittedDate": "2026-04-27",
+                "filePath": "akpl_user/2026-04-27/Akpl ERC right (1)_1777262752163.pdf",
+                "encryptedId": "bb90f1ea56c2251f4a36d29be8a5b8894df40575df14c0ed31661c5b06c16bd522d2cd2de60d8030f195c0766f21ec42e96d91fe2b2199549ed83790125fa57b",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=akpl_user/2026-04-27/Akpl%20ERC%20right%20%281%29_1777262752163.pdf"
+            }
+        ],
+        "newsHeadline": "Pre-approval for the Issuance of Right Shares  [AKPL] ",
+        "newsBody": "<p><span style=\"color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(0, 0, 0, 0.05); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">The Electricity Regulatory Commission (ERC) has provided its pre-approval for the issuance of Right Shares of Arun Kabeli Power Limited.</span></p>",
+        "addedDate": "2026-04-27T09:51:45.51",
+        "newsSource": "Pre-approval for the Issuance of Right Shares ",
+        "modifiedDate": "2026-04-27T09:54:04.367",
+        "approvedDate": null,
+        "symbol": "AKPL"
+    },
+    {
+        "id": 45494,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30571,
+                "activeStatus": "A",
+                "modifiedBy": "umhl_user",
+                "modifiedDate": "2026-04-26T16:30:48.317",
+                "application": 45494,
+                "documentType": 54,
+                "submittedDate": "2026-04-26",
+                "filePath": "umhl_user/2026-04-26/Regarding Bonus Share Distribution_1777200331794.pdf",
+                "encryptedId": "dd8cef41e0f6dc1c726fa71e8aec20a2f56a42c50da2b63b684cb24483df5796c5163dcc0d1c9ed374c9a9bc1bd2f9aa51a9d36a2af616b6092ed968f8977862",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=umhl_user/2026-04-26/Regarding%20Bonus%20Share%20Distribution_1777200331794.pdf"
+            }
+        ],
+        "newsHeadline": "Regarding Bonus Share [UMHL] ",
+        "newsBody": "<p>Regarding Bonus Share</p>",
+        "addedDate": "2026-04-26T16:30:48.31",
+        "newsSource": "AGM",
+        "modifiedDate": "2026-04-27T09:08:12.067",
+        "approvedDate": null,
+        "symbol": "UMHL"
+    },
+    {
+        "id": 45491,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30566,
+                "activeStatus": "A",
+                "modifiedBy": "tamor_user",
+                "modifiedDate": "2026-04-24T17:59:02.903",
+                "application": 45491,
+                "documentType": 54,
+                "submittedDate": "2026-04-24",
+                "filePath": "Sanima_Middle_Tamor_Hydropower_Limited/Company News/2026-04-24/survey license of TVHPL_1777032825789.pdf",
+                "encryptedId": "e72b5935195f2c9ec6b4d5a51638183619a8961559a19c466969f5e2fc06c7384bf61649e1dea9bb53e05de8277ea2579baf03f8bdb16e8b2dc8eec420aee0b9",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sanima_Middle_Tamor_Hydropower_Limited/Company%20News/2026-04-24/survey%20license%20of%20TVHPL_1777032825789.pdf"
+            }
+        ],
+        "newsHeadline": "Survey License of TVHPL [TAMOR] ",
+        "newsBody": "<p>Survey License of TVHPL</p>",
+        "addedDate": "2026-04-24T17:59:02.9",
+        "newsSource": "Company Management",
+        "modifiedDate": "2026-04-27T09:07:20.413",
+        "approvedDate": null,
+        "symbol": "TAMOR"
     }
 ]
