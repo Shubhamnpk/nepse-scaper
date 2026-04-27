@@ -4,8 +4,8 @@
     "symbol": "CSBY",
     "fund_name": "Citizens Sadabahar Yojana",
     "fund_size": 698795990,
-    "daily_nav": 10.45,
-    "daily_nav_date": "2026-04-23",
+    "daily_nav": 10.44,
+    "daily_nav_date": "2026-04-26",
     "weekly_nav": 10.59,
     "weekly_nav_date": "2026-04-17",
     "monthly_nav": 10.75,
@@ -15,15 +15,15 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1462,
     "symbol": "ELIS",
     "fund_name": "NIC ASIA Equity Linked Investment Scheme",
     "fund_size": 739676470,
-    "daily_nav": 9.92,
-    "daily_nav_date": "2026-04-23",
+    "daily_nav": 9.9,
+    "daily_nav_date": "2026-04-26",
     "weekly_nav": 10.06,
     "weekly_nav_date": "2026-04-17",
     "monthly_nav": 10.22,
@@ -33,7 +33,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1124,
@@ -51,7 +51,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1605,
@@ -69,15 +69,15 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1037,
     "symbol": "NADDF",
     "fund_name": "NIC Asia Dynamic Debt Fund",
     "fund_size": 1893191800,
-    "daily_nav": 10.04,
-    "daily_nav_date": "2026-04-23",
+    "daily_nav": 10.03,
+    "daily_nav_date": "2026-04-26",
     "weekly_nav": 10.12,
     "weekly_nav_date": "2026-04-17",
     "monthly_nav": 10.21,
@@ -87,15 +87,15 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1114,
     "symbol": "NFCF",
     "fund_name": "Nabil Flexi Cap Fund",
     "fund_size": 2089862590,
-    "daily_nav": 10.62,
-    "daily_nav_date": "2026-04-23",
+    "daily_nav": 10.61,
+    "daily_nav_date": "2026-04-25",
     "weekly_nav": 10.8,
     "weekly_nav_date": "2026-04-17",
     "monthly_nav": 10.98,
@@ -105,15 +105,15 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1268,
     "symbol": "NI31",
     "fund_name": "NI 31",
     "fund_size": 286208010,
-    "daily_nav": 10.39,
-    "daily_nav_date": "2026-04-23",
+    "daily_nav": 10.38,
+    "daily_nav_date": "2026-04-25",
     "weekly_nav": 10.57,
     "weekly_nav_date": "2026-04-17",
     "monthly_nav": 10.67,
@@ -123,15 +123,15 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 698,
     "symbol": "NIBLSF",
     "fund_name": "NIBL Sahabhagita Fund",
     "fund_size": 5990912920,
-    "daily_nav": 10.29,
-    "daily_nav_date": "2026-04-23",
+    "daily_nav": 10.27,
+    "daily_nav_date": "2026-04-26",
     "weekly_nav": 10.52,
     "weekly_nav_date": "2026-04-10",
     "monthly_nav": 11.04,
@@ -141,15 +141,15 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1082,
     "symbol": "NMBSBF",
     "fund_name": "NMB Saral Bachat Fund - E",
     "fund_size": 4295131488,
-    "daily_nav": 10.78,
-    "daily_nav_date": "2026-04-22",
+    "daily_nav": 10.71,
+    "daily_nav_date": "2026-04-26",
     "weekly_nav": 10.87,
     "weekly_nav_date": "2026-04-17",
     "monthly_nav": 11.01,
@@ -159,15 +159,15 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1231,
     "symbol": "PSIS",
     "fund_name": "Prabhu Systematic Investment Scheme",
     "fund_size": 398588020,
-    "daily_nav": 11.1,
-    "daily_nav_date": "2026-04-16",
+    "daily_nav": 10.92,
+    "daily_nav_date": "2026-04-23",
     "weekly_nav": 11.14,
     "weekly_nav_date": "2026-04-17",
     "monthly_nav": 10.68,
@@ -177,7 +177,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1305,
@@ -195,7 +195,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1205,
@@ -213,15 +213,15 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   },
   {
     "company_id": 1061,
     "symbol": "SSIS",
     "fund_name": "Siddhartha Systematic Investment Scheme",
     "fund_size": 2489189883,
-    "daily_nav": 10.95,
-    "daily_nav_date": "2026-04-23",
+    "daily_nav": 10.93,
+    "daily_nav_date": "2026-04-26",
     "weekly_nav": 11.13,
     "weekly_nav_date": "2026-04-17",
     "monthly_nav": 11.1,
@@ -231,6 +231,6 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-04-27T06:21:00.933254"
+    "scraped_at": "2026-04-27T08:44:09.159451"
   }
 ]
