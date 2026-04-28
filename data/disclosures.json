@@ -1,5 +1,29 @@
 [
     {
+        "id": 45528,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30609,
+                "activeStatus": "A",
+                "modifiedBy": "sshl_user",
+                "modifiedDate": "2026-04-28T13:59:08.837",
+                "application": 45528,
+                "documentType": 54,
+                "submittedDate": "2026-04-28",
+                "filePath": "Shiva_Shree_Hydropower_Limited/Company News/2026-04-28/SSHL - DIRECTOR CHANGE_1777364015540.pdf",
+                "encryptedId": "acaee375d3bfe9ea5cd0d8f783068965af07c56dd32d3da950448883aa60299c12ad669af8d53371670f4a6a514c126775bd7536f031fa82034e05deac8be02c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Shiva_Shree_Hydropower_Limited/Company%20News/2026-04-28/SSHL%20-%20DIRECTOR%20CHANGE_1777364015540.pdf"
+            }
+        ],
+        "newsHeadline": "DIRECTOR CHANGE [SSHL] ",
+        "newsBody": "<p>Changes in one of the director- New Director- Mr. Laxmi Narayan Chaudhary</p>",
+        "addedDate": "2026-04-28T13:59:08.833",
+        "newsSource": "BOD APPROVAL",
+        "modifiedDate": "2026-04-28T14:01:00.947",
+        "approvedDate": null,
+        "symbol": "SSHL"
+    },
+    {
         "id": 45512,
         "applicationDocumentDetailsList": [
             {
