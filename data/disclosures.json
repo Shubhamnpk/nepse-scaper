@@ -1,5 +1,29 @@
 [
     {
+        "id": 45532,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30615,
+                "activeStatus": "A",
+                "modifiedBy": "rawa_user",
+                "modifiedDate": "2026-04-28T16:06:45.55",
+                "application": 45532,
+                "documentType": 54,
+                "submittedDate": "2026-04-28",
+                "filePath": "Rawa_Energy_Development_Limited/Company News/2026-04-28/Image (307)_1777371648593.pdf",
+                "encryptedId": "cd5c741b5170aa4ba53d8671abd04f5d33088f6fe2fa1d0c74f33fd884787e6ec8825a158223a8d34b129ba4e7d9b262092fe5f5eb7fe1b44c626fe34880b38a",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Rawa_Energy_Development_Limited/Company%20News/2026-04-28/Image%20%28307%29_1777371648593.pdf"
+            }
+        ],
+        "newsHeadline": "\u0932\u0915 \u0907\u0928 (Lock In) \u0905\u0935\u0927\u093f \u0938\u092e\u093e\u092a\u094d\u0924 \u0939\u0941\u0928\u0947 \u092c\u093e\u0930\u0947\u0915\u094b \u0905\u0924\u094d\u092f\u0928\u094d\u0924 \u091c\u0930\u0941\u0930\u0940 \u0938\u0942\u091a\u0928\u093e [RAWA] ",
+        "newsBody": "",
+        "addedDate": "2026-04-28T16:06:45.547",
+        "newsSource": "Rawa Energy Development Limited",
+        "modifiedDate": "2026-04-28T16:09:10.667",
+        "approvedDate": null,
+        "symbol": "RAWA"
+    },
+    {
         "id": 45528,
         "applicationDocumentDetailsList": [
             {
@@ -123,18 +147,6 @@
         "id": 45496,
         "applicationDocumentDetailsList": [
             {
-                "id": 30574,
-                "activeStatus": "A",
-                "modifiedBy": "sipd_user",
-                "modifiedDate": "2026-04-27T09:43:20.42",
-                "application": 45496,
-                "documentType": 54,
-                "submittedDate": "2026-04-27",
-                "filePath": "Shikhar_Power_Development_Limited/Company News/2026-04-27/spdlsgm_1777262288748.pdf",
-                "encryptedId": "d74aa1f07fe582d5e395ebf2e0d5808c5f7a99a892afebf3c2e3b8bb59bdb5d2e9d339d87fbfdbd375b2423d9f7713b88a42b07f2c3d430f1fdca607c58b2ef9",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Shikhar_Power_Development_Limited/Company%20News/2026-04-27/spdlsgm_1777262288748.pdf"
-            },
-            {
                 "id": 30573,
                 "activeStatus": "A",
                 "modifiedBy": "sipd_user",
@@ -145,6 +157,18 @@
                 "filePath": "Shikhar_Power_Development_Limited/Company News/2026-04-27/spdsgmnotice_1777262297228.pdf",
                 "encryptedId": "b5fb997c410fc2eda317adb594db75c2033a9269deab41a5c95d090b641df5cff43d4f44810b43241a294c43d195cf1c79bacdcffc652bca0d200193a5cbb10f",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Shikhar_Power_Development_Limited/Company%20News/2026-04-27/spdsgmnotice_1777262297228.pdf"
+            },
+            {
+                "id": 30574,
+                "activeStatus": "A",
+                "modifiedBy": "sipd_user",
+                "modifiedDate": "2026-04-27T09:43:20.42",
+                "application": 45496,
+                "documentType": 54,
+                "submittedDate": "2026-04-27",
+                "filePath": "Shikhar_Power_Development_Limited/Company News/2026-04-27/spdlsgm_1777262288748.pdf",
+                "encryptedId": "d74aa1f07fe582d5e395ebf2e0d5808c5f7a99a892afebf3c2e3b8bb59bdb5d2e9d339d87fbfdbd375b2423d9f7713b88a42b07f2c3d430f1fdca607c58b2ef9",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Shikhar_Power_Development_Limited/Company%20News/2026-04-27/spdlsgm_1777262288748.pdf"
             }
         ],
         "newsHeadline": "sgm [SIPD] ",
