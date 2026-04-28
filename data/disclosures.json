@@ -1,5 +1,77 @@
 [
     {
+        "id": 45512,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30591,
+                "activeStatus": "A",
+                "modifiedBy": "slbbl_user",
+                "modifiedDate": "2026-04-28T10:04:58.63",
+                "application": 45512,
+                "documentType": 54,
+                "submittedDate": "2026-04-28",
+                "filePath": "slbbl_user/2026-04-28/SGM Notice Nepse_1777349927221.pdf",
+                "encryptedId": "1aa006ffe6926599a4fb77ad8fc57e77bf6fa60e677ef22f4feab81de718d337f462ba6e84f715015ecde5332f4548a0e27fd598c08c77cbc77edbbc358a30d1",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=slbbl_user/2026-04-28/SGM%20Notice%20Nepse_1777349927221.pdf"
+            }
+        ],
+        "newsHeadline": "Special General Meeting of SLBBL [SLBBL] ",
+        "newsBody": "<p>Special General Meeting of SLBBL Fiscal Year: 2082-2083 AGM Type: SGM AGM Date: 5/15/2026 AGM No: 3 Book Close Date: 5/5/2026</p>",
+        "addedDate": "2026-04-28T10:04:58.623",
+        "newsSource": "SLBBL",
+        "modifiedDate": "2026-04-28T10:07:12.397",
+        "approvedDate": null,
+        "symbol": "SLBBL"
+    },
+    {
+        "id": 45507,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30585,
+                "activeStatus": "A",
+                "modifiedBy": "nsewa_user",
+                "modifiedDate": "2026-04-28T08:52:05.223",
+                "application": 45507,
+                "documentType": 54,
+                "submittedDate": "2026-04-28",
+                "filePath": "nsewa_user/2026-04-28/Book Close (1)_1777345616010.pdf",
+                "encryptedId": "90b806515443ba05b64c5988a6e0f2abcfae999150393c7f7e5f6d0fca6961e98cb07116b7370739d1bdc78e75504378418a05759a9ef7ec0721bae88d53251f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nsewa_user/2026-04-28/Book%20Close%20%281%29_1777345616010.pdf"
+            }
+        ],
+        "newsHeadline": "Book Close [WNLB] ",
+        "newsBody": "Book Close of WNLB\nBook Close Date : 1/22/2083",
+        "addedDate": "2026-04-28T08:52:05.217",
+        "newsSource": "WNLB",
+        "modifiedDate": "2026-04-28T09:18:47.093",
+        "approvedDate": null,
+        "symbol": "WNLB"
+    },
+    {
+        "id": 45503,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30581,
+                "activeStatus": "A",
+                "modifiedBy": "anlb_user",
+                "modifiedDate": "2026-04-27T18:06:47.89",
+                "application": 45503,
+                "documentType": 54,
+                "submittedDate": "2026-04-27",
+                "filePath": "Aatmanirbhar_Laghubitta_Bittiya_Sanstha_Limited/Company News/2026-04-27/CA Appointment_1777292492963.pdf",
+                "encryptedId": "76b6a731796f42573277fa8d97b678f376b95f2155d317a03f016b0d8438ecdbcb6792553e6048fdc452fed1926a69a0e8e81c7245855d3391f05d14fdb4c6c1",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Aatmanirbhar_Laghubitta_Bittiya_Sanstha_Limited/Company%20News/2026-04-27/CA%20Appointment_1777292492963.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of CA [ANLB] ",
+        "newsBody": "",
+        "addedDate": "2026-04-27T18:06:47.887",
+        "newsSource": "Letter",
+        "modifiedDate": "2026-04-28T09:17:12.753",
+        "approvedDate": null,
+        "symbol": "ANLB"
+    },
+    {
         "id": 45498,
         "applicationDocumentDetailsList": [
             {
@@ -4918,5 +4990,29 @@
         "modifiedDate": "2026-04-27T09:07:20.413",
         "approvedDate": null,
         "symbol": "TAMOR"
+    },
+    {
+        "id": 45506,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30584,
+                "activeStatus": "A",
+                "modifiedBy": "mlbbl_user",
+                "modifiedDate": "2026-04-28T07:35:44.96",
+                "application": 45506,
+                "documentType": 54,
+                "submittedDate": "2026-04-28",
+                "filePath": "mlbbl_user/2026-04-28/Scan_20260428_1777341016487.jpg",
+                "encryptedId": "0018dbf6de74611b209412937996c0cfc8512aa1b4e69695b15af76737e98753ac347b85dbb44ab147259d7882fad3243e672925095da6bb380adb8f5088b60b",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mlbbl_user/2026-04-28/Scan_20260428_1777341016487.jpg"
+            }
+        ],
+        "newsHeadline": "Information Regarding the automtic termination of the Acting Chairperson [MLBBL] ",
+        "newsBody": "<h1>Information Regarding the automtic termination of the Acting Chairperson</h1>",
+        "addedDate": "2026-04-28T07:35:44.94",
+        "newsSource": "Mithila Laghubitta Bittiya Sanstha Ltd",
+        "modifiedDate": "2026-04-28T09:18:03.557",
+        "approvedDate": null,
+        "symbol": "MLBBL"
     }
 ]
