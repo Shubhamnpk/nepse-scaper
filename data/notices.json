@@ -86,6 +86,40 @@
             "modifiedBy": "rabin.kc"
         },
         {
+            "id": 1233,
+            "noticeHeading": "\u0916\u0930\u093f\u0926 \u0906\u0926\u0947\u0936 \u092a\u094d\u0930\u0935\u093f\u0937\u094d\u091f \u0917\u0930\u094d\u0928\u0947 \u0938\u093f\u092e\u093e \u0915\u093e\u0930\u094d\u092f\u0928\u094d\u0935\u092f\u0928 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e",
+            "noticeBody": "\u0916\u0930\u093f\u0926 \u0906\u0926\u0947\u0936 \u092a\u094d\u0930\u0935\u093f\u0937\u094d\u091f \u0917\u0930\u094d\u0928\u0947 \u0938\u093f\u092e\u093e \u0915\u093e\u0930\u094d\u092f\u0928\u094d\u0935\u092f\u0928 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e",
+            "noticeFilePath": "e7fe1689eef02ffd131319b5f6896585.pdf",
+            "noticeExpiryDate": "2026-05-07",
+            "feature": true,
+            "noticeTypeId": {
+                "id": 3,
+                "activeStatus": "A",
+                "noticeType": "Circular Notice"
+            },
+            "publishToWebsite": true,
+            "source": null,
+            "modifiedDate": null,
+            "modifiedBy": "Pravakar"
+        },
+        {
+            "id": 1234,
+            "noticeHeading": "\u0916\u0930\u093f\u0926 \u0906\u0926\u0947\u0936 \u092a\u094d\u0930\u0935\u093f\u0937\u094d\u091f \u0917\u0930\u094d\u0928\u0947 \u0938\u0940\u092e\u093e \u0915\u093e\u0930\u094d\u092f\u0928\u094d\u0935\u092f\u0928 \u0917\u0930\u094d\u0928\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e ",
+            "noticeBody": "\u0916\u0930\u093f\u0926 \u0906\u0926\u0947\u0936 \u092a\u094d\u0930\u0935\u093f\u0937\u094d\u091f \u0917\u0930\u094d\u0928\u0947 \u0938\u0940\u092e\u093e \u0915\u093e\u0930\u094d\u092f\u0928\u094d\u0935\u092f\u0928 \u0917\u0930\u094d\u0928\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e ",
+            "noticeFilePath": "496029ea2d1034114a4bc81e182dbb4b.pdf",
+            "noticeExpiryDate": "2026-05-06",
+            "feature": true,
+            "noticeTypeId": {
+                "id": 3,
+                "activeStatus": "A",
+                "noticeType": "Circular Notice"
+            },
+            "publishToWebsite": true,
+            "source": null,
+            "modifiedDate": null,
+            "modifiedBy": "balkrishna_koju"
+        },
+        {
             "id": 1225,
             "noticeHeading": "Margin \u0915\u093e\u0930\u094b\u0935\u093e\u0930 \u0938\u0941\u0935\u093f\u0927\u093e \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u092a\u093e\u0930\u093f\u0924 \u092d\u090f\u0915\u094b \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e",
             "noticeBody": "Margin \u0915\u093e\u0930\u094b\u0935\u093e\u0930 \u0938\u0941\u0935\u093f\u0927\u093e \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0940 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u092a\u093e\u0930\u093f\u0924 \u092d\u090f\u0915\u094b \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e",
@@ -238,5 +272,5 @@
             "modifiedDate": "2026-03-01"
         }
     ],
-    "last_updated": "2026-04-24T10:01:12.804267"
+    "last_updated": "2026-04-29T10:46:24.867822"
 }
