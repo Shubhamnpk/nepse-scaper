@@ -1,5 +1,29 @@
 [
     {
+        "id": 45547,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30634,
+                "activeStatus": "A",
+                "modifiedBy": "nlicl_user",
+                "modifiedDate": "2026-04-29T12:24:33.757",
+                "application": 45547,
+                "documentType": 54,
+                "submittedDate": "2026-04-29",
+                "filePath": "nlicl_user/2026-04-29/NEPSE Director Appointment_1777444765597.pdf",
+                "encryptedId": "ff2a15c35fb5c91e411451026ac0a1f24a17d557592ec60d1a28ea06e3e784cbf1dc7f1340b1771dff04bae548b64c5f83d0519c0d589303e5d95bd40a9cc654",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nlicl_user/2026-04-29/NEPSE%20Director%20Appointment_1777444765597.pdf"
+            }
+        ],
+        "newsHeadline": "New Director Appointment [NLICL] ",
+        "newsBody": "",
+        "addedDate": "2026-04-29T12:24:33.753",
+        "newsSource": "National Life Insurance Co.Ltd",
+        "modifiedDate": "2026-04-29T12:30:36.257",
+        "approvedDate": null,
+        "symbol": "NLICL"
+    },
+    {
         "id": 45539,
         "applicationDocumentDetailsList": [
             {
