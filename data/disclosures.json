@@ -1,5 +1,53 @@
 [
     {
+        "id": 45539,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30622,
+                "activeStatus": "A",
+                "modifiedBy": "akjcl_user",
+                "modifiedDate": "2026-04-29T10:24:00.14",
+                "application": 45539,
+                "documentType": 54,
+                "submittedDate": "2026-04-29",
+                "filePath": "Ankhu_Khola_Jalvidhyut_Company_Limited/Company News/2026-04-29/AGM notice_1777437512538.pdf",
+                "encryptedId": "065b7b6911243fc2c02e5e57fa20c04084497943480c53fc97083ecc8a4106aea0519cfdb5fea5ffe8daad5935eaee2bf78651e3c7ed3e3b3807e6457d0e0ce0",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Ankhu_Khola_Jalvidhyut_Company_Limited/Company%20News/2026-04-29/AGM%20notice_1777437512538.pdf"
+            }
+        ],
+        "newsHeadline": "AGM Notice [AKJCL] ",
+        "newsBody": "Annual General Meeting of AKJCL\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 6/14/2026\nAGM No: 18\nBook Close Date: 4/5/2026",
+        "addedDate": "2026-04-29T10:24:00.043",
+        "newsSource": "Company ",
+        "modifiedDate": "2026-04-29T10:29:58.587",
+        "approvedDate": null,
+        "symbol": "AKJCL"
+    },
+    {
+        "id": 45537,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30620,
+                "activeStatus": "A",
+                "modifiedBy": "nric_user",
+                "modifiedDate": "2026-04-29T09:56:54.633",
+                "application": 45537,
+                "documentType": 54,
+                "submittedDate": "2026-04-29",
+                "filePath": "Nepal_Reinsurance_Company_Limited/Company News/2026-04-29/NEPSE letter Raju sir_1777435885181.pdf",
+                "encryptedId": "1c9cbd9ea76a5386f5981a1477f44401e6a1f78638f2391d4847eb4529acedf26a0f80c0fae4c75283389037309425d2bb98487613c5af9e06575fc9eb37b7f6",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Nepal_Reinsurance_Company_Limited/Company%20News/2026-04-29/NEPSE%20letter%20Raju%20sir_1777435885181.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of New Director [NRIC] ",
+        "newsBody": "<p>Appointment of New Director</p>",
+        "addedDate": "2026-04-29T09:56:54.627",
+        "newsSource": "BOD",
+        "modifiedDate": "2026-04-29T09:59:46.453",
+        "approvedDate": null,
+        "symbol": "NRIC"
+    },
+    {
         "id": 45532,
         "applicationDocumentDetailsList": [
             {
@@ -5062,5 +5110,53 @@
         "modifiedDate": "2026-04-28T09:18:03.557",
         "approvedDate": null,
         "symbol": "MLBBL"
+    },
+    {
+        "id": 45541,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30624,
+                "activeStatus": "A",
+                "modifiedBy": "gvl_user",
+                "modifiedDate": "2026-04-29T10:30:30.777",
+                "application": 45541,
+                "documentType": 54,
+                "submittedDate": "2026-04-29",
+                "filePath": "Green_Ventures_Limited/Company News/2026-04-29/Plant Shutdown Letter_1777437882249.pdf",
+                "encryptedId": "05423b8b9cd9ec31d1776d9044349462e98d011ad6be8e8bce37db41d06909b4acba94991cdc216c2ef90563ed0e48e99d90f4b0ca18e0203e62c5349acc763c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Green_Ventures_Limited/Company%20News/2026-04-29/Plant%20Shutdown%20Letter_1777437882249.pdf"
+            }
+        ],
+        "newsHeadline": "Information about Plant Shutdown [GVL] ",
+        "newsBody": "<p>Plant Shutdown for emergency maintenance</p>",
+        "addedDate": "2026-04-29T10:30:30.77",
+        "newsSource": "Letter",
+        "modifiedDate": "2026-04-29T10:41:03.167",
+        "approvedDate": null,
+        "symbol": "GVL"
+    },
+    {
+        "id": 45538,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30621,
+                "activeStatus": "A",
+                "modifiedBy": "nric_user",
+                "modifiedDate": "2026-04-29T10:13:11.667",
+                "application": 45538,
+                "documentType": 54,
+                "submittedDate": "2026-04-29",
+                "filePath": "Nepal_Reinsurance_Company_Limited/Company News/2026-04-29/NEPSE letter of Surendra sir resignation_1777436857037.pdf",
+                "encryptedId": "1f8129c1a754820ae2d3bc14276ecaf3a6c61c616fc4b5156c45845d30b81897d07271c24d1fefc4cac961654fb01933c0727c8fbdeb1b5b261a34b10ce936e4",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Nepal_Reinsurance_Company_Limited/Company%20News/2026-04-29/NEPSE%20letter%20of%20Surendra%20sir%20resignation_1777436857037.pdf"
+            }
+        ],
+        "newsHeadline": "Resignation of Surendra Paudel [NRIC] ",
+        "newsBody": "<p>Resignation of Surendra Paudel</p>",
+        "addedDate": "2026-04-29T10:13:11.66",
+        "newsSource": "MOF",
+        "modifiedDate": "2026-04-29T10:14:33.897",
+        "approvedDate": null,
+        "symbol": "NRIC"
     }
 ]
