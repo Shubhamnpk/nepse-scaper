@@ -1,5 +1,101 @@
 [
     {
+        "id": 45559,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30647,
+                "activeStatus": "A",
+                "modifiedBy": "upakar_user",
+                "modifiedDate": "2026-04-30T10:34:27.493",
+                "application": 45559,
+                "documentType": 54,
+                "submittedDate": "2026-04-30",
+                "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-04-30/Book closed_1777524498951.pdf",
+                "encryptedId": "5070c208c32a3a9a15529bba1c6b9fabb78fc82927b557643efd996c4be7e39a58af87d90f162a48a224f19295a8b79cf62dec493566c70947a2e266781c9b81",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-04-30/Book%20closed_1777524498951.pdf"
+            },
+            {
+                "id": 30648,
+                "activeStatus": "A",
+                "modifiedBy": "upakar_user",
+                "modifiedDate": "2026-04-30T10:34:27.497",
+                "application": 45559,
+                "documentType": 54,
+                "submittedDate": "2026-04-30",
+                "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-04-30/NOTICE (1)_1777524510387.pdf",
+                "encryptedId": "fe04d02b35da4512e42142663c7bde5b0f9322689730ed4f35dd153765d28b906294211df729edb0a0d6686f8f5fc93a2814a2a067621143103bd7773d70a3ba",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-04-30/NOTICE%20%281%29_1777524510387.pdf"
+            }
+        ],
+        "newsHeadline": "Book Closed [ULBSL] ",
+        "newsBody": "Book Close of ULBSL\nBook Close Date : 5/13/2026",
+        "addedDate": "2026-04-30T10:34:27.487",
+        "newsSource": "Naya Patrika Rastriya Dainik",
+        "modifiedDate": "2026-04-30T10:35:25.623",
+        "approvedDate": null,
+        "symbol": "ULBSL"
+    },
+    {
+        "id": 45558,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30646,
+                "activeStatus": "A",
+                "modifiedBy": "upakar_user",
+                "modifiedDate": "2026-04-30T10:16:34.163",
+                "application": 45558,
+                "documentType": 54,
+                "submittedDate": "2026-04-30",
+                "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-04-30/NOTICE_1777523474682.pdf",
+                "encryptedId": "9aaeb76a532ece93776a3ed0802640d80fb61af2ac50a23807c2958e3292f7db99f5e0bcff1a490bc866e8233bc96b31f9da69412faf0f72f42a8dfa480d76e4",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-04-30/NOTICE_1777523474682.pdf"
+            },
+            {
+                "id": 30645,
+                "activeStatus": "A",
+                "modifiedBy": "upakar_user",
+                "modifiedDate": "2026-04-30T10:16:34.163",
+                "application": 45558,
+                "documentType": 54,
+                "submittedDate": "2026-04-30",
+                "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-04-30/letter_1777523360593.pdf",
+                "encryptedId": "ba7b5a21d17d371f7371743425415b74f2b47e8cc80280cfe94e7cdcfe5ec69aa13627b9bcb3d6c9a76f917197d6c688aa4c03ea6e64226e69ef85a201b6b879",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-04-30/letter_1777523360593.pdf"
+            }
+        ],
+        "newsHeadline": "AGM [ULBSL] ",
+        "newsBody": "Annual General Meeting of ULBSL\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 5/24/2026\nAGM No: 7\nBook Close Date: 5/13/2026",
+        "addedDate": "2026-04-30T10:16:34.153",
+        "newsSource": "Naya patrika Rastriya dainik",
+        "modifiedDate": "2026-04-30T10:31:06.83",
+        "approvedDate": null,
+        "symbol": "ULBSL"
+    },
+    {
+        "id": 45553,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30640,
+                "activeStatus": "A",
+                "modifiedBy": "joshi_user",
+                "modifiedDate": "2026-04-29T16:51:29.017",
+                "application": 45553,
+                "documentType": 54,
+                "submittedDate": "2026-04-29",
+                "filePath": "joshi_user/2026-04-29/Lila Sir Resination_1777460753624.PDF",
+                "encryptedId": "d3f86cb4bfed444df1713cebdad3c6a80dcefce896cc67bb3c0e97a9ecb8ef02b8271cb0e6294d767b8d2e5c54ed7b299c822b86c06569f3e8f6cae4f515fcb9",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=joshi_user/2026-04-29/Lila%20Sir%20Resination_1777460753624.PDF"
+            }
+        ],
+        "newsHeadline": "Resignation Of Company Secretory [JOSHI] ",
+        "newsBody": "",
+        "addedDate": "2026-04-29T16:51:29.007",
+        "newsSource": "Company",
+        "modifiedDate": "2026-04-30T09:22:28.217",
+        "approvedDate": null,
+        "symbol": "JOSHI"
+    },
+    {
         "id": 45547,
         "applicationDocumentDetailsList": [
             {
@@ -5182,5 +5278,29 @@
         "modifiedDate": "2026-04-29T10:14:33.897",
         "approvedDate": null,
         "symbol": "NRIC"
+    },
+    {
+        "id": 45555,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30642,
+                "activeStatus": "A",
+                "modifiedBy": "dordi_user",
+                "modifiedDate": "2026-04-29T18:22:08.113",
+                "application": 45555,
+                "documentType": 54,
+                "submittedDate": "2026-04-29",
+                "filePath": "Dordi_Khola_Jal_Bidyut_Company_limited/Company News/2026-04-29/Letter (1)_1777466175925.pdf",
+                "encryptedId": "fa7f43be63351a60824cd100b433037dd44d7071f39a2fb078c12fc09c890f216c46237253651f688d49ee10576290e285323aeb6a371e0912ccbc1724dd31f4",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Dordi_Khola_Jal_Bidyut_Company_limited/Company%20News/2026-04-29/Letter%20%281%29_1777466175925.pdf"
+            }
+        ],
+        "newsHeadline": "Approval of Right Share from Erc [DORDI] ",
+        "newsBody": "<p>Approval of Right Share from Erc</p>",
+        "addedDate": "2026-04-29T18:22:08.11",
+        "newsSource": "Approval of Right Share from Erc",
+        "modifiedDate": "2026-04-30T09:23:09.603",
+        "approvedDate": null,
+        "symbol": "DORDI"
     }
 ]
