@@ -7603,13 +7603,6 @@
             "securityId": 213
         },
         {
-            "symbol": "HEIP",
-            "shareTraded": 100,
-            "closingPrice": 317.1,
-            "securityName": "Himalayan Everest Insurance Limited Promoter",
-            "securityId": 700
-        },
-        {
             "symbol": "BOKD86",
             "shareTraded": 100,
             "closingPrice": 1081.0,
@@ -7622,6 +7615,13 @@
             "closingPrice": 1086.0,
             "securityName": "8.5% Sanima Debenture 2087",
             "securityId": 2922
+        },
+        {
+            "symbol": "HEIP",
+            "shareTraded": 100,
+            "closingPrice": 317.1,
+            "securityName": "Himalayan Everest Insurance Limited Promoter",
+            "securityId": 700
         },
         {
             "symbol": "ICFCD88",
@@ -7764,11 +7764,11 @@
             "securityId": 9168
         },
         {
-            "symbol": "KBLD89",
+            "symbol": "UNL",
             "shareTraded": 1,
-            "closingPrice": 1235.0,
-            "securityName": "11% KBL Debenture 2089",
-            "securityId": 8127
+            "closingPrice": 47000.0,
+            "securityName": "Unilever Nepal Limited",
+            "securityId": 219
         },
         {
             "symbol": "KBLD86",
@@ -7778,11 +7778,11 @@
             "securityId": 2885
         },
         {
-            "symbol": "UNL",
+            "symbol": "KBLD89",
             "shareTraded": 1,
-            "closingPrice": 47000.0,
-            "securityName": "Unilever Nepal Limited",
-            "securityId": 219
+            "closingPrice": 1235.0,
+            "securityName": "11% KBL Debenture 2089",
+            "securityId": 8127
         }
     ],
     "top_transaction": [
