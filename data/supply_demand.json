@@ -1,34 +1,4 @@
 {
-    "supplyList": [
-        {
-            "totalQuantity": 70,
-            "totalOrder": 3,
-            "securityId": 2875,
-            "symbol": "PBLD86",
-            "securityName": "10.25% Prabhu Bank  Debenture 2086"
-        },
-        {
-            "totalQuantity": 50,
-            "totalOrder": 1,
-            "securityId": 2889,
-            "symbol": "CIZBD86",
-            "securityName": "10.25% Citizens Bank Debenture 2086"
-        },
-        {
-            "totalQuantity": 20,
-            "totalOrder": 2,
-            "securityId": 9136,
-            "symbol": "BOKD86KA",
-            "securityName": "BOK Debenture 2086 \"KA\""
-        }
-    ],
-    "demandList": [
-        {
-            "totalQuantity": 100,
-            "totalOrder": 3,
-            "securityId": 2889,
-            "symbol": "CIZBD86",
-            "securityName": "10.25% Citizens Bank Debenture 2086"
-        }
-    ]
+    "supplyList": [],
+    "demandList": []
 }
