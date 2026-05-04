@@ -1,19 +1,247 @@
 [
     {
-        "id": 45559,
+        "id": 45586,
         "applicationDocumentDetailsList": [
             {
-                "id": 30647,
+                "id": 30678,
                 "activeStatus": "A",
-                "modifiedBy": "upakar_user",
-                "modifiedDate": "2026-04-30T10:34:27.493",
-                "application": 45559,
+                "modifiedBy": "nica_user",
+                "modifiedDate": "2026-05-04T10:44:33.003",
+                "application": 45586,
                 "documentType": 54,
-                "submittedDate": "2026-04-30",
-                "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-04-30/Book closed_1777524498951.pdf",
-                "encryptedId": "5070c208c32a3a9a15529bba1c6b9fabb78fc82927b557643efd996c4be7e39a58af87d90f162a48a224f19295a8b79cf62dec493566c70947a2e266781c9b81",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-04-30/Book%20closed_1777524498951.pdf"
-            },
+                "submittedDate": "2026-05-04",
+                "filePath": "nica_user/2026-05-04/28th AGM Info-To NEPSE_1777870752542.pdf",
+                "encryptedId": "6ec7c71a842ce5bd36b565e7a7deb7b888567ee50c3872f2c53299d0344b04042dfd1949e536fc2b55af2afc628e72a392c7ee8453724fc89289278937627ebd",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nica_user/2026-05-04/28th%20AGM%20Info-To%20NEPSE_1777870752542.pdf"
+            }
+        ],
+        "newsHeadline": "Book closure for 28th AGM [NICA] ",
+        "newsBody": "Book Close of NICA\nBook Close Date : 5/20/2026",
+        "addedDate": "2026-05-04T10:44:32.993",
+        "newsSource": "Board of Directors",
+        "modifiedDate": "2026-05-04T10:49:18.377",
+        "approvedDate": null,
+        "symbol": "NICA"
+    },
+    {
+        "id": 45584,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30675,
+                "activeStatus": "A",
+                "modifiedBy": "smhl_user",
+                "modifiedDate": "2026-05-04T09:55:08.293",
+                "application": 45584,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "Super_Madi_Hydopower_Limited/Company News/2026-05-04/Appointed new director-information Letter -SMHL_1777867777495.pdf",
+                "encryptedId": "e21c4f9bbb5a8827f9e09604085955b7f02d0778dadd03507c43a533f10f9b7ed4619aa2653c3f40616003ddef0110d29243f1b7b1276e08b9bd6d10ba9069f5",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Super_Madi_Hydopower_Limited/Company%20News/2026-05-04/Appointed%20new%20director-information%20Letter%20-SMHL_1777867777495.pdf"
+            }
+        ],
+        "newsHeadline": "BOD Appointment  [SMHL] ",
+        "newsBody": "<p>Appointment of Board of Director</p>",
+        "addedDate": "2026-05-04T09:55:08.287",
+        "newsSource": "SMHL",
+        "modifiedDate": "2026-05-04T10:13:02.413",
+        "approvedDate": null,
+        "symbol": "SMHL"
+    },
+    {
+        "id": 45580,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30671,
+                "activeStatus": "A",
+                "modifiedBy": "hli_user",
+                "modifiedDate": "2026-05-04T09:35:26.43",
+                "application": 45580,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "hli_user/2026-05-04/CEO Termination of HIBL_1777866613753.jpeg",
+                "encryptedId": "8ea61b980ff3cc91d8fd01d5f83c4af14437bd2099ae67abeec270588e63d910e759fafa91a4c19c6ee133f2c5b9ee9c039d9cc5e8ce375df0a3805cd5cf4e4c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=hli_user/2026-05-04/CEO%20Termination%20of%20HIBL_1777866613753.jpeg"
+            }
+        ],
+        "newsHeadline": "Information of termination of CEO of Himalayan Investment Banker Ltd. [HLICF] ",
+        "newsBody": "<p>Information of termination of CEO of Himalayan Investment Banker Ltd.</p>",
+        "addedDate": "2026-05-04T09:35:26.427",
+        "newsSource": "Board of Director  of Himalayan Investment Banker Ltd.",
+        "modifiedDate": "2026-05-04T09:41:35.82",
+        "approvedDate": null,
+        "symbol": "HLICF"
+    },
+    {
+        "id": 45578,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30669,
+                "activeStatus": "A",
+                "modifiedBy": "nica_user",
+                "modifiedDate": "2026-05-04T09:24:38.347",
+                "application": 45578,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "nica_user/2026-05-04/Letter to NEPSE-Right Share Consent_1777865966777.pdf",
+                "encryptedId": "8c9f1b59d624e7cb2f7be3c4c8d88ae3afd33689db6603e6c2a0bd43d685e91e0e770d9f12bcb73a7c72552331bdf1eaabf09a73a7c5e94899f68d0c387a33a3",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nica_user/2026-05-04/Letter%20to%20NEPSE-Right%20Share%20Consent_1777865966777.pdf"
+            }
+        ],
+        "newsHeadline": "Pre Approval for Issuance of Right Share [NICA] ",
+        "newsBody": "<p>Nepal Rastra Bank has provided pre approval for issuance of Right Share at ratio 2:1 through letter dated 2083/01/17. Agenda regarding issuance of Right Share shall be presented on 28th AGM to be held on 2083/02/18.</p>",
+        "addedDate": "2026-05-04T09:24:38.343",
+        "newsSource": "Board of Directors",
+        "modifiedDate": "2026-05-04T09:30:45.837",
+        "approvedDate": null,
+        "symbol": "NICA"
+    },
+    {
+        "id": 45576,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30667,
+                "activeStatus": "A",
+                "modifiedBy": "nmbmf_user",
+                "modifiedDate": "2026-05-04T09:12:24.157",
+                "application": 45576,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "nmbmf_user/2026-05-04/13th AGM Minute Sign Copy_1777865228760.PDF",
+                "encryptedId": "b93e4eb27886cd8a92d202303baebd135c8046de623f8fbc452ff769cf1823ae6043ab9f3138d76311788e6c11f62b0f79dc695bd90720e467b74f1fdb6dcb1e",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nmbmf_user/2026-05-04/13th%20AGM%20Minute%20Sign%20Copy_1777865228760.PDF"
+            }
+        ],
+        "newsHeadline": "Minute of 13th AGM [NMBMF] ",
+        "newsBody": "",
+        "addedDate": "2026-05-04T09:12:24.157",
+        "newsSource": "NMBMF",
+        "modifiedDate": "2026-05-04T09:19:18.197",
+        "approvedDate": null,
+        "symbol": "NMBMF"
+    },
+    {
+        "id": 45575,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30666,
+                "activeStatus": "A",
+                "modifiedBy": "fowad_user",
+                "modifiedDate": "2026-05-04T09:11:12.863",
+                "application": 45575,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "fowad_user/2026-05-04/Company Secretory_1777865153326.pdf",
+                "encryptedId": "a37696942df1a3d9ff2d032625c105a38f015a8ec9d922664dd91d49358dc950b1f96bd875bed0df4586b994136e496b49ffb43d1374feeb652f190f3e666097",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=fowad_user/2026-05-04/Company%20Secretory_1777865153326.pdf"
+            }
+        ],
+        "newsHeadline": "Company Secratory Change [FOWAD] ",
+        "newsBody": "<p>BOD Decision for Company Secretory Change from 2083/1/20.</p>",
+        "addedDate": "2026-05-04T09:11:12.863",
+        "newsSource": "BOD Decision",
+        "modifiedDate": "2026-05-04T09:19:00.137",
+        "approvedDate": null,
+        "symbol": "FOWAD"
+    },
+    {
+        "id": 45574,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30665,
+                "activeStatus": "A",
+                "modifiedBy": "nica_user",
+                "modifiedDate": "2026-05-04T09:09:58.623",
+                "application": 45574,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "nica_user/2026-05-04/New CS To NEPSE_1777865085708.pdf",
+                "encryptedId": "d54997fa5b3bc1ef0ef39646fe3fa01d0ffa6b4fe571f471454e6a6c04e1a5901f1aeb6d119bbe5cb02bfeb9953bfb3fd63dfba5fd8e087dead9bff8edc14afc",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nica_user/2026-05-04/New%20CS%20To%20NEPSE_1777865085708.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of New Company Secretary [NICA] ",
+        "newsBody": "<p>756th Board Meeting held on 2083/01/17 has appointed Mr. Dinesh Bhari as the Bank's Company Secretary as effective from 2083/01/17</p>",
+        "addedDate": "2026-05-04T09:09:58.617",
+        "newsSource": "Board of Directors",
+        "modifiedDate": "2026-05-04T09:18:39.577",
+        "approvedDate": null,
+        "symbol": "NICA"
+    },
+    {
+        "id": 45573,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30664,
+                "activeStatus": "A",
+                "modifiedBy": "sbi_user",
+                "modifiedDate": "2026-05-04T08:36:22.53",
+                "application": 45573,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "sbi_user/2026-05-04/NEPSE-Appointment of Independent Director_1777863047034.pdf",
+                "encryptedId": "08e69f3991eaa8824fdf7c040cf90d8f0b11b0ebeb977cc961c0750987e8c580a63625682ba379758eed71b3f9ee52e5b493d4f9a1ad7aaab722fac2decb1aa4",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sbi_user/2026-05-04/NEPSE-Appointment%20of%20Independent%20Director_1777863047034.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of Independent Director of Nepal SBI Bank Ltd. [SBI] ",
+        "newsBody": "<p>Information regarding appointment of Independent Director of Nepal SBI Bank Ltd.</p>",
+        "addedDate": "2026-05-04T08:36:22.527",
+        "newsSource": "Nepal SBI Bank Ltd.",
+        "modifiedDate": "2026-05-04T08:54:09.127",
+        "approvedDate": null,
+        "symbol": "SBI"
+    },
+    {
+        "id": 45572,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30663,
+                "activeStatus": "A",
+                "modifiedBy": "NESDO_user",
+                "modifiedDate": "2026-05-04T08:03:58.457",
+                "application": 45572,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-05-04/appointment of Directior_1777861117662.pdf",
+                "encryptedId": "1513015c8fffd9485b6dcb03aff75214dc69c772eef7f9bc57bdbbd6b7553f0d3834f07dc4c131bec216bbd309aa548ecdc53a6a26c1c8dc6eb793288d844976",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company%20News/2026-05-04/appointment%20of%20Directior_1777861117662.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of director  [NESDO] ",
+        "newsBody": "<p>Appointment of  director</p>",
+        "addedDate": "2026-05-04T08:03:58.437",
+        "newsSource": "BOD",
+        "modifiedDate": "2026-05-04T08:53:51.62",
+        "approvedDate": null,
+        "symbol": "NESDO"
+    },
+    {
+        "id": 45570,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30661,
+                "activeStatus": "A",
+                "modifiedBy": "user_terhathum",
+                "modifiedDate": "2026-05-03T13:24:56.103",
+                "application": 45570,
+                "documentType": 54,
+                "submittedDate": "2026-05-03",
+                "filePath": "user_terhathum/2026-05-03/Nomination of BoD member_1777793985185.PDF",
+                "encryptedId": "0849b5668d0127750b11e78e1abd67a24dc8d29ee940f620e867575022b66d753c9cd7886b6cc6cd1f5032c7f46df5b8dcc3e31ad7ae8136ba61d8c8b5d4a423",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=user_terhathum/2026-05-03/Nomination%20of%20BoD%20member_1777793985185.PDF"
+            }
+        ],
+        "newsHeadline": "Approval of Regination and nomination of Board member [TPC] ",
+        "newsBody": "",
+        "addedDate": "2026-05-03T13:24:56.087",
+        "newsSource": "BoD meeting decission",
+        "modifiedDate": "2026-05-04T08:53:21.187",
+        "approvedDate": null,
+        "symbol": "TPC"
+    },
+    {
+        "id": 45559,
+        "applicationDocumentDetailsList": [
             {
                 "id": 30648,
                 "activeStatus": "A",
@@ -25,6 +253,18 @@
                 "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-04-30/NOTICE (1)_1777524510387.pdf",
                 "encryptedId": "fe04d02b35da4512e42142663c7bde5b0f9322689730ed4f35dd153765d28b906294211df729edb0a0d6686f8f5fc93a2814a2a067621143103bd7773d70a3ba",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-04-30/NOTICE%20%281%29_1777524510387.pdf"
+            },
+            {
+                "id": 30647,
+                "activeStatus": "A",
+                "modifiedBy": "upakar_user",
+                "modifiedDate": "2026-04-30T10:34:27.493",
+                "application": 45559,
+                "documentType": 54,
+                "submittedDate": "2026-04-30",
+                "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-04-30/Book closed_1777524498951.pdf",
+                "encryptedId": "5070c208c32a3a9a15529bba1c6b9fabb78fc82927b557643efd996c4be7e39a58af87d90f162a48a224f19295a8b79cf62dec493566c70947a2e266781c9b81",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-04-30/Book%20closed_1777524498951.pdf"
             }
         ],
         "newsHeadline": "Book Closed [ULBSL] ",
@@ -5302,5 +5542,101 @@
         "modifiedDate": "2026-04-30T09:23:09.603",
         "approvedDate": null,
         "symbol": "DORDI"
+    },
+    {
+        "id": 45587,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30679,
+                "activeStatus": "A",
+                "modifiedBy": "NESDO_user",
+                "modifiedDate": "2026-05-04T10:45:43.793",
+                "application": 45587,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company News/2026-05-04/appointment of Directior_1777870834087.pdf",
+                "encryptedId": "5cc8658e2624b0ee7f956aec461be000387d02579cc33f0cdf470809b383fbc33bb5110f81458d911cbfdc7c32a366e8c15b88319e64ff5f3af24455c0433a24",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company%20News/2026-05-04/appointment%20of%20Directior_1777870834087.pdf"
+            }
+        ],
+        "newsHeadline": "appointment Of Director [NESDO] ",
+        "newsBody": "<p>appointment Of Director</p>",
+        "addedDate": "2026-05-04T10:45:43.79",
+        "newsSource": "BOD",
+        "modifiedDate": "2026-05-04T10:49:32.467",
+        "approvedDate": null,
+        "symbol": "NESDO"
+    },
+    {
+        "id": 45579,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30670,
+                "activeStatus": "A",
+                "modifiedBy": "hli_user",
+                "modifiedDate": "2026-05-04T09:30:34.843",
+                "application": 45579,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "hli_user/2026-05-04/Information of Change of Company Secretary_1777866322955.pdf",
+                "encryptedId": "2b84900c28ce49f2d8175a40d774e14609aafdfe3592b566dd0e03ebb10efad41df3a9270262d10b13b29f7c616c488893faa5c280bb12d48f618e831a47c1b4",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=hli_user/2026-05-04/Information%20of%20Change%20of%20Company%20Secretary_1777866322955.pdf"
+            }
+        ],
+        "newsHeadline": "Information of change of Company Secretary [HLI] ",
+        "newsBody": "<p>Information of change of Company Secretary</p>",
+        "addedDate": "2026-05-04T09:30:34.84",
+        "newsSource": "Board of Director",
+        "modifiedDate": "2026-05-04T09:41:06.33",
+        "approvedDate": null,
+        "symbol": "HLI"
+    },
+    {
+        "id": 45577,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30668,
+                "activeStatus": "A",
+                "modifiedBy": "nica_user",
+                "modifiedDate": "2026-05-04T09:17:32.137",
+                "application": 45577,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "nica_user/2026-05-04/28th AGM Info-To NEPSE_1777865388003.pdf",
+                "encryptedId": "786d33df947e64c6aa50e4ce398e10bec541e71fe6bc53ce7add71d31b9527582281d8524d161effe5b65595844b2278f26ce2111f5ad19357b10cc55c9bada2",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nica_user/2026-05-04/28th%20AGM%20Info-To%20NEPSE_1777865388003.pdf"
+            }
+        ],
+        "newsHeadline": "28th AGM of NIC ASIA Bank [NICA] ",
+        "newsBody": "Annual General Meeting of NICA\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 6/1/2026\nAGM No: 28\nBook Close Date: 5/20/2026",
+        "addedDate": "2026-05-04T09:17:32.13",
+        "newsSource": "Board of Directors",
+        "modifiedDate": "2026-05-04T09:20:01.877",
+        "approvedDate": null,
+        "symbol": "NICA"
+    },
+    {
+        "id": 45571,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30662,
+                "activeStatus": "A",
+                "modifiedBy": "sarbtm_user",
+                "modifiedDate": "2026-05-03T18:20:43.247",
+                "application": 45571,
+                "documentType": 54,
+                "submittedDate": "2026-05-03",
+                "filePath": "sarbtm_user/2026-05-03/ceo scl_1777811415882.pdf",
+                "encryptedId": "d71fe81ddcd75e35d9914414b599fce5e1613e7ae411b2d6d8380af22d1ee8b40b6b3b159f642faee6c69370d291e2ebf979d4cb4b7a2ce1fa6a0866d16e1a2d",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sarbtm_user/2026-05-03/ceo%20scl_1777811415882.pdf"
+            }
+        ],
+        "newsHeadline": " \u092a\u094d\u0930\u092e\u0941\u0916 \u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0940 \u0905\u0927\u093f\u0915\u0943\u0924\u0915\u094b \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f  \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e  [SARBTM] ",
+        "newsBody": "",
+        "addedDate": "2026-05-03T18:20:43.24",
+        "newsSource": "\u0938\u091e\u094d\u091a\u093e\u0932\u0915 \u0938\u092e\u093f\u0924\u093f \u092c\u0948\u0920\u0915",
+        "modifiedDate": "2026-05-04T08:53:36.747",
+        "approvedDate": null,
+        "symbol": "SARBTM"
     }
 ]
