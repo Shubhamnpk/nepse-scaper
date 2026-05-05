@@ -15,7 +15,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1462,
@@ -33,7 +33,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1660,
@@ -51,7 +51,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1124,
@@ -60,8 +60,8 @@
     "fund_size": 938010700,
     "daily_nav": 11.96,
     "daily_nav_date": "2026-05-04",
-    "weekly_nav": 12.27,
-    "weekly_nav_date": "2026-04-24",
+    "weekly_nav": 12.09,
+    "weekly_nav_date": "2026-05-01",
     "monthly_nav": 12.6,
     "monthly_nav_date": "Chaitra 2082",
     "ltp": null,
@@ -69,7 +69,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1605,
@@ -78,8 +78,8 @@
     "fund_size": 342462490,
     "daily_nav": 11.77,
     "daily_nav_date": "2026-05-03",
-    "weekly_nav": 12.01,
-    "weekly_nav_date": "2026-04-24",
+    "weekly_nav": 11.77,
+    "weekly_nav_date": "2026-05-01",
     "monthly_nav": 11.61,
     "monthly_nav_date": "Chaitra 2082",
     "ltp": null,
@@ -87,7 +87,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1037,
@@ -96,8 +96,8 @@
     "fund_size": 1956597890,
     "daily_nav": 9.92,
     "daily_nav_date": "2026-05-04",
-    "weekly_nav": 10.03,
-    "weekly_nav_date": "2026-04-24",
+    "weekly_nav": 9.98,
+    "weekly_nav_date": "2026-05-01",
     "monthly_nav": 10.12,
     "monthly_nav_date": "Chaitra 2082",
     "ltp": null,
@@ -105,7 +105,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1114,
@@ -114,8 +114,8 @@
     "fund_size": 2196231970,
     "daily_nav": 10.38,
     "daily_nav_date": "2026-05-04",
-    "weekly_nav": 10.61,
-    "weekly_nav_date": "2026-04-24",
+    "weekly_nav": 10.48,
+    "weekly_nav_date": "2026-05-01",
     "monthly_nav": 10.83,
     "monthly_nav_date": "Chaitra 2082",
     "ltp": null,
@@ -123,7 +123,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1268,
@@ -132,8 +132,8 @@
     "fund_size": 307708000,
     "daily_nav": 10.2,
     "daily_nav_date": "2026-05-04",
-    "weekly_nav": 10.38,
-    "weekly_nav_date": "2026-04-24",
+    "weekly_nav": 10.29,
+    "weekly_nav_date": "2026-05-01",
     "monthly_nav": 10.6,
     "monthly_nav_date": "Chaitra 2082",
     "ltp": null,
@@ -141,7 +141,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 698,
@@ -159,7 +159,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1082,
@@ -168,8 +168,8 @@
     "fund_size": 4516677118,
     "daily_nav": 10.62,
     "daily_nav_date": "2026-05-04",
-    "weekly_nav": 10.87,
-    "weekly_nav_date": "2026-04-17",
+    "weekly_nav": 10.69,
+    "weekly_nav_date": "2026-05-01",
     "monthly_nav": 10.89,
     "monthly_nav_date": "Chaitra 2082",
     "ltp": null,
@@ -177,7 +177,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1231,
@@ -186,8 +186,8 @@
     "fund_size": 399941320,
     "daily_nav": 10.76,
     "daily_nav_date": "2026-05-03",
-    "weekly_nav": 10.91,
-    "weekly_nav_date": "2026-04-24",
+    "weekly_nav": 10.76,
+    "weekly_nav_date": "2026-05-01",
     "monthly_nav": 11.11,
     "monthly_nav_date": "Chaitra 2082",
     "ltp": null,
@@ -195,7 +195,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1305,
@@ -213,7 +213,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1205,
@@ -231,7 +231,7 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   },
   {
     "company_id": 1061,
@@ -249,6 +249,6 @@
     "premium_discount_percent": null,
     "refund_nav": null,
     "source_url": "https://www.sharesansar.com/mutual-fund-navs",
-    "scraped_at": "2026-05-05T10:27:09.824863"
+    "scraped_at": "2026-05-05T11:46:02.233321"
   }
 ]

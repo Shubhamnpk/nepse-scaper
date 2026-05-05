@@ -1,5 +1,53 @@
 [
     {
+        "id": 45621,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30714,
+                "activeStatus": "A",
+                "modifiedBy": "joshi_user",
+                "modifiedDate": "2026-05-05T16:42:11.567",
+                "application": 45621,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "joshi_user/2026-05-05/Resignation of director Copany Secretary_1777978600435.PDF",
+                "encryptedId": "c3007bdb280cab3fe520929452bb2cdaa760bc538c027f92bd16bb9e396d00c7cfaad2a817560ec86a23b37c75ee92cfd40eef23c3d0a4ce397f50d6bf49820a",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=joshi_user/2026-05-05/Resignation%20of%20director%20Copany%20Secretary_1777978600435.PDF"
+            }
+        ],
+        "newsHeadline": "Resignation Approval of Director and Company Secretory [JOSHI] ",
+        "newsBody": "",
+        "addedDate": "2026-05-05T16:42:11.563",
+        "newsSource": "Company",
+        "modifiedDate": "2026-05-05T16:44:31.133",
+        "approvedDate": null,
+        "symbol": "JOSHI"
+    },
+    {
+        "id": 45620,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30713,
+                "activeStatus": "A",
+                "modifiedBy": "shl_user",
+                "modifiedDate": "2026-05-05T16:19:02.67",
+                "application": 45620,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "shl_user/2026-05-05/2 Nepse Info CS05052026_1777977175795.PDF",
+                "encryptedId": "4f1fc3a5a1ad9aa865cf44f912058f4065d4f88e08bf99e7d74b91002477bf8de530225cbadf5139943b0e218c965c23ed5a45214682142ef18cb090a039a7a4",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=shl_user/2026-05-05/2%20Nepse%20Info%20CS05052026_1777977175795.PDF"
+            }
+        ],
+        "newsHeadline": "Re-appointment of Company Secretary (SHL) [SHL] ",
+        "newsBody": "<link rel=\"File-List\" href=\"file:///C:/Users/LILBAH~1/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml\"><link rel=\"themeData\" href=\"file:///C:/Users/LILBAH~1/AppData/Local/Temp/msohtmlclip1/01/clip_themedata.thmx\"><link rel=\"colorSchemeMapping\" href=\"file:///C:/Users/LILBAH~1/AppData/Local/Temp/msohtmlclip1/01/clip_colorschememapping.xml\"><style>\n<!--\n /* Font Definitions */\n @font-face\n\t{font-family:Mangal;\n\tpanose-1:2 4 5 3 5 2 3 3 2 2;\n\tmso-font-charset:0;\n\tmso-generic-font-family:roman;\n\tmso-font-pitch:variable;\n\tmso-font-signature:32771 0 0 0 1 0;}\n@font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;\n\tmso-font-charset:0;\n\tmso-generic-font-family:roman;\n\tmso-font-pitch:variable;\n\tmso-font-signature:-536869121 1107305727 33554432 0 415 0;}\n@font-face\n\t{font-family:Calibri;\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;\n\tmso-font-charset:0;\n\tmso-generic-font-family:swiss;\n\tmso-font-pitch:variable;\n\tmso-font-signature:-469750017 -1040178053 9 0 511 0;}\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{mso-style-unhide:no;\n\tmso-style-qformat:yes;\n\tmso-style-parent:\"\";\n\tmargin-top:0cm;\n\tmargin-right:0cm;\n\tmargin-bottom:8.0pt;\n\tmargin-left:0cm;\n\tline-height:107%;\n\tmso-pagination:widow-orphan;\n\tfont-size:11.0pt;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-ascii-font-family:Calibri;\n\tmso-ascii-theme-font:minor-latin;\n\tmso-fareast-font-family:Calibri;\n\tmso-fareast-theme-font:minor-latin;\n\tmso-hansi-font-family:Calibri;\n\tmso-hansi-theme-font:minor-latin;\n\tmso-bidi-font-family:Mangal;\n\tmso-bidi-theme-font:minor-bidi;\n\tmso-fareast-language:EN-US;\n\tmso-bidi-language:AR-SA;}\np\n\t{mso-style-noshow:yes;\n\tmso-style-priority:99;\n\tmso-margin-top-alt:auto;\n\tmargin-right:0cm;\n\tmso-margin-bottom-alt:auto;\n\tmargin-left:0cm;\n\tmso-pagination:widow-orphan;\n\tfont-size:12.0pt;\n\tfont-family:\"Times New Roman\",serif;\n\tmso-fareast-font-family:\"Times New Roman\";}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tmso-default-props:yes;\n\tmso-bidi-font-size:11.0pt;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-ascii-font-family:Calibri;\n\tmso-ascii-theme-font:minor-latin;\n\tmso-fareast-font-family:Calibri;\n\tmso-fareast-theme-font:minor-latin;\n\tmso-hansi-font-family:Calibri;\n\tmso-hansi-theme-font:minor-latin;\n\tmso-bidi-font-family:Mangal;\n\tmso-bidi-theme-font:minor-bidi;\n\tmso-fareast-language:EN-US;\n\tmso-bidi-language:AR-SA;}\n.MsoPapDefault\n\t{mso-style-type:export-only;\n\tmargin-bottom:8.0pt;\n\tline-height:107%;}\n@page WordSection1\n\t{size:612.0pt 792.0pt;\n\tmargin:72.0pt 72.0pt 72.0pt 72.0pt;\n\tmso-header-margin:36.0pt;\n\tmso-footer-margin:36.0pt;\n\tmso-paper-source:0;}\ndiv.WordSection1\n\t{page:WordSection1;}\n-->\n</style><p>The 263<sup>rd</sup> Board Meeting held on 20<sup>th</sup> Baishakh 2083 (3<sup>rd</sup> May 2026) has approved the re-appointment of Mr. Lil Bahadur Khatri as the Company Secretary of the Company, effective from 10<sup>th</sup> Ashadh 2083 (24<sup>th</sup> June 2026).</p>",
+        "addedDate": "2026-05-05T16:19:02.667",
+        "newsSource": "SHL",
+        "modifiedDate": "2026-05-05T16:21:10.143",
+        "approvedDate": null,
+        "symbol": "SHL"
+    },
+    {
         "id": 45611,
         "applicationDocumentDetailsList": [
             {
@@ -51,18 +99,6 @@
         "id": 45599,
         "applicationDocumentDetailsList": [
             {
-                "id": 30691,
-                "activeStatus": "A",
-                "modifiedBy": "sdlbsl_user",
-                "modifiedDate": "2026-05-05T09:10:03.983",
-                "application": 45599,
-                "documentType": 54,
-                "submittedDate": "2026-05-05",
-                "filePath": "sdlbsl_user/2026-05-05/Book Closure Notice for 9th AGM NEPSE_1777951464706.pdf",
-                "encryptedId": "af4d58744ef538b6e4ac19d63e1557392e49324e1ae829208b60fb970a9fc52b71c62f6d16d1326911d76a70ba7c976f4873128a9e67244a08d03783257b890f",
-                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sdlbsl_user/2026-05-05/Book%20Closure%20Notice%20for%209th%20AGM%20NEPSE_1777951464706.pdf"
-            },
-            {
                 "id": 30692,
                 "activeStatus": "A",
                 "modifiedBy": "sdlbsl_user",
@@ -73,6 +109,18 @@
                 "filePath": "sdlbsl_user/2026-05-05/Annapurna Post 9th AGM Notice_1777951482545.jpg",
                 "encryptedId": "d246a40974bc34981679dc35852a0ec486dba2d4296bb4de565a333683b5e3797e8bc6c8dfed91c4dd843b41d0d7813feb3911e2f12ebd209fcf7d1b005bbfed",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sdlbsl_user/2026-05-05/Annapurna%20Post%209th%20AGM%20Notice_1777951482545.jpg"
+            },
+            {
+                "id": 30691,
+                "activeStatus": "A",
+                "modifiedBy": "sdlbsl_user",
+                "modifiedDate": "2026-05-05T09:10:03.983",
+                "application": 45599,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "sdlbsl_user/2026-05-05/Book Closure Notice for 9th AGM NEPSE_1777951464706.pdf",
+                "encryptedId": "af4d58744ef538b6e4ac19d63e1557392e49324e1ae829208b60fb970a9fc52b71c62f6d16d1326911d76a70ba7c976f4873128a9e67244a08d03783257b890f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sdlbsl_user/2026-05-05/Book%20Closure%20Notice%20for%209th%20AGM%20NEPSE_1777951464706.pdf"
             }
         ],
         "newsHeadline": "9th AGM Notice [SMPDA] ",
