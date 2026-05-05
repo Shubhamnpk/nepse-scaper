@@ -1,5 +1,233 @@
 [
     {
+        "id": 45611,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30705,
+                "activeStatus": "A",
+                "modifiedBy": "cyc_user",
+                "modifiedDate": "2026-05-05T10:55:24.107",
+                "application": 45611,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "CYC_Nepal_laghubitta_Bittiya_Sanstha_Limited/Company News/2026-05-05/Resignation letter (2)_1777957814741.pdf",
+                "encryptedId": "891471d8df4782d3baf2c52f400eed8580beade61629e9086c7af30e6387513fdaf51752cc9fb643f04af237270437cd51b6fe85eb5685a91059db4ceb87a41b",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=CYC_Nepal_laghubitta_Bittiya_Sanstha_Limited/Company%20News/2026-05-05/Resignation%20letter%20%282%29_1777957814741.pdf"
+            }
+        ],
+        "newsHeadline": "Resignation letter CEO [CYCL] ",
+        "newsBody": "",
+        "addedDate": "2026-05-05T10:55:24.103",
+        "newsSource": "cycl",
+        "modifiedDate": "2026-05-05T10:56:32.33",
+        "approvedDate": null,
+        "symbol": "CYCL"
+    },
+    {
+        "id": 45607,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30701,
+                "activeStatus": "A",
+                "modifiedBy": "chdc_user",
+                "modifiedDate": "2026-05-05T10:30:30.96",
+                "application": 45607,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "CEDB_Hydropower_Development_Company_Limited/Company News/2026-05-05/AGM Notice_1777956300714.pdf",
+                "encryptedId": "0754ea23b6048eebb7c60f1538bffe3f64a4015ed6c07e7b1cc0cc76442d1c6cca7e5c06499fa64d783ca52fbd09ad590979cc54a4321050a315ec4fd1a0d1a2",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=CEDB_Hydropower_Development_Company_Limited/Company%20News/2026-05-05/AGM%20Notice_1777956300714.pdf"
+            }
+        ],
+        "newsHeadline": "AGM [CHDC] ",
+        "newsBody": "Annual General Meeting of CHDC\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 5/28/2026\nAGM No: 15\nBook Close Date: 5/13/2026",
+        "addedDate": "2026-05-05T10:30:30.957",
+        "newsSource": "AGM",
+        "modifiedDate": "2026-05-05T10:31:00.48",
+        "approvedDate": null,
+        "symbol": "CHDC"
+    },
+    {
+        "id": 45599,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30691,
+                "activeStatus": "A",
+                "modifiedBy": "sdlbsl_user",
+                "modifiedDate": "2026-05-05T09:10:03.983",
+                "application": 45599,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "sdlbsl_user/2026-05-05/Book Closure Notice for 9th AGM NEPSE_1777951464706.pdf",
+                "encryptedId": "af4d58744ef538b6e4ac19d63e1557392e49324e1ae829208b60fb970a9fc52b71c62f6d16d1326911d76a70ba7c976f4873128a9e67244a08d03783257b890f",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sdlbsl_user/2026-05-05/Book%20Closure%20Notice%20for%209th%20AGM%20NEPSE_1777951464706.pdf"
+            },
+            {
+                "id": 30692,
+                "activeStatus": "A",
+                "modifiedBy": "sdlbsl_user",
+                "modifiedDate": "2026-05-05T09:10:03.983",
+                "application": 45599,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "sdlbsl_user/2026-05-05/Annapurna Post 9th AGM Notice_1777951482545.jpg",
+                "encryptedId": "d246a40974bc34981679dc35852a0ec486dba2d4296bb4de565a333683b5e3797e8bc6c8dfed91c4dd843b41d0d7813feb3911e2f12ebd209fcf7d1b005bbfed",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sdlbsl_user/2026-05-05/Annapurna%20Post%209th%20AGM%20Notice_1777951482545.jpg"
+            }
+        ],
+        "newsHeadline": "9th AGM Notice [SMPDA] ",
+        "newsBody": "Annual General Meeting of SMPDA\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 5/31/2026\nAGM No: 9\nBook Close Date: 5/19/2026",
+        "addedDate": "2026-05-05T09:10:03.973",
+        "newsSource": "Annapurna Post",
+        "modifiedDate": "2026-05-05T09:14:30.043",
+        "approvedDate": null,
+        "symbol": "SMPDA"
+    },
+    {
+        "id": 45596,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30688,
+                "activeStatus": "A",
+                "modifiedBy": "cyc_user",
+                "modifiedDate": "2026-05-04T18:15:40.18",
+                "application": 45596,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "CYC_Nepal_laghubitta_Bittiya_Sanstha_Limited/Company News/2026-05-04/Appointment letter_1777897835928.pdf",
+                "encryptedId": "87351fb5d794e36fcee09af9d76b3974ef843b184a5f3939579d3d30edab7808a97c7f7c1e802f97cbdcc81ff0ade06acc3e50beb0c658831b2087e80d304ebf",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=CYC_Nepal_laghubitta_Bittiya_Sanstha_Limited/Company%20News/2026-05-04/Appointment%20letter_1777897835928.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment Letter CEO [CYCL] ",
+        "newsBody": "",
+        "addedDate": "2026-05-04T18:15:40.177",
+        "newsSource": "cycl",
+        "modifiedDate": "2026-05-05T09:07:52.487",
+        "approvedDate": null,
+        "symbol": "CYCL"
+    },
+    {
+        "id": 45595,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30687,
+                "activeStatus": "A",
+                "modifiedBy": "cyc_user",
+                "modifiedDate": "2026-05-04T18:10:02.567",
+                "application": 45595,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "CYC_Nepal_laghubitta_Bittiya_Sanstha_Limited/Company News/2026-05-04/Resignation letter (1)_1777897493290.pdf",
+                "encryptedId": "0630486b51efa51cf2d41ac3110c432f407614d2fd6ee0aa0a8dacf252419e61bb78e2df5d12b9b5989cbc65dfd5547eaa4fa724164e05081597f9dfb526cbca",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=CYC_Nepal_laghubitta_Bittiya_Sanstha_Limited/Company%20News/2026-05-04/Resignation%20letter%20%281%29_1777897493290.pdf"
+            }
+        ],
+        "newsHeadline": "Resigation of CEO [CYCL] ",
+        "newsBody": "",
+        "addedDate": "2026-05-04T18:10:02.563",
+        "newsSource": "cycl",
+        "modifiedDate": "2026-05-05T09:07:34.203",
+        "approvedDate": null,
+        "symbol": "CYCL"
+    },
+    {
+        "id": 45593,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30685,
+                "activeStatus": "A",
+                "modifiedBy": "fowad_user",
+                "modifiedDate": "2026-05-04T16:52:15.157",
+                "application": 45593,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "fowad_user/2026-05-04/Board of Directors Change_1777892807078.pdf",
+                "encryptedId": "e7d37999e67b6fc6a33a0d48da01d42cd5af8ed469d48075ec46c1362f0f3a864c71aa5f8de5e2dbda188f4cd6d8aed82d58e28c5b70af632161c87ab5b33cbf",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=fowad_user/2026-05-04/Board%20of%20Directors%20Change_1777892807078.pdf"
+            }
+        ],
+        "newsHeadline": "Board of Directors Change [FOWAD] ",
+        "newsBody": "<p>13th AGM Change Board of directors and Board Meeting Change Chairperson.</p>",
+        "addedDate": "2026-05-04T16:52:15.153",
+        "newsSource": "AGM Decision",
+        "modifiedDate": "2026-05-05T09:07:05.42",
+        "approvedDate": null,
+        "symbol": "FOWAD"
+    },
+    {
+        "id": 45592,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30684,
+                "activeStatus": "A",
+                "modifiedBy": "mkjc_user",
+                "modifiedDate": "2026-05-04T16:39:59.667",
+                "application": 45592,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "mkjc_user/2026-05-04/Appointment of Issue Manager_1777892074983.pdf",
+                "encryptedId": "e712521e43ef81921324319dcc1c6986c041331c3f8dd9e441a27af3e15a2ed5844b12bddb2d7dd794695107efcf42a354d57763aaaedd9c098734093b10bf0e",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mkjc_user/2026-05-04/Appointment%20of%20Issue%20Manager_1777892074983.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of Issue Manager [MKJC] ",
+        "newsBody": "<p>\u0939\u0915\u092a\u094d\u0930\u0926 \u0936\u0947\u092f\u0930 \u0928\u093f\u0937\u094d\u0915\u093e\u0936\u0928\u0915\u093e \u0932\u093e\u0917\u093f \u092c\u093f\u0915\u094d\u0930\u0940 \u092a\u094d\u0930\u092c\u0928\u094d\u0927\u0915 \u0928\u093f\u092f\u0941\u0915\u094d\u0924 \u0917\u0930\u093f\u090f\u0915\u094b \u092c\u093e\u0930\u0947 \u0964</p>",
+        "addedDate": "2026-05-04T16:39:59.663",
+        "newsSource": "Mailung Khola Jal Vidhyut Company Limited",
+        "modifiedDate": "2026-05-05T09:06:49.503",
+        "approvedDate": null,
+        "symbol": "MKJC"
+    },
+    {
+        "id": 45591,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30683,
+                "activeStatus": "A",
+                "modifiedBy": "unhpl_user",
+                "modifiedDate": "2026-05-04T16:26:04.86",
+                "application": 45591,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "Union_Hydropower_Limited/Company News/2026-05-04/SGM minute_1777891201149.pdf",
+                "encryptedId": "32c46ad4d6aca5f74b265c4d2f32b579b9d51cfa460df3769202a60b4f692125483fe0938f2bda51b0c54c88b719345659e1be594b89aa54cb5d4cb810067514",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Union_Hydropower_Limited/Company%20News/2026-05-04/SGM%20minute_1777891201149.pdf"
+            }
+        ],
+        "newsHeadline": "Ater SGM Minute of UNHPL [UNHPL] ",
+        "newsBody": "",
+        "addedDate": "2026-05-04T16:26:04.853",
+        "newsSource": "SGM (2082-83)",
+        "modifiedDate": "2026-05-05T09:06:34.403",
+        "approvedDate": null,
+        "symbol": "UNHPL"
+    },
+    {
+        "id": 45589,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30681,
+                "activeStatus": "A",
+                "modifiedBy": "glbsl_user",
+                "modifiedDate": "2026-05-04T15:19:03.41",
+                "application": 45589,
+                "documentType": 54,
+                "submittedDate": "2026-05-04",
+                "filePath": "Gurans_Laghubitta_Bittiya_Sanstha_Ltd/Company News/2026-05-04/Rregarding Share Registrar Appointment_1777887219636.PDF",
+                "encryptedId": "ed11c81fbf837fbefb6d1a7e32abc24302f3c8a03c79b00ff24365250240b5d0e710ab03c991d870a717db1c310e502ca6e9f022888b4cc4ab6ee424492c9559",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Gurans_Laghubitta_Bittiya_Sanstha_Ltd/Company%20News/2026-05-04/Rregarding%20Share%20Registrar%20Appointment_1777887219636.PDF"
+            }
+        ],
+        "newsHeadline": "New RTS Service Agreement with RBB Merchant Banking Ltd. [GLBSL] ",
+        "newsBody": "",
+        "addedDate": "2026-05-04T15:19:03.397",
+        "newsSource": "Gurans Laghubitta Bittiya Sanstha Limited",
+        "modifiedDate": "2026-05-05T09:06:06.033",
+        "approvedDate": null,
+        "symbol": "GLBSL"
+    },
+    {
         "id": 45586,
         "applicationDocumentDetailsList": [
             {
@@ -5638,5 +5866,53 @@
         "modifiedDate": "2026-05-04T08:53:36.747",
         "approvedDate": null,
         "symbol": "SARBTM"
+    },
+    {
+        "id": 45608,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30702,
+                "activeStatus": "A",
+                "modifiedBy": "chdc_user",
+                "modifiedDate": "2026-05-05T10:32:55.837",
+                "application": 45608,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "CEDB_Hydropower_Development_Company_Limited/Company News/2026-05-05/Book Close (2)_1777956451829.pdf",
+                "encryptedId": "66a0d3651a8e26893d040f8758115e5c294124f051fbaa56b891dc9ad7f8ea63c84d99f35acd681381ec4aabc975c7b33e4ab4ca4d1392e3a02c23cddbb6312c",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=CEDB_Hydropower_Development_Company_Limited/Company%20News/2026-05-05/Book%20Close%20%282%29_1777956451829.pdf"
+            }
+        ],
+        "newsHeadline": "Book Close [CHDC] ",
+        "newsBody": "Book Close of CHDC\nBook Close Date : 5/13/2026",
+        "addedDate": "2026-05-05T10:32:55.83",
+        "newsSource": "Book Close ",
+        "modifiedDate": "2026-05-05T10:34:17.587",
+        "approvedDate": null,
+        "symbol": "CHDC"
+    },
+    {
+        "id": 45601,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30694,
+                "activeStatus": "A",
+                "modifiedBy": "nica_user",
+                "modifiedDate": "2026-05-05T09:43:45.843",
+                "application": 45601,
+                "documentType": 54,
+                "submittedDate": "2026-05-05",
+                "filePath": "nica_user/2026-05-05/Published 28th AGM_1777953508808.pdf",
+                "encryptedId": "065e188f2dfd4425338d42c38b4108d8c58264d175203d5d335fa85a88927c432261a16e130e862d16ea396cfd305f479f9af67673900259d0ec0cd3f534e6d1",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nica_user/2026-05-05/Published%2028th%20AGM_1777953508808.pdf"
+            }
+        ],
+        "newsHeadline": "Publication of 28th AGM Notice [NICA] ",
+        "newsBody": "<p>Notice regarding 28th AGM of NIC ASIA Bank has been published in 'Karobar' National Daily</p><p>newspaper dated 5th May 2026.</p>",
+        "addedDate": "2026-05-05T09:43:45.84",
+        "newsSource": "Board of Directors",
+        "modifiedDate": "2026-05-05T09:49:17.487",
+        "approvedDate": null,
+        "symbol": "NICA"
     }
 ]
