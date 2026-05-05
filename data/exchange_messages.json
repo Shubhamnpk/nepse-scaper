@@ -1,5 +1,17 @@
 [
     {
+        "id": 208701,
+        "messageBody": "Price Adjusted - SGIC|Adjusted Price for Sanima GIC Insurance Limited is Rs. 451.71 for 5 % of Bonus Share.",
+        "messageTitle": "Price Adjusted - SGIC",
+        "encryptedId": null,
+        "expiryDate": "2026-05-05",
+        "filePath": null,
+        "remarks": "8",
+        "addedDate": null,
+        "modifiedDate": "2026-05-05T15:55:36.313",
+        "approvedDate": null
+    },
+    {
         "id": 208698,
         "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">4,58,015 Units Bonus Share of&nbsp;</span>Green Development Bank Ltd. (GRDBL)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;has been listed in NEPSE.</span></p>",
         "messageTitle": "Listing 8.0396% Bonus Share of Green Development Bank Ltd. (GRDBL)",
@@ -1165,5 +1177,18 @@
         "approvedDate": null,
         "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nabaraj_listing/2026-04-30/BooK%20Notice_1777526340714.pdf",
         "symbol": "QIIS"
+    },
+    {
+        "id": 208700,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Adjusted price of&nbsp;</span>Sanima GIC Insurance Limited (SGIC)<span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">&nbsp;is Rs.451.71 for 5% Bonus shares on previous closing price of Rs.474.30</span></p>",
+        "messageTitle": "Price Adjusted - Sanima GIC Insurance Limited (SGIC)",
+        "encryptedId": null,
+        "expiryDate": "2026-05-05",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-05-05T15:39:31.27",
+        "modifiedDate": "2026-05-05T15:39:31.27",
+        "approvedDate": null,
+        "symbol": "SGIC"
     }
 ]
