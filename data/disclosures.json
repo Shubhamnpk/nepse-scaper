@@ -1,5 +1,101 @@
 [
     {
+        "id": 45636,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30732,
+                "activeStatus": "A",
+                "modifiedBy": "aclbsl_user",
+                "modifiedDate": "2026-05-06T10:15:51.647",
+                "application": 45636,
+                "documentType": 54,
+                "submittedDate": "2026-05-06",
+                "filePath": "Chautari_Laghubitta_Bittiya_Sanstha_Ltd/Company News/2026-05-06/NEPSE_000974_1778041827422.pdf",
+                "encryptedId": "36cc294226a4cb02c649785126384c57ffe1ed9834e9fc3ebd0508e167a869a18df6d37065264df73e7981096a17f05cbdac7a71782818e9e507ee14cf303b13",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Chautari_Laghubitta_Bittiya_Sanstha_Ltd/Company%20News/2026-05-06/NEPSE_000974_1778041827422.pdf"
+            }
+        ],
+        "newsHeadline": "Regarding Resignation of Board Member [ACLBSL] ",
+        "newsBody": "",
+        "addedDate": "2026-05-06T10:15:51.643",
+        "newsSource": "Board Meeting",
+        "modifiedDate": "2026-05-06T10:20:26.753",
+        "approvedDate": null,
+        "symbol": "ACLBSL"
+    },
+    {
+        "id": 45631,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30725,
+                "activeStatus": "A",
+                "modifiedBy": "dlbs_user",
+                "modifiedDate": "2026-05-06T09:58:12.22",
+                "application": 45631,
+                "documentType": 54,
+                "submittedDate": "2026-05-06",
+                "filePath": "Dhaulagiri_laghubitta_Sanstha_Limited/Company News/2026-05-06/7 AGM External auditoro dafa 111_1778040786168.pdf",
+                "encryptedId": "42e2c70ce21863019b8ef34d13e4e9cf6df5b345f67ef3205403e8ebef47017ff4e3a2c9c4a8cfb5cad7c3e0c03641d2c9fe28e6e0ac6bf0bcbfbaca5bab30e5",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Dhaulagiri_laghubitta_Sanstha_Limited/Company%20News/2026-05-06/7%20AGM%20External%20auditoro%20dafa%20111_1778040786168.pdf"
+            }
+        ],
+        "newsHeadline": "External Auditor Appointment DLBS [DLBS] ",
+        "newsBody": "<p>External Auditor Appointment DLBS</p>",
+        "addedDate": "2026-05-06T09:58:12.217",
+        "newsSource": "External Auditor Appointment DLBS",
+        "modifiedDate": "2026-05-06T10:01:17.747",
+        "approvedDate": null,
+        "symbol": "DLBS"
+    },
+    {
+        "id": 45626,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30719,
+                "activeStatus": "A",
+                "modifiedBy": "nicl_user",
+                "modifiedDate": "2026-05-06T09:45:12.94",
+                "application": 45626,
+                "documentType": 54,
+                "submittedDate": "2026-05-06",
+                "filePath": "nicl_user/2026-05-06/NICL BOD Time Extention Letter_1778039947377.pdf",
+                "encryptedId": "6145239e973e4dfd688ed5a30c03aa1e635b2d7229348dcd3251c7f44c38759a88e45a3524cb289f1e070df130270fbb37e2933ac3fa8b75bf60c1f818cc874d",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nicl_user/2026-05-06/NICL%20BOD%20Time%20Extention%20Letter_1778039947377.pdf"
+            }
+        ],
+        "newsHeadline": "Time Extension of BOD members of NICL till AGM [NICL] ",
+        "newsBody": "<p>Time Extension of BOD members of NICL till AGM</p>",
+        "addedDate": "2026-05-06T09:45:12.937",
+        "newsSource": "NICL",
+        "modifiedDate": "2026-05-06T10:00:55.157",
+        "approvedDate": null,
+        "symbol": "NICL"
+    },
+    {
+        "id": 45624,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30717,
+                "activeStatus": "A",
+                "modifiedBy": "nmbmf_user",
+                "modifiedDate": "2026-05-06T09:18:51.32",
+                "application": 45624,
+                "documentType": 54,
+                "submittedDate": "2026-05-06",
+                "filePath": "nmbmf_user/2026-05-06/letter to Regulatory_1778038418469.PDF",
+                "encryptedId": "a258a78ef1ec6f5168d4511009f99f177973b66483f9bee4f955e9fb682c1314861df22ba0d19389f8e3cf7c351df447cf5edfdccecd24e00a2f9c181b74c562",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nmbmf_user/2026-05-06/letter%20to%20Regulatory_1778038418469.PDF"
+            }
+        ],
+        "newsHeadline": "Information about Appointment of CEO [NMBMF] ",
+        "newsBody": "",
+        "addedDate": "2026-05-06T09:18:51.303",
+        "newsSource": "NMBMF",
+        "modifiedDate": "2026-05-06T09:19:34.49",
+        "approvedDate": null,
+        "symbol": "NMBMF"
+    },
+    {
         "id": 45621,
         "applicationDocumentDetailsList": [
             {
@@ -5962,5 +6058,52 @@
         "modifiedDate": "2026-05-05T09:49:17.487",
         "approvedDate": null,
         "symbol": "NICA"
+    },
+    {
+        "id": 45634,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30729,
+                "activeStatus": "A",
+                "modifiedBy": "dlbs_user",
+                "modifiedDate": "2026-05-06T10:10:03.433",
+                "application": 45634,
+                "documentType": 54,
+                "submittedDate": "2026-05-06",
+                "filePath": "Dhaulagiri_laghubitta_Sanstha_Limited/Company News/2026-05-06/7AGM Cover letter_1778041498063.pdf",
+                "encryptedId": "bcd0331752a82e6969be016fd46d47306ebe2c19d7fdc81134418709ddb78a916276b3d705d761a2c654ac3cb065d4a2190122a0eed542a991ab7410fee008be",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Dhaulagiri_laghubitta_Sanstha_Limited/Company%20News/2026-05-06/7AGM%20Cover%20letter_1778041498063.pdf"
+            },
+            {
+                "id": 30730,
+                "activeStatus": "A",
+                "modifiedBy": "dlbs_user",
+                "modifiedDate": "2026-05-06T10:10:03.433",
+                "application": 45634,
+                "documentType": 54,
+                "submittedDate": "2026-05-06",
+                "filePath": "Dhaulagiri_laghubitta_Sanstha_Limited/Company News/2026-05-06/7 agm work minute_1778041488809.pdf",
+                "encryptedId": "94ebe293e652c0426a2a1e5b43dac6ae319a93245cef55eaa35b14272ce96edf4fa93857c22b01ee1b320b6e3c014ee452826df2fa0f2ede64a3798216556560",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Dhaulagiri_laghubitta_Sanstha_Limited/Company%20News/2026-05-06/7%20agm%20work%20minute_1778041488809.pdf"
+            }
+        ],
+        "newsHeadline": "7 th Annual General Meeting of DLBS Complete [DLBS] ",
+        "newsBody": "Annual General Meeting of DLBS\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 5/5/2026\nAGM No: 7\nBook Close Date: 4/23/2026",
+        "addedDate": "2026-05-06T10:10:03.43",
+        "newsSource": "7 th Annual General Meeting of DLBS Complete",
+        "modifiedDate": "2026-05-06T10:20:44.433",
+        "approvedDate": null,
+        "symbol": "DLBS"
+    },
+    {
+        "id": 45630,
+        "applicationDocumentDetailsList": [],
+        "newsHeadline": "7th Annual General Meeting of DLBS complete [DLBS] ",
+        "newsBody": "Annual General Meeting of DLBS\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 5/5/2026\nAGM No: 7\nBook Close Date: 4/23/2026",
+        "addedDate": "2026-05-06T09:56:20.31",
+        "newsSource": "7th Annual General Meeting of DLBS complete",
+        "modifiedDate": "2026-05-06T10:02:11.2",
+        "approvedDate": null,
+        "symbol": "DLBS"
     }
 ]
