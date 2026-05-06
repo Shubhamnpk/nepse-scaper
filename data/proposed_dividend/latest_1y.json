@@ -12,10 +12,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "6000.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "6093.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.005388"
+    "scraped_at": "2026-05-06T06:24:18.398235"
   },
   {
     "id": 1676,
@@ -33,7 +33,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:43.005229"
+    "scraped_at": "2026-05-06T06:24:18.398130"
   },
   {
     "id": 1675,
@@ -51,7 +51,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:43.004900"
+    "scraped_at": "2026-05-06T06:24:18.397922"
   },
   {
     "id": 1674,
@@ -69,7 +69,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:43.005058"
+    "scraped_at": "2026-05-06T06:24:18.398027"
   },
   {
     "id": 1226,
@@ -80,14 +80,14 @@
     "cash_dividend": "0.2632",
     "total_dividend": "5.2632",
     "announcement_date": "2026-03-15",
-    "bookclose_date": "2026-05-06",
+    "bookclose_date": "2026-05-06 [Closed]",
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "468.00",
-    "price_as_of": "2026-05-04",
-    "status": 0,
-    "scraped_at": "2026-05-05T06:09:43.004660"
+    "ltp": "474.30",
+    "price_as_of": "2026-05-05",
+    "status": 1,
+    "scraped_at": "2026-05-06T06:24:18.397734"
   },
   {
     "id": 556,
@@ -102,10 +102,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "637.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "636.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.004503"
+    "scraped_at": "2026-05-06T06:24:18.397632"
   },
   {
     "id": 705,
@@ -120,10 +120,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "1596.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "1580.00",
+    "price_as_of": "2026-05-05",
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:43.004346"
+    "scraped_at": "2026-05-06T06:24:18.397530"
   },
   {
     "id": 585,
@@ -139,9 +139,9 @@
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
     "ltp": "560.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.004186"
+    "scraped_at": "2026-05-06T06:24:18.397428"
   },
   {
     "id": 122,
@@ -156,10 +156,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "5700.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "5755.00",
+    "price_as_of": "2026-05-05",
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:43.004017"
+    "scraped_at": "2026-05-06T06:24:18.397327"
   },
   {
     "id": 1046,
@@ -174,10 +174,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "548.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "562.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.003854"
+    "scraped_at": "2026-05-06T06:24:18.397224"
   },
   {
     "id": 1657,
@@ -195,7 +195,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.003696"
+    "scraped_at": "2026-05-06T06:24:18.397122"
   },
   {
     "id": 1656,
@@ -213,7 +213,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:43.003538"
+    "scraped_at": "2026-05-06T06:24:18.397016"
   },
   {
     "id": 133,
@@ -228,10 +228,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "603.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "595.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.003380"
+    "scraped_at": "2026-05-06T06:24:18.396913"
   },
   {
     "id": 143,
@@ -246,10 +246,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "447.20",
-    "price_as_of": "2026-05-04",
+    "ltp": "450.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.003221"
+    "scraped_at": "2026-05-06T06:24:18.396797"
   },
   {
     "id": 1176,
@@ -264,10 +264,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "519.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "518.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.003036"
+    "scraped_at": "2026-05-06T06:24:18.396694"
   },
   {
     "id": 120,
@@ -282,10 +282,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "471.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "475.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.002557"
+    "scraped_at": "2026-05-06T06:24:18.396384"
   },
   {
     "id": 117,
@@ -300,10 +300,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "873.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "872.20",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.002721"
+    "scraped_at": "2026-05-06T06:24:18.396491"
   },
   {
     "id": 961,
@@ -318,10 +318,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-26",
     "fiscal_year": "2081/2082",
-    "ltp": "567.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "560.10",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.002242"
+    "scraped_at": "2026-05-06T06:24:18.396181"
   },
   {
     "id": 779,
@@ -339,7 +339,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:43.002877"
+    "scraped_at": "2026-05-06T06:24:18.396592"
   },
   {
     "id": 766,
@@ -354,10 +354,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-30",
     "fiscal_year": "2081/2082",
-    "ltp": "452.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "456.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.002082"
+    "scraped_at": "2026-05-06T06:24:18.396077"
   },
   {
     "id": 527,
@@ -372,10 +372,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-01",
     "fiscal_year": "2081/2082",
-    "ltp": "330.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "333.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.001753"
+    "scraped_at": "2026-05-06T06:24:18.395860"
   },
   {
     "id": 478,
@@ -390,10 +390,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-25",
     "fiscal_year": "2081/2082",
-    "ltp": "707.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "713.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.002399"
+    "scraped_at": "2026-05-06T06:24:18.396283"
   },
   {
     "id": 364,
@@ -408,10 +408,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-30",
     "fiscal_year": "2081/2082",
-    "ltp": "584.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "581.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.001917"
+    "scraped_at": "2026-05-06T06:24:18.395973"
   },
   {
     "id": 701,
@@ -426,10 +426,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "480.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "482.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.001518"
+    "scraped_at": "2026-05-06T06:24:18.395682"
   },
   {
     "id": 33,
@@ -442,12 +442,12 @@
     "announcement_date": "2025-12-22",
     "bookclose_date": "2026-01-05 [Closed]",
     "distribution_date": null,
-    "bonus_listing_date": null,
+    "bonus_listing_date": "2026-05-06",
     "fiscal_year": "2081/2082",
-    "ltp": "1751.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "1752.40",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.001360"
+    "scraped_at": "2026-05-06T06:24:18.395578"
   },
   {
     "id": 1240,
@@ -462,10 +462,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "430.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "427.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.999754"
+    "scraped_at": "2026-05-06T06:24:18.394521"
   },
   {
     "id": 1025,
@@ -480,10 +480,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "1460.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "1492.00",
+    "price_as_of": "2026-05-05",
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.999596"
+    "scraped_at": "2026-05-06T06:24:18.394416"
   },
   {
     "id": 737,
@@ -498,10 +498,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "456.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "456.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.999912"
+    "scraped_at": "2026-05-06T06:24:18.394624"
   },
   {
     "id": 617,
@@ -516,10 +516,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "390.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "393.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.000081"
+    "scraped_at": "2026-05-06T06:24:18.394728"
   },
   {
     "id": 607,
@@ -534,10 +534,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "1704.40",
-    "price_as_of": "2026-05-04",
+    "ltp": "1743.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.001203"
+    "scraped_at": "2026-05-06T06:24:18.395476"
   },
   {
     "id": 591,
@@ -552,10 +552,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-31",
     "fiscal_year": "2081/2082",
-    "ltp": "1253.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "1240.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.000400"
+    "scraped_at": "2026-05-06T06:24:18.394956"
   },
   {
     "id": 480,
@@ -570,10 +570,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-04-22",
     "fiscal_year": "2081/2082",
-    "ltp": "1107.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "1087.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.000718"
+    "scraped_at": "2026-05-06T06:24:18.395167"
   },
   {
     "id": 424,
@@ -589,9 +589,9 @@
     "bonus_listing_date": "2026-04-20",
     "fiscal_year": "2081/2082",
     "ltp": "1190.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.000241"
+    "scraped_at": "2026-05-06T06:24:18.394835"
   },
   {
     "id": 422,
@@ -606,10 +606,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-04-10",
     "fiscal_year": "2081/2082",
-    "ltp": "870.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "888.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.000875"
+    "scraped_at": "2026-05-06T06:24:18.395273"
   },
   {
     "id": 420,
@@ -624,10 +624,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-13",
     "fiscal_year": "2081/2082",
-    "ltp": "810.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "813.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.000557"
+    "scraped_at": "2026-05-06T06:24:18.395062"
   },
   {
     "id": 138,
@@ -642,10 +642,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "808.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "807.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:43.001036"
+    "scraped_at": "2026-05-06T06:24:18.395375"
   },
   {
     "id": 1258,
@@ -660,10 +660,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "585.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "587.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.998930"
+    "scraped_at": "2026-05-06T06:24:18.393981"
   },
   {
     "id": 1013,
@@ -681,7 +681,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.999107"
+    "scraped_at": "2026-05-06T06:24:18.394091"
   },
   {
     "id": 742,
@@ -696,10 +696,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-04-09",
     "fiscal_year": "2081/2082",
-    "ltp": "635.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "649.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.999433"
+    "scraped_at": "2026-05-06T06:24:18.394311"
   },
   {
     "id": 460,
@@ -717,7 +717,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.999274"
+    "scraped_at": "2026-05-06T06:24:18.394206"
   },
   {
     "id": 119,
@@ -732,10 +732,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "664.80",
-    "price_as_of": "2026-05-04",
+    "ltp": "661.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.998186"
+    "scraped_at": "2026-05-06T06:24:18.393365"
   },
   {
     "id": 22,
@@ -750,10 +750,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-31",
     "fiscal_year": "2081/2082",
-    "ltp": "236.60",
-    "price_as_of": "2026-05-04",
+    "ltp": "235.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.998748"
+    "scraped_at": "2026-05-06T06:24:18.393865"
   },
   {
     "id": 1296,
@@ -768,10 +768,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-30",
     "fiscal_year": "2081/2082",
-    "ltp": "461.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "469.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.998016"
+    "scraped_at": "2026-05-06T06:24:18.393262"
   },
   {
     "id": 760,
@@ -787,9 +787,9 @@
     "bonus_listing_date": "2026-03-13",
     "fiscal_year": "2081/2082",
     "ltp": "447.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.997543"
+    "scraped_at": "2026-05-06T06:24:18.392952"
   },
   {
     "id": 158,
@@ -804,10 +804,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-25",
     "fiscal_year": "2081/2082",
-    "ltp": "675.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "672.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.997701"
+    "scraped_at": "2026-05-06T06:24:18.393058"
   },
   {
     "id": 128,
@@ -822,10 +822,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-22",
     "fiscal_year": "2081/2082",
-    "ltp": "582.40",
-    "price_as_of": "2026-05-04",
+    "ltp": "575.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.997386"
+    "scraped_at": "2026-05-06T06:24:18.392840"
   },
   {
     "id": 126,
@@ -840,10 +840,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "480.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "482.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.997858"
+    "scraped_at": "2026-05-06T06:24:18.393160"
   },
   {
     "id": 1313,
@@ -858,10 +858,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-25",
     "fiscal_year": "2081/2082",
-    "ltp": "1107.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "1092.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.996902"
+    "scraped_at": "2026-05-06T06:24:18.392524"
   },
   {
     "id": 141,
@@ -876,10 +876,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-04-10",
     "fiscal_year": "2081/2082",
-    "ltp": "608.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "610.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.997063"
+    "scraped_at": "2026-05-06T06:24:18.392630"
   },
   {
     "id": 1266,
@@ -895,9 +895,9 @@
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
     "ltp": "388.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.996744"
+    "scraped_at": "2026-05-06T06:24:18.392422"
   },
   {
     "id": 872,
@@ -912,10 +912,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-26",
     "fiscal_year": "2081/2082",
-    "ltp": "805.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "803.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.996585"
+    "scraped_at": "2026-05-06T06:24:18.392321"
   },
   {
     "id": 159,
@@ -930,10 +930,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-13",
     "fiscal_year": "2081/2082",
-    "ltp": "902.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "904.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.996427"
+    "scraped_at": "2026-05-06T06:24:18.392215"
   },
   {
     "id": 956,
@@ -948,10 +948,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-16",
     "fiscal_year": "2081/2082",
-    "ltp": "522.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "528.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.996268"
+    "scraped_at": "2026-05-06T06:24:18.392112"
   },
   {
     "id": 883,
@@ -966,10 +966,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "884.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "894.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.996108"
+    "scraped_at": "2026-05-06T06:24:18.392010"
   },
   {
     "id": 934,
@@ -984,10 +984,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-20",
     "fiscal_year": "2081/2082",
-    "ltp": "1255.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "1282.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.995783"
+    "scraped_at": "2026-05-06T06:24:18.391797"
   },
   {
     "id": 539,
@@ -1002,10 +1002,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-31",
     "fiscal_year": "2081/2082",
-    "ltp": "752.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "766.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.995941"
+    "scraped_at": "2026-05-06T06:24:18.391908"
   },
   {
     "id": 513,
@@ -1020,10 +1020,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-17",
     "fiscal_year": "2081/2082",
-    "ltp": "262.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "263.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.997229"
+    "scraped_at": "2026-05-06T06:24:18.392736"
   },
   {
     "id": 1279,
@@ -1041,7 +1041,7 @@
     "ltp": "1539.00",
     "price_as_of": "2026-05-04",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.995467"
+    "scraped_at": "2026-05-06T06:24:18.391591"
   },
   {
     "id": 1256,
@@ -1056,10 +1056,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "694.20",
-    "price_as_of": "2026-05-04",
+    "ltp": "700.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.995626"
+    "scraped_at": "2026-05-06T06:24:18.391694"
   },
   {
     "id": 735,
@@ -1074,10 +1074,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "431.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "432.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.995305"
+    "scraped_at": "2026-05-06T06:24:18.391475"
   },
   {
     "id": 1264,
@@ -1092,10 +1092,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "424.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "424.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.994566"
+    "scraped_at": "2026-05-06T06:24:18.390982"
   },
   {
     "id": 1242,
@@ -1113,7 +1113,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.995059"
+    "scraped_at": "2026-05-06T06:24:18.391299"
   },
   {
     "id": 392,
@@ -1128,10 +1128,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "789.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "788.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.994726"
+    "scraped_at": "2026-05-06T06:24:18.391087"
   },
   {
     "id": 162,
@@ -1147,9 +1147,9 @@
     "bonus_listing_date": "2026-03-20",
     "fiscal_year": "2081/2082",
     "ltp": "826.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.994887"
+    "scraped_at": "2026-05-06T06:24:18.391193"
   },
   {
     "id": 137,
@@ -1165,9 +1165,9 @@
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
     "ltp": "763.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.994407"
+    "scraped_at": "2026-05-06T06:24:18.390870"
   },
   {
     "id": 765,
@@ -1182,10 +1182,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "450.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "453.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.994248"
+    "scraped_at": "2026-05-06T06:24:18.390757"
   },
   {
     "id": 96,
@@ -1200,10 +1200,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "747.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "737.10",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.994087"
+    "scraped_at": "2026-05-06T06:24:18.390653"
   },
   {
     "id": 16,
@@ -1218,10 +1218,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "521.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "521.60",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.993921"
+    "scraped_at": "2026-05-06T06:24:18.390547"
   },
   {
     "id": 1408,
@@ -1239,7 +1239,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.993763"
+    "scraped_at": "2026-05-06T06:24:18.390443"
   },
   {
     "id": 1199,
@@ -1254,10 +1254,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-03",
     "fiscal_year": "2081/2082",
-    "ltp": "412.40",
-    "price_as_of": "2026-05-04",
+    "ltp": "418.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.993604"
+    "scraped_at": "2026-05-06T06:24:18.390341"
   },
   {
     "id": 670,
@@ -1272,10 +1272,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-02-17",
     "fiscal_year": "2081/2082",
-    "ltp": "1109.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "1107.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.993284"
+    "scraped_at": "2026-05-06T06:24:18.390130"
   },
   {
     "id": 427,
@@ -1290,10 +1290,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-03",
     "fiscal_year": "2081/2082",
-    "ltp": "898.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "900.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.993445"
+    "scraped_at": "2026-05-06T06:24:18.390234"
   },
   {
     "id": 1143,
@@ -1308,10 +1308,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-22",
     "fiscal_year": "2081/2082",
-    "ltp": "805.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "808.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.992799"
+    "scraped_at": "2026-05-06T06:24:18.389805"
   },
   {
     "id": 842,
@@ -1329,7 +1329,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.993125"
+    "scraped_at": "2026-05-06T06:24:18.390026"
   },
   {
     "id": 487,
@@ -1344,10 +1344,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-04-22",
     "fiscal_year": "2081/2082",
-    "ltp": "1039.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "1069.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.992958"
+    "scraped_at": "2026-05-06T06:24:18.389922"
   },
   {
     "id": 53,
@@ -1362,10 +1362,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "534.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "523.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.992642"
+    "scraped_at": "2026-05-06T06:24:18.389703"
   },
   {
     "id": 12,
@@ -1380,10 +1380,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-22",
     "fiscal_year": "2081/2082",
-    "ltp": "396.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "397.20",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.992482"
+    "scraped_at": "2026-05-06T06:24:18.389599"
   },
   {
     "id": 1,
@@ -1398,10 +1398,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "238.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "241.70",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.992323"
+    "scraped_at": "2026-05-06T06:24:18.389486"
   },
   {
     "id": 1194,
@@ -1416,10 +1416,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-02-04",
     "fiscal_year": "2081/2082",
-    "ltp": "487.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "496.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.992083"
+    "scraped_at": "2026-05-06T06:24:18.389311"
   },
   {
     "id": 493,
@@ -1434,10 +1434,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-02-27",
     "fiscal_year": "2081/2082",
-    "ltp": "335.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "338.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.991913"
+    "scraped_at": "2026-05-06T06:24:18.389208"
   },
   {
     "id": 176,
@@ -1452,10 +1452,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-13",
     "fiscal_year": "2081/2082",
-    "ltp": "725.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "724.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.991750"
+    "scraped_at": "2026-05-06T06:24:18.389105"
   },
   {
     "id": 1071,
@@ -1470,10 +1470,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-13",
     "fiscal_year": "2081/2082",
-    "ltp": "822.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "820.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.991589"
+    "scraped_at": "2026-05-06T06:24:18.388999"
   },
   {
     "id": 570,
@@ -1488,10 +1488,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-17",
     "fiscal_year": "2081/2082",
-    "ltp": "426.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "431.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.991430"
+    "scraped_at": "2026-05-06T06:24:18.388891"
   },
   {
     "id": 1280,
@@ -1506,10 +1506,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-20",
     "fiscal_year": "2081/2082",
-    "ltp": "213.70",
-    "price_as_of": "2026-05-04",
+    "ltp": "214.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.991271"
+    "scraped_at": "2026-05-06T06:24:18.388772"
   },
   {
     "id": 750,
@@ -1524,10 +1524,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-02-17",
     "fiscal_year": "2081/2082",
-    "ltp": "656.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "660.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.991111"
+    "scraped_at": "2026-05-06T06:24:18.388663"
   },
   {
     "id": 612,
@@ -1542,10 +1542,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "615.20",
-    "price_as_of": "2026-05-04",
+    "ltp": "624.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.990785"
+    "scraped_at": "2026-05-06T06:24:18.388453"
   },
   {
     "id": 298,
@@ -1560,10 +1560,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-31",
     "fiscal_year": "2081/2082",
-    "ltp": "414.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "412.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.990944"
+    "scraped_at": "2026-05-06T06:24:18.388558"
   },
   {
     "id": 972,
@@ -1578,10 +1578,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-16",
     "fiscal_year": "2081/2082",
-    "ltp": "1395.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "1387.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.990463"
+    "scraped_at": "2026-05-06T06:24:18.388242"
   },
   {
     "id": 419,
@@ -1596,10 +1596,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-22",
     "fiscal_year": "2081/2082",
-    "ltp": "758.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "756.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.990624"
+    "scraped_at": "2026-05-06T06:24:18.388349"
   },
   {
     "id": 656,
@@ -1614,10 +1614,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-02-09",
     "fiscal_year": "2081/2082",
-    "ltp": "611.20",
-    "price_as_of": "2026-05-04",
+    "ltp": "614.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.990304"
+    "scraped_at": "2026-05-06T06:24:18.388128"
   },
   {
     "id": 440,
@@ -1632,10 +1632,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-16",
     "fiscal_year": "2081/2082",
-    "ltp": "402.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "406.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.989973"
+    "scraped_at": "2026-05-06T06:24:18.387922"
   },
   {
     "id": 77,
@@ -1650,10 +1650,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "619.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "618.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.990144"
+    "scraped_at": "2026-05-06T06:24:18.388024"
   },
   {
     "id": 844,
@@ -1668,10 +1668,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-22",
     "fiscal_year": "2081/2082",
-    "ltp": "577.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "579.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.989813"
+    "scraped_at": "2026-05-06T06:24:18.387809"
   },
   {
     "id": 24,
@@ -1686,10 +1686,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-02-17",
     "fiscal_year": "2081/2082",
-    "ltp": "305.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "306.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.989654"
+    "scraped_at": "2026-05-06T06:24:18.387704"
   },
   {
     "id": 832,
@@ -1704,10 +1704,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-25",
     "fiscal_year": "2081/2082",
-    "ltp": "302.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "305.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.989493"
+    "scraped_at": "2026-05-06T06:24:18.387599"
   },
   {
     "id": 637,
@@ -1722,10 +1722,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-31",
     "fiscal_year": "2081/2082",
-    "ltp": "365.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "363.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.989334"
+    "scraped_at": "2026-05-06T06:24:18.387492"
   },
   {
     "id": 1162,
@@ -1743,7 +1743,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.989172"
+    "scraped_at": "2026-05-06T06:24:18.387383"
   },
   {
     "id": 95,
@@ -1758,10 +1758,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-01",
     "fiscal_year": "2081/2082",
-    "ltp": "492.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "492.30",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.988927"
+    "scraped_at": "2026-05-06T06:24:18.387208"
   },
   {
     "id": 526,
@@ -1779,7 +1779,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.988767"
+    "scraped_at": "2026-05-06T06:24:18.387103"
   },
   {
     "id": 1406,
@@ -1797,7 +1797,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.988606"
+    "scraped_at": "2026-05-06T06:24:18.386994"
   },
   {
     "id": 115,
@@ -1812,10 +1812,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-01-01",
     "fiscal_year": "2081/2082",
-    "ltp": "1146.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "1150.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.988288"
+    "scraped_at": "2026-05-06T06:24:18.386769"
   },
   {
     "id": 14,
@@ -1830,10 +1830,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "641.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "637.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.988448"
+    "scraped_at": "2026-05-06T06:24:18.386886"
   },
   {
     "id": 1251,
@@ -1851,7 +1851,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.988126"
+    "scraped_at": "2026-05-06T06:24:18.386655"
   },
   {
     "id": 149,
@@ -1866,10 +1866,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "578.10",
-    "price_as_of": "2026-05-04",
+    "ltp": "580.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.987959"
+    "scraped_at": "2026-05-06T06:24:18.386546"
   },
   {
     "id": 150,
@@ -1884,10 +1884,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-02-04",
     "fiscal_year": "2081/2082",
-    "ltp": "413.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "414.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.987800"
+    "scraped_at": "2026-05-06T06:24:18.386439"
   },
   {
     "id": 1152,
@@ -1903,9 +1903,9 @@
     "bonus_listing_date": "2025-12-29",
     "fiscal_year": "2081/2082",
     "ltp": "1286.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.987639"
+    "scraped_at": "2026-05-06T06:24:18.386332"
   },
   {
     "id": 404,
@@ -1920,10 +1920,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "229.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "230.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.987479"
+    "scraped_at": "2026-05-06T06:24:18.386226"
   },
   {
     "id": 1388,
@@ -1941,7 +1941,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.987320"
+    "scraped_at": "2026-05-06T06:24:18.386117"
   },
   {
     "id": 2,
@@ -1956,10 +1956,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-22",
     "fiscal_year": "2081/2082",
-    "ltp": "386.70",
-    "price_as_of": "2026-05-04",
+    "ltp": "388.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.987160"
+    "scraped_at": "2026-05-06T06:24:18.386006"
   },
   {
     "id": 1138,
@@ -1974,10 +1974,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-01",
     "fiscal_year": "2081/2082",
-    "ltp": "682.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "690.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.986993"
+    "scraped_at": "2026-05-06T06:24:18.385891"
   },
   {
     "id": 490,
@@ -1993,9 +1993,9 @@
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
     "ltp": "651.10",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.986832"
+    "scraped_at": "2026-05-06T06:24:18.385761"
   },
   {
     "id": 718,
@@ -2013,7 +2013,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.986673"
+    "scraped_at": "2026-05-06T06:24:18.385655"
   },
   {
     "id": 18,
@@ -2029,9 +2029,9 @@
     "bonus_listing_date": "2026-02-25",
     "fiscal_year": "2081/2082",
     "ltp": "202.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.986512"
+    "scraped_at": "2026-05-06T06:24:18.385549"
   },
   {
     "id": 1477,
@@ -2049,7 +2049,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.985940"
+    "scraped_at": "2026-05-06T06:24:18.385149"
   },
   {
     "id": 1371,
@@ -2067,7 +2067,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.986190"
+    "scraped_at": "2026-05-06T06:24:18.385334"
   },
   {
     "id": 719,
@@ -2082,10 +2082,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-02-24",
     "fiscal_year": "2081/2082",
-    "ltp": "1750.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "1764.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.985779"
+    "scraped_at": "2026-05-06T06:24:18.385027"
   },
   {
     "id": 638,
@@ -2103,7 +2103,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.986352"
+    "scraped_at": "2026-05-06T06:24:18.385442"
   },
   {
     "id": 1283,
@@ -2121,7 +2121,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.985619"
+    "scraped_at": "2026-05-06T06:24:18.384843"
   },
   {
     "id": 1528,
@@ -2139,7 +2139,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.985303"
+    "scraped_at": "2026-05-06T06:24:18.384630"
   },
   {
     "id": 690,
@@ -2157,7 +2157,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.985461"
+    "scraped_at": "2026-05-06T06:24:18.384737"
   },
   {
     "id": 337,
@@ -2172,10 +2172,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "760.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "759.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.985142"
+    "scraped_at": "2026-05-06T06:24:18.384521"
   },
   {
     "id": 109,
@@ -2190,10 +2190,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "46000.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "46450.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.984973"
+    "scraped_at": "2026-05-06T06:24:18.384414"
   },
   {
     "id": 166,
@@ -2208,10 +2208,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "348.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "352.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.984813"
+    "scraped_at": "2026-05-06T06:24:18.384305"
   },
   {
     "id": 431,
@@ -2229,7 +2229,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.984653"
+    "scraped_at": "2026-05-06T06:24:18.384194"
   },
   {
     "id": 306,
@@ -2244,10 +2244,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2025-12-22",
     "fiscal_year": "2081/2082",
-    "ltp": "369.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "367.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.984177"
+    "scraped_at": "2026-05-06T06:24:18.383876"
   },
   {
     "id": 121,
@@ -2262,10 +2262,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-31",
     "fiscal_year": "2081/2082",
-    "ltp": "271.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "275.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.984336"
+    "scraped_at": "2026-05-06T06:24:18.383982"
   },
   {
     "id": 99,
@@ -2283,7 +2283,7 @@
     "ltp": "269.40",
     "price_as_of": "2026-04-07",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.984495"
+    "scraped_at": "2026-05-06T06:24:18.384088"
   },
   {
     "id": 610,
@@ -2298,10 +2298,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-30",
     "fiscal_year": "2081/2082",
-    "ltp": "368.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "368.60",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.984010"
+    "scraped_at": "2026-05-06T06:24:18.383761"
   },
   {
     "id": 847,
@@ -2319,7 +2319,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.983695"
+    "scraped_at": "2026-05-06T06:24:18.383551"
   },
   {
     "id": 657,
@@ -2334,10 +2334,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2025-12-12",
     "fiscal_year": "2081/2082",
-    "ltp": "470.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "472.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.983853"
+    "scraped_at": "2026-05-06T06:24:18.383657"
   },
   {
     "id": 1290,
@@ -2355,7 +2355,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.983217"
+    "scraped_at": "2026-05-06T06:24:18.383233"
   },
   {
     "id": 896,
@@ -2370,10 +2370,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "258.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "260.80",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.983046"
+    "scraped_at": "2026-05-06T06:24:18.383124"
   },
   {
     "id": 381,
@@ -2391,7 +2391,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.983535"
+    "scraped_at": "2026-05-06T06:24:18.383447"
   },
   {
     "id": 357,
@@ -2409,7 +2409,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.983376"
+    "scraped_at": "2026-05-06T06:24:18.383340"
   },
   {
     "id": 1121,
@@ -2424,10 +2424,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.22",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.982334"
+    "scraped_at": "2026-05-06T06:24:18.382619"
   },
   {
     "id": 1100,
@@ -2442,10 +2442,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.56",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.40",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.982493"
+    "scraped_at": "2026-05-06T06:24:18.382726"
   },
   {
     "id": 1073,
@@ -2460,10 +2460,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.12",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.15",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.982652"
+    "scraped_at": "2026-05-06T06:24:18.382832"
   },
   {
     "id": 433,
@@ -2481,7 +2481,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.982175"
+    "scraped_at": "2026-05-06T06:24:18.382506"
   },
   {
     "id": 10,
@@ -2497,9 +2497,9 @@
     "bonus_listing_date": "2025-12-21",
     "fiscal_year": "2081/2082",
     "ltp": "695.00",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.982810"
+    "scraped_at": "2026-05-06T06:24:18.382949"
   },
   {
     "id": 1306,
@@ -2514,10 +2514,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "11.63",
-    "price_as_of": "2026-05-04",
+    "ltp": "11.34",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.981847"
+    "scraped_at": "2026-05-06T06:24:18.382287"
   },
   {
     "id": 1117,
@@ -2532,10 +2532,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.88",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.93",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.981521"
+    "scraped_at": "2026-05-06T06:24:18.382070"
   },
   {
     "id": 891,
@@ -2550,10 +2550,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.86",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.981360"
+    "scraped_at": "2026-05-06T06:24:18.381964"
   },
   {
     "id": 7,
@@ -2568,10 +2568,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2025-12-02",
     "fiscal_year": "2081/2082",
-    "ltp": "242.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "244.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.981687"
+    "scraped_at": "2026-05-06T06:24:18.382180"
   },
   {
     "id": 1363,
@@ -2589,7 +2589,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.981030"
+    "scraped_at": "2026-05-06T06:24:18.381742"
   },
   {
     "id": 1327,
@@ -2607,7 +2607,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.980715"
+    "scraped_at": "2026-05-06T06:24:18.381534"
   },
   {
     "id": 1326,
@@ -2625,7 +2625,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.980873"
+    "scraped_at": "2026-05-06T06:24:18.381638"
   },
   {
     "id": 1170,
@@ -2640,10 +2640,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "715.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "710.10",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.981199"
+    "scraped_at": "2026-05-06T06:24:18.381847"
   },
   {
     "id": 686,
@@ -2658,10 +2658,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.62",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.980557"
+    "scraped_at": "2026-05-06T06:24:18.381428"
   },
   {
     "id": 1612,
@@ -2679,7 +2679,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.980398"
+    "scraped_at": "2026-05-06T06:24:18.381320"
   },
   {
     "id": 1113,
@@ -2694,10 +2694,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.55",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.50",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.980074"
+    "scraped_at": "2026-05-06T06:24:18.381094"
   },
   {
     "id": 1022,
@@ -2712,10 +2712,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2025-12-16",
     "fiscal_year": "2081/2082",
-    "ltp": "801.90",
-    "price_as_of": "2026-05-04",
+    "ltp": "800.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.980237"
+    "scraped_at": "2026-05-06T06:24:18.381205"
   },
   {
     "id": 901,
@@ -2730,10 +2730,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.31",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.30",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.979820"
+    "scraped_at": "2026-05-06T06:24:18.380908"
   },
   {
     "id": 1123,
@@ -2748,10 +2748,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.87",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.979659"
+    "scraped_at": "2026-05-06T06:24:18.380787"
   },
   {
     "id": 890,
@@ -2769,7 +2769,7 @@
     "ltp": "9.80",
     "price_as_of": "2026-05-04",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.979498"
+    "scraped_at": "2026-05-06T06:24:18.380681"
   },
   {
     "id": 1223,
@@ -2784,10 +2784,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.01",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.10",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.978687"
+    "scraped_at": "2026-05-06T06:24:18.380139"
   },
   {
     "id": 1118,
@@ -2802,10 +2802,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "12.95",
-    "price_as_of": "2026-05-04",
+    "ltp": "12.97",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.978848"
+    "scraped_at": "2026-05-06T06:24:18.380248"
   },
   {
     "id": 1112,
@@ -2820,10 +2820,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.11",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.15",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.979339"
+    "scraped_at": "2026-05-06T06:24:18.380572"
   },
   {
     "id": 1089,
@@ -2838,10 +2838,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.73",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.978529"
+    "scraped_at": "2026-05-06T06:24:18.380033"
   },
   {
     "id": 1076,
@@ -2856,10 +2856,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "12.15",
-    "price_as_of": "2026-05-04",
+    "ltp": "11.93",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.979008"
+    "scraped_at": "2026-05-06T06:24:18.380358"
   },
   {
     "id": 1005,
@@ -2874,10 +2874,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.72",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.75",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.979177"
+    "scraped_at": "2026-05-06T06:24:18.380465"
   },
   {
     "id": 976,
@@ -2895,7 +2895,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.982007"
+    "scraped_at": "2026-05-06T06:24:18.382398"
   },
   {
     "id": 1225,
@@ -2910,10 +2910,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.51",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.31",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.978370"
+    "scraped_at": "2026-05-06T06:24:18.379925"
   },
   {
     "id": 1103,
@@ -2928,10 +2928,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "11.39",
-    "price_as_of": "2026-05-04",
+    "ltp": "11.45",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.978211"
+    "scraped_at": "2026-05-06T06:24:18.379794"
   },
   {
     "id": 1059,
@@ -2946,10 +2946,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.57",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.58",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.978043"
+    "scraped_at": "2026-05-06T06:24:18.379675"
   },
   {
     "id": 1111,
@@ -2964,10 +2964,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.54",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.42",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.977725"
+    "scraped_at": "2026-05-06T06:24:18.379459"
   },
   {
     "id": 1092,
@@ -2982,10 +2982,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2026-03-13",
     "fiscal_year": "2081/2082",
-    "ltp": "571.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "573.40",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.977885"
+    "scraped_at": "2026-05-06T06:24:18.379565"
   },
   {
     "id": 889,
@@ -3000,10 +3000,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.16",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.20",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.977567"
+    "scraped_at": "2026-05-06T06:24:18.379356"
   },
   {
     "id": 685,
@@ -3018,10 +3018,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.82",
-    "price_as_of": "2026-04-30",
+    "ltp": "9.90",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.977407"
+    "scraped_at": "2026-05-06T06:24:18.379251"
   },
   {
     "id": 1114,
@@ -3039,7 +3039,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.977248"
+    "scraped_at": "2026-05-06T06:24:18.379147"
   },
   {
     "id": 698,
@@ -3057,7 +3057,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.977086"
+    "scraped_at": "2026-05-06T06:24:18.379041"
   },
   {
     "id": 1434,
@@ -3075,7 +3075,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.976917"
+    "scraped_at": "2026-05-06T06:24:18.378927"
   },
   {
     "id": 1365,
@@ -3090,10 +3090,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.71",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.70",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.976034"
+    "scraped_at": "2026-05-06T06:24:18.378287"
   },
   {
     "id": 1122,
@@ -3108,10 +3108,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.77",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.976520"
+    "scraped_at": "2026-05-06T06:24:18.378625"
   },
   {
     "id": 962,
@@ -3126,10 +3126,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.51",
-    "price_as_of": "2026-05-04",
+    "ltp": "10.40",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.976362"
+    "scraped_at": "2026-05-06T06:24:18.378517"
   },
   {
     "id": 949,
@@ -3145,9 +3145,9 @@
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
     "ltp": "9.95",
-    "price_as_of": "2026-05-04",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.976203"
+    "scraped_at": "2026-05-06T06:24:18.378402"
   },
   {
     "id": 1115,
@@ -3162,10 +3162,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.15",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.25",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.975397"
+    "scraped_at": "2026-05-06T06:24:18.377795"
   },
   {
     "id": 1060,
@@ -3180,10 +3180,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.25",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.28",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.975714"
+    "scraped_at": "2026-05-06T06:24:18.378051"
   },
   {
     "id": 1037,
@@ -3201,7 +3201,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.975872"
+    "scraped_at": "2026-05-06T06:24:18.378167"
   },
   {
     "id": 888,
@@ -3216,10 +3216,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.31",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.74",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.975555"
+    "scraped_at": "2026-05-06T06:24:18.377934"
   },
   {
     "id": 1460,
@@ -3234,10 +3234,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.60",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.65",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.975074"
+    "scraped_at": "2026-05-06T06:24:18.377572"
   },
   {
     "id": 1082,
@@ -3255,7 +3255,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.975237"
+    "scraped_at": "2026-05-06T06:24:18.377685"
   },
   {
     "id": 1124,
@@ -3273,7 +3273,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.974906"
+    "scraped_at": "2026-05-06T06:24:18.377455"
   },
   {
     "id": 1534,
@@ -3291,7 +3291,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": -1,
-    "scraped_at": "2026-05-05T06:09:42.974746"
+    "scraped_at": "2026-05-06T06:24:18.377342"
   },
   {
     "id": 1205,
@@ -3309,7 +3309,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.974424"
+    "scraped_at": "2026-05-06T06:24:18.377102"
   },
   {
     "id": 1174,
@@ -3324,10 +3324,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "10.19",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.95",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.974585"
+    "scraped_at": "2026-05-06T06:24:18.377226"
   },
   {
     "id": 1074,
@@ -3342,10 +3342,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2081/2082",
-    "ltp": "9.44",
-    "price_as_of": "2026-05-04",
+    "ltp": "9.75",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.974229"
+    "scraped_at": "2026-05-06T06:24:18.376978"
   },
   {
     "id": 1061,
@@ -3363,7 +3363,7 @@
     "ltp": null,
     "price_as_of": null,
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.976680"
+    "scraped_at": "2026-05-06T06:24:18.378736"
   },
   {
     "id": 1281,
@@ -3378,10 +3378,10 @@
     "distribution_date": null,
     "bonus_listing_date": "2025-08-29",
     "fiscal_year": "2080/2081",
-    "ltp": "435.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "436.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.974009"
+    "scraped_at": "2026-05-06T06:24:18.376837"
   },
   {
     "id": 1249,
@@ -3396,10 +3396,10 @@
     "distribution_date": null,
     "bonus_listing_date": null,
     "fiscal_year": "2080/2081",
-    "ltp": "336.50",
-    "price_as_of": "2026-05-04",
+    "ltp": "337.00",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.973786"
+    "scraped_at": "2026-05-06T06:24:18.376708"
   },
   {
     "id": 1119,
@@ -3414,9 +3414,9 @@
     "distribution_date": null,
     "bonus_listing_date": "2025-08-19",
     "fiscal_year": "2080/2081",
-    "ltp": "660.00",
-    "price_as_of": "2026-05-04",
+    "ltp": "655.40",
+    "price_as_of": "2026-05-05",
     "status": 1,
-    "scraped_at": "2026-05-05T06:09:42.973503"
+    "scraped_at": "2026-05-06T06:24:18.376524"
   }
 ]
