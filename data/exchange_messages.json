@@ -1203,5 +1203,18 @@
         "modifiedDate": "2026-05-05T15:39:31.27",
         "approvedDate": null,
         "symbol": "SGIC"
+    },
+    {
+        "id": 208703,
+        "messageBody": "<p><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">1,16,321.2765 Units Bonus Shares of&nbsp;</span>Support Microfinance Bittiya Sanstha Ltd. (SMB)<span style=\"color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">&nbsp;</span><span style=\"box-sizing: border-box; color: rgb(47, 47, 47); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">has been listed in NEPSE.</span></p>",
+        "messageTitle": "Listing 9.5% Bonus Shares of Support Microfinance Bittiya Sanstha Ltd. (SMB)",
+        "encryptedId": null,
+        "expiryDate": "2026-05-06",
+        "filePath": null,
+        "remarks": "5",
+        "addedDate": "2026-05-06T12:50:24.74",
+        "modifiedDate": "2026-05-06T12:50:24.74",
+        "approvedDate": null,
+        "symbol": "SMB"
     }
 ]
