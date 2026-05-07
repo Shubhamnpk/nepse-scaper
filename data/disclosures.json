@@ -1,5 +1,113 @@
 [
     {
+        "id": 45655,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30756,
+                "activeStatus": "A",
+                "modifiedBy": "hli_user",
+                "modifiedDate": "2026-05-07T11:12:47.447",
+                "application": 45655,
+                "documentType": 54,
+                "submittedDate": "2026-05-07",
+                "filePath": "hli_user/2026-05-07/Director Change of HIBL_1778131578186.jpeg",
+                "encryptedId": "657714417f72b721eec0c1bfb149ba5744794fab57878305d9bc5eac0ff1e1f3ef0e9121a35503c30bf3c027838ebab2b62284d31e043445bb1892477e16f46b",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=hli_user/2026-05-07/Director%20Change%20of%20HIBL_1778131578186.jpeg"
+            }
+        ],
+        "newsHeadline": "Director Change of HIBL  [HLICF] ",
+        "newsBody": "",
+        "addedDate": "2026-05-07T11:12:47.443",
+        "newsSource": "Board of Director",
+        "modifiedDate": "2026-05-07T11:14:58.967",
+        "approvedDate": null,
+        "symbol": "HLICF"
+    },
+    {
+        "id": 45649,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30746,
+                "activeStatus": "A",
+                "modifiedBy": "upakar_user",
+                "modifiedDate": "2026-05-07T09:41:29.87",
+                "application": 45649,
+                "documentType": 54,
+                "submittedDate": "2026-05-07",
+                "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-05-07/letter (2)_1778126123598.pdf",
+                "encryptedId": "e8cd68befb149a53bfab734109370cda86d33cb10a8dc283b7f59b7502c94145c5b6e774be422cff87fc9be0c3c7a38afe3d349d5511d71c408e988770831576",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-05-07/letter%20%282%29_1778126123598.pdf"
+            },
+            {
+                "id": 30747,
+                "activeStatus": "A",
+                "modifiedBy": "upakar_user",
+                "modifiedDate": "2026-05-07T09:41:29.87",
+                "application": 45649,
+                "documentType": 54,
+                "submittedDate": "2026-05-07",
+                "filePath": "Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company News/2026-05-07/2nd notice_1778126137094.pdf",
+                "encryptedId": "ae21248d3b153c4e7fafd246fee4b33d57f3615633f93b666e57da9decb72b980206a78148300b362c5e00e515f34374685f19f51d557a888d2d6cbd7a5682de",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Upakar_Laghubitta_Bittiya__Sanstha__Limited/Company%20News/2026-05-07/2nd%20notice_1778126137094.pdf"
+            }
+        ],
+        "newsHeadline": "2nd notice [ULBSL] ",
+        "newsBody": "Annual General Meeting of ULBSL\nFiscal Year: 2081-2082\nAGM Type: AGM\nAGM Date: 5/24/2026\nAGM No: 7\nBook Close Date: 5/14/2026",
+        "addedDate": "2026-05-07T09:41:29.867",
+        "newsSource": "Naya patrika rastriya dainik",
+        "modifiedDate": "2026-05-07T09:43:52.803",
+        "approvedDate": null,
+        "symbol": "ULBSL"
+    },
+    {
+        "id": 45648,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30745,
+                "activeStatus": "A",
+                "modifiedBy": "sipd_user",
+                "modifiedDate": "2026-05-07T09:40:35.043",
+                "application": 45648,
+                "documentType": 54,
+                "submittedDate": "2026-05-07",
+                "filePath": "Shikhar_Power_Development_Limited/Company News/2026-05-07/Letter to NEPSE_1778126118207.pdf",
+                "encryptedId": "491eee33ea44a22440e5d16833df7c453eb509b56273e04ffaf65d6f10d59071f70d8b7b2016f9cf8f6b92f053322477cccfa680d9a2f064d0e9d376bf8244a8",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Shikhar_Power_Development_Limited/Company%20News/2026-05-07/Letter%20to%20NEPSE_1778126118207.pdf"
+            }
+        ],
+        "newsHeadline": "SGM [SIPD] ",
+        "newsBody": "Annual General Meeting of SIPD\nFiscal Year: 2082-2083\nAGM Type: SGM\nAGM Date: 5/10/2026\nAGM No: 1\nBook Close Date: 4/30/2026",
+        "addedDate": "2026-05-07T09:40:35.037",
+        "newsSource": "Newspapers",
+        "modifiedDate": "2026-05-07T09:41:29.67",
+        "approvedDate": null,
+        "symbol": "SIPD"
+    },
+    {
+        "id": 45647,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30744,
+                "activeStatus": "A",
+                "modifiedBy": "klbsl_user",
+                "modifiedDate": "2026-05-07T09:35:59.673",
+                "application": 45647,
+                "documentType": 54,
+                "submittedDate": "2026-05-07",
+                "filePath": "klbsl_user/2026-05-07/Appointment of CEO_1778125779007.pdf",
+                "encryptedId": "fe5d8c3c853aae0b4f3c761600aeb0c34cb83a4e8b86034c6d662d181b99dc8ac6c131b8549558ce8c4f88874ed21628d24ecfdda51a60456f8d8e9279821ac2",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=klbsl_user/2026-05-07/Appointment%20of%20CEO_1778125779007.pdf"
+            }
+        ],
+        "newsHeadline": "Appointment of CEO [MATRI] ",
+        "newsBody": "<p>Board Minute No:182 Date 2083/01/23 Appointment of CEO Bakhat Bahadur Batala From Date 2083/01/24</p>",
+        "addedDate": "2026-05-07T09:35:59.657",
+        "newsSource": "Board Minute No:182 Date 2083/01/23",
+        "modifiedDate": "2026-05-07T09:38:15.027",
+        "approvedDate": null,
+        "symbol": "MATRI"
+    },
+    {
         "id": 45636,
         "applicationDocumentDetailsList": [
             {
@@ -6105,5 +6213,29 @@
         "modifiedDate": "2026-05-06T10:02:11.2",
         "approvedDate": null,
         "symbol": "DLBS"
+    },
+    {
+        "id": 45646,
+        "applicationDocumentDetailsList": [
+            {
+                "id": 30743,
+                "activeStatus": "A",
+                "modifiedBy": "mlbbl_user",
+                "modifiedDate": "2026-05-06T17:03:36.733",
+                "application": 45646,
+                "documentType": 54,
+                "submittedDate": "2026-05-06",
+                "filePath": "mlbbl_user/2026-05-06/Documents_1778066304190.jpg",
+                "encryptedId": "4e9456febd4efc55dd43aa065530994b215c4711c6b4eae1d0e9793fcaf43d24a1d69dd2717560caa9701dd8e994e6bf692f0c74cb4a0ca5f5719ad0914e294d",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mlbbl_user/2026-05-06/Documents_1778066304190.jpg"
+            }
+        ],
+        "newsHeadline": "Resignation of BOD Member [MLBBL] ",
+        "newsBody": "<h1>Resignation of BOD Member</h1>",
+        "addedDate": "2026-05-06T17:03:36.73",
+        "newsSource": "Mithila Laghubitta Bittiya Sanstha ltd",
+        "modifiedDate": "2026-05-07T09:11:26.547",
+        "approvedDate": null,
+        "symbol": "MLBBL"
     }
 ]
