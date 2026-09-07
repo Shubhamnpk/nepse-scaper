@@ -4266,7 +4266,7 @@
         "securityName": "Infinity Laghubitta Bittiya Sanstha Limited",
         "status": "A",
         "companyEmail": "ilbslfinance@gmail.com",
-        "website": "www.infinitymbsl.com",
+        "website": "www.infinitylbsl.com.np",
         "sectorName": "Microfinance",
         "regulatoryBody": "Nepal Rastra Bank",
         "instrumentType": "Equity"
@@ -7762,5 +7762,17 @@
         "sectorName": "Manufacturing And Processing",
         "regulatoryBody": "Department of Industry",
         "instrumentType": "Equity"
+    },
+    {
+        "id": 9354,
+        "companyName": "Prime Commercial Bank Ltd.",
+        "symbol": "PBD93",
+        "securityName": "6.25% Prime Bank Debenture, 2093",
+        "status": "A",
+        "companyEmail": "santosh.baral@pcbl.com.np",
+        "website": "www.primebank.com.np",
+        "sectorName": "Commercial Banks",
+        "regulatoryBody": "Nepal Rastra Bank",
+        "instrumentType": "Non-Convertible Debentures"
     }
 ]

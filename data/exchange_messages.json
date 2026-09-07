@@ -1,5 +1,28 @@
 [
     {
+        "id": 208776,
+        "symbol": "SMHL",
+        "title": "Price Adjusted - Super Madi Hydropower Limited",
+        "body": "Adjusted price of Super Madi Hydropower Limited (SMHL) is Rs.458.26 for 15% Bonus shares on previous closing price of Rs.527",
+        "publishedAt": "2026-09-07T15:38:22.523",
+        "expiresAt": "2026-09-07"
+    },
+    {
+        "id": 208775,
+        "symbol": "PBD93",
+        "title": "Listing 6.25 % Prime Bank Debenture 2093",
+        "body": "For more details find the attached NEPSE Notice.",
+        "publishedAt": "2026-09-07T12:30:14.707",
+        "expiresAt": "2026-09-07",
+        "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nabaraj_listing/2026-09-07/PBD_1788763491468.pdf"
+    },
+    {
+        "id": 208777,
+        "title": "Price Adjusted - SMHL",
+        "body": "Price Adjusted - SMHL|Adjusted Price for Super Madi Hydropower Limited is Rs. 458.26 for 15 % of Bonus Share.",
+        "expiresAt": "2026-09-07"
+    },
+    {
         "id": 208774,
         "title": "Security Suspension: WNLB",
         "body": "Security Wean Nepal Laghubitta Bittiya Sanstha Limited (WNLB) has been suspended.",
