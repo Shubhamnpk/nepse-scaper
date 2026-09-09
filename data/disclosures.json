@@ -1,5 +1,112 @@
 [
     {
+        "id": 47359,
+        "symbol": "H8020",
+        "title": "Book Close of H8020",
+        "body": "Book Close of H8020\nBook Close Date : 9/22/2026\nCash Dividend: 15%",
+        "source": "BOD",
+        "publishedAt": "2026-09-09T09:48:28.167",
+        "documents": [
+            {
+                "id": 32720,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=rita_listing/2026-09-09/%28H8020%29%20book%20closure%20date%20anouncement_1788926601536.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47358,
+        "symbol": "MMKJL",
+        "title": "End of Lock-In Period",
+        "source": "Notice published as per SEBON Guideline",
+        "publishedAt": "2026-09-09T09:19:50.267",
+        "documents": [
+            {
+                "id": 32719,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Mathillo_Mailun_Khola_Jalvidhyut_Limited/Company%20News/2026-09-09/Lock%20in%20Period%20Notice%20-%20Himalaya%20Times%209%20Sep%202026_1788924850843.pdf"
+            },
+            {
+                "id": 32718,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Mathillo_Mailun_Khola_Jalvidhyut_Limited/Company%20News/2026-09-09/MMKJL-%20End%20of%20%20Lock-In%20Period_1788924833403.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47357,
+        "symbol": "NESDO",
+        "title": "Information letter",
+        "source": "BOD",
+        "publishedAt": "2026-09-08T11:14:23.137",
+        "documents": [
+            {
+                "id": 32717,
+                "submittedDate": "2026-09-08",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company%20News/2026-09-08/Letter%20to%20Nepse_1788845322658.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47355,
+        "symbol": "SMB",
+        "title": "Reconstituted of Audit Committee",
+        "source": "Board Meeting NO. 268",
+        "publishedAt": "2026-09-08T10:24:41.893",
+        "documents": [
+            {
+                "id": 32715,
+                "submittedDate": "2026-09-08",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=smb_user/2026-09-08/Nirnaya%20Utaar_1788842357627.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47353,
+        "symbol": "GBIME",
+        "title": "AGM and Book Close Notice",
+        "body": "Book Close of GBIME\nBook Close Date : 9/21/2026\nCash Dividend: 6%\nBonus Shares: 4%",
+        "source": "NEPSE",
+        "publishedAt": "2026-09-07T18:19:19.163",
+        "documents": [
+            {
+                "id": 32713,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gbime_user/2026-09-07/AGM%20and%20Book%20Closed%20Notice_1788784432921.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47352,
+        "symbol": "GBIME",
+        "title": "AGM and Book Close Notice",
+        "body": "Annual General Meeting of GBIME\nFiscal Year: 2082-2083\nAGM Type: AGM\nAGM Date: 10/2/2026\nAGM No: 474\nBook Close Date: 9/21/2026\nCash Dividend: 6%\nBonus Shares: 4%",
+        "source": "NEPSE",
+        "publishedAt": "2026-09-07T18:16:57.383",
+        "documents": [
+            {
+                "id": 32712,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gbime_user/2026-09-07/AGM%20and%20Book%20Closed%20Notice_1788784281435.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47351,
+        "symbol": "ENL",
+        "title": "Intention for sale of share",
+        "body": "Intention for sale of share",
+        "source": "Intention for sale of share",
+        "publishedAt": "2026-09-07T17:14:07.123",
+        "documents": [
+            {
+                "id": 32711,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Emerging_nepal_limited/Company%20News/2026-09-07/Intention%20%28Sale%20of%20Share%29_1788780529227.pdf"
+            }
+        ]
+    },
+    {
         "id": 47350,
         "symbol": "SSHL",
         "title": "SSHL- RTS - CITIZENS CAPITAL",
@@ -1185,6 +1292,20 @@
                 "id": 32693,
                 "submittedDate": "2026-09-06",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sindu_user/2026-09-06/Request%20NEPSE_1788692115523.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47360,
+        "symbol": "IHL",
+        "title": "Operation of Plant Unit 2 after Maintenance",
+        "source": "IHL Plant Unit 2 Start",
+        "publishedAt": "2026-09-09T10:52:39.25",
+        "documents": [
+            {
+                "id": 32721,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Ingwa_Hydropower_Limited/Company%20News/2026-09-09/Plant%20unit%202%20start_1788930455291.pdf"
             }
         ]
     }
