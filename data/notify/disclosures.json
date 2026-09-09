@@ -1,5 +1,20 @@
 [
     {
+        "id": 47364,
+        "symbol": "KDL",
+        "title": "Dividend Declared",
+        "body": "Dividend Declaration of KDL\nFiscal Year: 2082-2083\nCash Dividend: 0.4474%\nBonus Shares: 8.5%",
+        "source": "Board Minute",
+        "publishedAt": "2026-09-09T16:31:02.057",
+        "documents": [
+            {
+                "id": 32725,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Kalinchowk_Darshan_Limited/Company%20News/2026-09-09/Bonus%20share%20letter_1788950526825.pdf"
+            }
+        ]
+    },
+    {
         "id": 47359,
         "symbol": "H8020",
         "title": "Book Close of H8020",
