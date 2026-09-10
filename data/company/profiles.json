@@ -1878,10 +1878,11 @@
         "email": "ilbslfinance@gmail.com",
         "phone": "078503301",
         "fax": "078503314",
-        "contact_person": "Prabin Kumar Lama",
+        "contact_person": "Gyanishor Panta",
         "address_type": "Corporate Office",
-        "address": "Gaindakot-2,  Nawalpur, Gaindakot",
-        "status": "A"
+        "address": "Gaindakot-2,  Nawalparasi, Gaindakot",
+        "status": "A",
+        "logo_path": "Infinity_Laghubitta_Bittiya_Sastha_Ltd/Update Company Information/2026-09-09/ILBSL Small logo_1788937006545.jpg"
     },
     {
         "id": 243,
@@ -7609,6 +7610,18 @@
         "address_type": "Corporate Office",
         "address": "Lalitpur, Lalitpur",
         "logo_path": "Yambaling_Hydropower_Limited/Company Creation/2026-06-17/Logo_1781681270508.jpg",
+        "status": "A"
+    },
+    {
+        "id": 9354,
+        "symbol": "PBD93",
+        "profile": "Prime Commercial Bank Ltd. was incorporated in September 2007 as the 21st commercial bank in Nepal. We are a Category \u2018A\u2019 Financial Institution registered under the \u201cBanks and Financial Institutions Act\u201d of Nepal. It has been established by prominent business personnel and professionals from diversified areas with a prime objective of providing 'Banking Services to Everyone' in the country where still large number of population are deprived of Banking Services.",
+        "email": "santosh.baral@pcbl.com.np",
+        "phone": "014423432",
+        "fax": "014425955",
+        "contact_person": "Santosh Baral",
+        "address_type": "Corporate Office",
+        "address": "Kamalpokhari, Kathmandu",
         "status": "A"
     }
 ]

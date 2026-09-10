@@ -1,5 +1,463 @@
 [
     {
+        "id": 47364,
+        "symbol": "KDL",
+        "title": "Dividend Declared",
+        "body": "Dividend Declaration of KDL\nFiscal Year: 2082-2083\nCash Dividend: 0.4474%\nBonus Shares: 8.5%",
+        "source": "Board Minute",
+        "publishedAt": "2026-09-09T16:31:02.057",
+        "documents": [
+            {
+                "id": 32725,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Kalinchowk_Darshan_Limited/Company%20News/2026-09-09/Bonus%20share%20letter_1788950526825.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47359,
+        "symbol": "H8020",
+        "title": "Book Close of H8020",
+        "body": "Book Close of H8020\nBook Close Date : 9/22/2026\nCash Dividend: 15%",
+        "source": "BOD",
+        "publishedAt": "2026-09-09T09:48:28.167",
+        "documents": [
+            {
+                "id": 32720,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=rita_listing/2026-09-09/%28H8020%29%20book%20closure%20date%20anouncement_1788926601536.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47358,
+        "symbol": "MMKJL",
+        "title": "End of Lock-In Period",
+        "source": "Notice published as per SEBON Guideline",
+        "publishedAt": "2026-09-09T09:19:50.267",
+        "documents": [
+            {
+                "id": 32719,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Mathillo_Mailun_Khola_Jalvidhyut_Limited/Company%20News/2026-09-09/Lock%20in%20Period%20Notice%20-%20Himalaya%20Times%209%20Sep%202026_1788924850843.pdf"
+            },
+            {
+                "id": 32718,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Mathillo_Mailun_Khola_Jalvidhyut_Limited/Company%20News/2026-09-09/MMKJL-%20End%20of%20%20Lock-In%20Period_1788924833403.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47357,
+        "symbol": "NESDO",
+        "title": "Information letter",
+        "source": "BOD",
+        "publishedAt": "2026-09-08T11:14:23.137",
+        "documents": [
+            {
+                "id": 32717,
+                "submittedDate": "2026-09-08",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=NESDO_Sambridha_Laghubitta_Bittiye_Sanstha_Limited/Company%20News/2026-09-08/Letter%20to%20Nepse_1788845322658.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47355,
+        "symbol": "SMB",
+        "title": "Reconstituted of Audit Committee",
+        "source": "Board Meeting NO. 268",
+        "publishedAt": "2026-09-08T10:24:41.893",
+        "documents": [
+            {
+                "id": 32715,
+                "submittedDate": "2026-09-08",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=smb_user/2026-09-08/Nirnaya%20Utaar_1788842357627.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47353,
+        "symbol": "GBIME",
+        "title": "AGM and Book Close Notice",
+        "body": "Book Close of GBIME\nBook Close Date : 9/21/2026\nCash Dividend: 6%\nBonus Shares: 4%",
+        "source": "NEPSE",
+        "publishedAt": "2026-09-07T18:19:19.163",
+        "documents": [
+            {
+                "id": 32713,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gbime_user/2026-09-07/AGM%20and%20Book%20Closed%20Notice_1788784432921.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47352,
+        "symbol": "GBIME",
+        "title": "AGM and Book Close Notice",
+        "body": "Annual General Meeting of GBIME\nFiscal Year: 2082-2083\nAGM Type: AGM\nAGM Date: 10/2/2026\nAGM No: 474\nBook Close Date: 9/21/2026\nCash Dividend: 6%\nBonus Shares: 4%",
+        "source": "NEPSE",
+        "publishedAt": "2026-09-07T18:16:57.383",
+        "documents": [
+            {
+                "id": 32712,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gbime_user/2026-09-07/AGM%20and%20Book%20Closed%20Notice_1788784281435.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47351,
+        "symbol": "ENL",
+        "title": "Intention for sale of share",
+        "body": "Intention for sale of share",
+        "source": "Intention for sale of share",
+        "publishedAt": "2026-09-07T17:14:07.123",
+        "documents": [
+            {
+                "id": 32711,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Emerging_nepal_limited/Company%20News/2026-09-07/Intention%20%28Sale%20of%20Share%29_1788780529227.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47350,
+        "symbol": "SSHL",
+        "title": "SSHL- RTS - CITIZENS CAPITAL",
+        "body": "NEW RTS OF SSHL - CITIZENS CAPITAL EFFECTIVE FROM 2083.06.02 B.S.",
+        "source": "BOD APPROVAL",
+        "publishedAt": "2026-09-07T16:07:23.277",
+        "documents": [
+            {
+                "id": 32710,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Shiva_Shree_Hydropower_Limited/Company%20News/2026-09-07/SSHL%20-%20RTS%20CITIZENS%20CAPITAL_1788776532052.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47338,
+        "symbol": "SONA",
+        "title": "Cessation of Lock-in period of shares after 23rd Ashwin, 2083",
+        "body": "Sonapur Minerals and Oil Limited hereby declares that lock-in period of promoters shares and shares held by employees are getting over after 23rd Ashwin, 2083.",
+        "source": "Self- Declaration",
+        "publishedAt": "2026-09-07T10:42:03.383",
+        "documents": [
+            {
+                "id": 32701,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sonapur_Minerials_And_Oil_Ltd/Company%20News/2026-09-07/lock%20in%20completion%20letter%20to%20NEPSE_1788757007315.pdf"
+            },
+            {
+                "id": 32702,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Sonapur_Minerials_And_Oil_Ltd/Company%20News/2026-09-07/Lock-in%20completion-%20Publication%20draft%20copy%20in%20Newspaper_1788756992763.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47337,
+        "symbol": "GBIMESY2",
+        "title": "Dividend Declaration of Global IME Samunnat Yojana 2",
+        "body": "Dividend Declaration of GBIMESY2\nFiscal Year: 2082-2083",
+        "source": "NEPSE",
+        "publishedAt": "2026-09-07T10:36:23.523",
+        "documents": [
+            {
+                "id": 32700,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gbime_user/2026-09-07/Global%20IME%20Mutual%20Fud%20-%20DividendFY%202082-83_1788756675455.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47335,
+        "symbol": "EBL",
+        "title": "BooK Closure",
+        "body": "Book Close of EBL\nBook Close Date : 1/6/2083\nCash Dividend: 10%\nBonus Shares: 5%",
+        "source": "Board Meeting Of EBL",
+        "publishedAt": "2026-09-07T10:06:40.137",
+        "documents": [
+            {
+                "id": 32698,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=ebl_user/2026-09-07/Book%20Closure%20EBL_1788754890661.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47334,
+        "symbol": "MNBBL",
+        "title": "Share Rokka of Basic Share Holders.",
+        "body": "Dear Sirs/ Ma'am Please find the documents regarding Share Rokka of Muktinath Bikas Bank Lts. shareholder's share more than 1% for  purpose of acquisition.",
+        "source": "Acquire committee.",
+        "publishedAt": "2026-09-07T09:29:47.507",
+        "documents": [
+            {
+                "id": 32697,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mnbbl_user/2026-09-07/IMG_0001_1788752624161.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47333,
+        "symbol": "ICFC",
+        "title": "Book Close of ICFC Finance Limited",
+        "body": "Book Close of ICFC\nBook Close Date : 9/21/2026\nCash Dividend: 10.5263%",
+        "source": "Board of Directors Meeting",
+        "publishedAt": "2026-09-07T09:02:02.717",
+        "documents": [
+            {
+                "id": 32696,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=icfc_user/2026-09-07/23rd%20AGM%20Letter%20to%20Nepses_1788751004990.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47332,
+        "symbol": "ICFC",
+        "title": "23rd AGM of ICFC Finance Limited",
+        "body": "Annual General Meeting of ICFC\nFiscal Year: 2082-2083\nAGM Type: AGM\nAGM Date: 9/29/2026\nAGM No: 23\nBook Close Date: 9/21/2026\nCash Dividend: 10.5263%",
+        "source": "Board of Directors Meeting",
+        "publishedAt": "2026-09-07T09:00:04.547",
+        "documents": [
+            {
+                "id": 32695,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=icfc_user/2026-09-07/23rd%20AGM%20Notice%20_1788750805994.pdf"
+            },
+            {
+                "id": 32694,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=icfc_user/2026-09-07/23rd%20AGM%20Letter%20to%20Nepses_1788750786127.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47330,
+        "symbol": "MANDU",
+        "title": "Correction letter regarding Director appointment in previously submitted letter",
+        "body": "Correction letter regarding director appointment in previously submitted letter",
+        "source": "Correction letter regarding Director appointment in previously submitted letter ",
+        "publishedAt": "2026-09-06T14:35:47.997",
+        "documents": [
+            {
+                "id": 32692,
+                "submittedDate": "2026-09-06",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Mandu_Hydropower_Limited/Company%20News/2026-09-06/Correction%20Letter_1788684616154.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47329,
+        "symbol": "NABILPNP",
+        "title": "Declaration of Dividend - Nabil 8% Perpetual Non-Cumulative Preference Share (Nabil 8% PNCPS)",
+        "body": "Dividend Declaration of NABILPNP\nFiscal Year: 2082-2083\nCash Dividend: 10%(proportionately from the date of allotment).",
+        "source": "Letter",
+        "publishedAt": "2026-09-06T14:12:12.577",
+        "documents": [
+            {
+                "id": 32691,
+                "submittedDate": "2026-09-06",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nabil_user/2026-09-06/Nabil%20Bank%20Limited%20-Dividend%20Declaration_1788682774391.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47328,
+        "symbol": "NABIL",
+        "title": "Declaration of Dividend-Nabil Bank",
+        "body": "Dividend Declaration of NABIL\nFiscal Year: 2082-2083\nCash Dividend: 10.8%\nBonus Shares: 5%",
+        "source": "Letter",
+        "publishedAt": "2026-09-06T14:02:26.493",
+        "documents": [
+            {
+                "id": 32690,
+                "submittedDate": "2026-09-06",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nabil_user/2026-09-06/Nabil%20Bank%20Limited%20-Dividend%20Declaration_1788682541081.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47327,
+        "symbol": "MKJC",
+        "title": "\u0915\u093e\u0930\u094d\u092f\u0935\u093e\u0939\u0915 \u0938\u091e\u094d\u091a\u093e\u0932\u0915\u2013\u0905\u0927\u094d\u092f\u0915\u094d\u0937\u0915\u094b \u091c\u093f\u092e\u094d\u092e\u0947\u0935\u093e\u0930\u0940 \u092a\u094d\u0930\u0926\u093e\u0928 \u0917\u0930\u094d\u0928\u0947 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u092e\u093e \u0964",
+        "source": "mailung khola jal vidhyut company limited ",
+        "publishedAt": "2026-09-06T13:39:14.513",
+        "documents": [
+            {
+                "id": 32688,
+                "submittedDate": "2026-09-06",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mkjc_user/2026-09-06/nirnaya%20utar%20_1788681186725.pdf"
+            },
+            {
+                "id": 32689,
+                "submittedDate": "2026-09-06",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mkjc_user/2026-09-06/letter%20for%20nepse_1788681180345.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47326,
+        "symbol": "JFL",
+        "title": "Share Rokka",
+        "body": "Dear Sirs/ Ma'am Please find the documents regarding Share Rokka of Janaki Finance Company Ltd. shareholder's share more than 1% for the purpose of acquisition by Muktinath Bikas Bank to the Janaki Finance Company Limited.  Thank you.",
+        "source": "Janaki Finance",
+        "publishedAt": "2026-09-06T11:56:38.833",
+        "documents": [
+            {
+                "id": 32687,
+                "submittedDate": "2026-09-06",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=jfl_user/2026-09-06/Nepal%20Stock%20Exchange%2048_1788675076563.jpg"
+            }
+        ]
+    },
+    {
+        "id": 47325,
+        "symbol": "SINDU",
+        "title": "Information regarding signing of MOU Between MNBBL and SINDU",
+        "body": "Information regarding signing of MOU Between Muktinath Bikash Bank Ltd and Sindhu Bikash Bank Ltd.",
+        "source": "BOD meeting",
+        "publishedAt": "2026-09-05T16:37:06.337",
+        "documents": [
+            {
+                "id": 32686,
+                "submittedDate": "2026-09-05",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sindu_user/2026-09-05/Nepse_1788605346995.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47324,
+        "symbol": "JFL",
+        "title": "Mou Between JFL & MNBBL",
+        "body": "Dear Sirs/ Ma'am Please find the attached Agreement information between Janaki Finance Company Limited & Muktinath Bikas Bank Limited regarding acquisition purpose.",
+        "source": "Janaki Finance Company Limited",
+        "publishedAt": "2026-09-05T16:01:12.203",
+        "documents": [
+            {
+                "id": 32685,
+                "submittedDate": "2026-09-05",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=jfl_user/2026-09-05/Nepal%20Stock%2049_1788603357682.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47323,
+        "symbol": "JFL",
+        "title": "Share Rokka",
+        "body": "Dear Sirs/ Ma'am Please find the documents regarding Share Rokka of Janaki Finance Company Ltd. shareholder's share more than 1% for the purpose of acquisition by Muktinath Bikas Bank to the Janaki Finance Company Limited.  Thank you.",
+        "source": "Janaki Finance",
+        "publishedAt": "2026-09-05T15:57:26.183"
+    },
+    {
+        "id": 47322,
+        "symbol": "MNBBL",
+        "title": "MOU with Janaki Finance Co.Ltd.",
+        "body": "Please find the attached letter for details.",
+        "source": "MOU regarding acquisition of Janaki Finance",
+        "publishedAt": "2026-09-04T19:15:17.563",
+        "documents": [
+            {
+                "id": 32682,
+                "submittedDate": "2026-09-04",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mnbbl_user/2026-09-04/Janaki%20Finance_1788528586019.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47321,
+        "symbol": "MNBBL",
+        "title": "MOU with Sindhu Bikas Bank.",
+        "body": "Please find the attached letter for details.",
+        "source": "MOU regarding acquisition of Sindhu Bikas Bank.",
+        "publishedAt": "2026-09-04T19:13:07.187",
+        "documents": [
+            {
+                "id": 32681,
+                "submittedDate": "2026-09-04",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=mnbbl_user/2026-09-04/Sindhu%20Bikas_1788528454798.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47320,
+        "symbol": "SANIMA",
+        "title": "Book Close of SANIMA",
+        "body": "Book Close of SANIMA\nBook Close Date : 9/17/2026\nCash Dividend: 10%",
+        "source": "Board meeting",
+        "publishedAt": "2026-09-04T14:20:10.777",
+        "documents": [
+            {
+                "id": 32680,
+                "submittedDate": "2026-09-04",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sanima_user/2026-09-04/Covering%20letter%20NEPSE_1788510883070.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47318,
+        "symbol": "SADBL",
+        "title": "Appointment of CEO",
+        "source": "BOD Meeting",
+        "publishedAt": "2026-09-04T13:53:33.147",
+        "documents": [
+            {
+                "id": 32678,
+                "submittedDate": "2026-09-04",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sadbl_user/2026-09-04/CEOappointment_1788509288708.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47316,
+        "symbol": "PHCL",
+        "title": "Sale of Shares",
+        "body": "Sale of Shares",
+        "source": "Sale of Shares",
+        "publishedAt": "2026-09-03T18:08:51.003",
+        "documents": [
+            {
+                "id": 32676,
+                "submittedDate": "2026-09-03",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Peoples_Hydropower_Company_Limited/Company%20News/2026-09-03/Sales%20of%20Shares_1788438220100.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47315,
+        "symbol": "NBF3",
+        "title": "Declaration of Return on NBF and Information of Book Close Date",
+        "body": "Book Close of NBF3\nBook Close Date : 23/09/2026\nCash Dividend: 2.5%",
+        "source": "Letter",
+        "publishedAt": "2026-09-03T17:50:18.917",
+        "documents": [
+            {
+                "id": 32675,
+                "submittedDate": "2026-09-03",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nabil_user/2026-09-03/Dividend%20Nepse%20MF%202082-83_1788437075934.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47311,
+        "symbol": "LEC",
+        "title": "Appointment of Independent Director",
+        "body": "Appointment of Independent Director of LEC",
+        "source": "LEC",
+        "publishedAt": "2026-09-03T17:19:14.173",
+        "documents": [
+            {
+                "id": 32671,
+                "submittedDate": "2026-09-03",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Liberty_Energy_Company_Limited/Company%20News/2026-09-03/LEC%20Ind%20Dir_1788435248085.pdf"
+            }
+        ]
+    },
+    {
         "id": 47310,
         "symbol": "SBL",
         "title": "Completion of tenure of 10.25% SBL Debenture 2083",
@@ -724,6 +1182,145 @@
                 "id": 32669,
                 "submittedDate": "2026-09-03",
                 "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=pfl_user/2026-09-03/107%20Regarding%20the%20transfer%20of%20central%20corporate%20office_1788432687014.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47340,
+        "symbol": "GBLBS",
+        "title": "Board Director  Sapath",
+        "body": "Board Director  Sapath",
+        "source": "BOD Decision ",
+        "publishedAt": "2026-09-07T11:29:06.65",
+        "documents": [
+            {
+                "id": 32705,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gblbs_user/2026-09-07/Board%20of%20director%20%20Sapath%20%20of%20GBLBs_1788759837295.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47339,
+        "symbol": "ENL",
+        "title": "Notice for Uniform ISIN",
+        "body": "Uniform ISIN",
+        "source": "Uniform ISIN",
+        "publishedAt": "2026-09-07T10:57:33.79",
+        "documents": [
+            {
+                "id": 32703,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Emerging_nepal_limited/Company%20News/2026-09-07/Uniform%20ISIN%20%28Nepse%29_1788757881431.pdf"
+            },
+            {
+                "id": 32704,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Emerging_nepal_limited/Company%20News/2026-09-07/ENL_ISIN%20Notice_1788757899169.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47336,
+        "symbol": "NULL",
+        "title": "Dividend Declaration of Global IME Balance Fund I",
+        "body": "Dividend Declaration of Global IME Balance Fund I\nFiscal Year: 2082-2083\nCash Dividend: 12%",
+        "source": "NEPSE",
+        "publishedAt": "2026-09-07T10:34:12.52",
+        "documents": [
+            {
+                "id": 32699,
+                "submittedDate": "2026-09-07",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gbime_user/2026-09-07/Global%20IME%20Mutual%20Fud%20-%20DividendFY%202082-83_1788756501688.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47312,
+        "symbol": "SBI",
+        "title": "Change of Director and Appointment of Independent Director of Nepal SBI Bank Ltd.",
+        "body": "Change of Director and Appointment of Independent Director of Nepal SBI Bank Ltd.",
+        "source": "Nepal SBI Bank Ltd.",
+        "publishedAt": "2026-09-03T17:20:57.74",
+        "documents": [
+            {
+                "id": 32672,
+                "submittedDate": "2026-09-03",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sbi_user/2026-09-03/NEPSE-Change%20of%20Director%20and%20Appointment%20of%20Independent%20Director%20of%20Nepal%20SBI%20Bank%20Ltd_1788435288028.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47314,
+        "symbol": "NBF2",
+        "title": "Declaration of Return on NBF2 and Information of Book Close Date",
+        "body": "Book Close of NBF2\nBook Close Date : 23/09/2026\nCash Dividend: 3.5%",
+        "source": "Letter",
+        "publishedAt": "2026-09-03T17:42:56.29",
+        "documents": [
+            {
+                "id": 32674,
+                "submittedDate": "2026-09-03",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=nabil_user/2026-09-03/Dividend%20Nepse%20MF%202082-83_1788436638099.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47317,
+        "symbol": "GBBL",
+        "title": "GBBL-  20% Dividend Declaration",
+        "body": "Dividend Declaration of GBBL\nFiscal Year: 2082-2083\nCash Dividend: 10%\nBonus Shares: 10%",
+        "source": "GBBL, Dividend Declaration",
+        "publishedAt": "2026-09-03T19:34:33.35",
+        "documents": [
+            {
+                "id": 32677,
+                "submittedDate": "2026-09-03",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=gbbl_user/2026-09-03/GBBL%20Dividend%20Declaration%20Information%20Letter_1788443241379.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47319,
+        "symbol": "SANIMA",
+        "title": "Book Close and Annual General Meeting.",
+        "body": "Annual General Meeting of SANIMA\nFiscal Year: 2082-2083\nAGM Type: AGM\nAGM Date: 9/28/2026\nAGM No: 22\nBook Close Date: 9/17/2026\nCash Dividend: 10%",
+        "source": "Board Meeting",
+        "publishedAt": "2026-09-04T14:11:34.08",
+        "documents": [
+            {
+                "id": 32679,
+                "submittedDate": "2026-09-04",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sanima_user/2026-09-04/Covering%20letter%20NEPSE_1788510351199.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47331,
+        "symbol": "SINDU",
+        "title": "Freezing of shares",
+        "body": "Request for freezing of shares of basic shareholder of the Bank.",
+        "source": "BOD meeting",
+        "publishedAt": "2026-09-06T16:43:08.06",
+        "documents": [
+            {
+                "id": 32693,
+                "submittedDate": "2026-09-06",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=sindu_user/2026-09-06/Request%20NEPSE_1788692115523.pdf"
+            }
+        ]
+    },
+    {
+        "id": 47360,
+        "symbol": "IHL",
+        "title": "Operation of Plant Unit 2 after Maintenance",
+        "source": "IHL Plant Unit 2 Start",
+        "publishedAt": "2026-09-09T10:52:39.25",
+        "documents": [
+            {
+                "id": 32721,
+                "submittedDate": "2026-09-09",
+                "fileUrl": "https://www.nepalstock.com.np/api/nots/security/fetchFiles?fileLocation=Ingwa_Hydropower_Limited/Company%20News/2026-09-09/Plant%20unit%202%20start_1788930455291.pdf"
             }
         ]
     }

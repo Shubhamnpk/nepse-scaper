@@ -1,5 +1,85 @@
 [
   {
+    "id": 1639,
+    "symbol": "NABILPNP",
+    "bonus_share": "",
+    "cash_dividend": "8.00",
+    "total_dividend": "8.00",
+    "announcement_date": "2026-09-09",
+    "bookclose_date": "",
+    "fiscal_year": "2082/2083"
+  },
+  {
+    "id": 1230,
+    "symbol": "IME",
+    "bonus_share": "",
+    "cash_dividend": "20.00",
+    "total_dividend": "20.00",
+    "announcement_date": "2026-09-09",
+    "bookclose_date": "",
+    "fiscal_year": "2082/2083"
+  },
+  {
+    "id": 1143,
+    "symbol": "KDL",
+    "bonus_share": "8.5",
+    "cash_dividend": "0.4474",
+    "total_dividend": "8.9474",
+    "announcement_date": "2026-09-09",
+    "bookclose_date": "",
+    "fiscal_year": "2082/2083"
+  },
+  {
+    "id": 847,
+    "symbol": "GBIMEL",
+    "bonus_share": "15.00",
+    "cash_dividend": "10.00",
+    "total_dividend": "25.00",
+    "announcement_date": "2026-09-09",
+    "bookclose_date": "",
+    "fiscal_year": "2082/2083"
+  },
+  {
+    "id": 431,
+    "symbol": "NABILINV",
+    "bonus_share": "10.00",
+    "cash_dividend": "11.0526",
+    "total_dividend": "21.0526",
+    "announcement_date": "2026-09-09",
+    "bookclose_date": "2026-09-24",
+    "fiscal_year": "2082/2083"
+  },
+  {
+    "id": 686,
+    "symbol": "GIBF1",
+    "bonus_share": "",
+    "cash_dividend": "12.00",
+    "total_dividend": "12.00",
+    "announcement_date": "2026-09-07",
+    "bookclose_date": "",
+    "fiscal_year": "2082/2083"
+  },
+  {
+    "id": 150,
+    "symbol": "GBBL",
+    "bonus_share": "10.00",
+    "cash_dividend": "10.00",
+    "total_dividend": "20.00",
+    "announcement_date": "2026-09-07",
+    "bookclose_date": "",
+    "fiscal_year": "2082/2083"
+  },
+  {
+    "id": 16,
+    "symbol": "NABIL",
+    "bonus_share": "5.00",
+    "cash_dividend": "10.8",
+    "total_dividend": "15.8",
+    "announcement_date": "2026-09-07",
+    "bookclose_date": "",
+    "fiscal_year": "2082/2083"
+  },
+  {
     "id": 1117,
     "symbol": "NBF3",
     "bonus_share": "",
