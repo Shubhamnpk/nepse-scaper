@@ -8,7 +8,7 @@
     "weekly_nav": 9.93,
     "weekly_nav_date": "2026-08-28",
     "monthly_nav": 10.1,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "ELIS",
@@ -19,7 +19,7 @@
     "weekly_nav": 9.48,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 9.69,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "GSYA",
@@ -30,7 +30,7 @@
     "weekly_nav": 9.61,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 9.79,
-    "scraped_at": "2026-09-10T10:02:23.368188",
+    "scraped_at": "2026-09-10T11:15:23.811019",
     "ltp": 9.64
   },
   {
@@ -42,7 +42,7 @@
     "weekly_nav": 10.92,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 11.17,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "MSIP",
@@ -50,10 +50,10 @@
     "fund_size": 353011380,
     "daily_nav": 11.49,
     "daily_nav_date": "2026-09-09",
-    "weekly_nav": 11.48,
-    "weekly_nav_date": "2026-08-28",
+    "weekly_nav": 11.45,
+    "weekly_nav_date": "2026-09-04",
     "monthly_nav": 11.68,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "NADDF",
@@ -64,7 +64,7 @@
     "weekly_nav": 9.7,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 9.96,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "NFCF",
@@ -75,7 +75,7 @@
     "weekly_nav": 9.98,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 10.32,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "NI31",
@@ -86,7 +86,7 @@
     "weekly_nav": 10.09,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 10.24,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "NIBLSF",
@@ -97,7 +97,7 @@
     "weekly_nav": 9.92,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 10.16,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "NMBSBF",
@@ -108,7 +108,7 @@
     "weekly_nav": 9.79,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 10.11,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "PSIS",
@@ -119,29 +119,29 @@
     "weekly_nav": 10.83,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 10.85,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "SFF",
     "fund_name": "Sanima Flexi Fund",
     "fund_size": 522051600,
-    "daily_nav": 10.2,
-    "daily_nav_date": "2026-09-07",
+    "daily_nav": 10.17,
+    "daily_nav_date": "2026-09-09",
     "weekly_nav": 10.33,
     "weekly_nav_date": "2026-08-21",
     "monthly_nav": 10.37,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "SLK",
     "fund_name": "Shubha Laxmi Kosh",
     "fund_size": 850650574,
-    "daily_nav": 9.82,
-    "daily_nav_date": "2026-09-07",
+    "daily_nav": 9.79,
+    "daily_nav_date": "2026-09-09",
     "weekly_nav": 9.82,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 10.05,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   },
   {
     "symbol": "SSIS",
@@ -152,6 +152,6 @@
     "weekly_nav": 10.48,
     "weekly_nav_date": "2026-09-04",
     "monthly_nav": 10.62,
-    "scraped_at": "2026-09-10T10:02:22.446342"
+    "scraped_at": "2026-09-10T11:15:22.796830"
   }
 ]

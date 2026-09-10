@@ -258,6 +258,6 @@
     "2026-09-10"
   ],
   "retention": "no-limit",
-  "latestStatus": "provisional",
-  "finalizedThrough": "2026-09-09"
+  "latestStatus": "final",
+  "finalizedThrough": "2026-09-10"
 }
